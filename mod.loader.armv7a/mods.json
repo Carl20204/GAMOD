@@ -1,0 +1,106 @@
+{
+  "version": 6,
+  "eabi": "armv7a",
+  "lastUpdate": 1695730356528,
+  "author": "Carl20204",
+  "Packages": [
+    {
+      "pkgname": "com.ea.game.pvz2_na",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.ea.game.pvz2_na/icon.png",
+      "labels": {
+        "en": "Plants Vs Zombies 2",
+        "zh": "植物大战僵尸2国际版"
+      },
+      "versions": [
+        {
+          "vercode": 820,
+          "vername": "10.8.1",
+          "urls": [
+            "https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download",
+            "https://d-e03.winudf.com/b/XAPK/Y29tLmVhLmdhbWUucHZ6Ml9yb3dfODIwXzc3NzQ1NGNl?_fn=UGxhbnRzIHZzIFpvbWJpZXPihKIgMl8xMC44LjFfQXBrcHVyZS54YXBr&_p=Y29tLmVhLmdhbWUucHZ6Ml9yb3c%3D&download_id=1370904469170886&is_hot=true&k=d8b8dea8d2d61fdb630b5c69db234f9b652194c4&uu=https%3A%2F%2Fd-13.winudf.com%2Fb%2FXAPK%2FY29tLmVhLmdhbWUucHZ6Ml9yb3dfODIwXzc3NzQ1NGNl%3Fk%3D8b6c71cf886cb11cb6948fd4cdd5b1f8652194c4"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ea.game.pvz2_na.gm",
+              "vercode": 1,
+              "lastUpdate": 1696612571157,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.ea.game.pvz2_na/vc820/com.ea.game.pvz2_na.gm.v1.mod",
+              "labels": {
+                "en": "PVZ2_GOD",
+                "zh": "PVZ2上帝模式"
+              },
+              "descs": {
+                "en": "More than 10 useful funcs",
+                "zh": "超过10项核心功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.ea.game.pvzfree_row",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.ea.game.pvzfree_row/icon.png",
+      "labels": {
+        "en": "Plants vs. Zombies FREE",
+        "zh": "植物大战僵尸1"
+      },
+      "versions": [
+        {
+          "vercode": 163,
+          "vername": "3.4.3",
+          "urls": [
+            "https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download",
+			"https://d-09.winudf.com/b/APK/Y29tLmVhLmdhbWUucHZ6ZnJlZV9yb3dfMTYzXzY4NmJkNGI3?_fn=UGxhbnRzIHZzLiBab21iaWVz4oSiXzMuNC4zX0Fwa3B1cmUuYXBr&_p=Y29tLmVhLmdhbWUucHZ6ZnJlZV9yb3c%3D&download_id=1611201795198128&is_hot=true&k=1d382bfae756055457723b92808d3975651cfeaa"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ea.game.pvzfree_row.gm",
+              "vercode": 2,
+              "lastUpdate": 1695730352483,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.ea.game.pvzfree_row/vc163/com.ea.game.pvzfree_row.gm.v2.mod",
+              "labels": {
+                "en": "PVZ1_free_god",
+                "zh": "植物大战僵尸1·GM"
+              },
+              "descs": {
+                "en": "24+ funcs",
+                "zh": "超过24项功能"
+			  }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "jp.konami.epjCastlevania2",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/jp.konami.epjCastlevania2/icon.png",
+      "labels": {
+        "en": "Castlevania: Symphony of the Night",
+        "zh": "恶魔城月下夜想曲"
+      },
+      "versions": [
+        {
+          "vercode": 39,
+          "vername": "1.0.0",
+          "urls": [
+            "https://apkaward.com/castlevania-symphony-of-the-night"
+          ],
+          "mods": [
+            {
+              "pkgname": "jp.konami.epjCastlevania2.godmod",
+              "vercode": 4,
+              "lastUpdate": 1695730340226,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/jp.konami.epjCastlevania2/vc39/jp.konami.epjCastlevania2.godmod.v4.mod",
+              "labels": {
+                "en": "CastleVania_fullmod",
+                "zh": "恶魔城手机版全能修改器"
+              },
+              "descs": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

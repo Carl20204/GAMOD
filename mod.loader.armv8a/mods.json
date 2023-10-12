@@ -1,0 +1,281 @@
+{
+  "version": 6,
+  "eabi": "armv8a",
+  "lastUpdate": 1696221886350,
+  "author": "Carl20204",
+  "Packages": [
+    {
+      "pkgname": "com.ChillyRoom.DungeonShooter",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ChillyRoom.DungeonShooter/icon.png",
+      "labels": {
+        "en": "Soul Knight",
+        "zh": "元气骑士"
+      },
+      "versions": [
+        {
+          "vercode": 50453,
+          "vername": "5.4.5",
+          "urls": [
+            "https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download",
+            "https://d-04.winudf.com/b/APK/Y29tLkNoaWxseVJvb20uRHVuZ2VvblNob290ZXJfNTA0NTNfNmFlOGY4NTU?_fn=U291bCBLbmlnaHRfNS40LjVfQXBrcHVyZS5hcGs&_p=Y29tLkNoaWxseVJvb20uRHVuZ2VvblNob290ZXI%3D&download_id=1997303566527169&is_hot=true&k=8068b3e2b12d9c18b7683b3feeb98a036528df5e"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ChillyRoom.DungeonShooter.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697090922812,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ChillyRoom.DungeonShooter/vc_full/com.ChillyRoom.DungeonShooter.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "more 20 awesome features",
+                "zh": "超过20种牛B功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.autumn.skullgirls",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.autumn.skullgirls/icon.png",
+      "labels": {
+        "en": "Skullgirls",
+        "zh": "骷髅女孩"
+      },
+      "versions": [
+        {
+          "vercode": 97,
+          "vername": "6.0.1",
+          "urls": [
+            "https://apkpure.com/skullgirls-fighting-rpg/com.autumn.skullgirls/download?utm_content=1008",
+            "https://d-10.winudf.com/b/XAPK/Y29tLmF1dHVtbi5za3VsbGdpcmxzXzk3X2QyYzlhNmE5?_fn=U2t1bGxnaXJsczogRmlnaHRpbmcgUlBHXzYuMC4xX0Fwa3B1cmUueGFwaw&_p=Y29tLmF1dHVtbi5za3VsbGdpcmxz&download_id=1370904469170886&is_hot=true&k=1440c60ab9e06c480c54b6f8966e757d6524c6a9"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.autumn.skullgirls.godmod",
+              "vercode": 1,
+              "lastUpdate": 1696822341600,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.autumn.skullgirls/vc_full/com.autumn.skullgirls.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Unlimited Battle",
+                "zh": "无限制自由格斗"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.playrix.gardenscapes",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/icon.png",
+      "labels": {
+        "en": "Gardenscapes",
+        "zh": "梦幻花园"
+      },
+      "versions": [
+        {
+          "vercode": 107350,
+          "vername": "7.3.5",
+          "urls": [
+            "https://apkpure.com/gardenscapes/com.playrix.gardenscapes/download?utm_content=1008",
+            "https://d-20.winudf.com/b/APK/Y29tLnBsYXlyaXguZ2FyZGVuc2NhcGVzXzEwNzM1MF9lMzdiMWVlMQ?_fn=R2FyZGVuc2NhcGVzXzcuMy41X0Fwa3B1cmUuYXBr&_p=Y29tLnBsYXlyaXguZ2FyZGVuc2NhcGVz&download_id=1370904469170886&is_hot=false&k=789fc8399e1e04175a7a556d5f8e3bf465219b87"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.gardenscapes.godmod",
+              "vercode": 1,
+              "lastUpdate": 1696667945734,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/vc107350/com.playrix.gardenscapes.godmod.v1.mod",
+              "labels": {
+                "en": "RICHMODE",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "lots of coin, lots of star, inf boosters",
+                "zh": "海量金币、星星、道具无限用"
+              }
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "pkgname": "com.ea.game.pvz2_na",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvz2_na/icon.png",
+      "labels": {
+        "en": "PlantsVsZombies 2",
+        "zh": "植物大战僵尸\n2【国际版】"
+      },
+      "versions": [
+        {
+          "vercode": 820,
+          "vername": "10.8.1",
+          "urls": [
+            "hhttps://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download",
+            "https://d-e03.winudf.com/b/XAPK/Y29tLmVhLmdhbWUucHZ6Ml9yb3dfODIwXzc3NzQ1NGNl?_fn=UGxhbnRzIHZzIFpvbWJpZXPihKIgMl8xMC44LjFfQXBrcHVyZS54YXBr&_p=Y29tLmVhLmdhbWUucHZ6Ml9yb3c%3D&download_id=1370904469170886&is_hot=true&k=d8b8dea8d2d61fdb630b5c69db234f9b652194c4&uu=https%3A%2F%2Fd-13.winudf.com%2Fb%2FXAPK%2FY29tLmVhLmdhbWUucHZ6Ml9yb3dfODIwXzc3NzQ1NGNl%3Fk%3D8b6c71cf886cb11cb6948fd4cdd5b1f8652194c4"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ea.game.pvz2_na.gm",
+              "vercode": 1,
+              "lastUpdate": 1696612571157,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvz2_na/vc820/com.ea.game.pvz2_na.gm.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "more 10 awesome features",
+                "zh": "超过10项牛B功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "pkgname": "com.poncle.vampiresurvivors",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.poncle.vampiresurvivors/icon.png",
+      "labels": {
+        "en": "Vampire Survivors",
+        "zh": "吸血鬼幸存者"
+      },
+      "versions": [
+        {
+          "vercode": 82,
+          "vername": "1.6.108",
+          "urls": [
+            "https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download",
+            "https://d-11.winudf.com/b/XAPK/Y29tLnBvbmNsZS52YW1waXJlc3Vydml2b3JzXzgyXzU5MWFkODRm?_fn=VmFtcGlyZSBTdXJ2aXZvcnNfMS42LjEwOF9BcGtwdXJlLnhhcGs&_p=Y29tLnBvbmNsZS52YW1waXJlc3Vydml2b3Jz&download_id=1370904469170886&is_hot=false&k=22f420f06a6a92a0b557e9c09014c19f652407f4"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.poncle.vampiresurvivors.godmod",
+              "vercode": 1,
+              "lastUpdate": 1696773554094,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.poncle.vampiresurvivors/vc_full/com.poncle.vampiresurvivors.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "more 20 awesome features",
+                "zh": "超过20种牛B功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.mars.leguas.a",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.mars.leguas.a/icon.png",
+      "labels": {
+        "en": "Mars Survivors",
+        "zh": "火星幸存者\n火星归来"
+      },
+      "versions": [
+        {
+          "vercode": 140,
+          "vername": "1.4.0",
+          "urls": [
+            "https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download",
+            "https://d-15.winudf.com/b/XAPK/Y29tLm1hcnMubGVndWFzLmFfMTQwXzJhNzc2ZDIw?_fn\u003dTWFycyBTdXJ2aXZvcnNfMS40LjBfQXBrcHVyZS54YXBr\u0026_p\u003dY29tLm1hcnMubGVndWFzLmE%3D\u0026download_id\u003d1826507426110556\u0026is_hot\u003dfalse\u0026k\u003dba7cad5f802bd52a1acbc3fb1619520f651acb77"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.mars.leguas.a.godmod",
+              "vercode": 3,
+              "lastUpdate": 1696168245321,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.mars.leguas.a/vc_full/com.mars.leguas.a.godmod.v3.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "more 15 awesome features",
+                "zh": "超过15种牛B功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "pkgname": "pl.idreams.SkyForceReloaded2016",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/pl.idreams.SkyForceReloaded2016/icon.png",
+      "labels": {
+        "en": "Sky Force Reloaded",
+        "zh": "傲气雄鹰\n重装上阵"
+      },
+      "versions": [
+        {
+          "vercode": 300222,
+          "vername": "2.01",
+          "urls": [
+            "https://apkpure.com/cn/sky-force-reloaded/pl.idreams.SkyForceReloaded2016/download",
+            "https://d-10.winudf.com/b/XAPK/cGwuaWRyZWFtcy5Ta3lGb3JjZVJlbG9hZGVkMjAxNl8zMDAyMjJfMWYyZTM2MDU?_fn=U2t5IEZvcmNlIFJlbG9hZGVkXzIuMDFfQXBrcHVyZS54YXBr&_p=cGwuaWRyZWFtcy5Ta3lGb3JjZVJlbG9hZGVkMjAxNg%3D%3D&download_id=1981601731025048&is_hot=false&k=f463ab0f8e459e06a1397e4d81cc5135651af063"
+          ],
+          "mods": [
+            {
+              "pkgname": "pl.idreams.SkyForceReloaded2016.gm",
+              "vercode": 2,
+              "lastUpdate": 1696221886351,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/pl.idreams.SkyForceReloaded2016/vc300222/pl.idreams.SkyForceReloaded2016.gm.v2.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "more 15 awesome features",
+                "zh": "超过15种牛B功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "jp.konami.epjCastlevania2",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/jp.konami.epjCastlevania2/icon.png",
+      "labels": {
+        "en": "CastleVaniaSotN",
+        "zh": "恶魔城\n月下夜想曲"
+      },
+      "versions": [
+        {
+          "vercode": 51,
+          "vername": "1.0.2",
+          "urls": [
+			"https://apkaward.com/castlevania-symphony-of-the-night",
+            "https://dl25160.apkawards.com/MoD/dl25/jp.konami.epjCastlevania2/jp.konami.epjCastlevania2_1.0.2-APK_Award.apk",
+            "https://dl25160.apkawards.com/MoD/dl25/jp.konami.epjCastlevania2/jp.konami.epjCastlevania2.zip"
+          ],
+          "mods": [
+            {
+              "pkgname": "jp.konami.epjCastlevania2.godmod",
+              "vercode": 2,
+              "lastUpdate": 1696165136924,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/jp.konami.epjCastlevania2/vc_full/jp.konami.epjCastlevania2.godmod.v2.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "more 15 awesome features",
+                "zh": "超过15种牛B功能"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

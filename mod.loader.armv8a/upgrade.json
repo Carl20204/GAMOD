@@ -1,0 +1,15 @@
+{
+  "lastUpdate": 1697095350749,
+  "vername": "1.1.1",
+  "urls": [
+    "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a.v1.apk"
+  ],
+  "vercode": 1,
+  "min_sdk_version": 21,
+  "target_sdk_version": 26,
+  "size": 3216079,
+  "logs": {
+    "en": "New version\nI want to play unlimited!\nFor fun only!",
+    "zh": "第一版庆祝一下\n 仅用于满足作者个人游戏需要，禁止商用，禁止传播"
+  }
+}
