@@ -23,14 +23,14 @@ README
 
 |游戏|支持版本|说明|
 | --------- | --------| --------|
-| [植物大战僵尸2【大陆版】](http://game.talkweb.com.cn/ "下载跳转") | 2023年09月 3.2.0|研究中...|
-| [战魂铭人【GP版】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") | 2023年09月 1.18.5|超过30种功能，与大陆版游戏包名不同，此MOD仅能运行在GP版上|
-| [元气骑士【GP版】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") | 2023年09月 5.4.5|大量功能，国内版能不能用？没试过不知道！|
-| [骷髅女孩](https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download "下载跳转") | 2023年10月 6.0.1|建议仅单机用，联机虽可使用但不建议|
-| [梦幻花园](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") | 2023年10月 7.3.5|体验土豪感觉，你看到有人刷榜的话，可能那是我|
 | [植物大战僵尸2【国际版】](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") | 2023年10月 10.8.1|超过10项功能，经典不过时|
-| [吸血鬼幸存者](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") | 2023年08月 1.6.108|超过20项功能|
+| [梦幻花园](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") | 2023年10月 7.3.5|体验土豪感觉，你看到有人刷榜的话，可能那是我|
+| [骷髅女孩](https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download "下载跳转") | 2023年10月 6.0.1|建议仅单机用，联机虽可使用但不建议|
 | [火星幸存者火星归来](https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download "下载跳转") | 2023年10月 1.4.2|超过15项功能，比吸血鬼幸存者轻量化些|
+| [植物大战僵尸2【中国版】](http://game.talkweb.com.cn/ "下载跳转") | 2023年09月 3.2.0|不说话，自己试|
+| [战魂铭人【GP版】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") | 2023年09月 1.18.5|超过30种功能，中国版与GP版包名不一样，所以此MOD仅能运行在GP版上|
+| [元气骑士【GP版】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") | 2023年09月 5.4.5|中国版与GP版包名一样能用不？没试过不知道！|
+| [吸血鬼幸存者](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") | 2023年08月 1.6.108|超过20项功能|
 | [傲气雄鹰重装上阵](https://apkpure.com/cn/sky-force-reloaded/pl.idreams.SkyForceReloaded2016/download "下载跳转") | 2023年03月 2.01|超过15项功能，作者最爱游戏之一|
 | [恶魔城月下夜想曲](https://apkaward.com/castlevania-symphony-of-the-night "下载跳转") | 2022年08月 1.0.2| 超过15项功能，作者最爱游戏之一|
 

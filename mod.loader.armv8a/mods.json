@@ -139,6 +139,39 @@
         }
       ]
     },
+    {
+      "pkgname": "com.popcap.pvz2cthdbk",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.popcap.pvz2cthdbk/icon.png",
+      "labels": {
+        "en": "PVZ2(China)",
+        "zh": "植物大战僵尸2"
+      },
+      "versions": [
+        {
+          "vercode": 1420,
+          "vername": "3.2.0",
+          "urls": [
+            "http://game.talkweb.com.cn/"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.popcap.pvz2cthdbk.gm",
+              "vercode": 1,
+              "lastUpdate": 1697186837153,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.popcap.pvz2cthdbk/vc1420/com.popcap.pvz2cthdbk.gm.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "More than 10 awesome features",
+                "zh": "超过10项牛B功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
 	{
       "pkgname": "com.ea.game.pvz2_na",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvz2_na/icon.png",
