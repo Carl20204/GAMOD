@@ -23,7 +23,8 @@ README
 
 |游戏|支持版本|说明|
 | --------- | --------| --------|
-| [战魂铭人【GP版】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") | 2023年09月 1.18.5|正在做……|
+| [植物大战僵尸2【大陆版】](http://game.talkweb.com.cn/ "下载跳转") | 2023年09月 3.2.0|研究中...|
+| [战魂铭人【GP版】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") | 2023年09月 1.18.5|超过30种功能，与大陆版游戏包名不同，此MOD仅能运行在GP版上|
 | [元气骑士【GP版】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") | 2023年09月 5.4.5|大量功能，国内版能不能用？没试过不知道！|
 | [骷髅女孩](https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download "下载跳转") | 2023年10月 6.0.1|建议仅单机用，联机虽可使用但不建议|
 | [梦幻花园](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") | 2023年10月 7.3.5|体验土豪感觉，你看到有人刷榜的话，可能那是我|
