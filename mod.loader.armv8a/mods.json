@@ -172,6 +172,39 @@
         }
       ]
     },
+    {
+      "pkgname": "com.chillyroom.xenocmd",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.xenocmd/icon.png",
+      "labels": {
+        "en": "xenocmd",
+        "zh": "异星指令"
+      },
+      "versions": [
+        {
+          "vercode": 34,
+          "vername": "1.3.10",
+          "urls": [
+            "https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.chillyroom.xenocmd.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697200258282,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.xenocmd/vc_full/com.chillyroom.xenocmd.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "More than 10 awesome features",
+                "zh": "超过10项牛B功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
 	{
       "pkgname": "com.ea.game.pvz2_na",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvz2_na/icon.png",
