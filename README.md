@@ -30,6 +30,7 @@ README
 | [梦幻花园](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") | 2023年10月 7.3.5|【中文】【GP】作者在日本区天天用MOD刷榜|
 | [骷髅女孩](https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download "下载跳转") | 2023年10月 6.0.1|【中文】【GP】开MOD暴打对手，建议仅单机用，联机被举报就属于No Zuo No Die|
 | [火星幸存者火星归来](https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download "下载跳转") | 2023年10月 1.4.2|【中文】【GP】比吸血鬼幸存者轻量化，玩起来不累，开MOD割草解压|
+| [糖果粉碎传奇](https://apkpure.com/cn/candy-crush-saga/com.king.candycrushsaga "下载跳转") | 2023年10月 1.263.1.1|【英文】【GP】休闲游戏搞那么难，逼氪就是逼我用MOD啊|
 | [貓咪大戰爭](https://apkpure.com/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download "下载跳转") | 2023年09月 12.6.1|【中文】【GP】8年了，一千多种角色哪有钱去抽，对不起只好MOD开路了|
 | [植物大战僵尸2【中国版】](http://game.talkweb.com.cn/ "下载跳转") | 2023年09月 3.2.0|【中文】手机号注册即可玩，开MOD单机刷图刷钱就行，联机被举报属于No Zuo No Die|
 | [异星指令](https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download "下载跳转") | 2023年09月 1.3.10|【中文】【GP】没元气、战魂好玩，开MOD快速通关就好了|

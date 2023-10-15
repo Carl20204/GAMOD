@@ -173,6 +173,39 @@
       ]
     },
     {
+      "pkgname": "com.king.candycrushsaga",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.king.candycrushsaga/icon.png",
+      "labels": {
+        "en": "Candy Crush Saga",
+        "zh": "糖果粉碎传奇"
+      },
+      "versions": [
+        {
+          "vercode": 12621011,
+          "vername": "1.262.1.1",
+          "urls": [
+            "https://apkpure.com/cn/candy-crush-saga/com.king.candycrushsaga",
+          ],
+          "mods": [
+            {
+              "pkgname": "com.king.candycrushsaga.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697358492667,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.king.candycrushsaga/vc12621011/com.king.candycrushsaga.godmod.v1.mod",
+              "labels": {
+                "en": "GodMode",
+                "zh": "无限道具"
+              },
+              "descs": {
+                "en": "Inf booster",
+                "zh": "无限道具：使用不减反加"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.popcap.pvz2cthdbk",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.popcap.pvz2cthdbk/icon.png",
       "labels": {
