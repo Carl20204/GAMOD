@@ -374,6 +374,39 @@
       ]
     },
     {
+      "pkgname": "com.king.candycrushjellysaga",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.king.candycrushjellysaga/icon.png",
+      "labels": {
+        "en": "Candy Crush Jelly Saga",
+        "zh": "果冻传奇"
+      },
+      "versions": [
+        {
+          "vercode": 301303004,
+          "vername": "3.13.3",
+          "urls": [
+            "https://apkpure.com/cn/candy-crush-jelly-saga/com.king.candycrushjellysaga/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.king.candycrushjellysaga.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697385974428,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.king.candycrushjellysaga/vc301303004/com.king.candycrushjellysaga.godmod.v1.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "Unlimited booster",
+                "zh": "道具使用不减"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.king.candycrushsaga",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.king.candycrushsaga/icon.png",
       "labels": {

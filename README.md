@@ -37,15 +37,12 @@ README
 | [战魂铭人【GP版】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") | 2023年09月 1.18.5|【中文】【GP】中国版与GP版游戏包名不一样，所以此MOD不能在中国版运行|
 | [元气骑士【GP版】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") | 2023年09月 5.4.5|【中文】【GP】中国版与GP版游戏包名一样，MOD也许能正常支持中国版|
 | [梦幻家园](https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download "下载跳转") | 2023年09月 6.5.2|【中文】【GP】后期不氪金玩的很累，用MOD放松一下吧|
+| [果冻传奇](https://apkpure.com/cn/candy-crush-jelly-saga/com.king.candycrushjellysaga/download "下载跳转") | 2023年09月 3.13.3|【中文】【GP】无限道具后的玩法就完全不一样了|
 | [吸血鬼幸存者](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") | 2023年08月 1.6.108|【中文】【GP】开MOD割草解压|
 | [傲气雄鹰重装上阵](https://apkpure.com/cn/sky-force-reloaded/pl.idreams.SkyForceReloaded2016/download "下载跳转") | 2023年03月 2.01|【英文】【GP】经典STG，用MOD开无双爽爆|
 | [恶魔城月下夜想曲](https://apkaward.com/castlevania-symphony-of-the-night "下载跳转") | 2022年08月 1.0.2| 【英文】【GP】官方移植，触控优化，怀旧的话不用MOD估计就没人玩了|
 
 # GAMOD32支持的32位MOD
-
-	apkpure.com是作者下载游戏的主要来源，这儿提供的是官方原版安装包，没有乱七八糟的改版。但是没有付费游戏的下载😓
-	付费游戏作者暂时用apkaward.com的安装包，这里的包是改版包，启动会弹Toast很🤢，大家有好的下载建议请留言
-	以下表格中，点击游戏名会跳转到apkpure的游戏下载详情页，请注意下载页显示的架构，下载32位游戏安装包
 
 - 含有 **armeabi-v7a** 的，表示该游戏支持 **32** 位
 
