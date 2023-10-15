@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "jp.co.ponos.battlecatstw",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/jp.co.ponos.battlecatstw/icon.png",
+      "labels": {
+        "en": "BattleCats",
+        "zh": "貓咪大戰爭"
+      },
+      "versions": [
+        {
+          "vercode": 1206010,
+          "vername": "12.6.1",
+          "urls": [
+            "https://apkpure.com/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "jp.co.ponos.battlecatstw.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697351829427,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/jp.co.ponos.battlecatstw/vc1206010/jp.co.ponos.battlecatstw.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "more than 10 awesome features",
+                "zh": "超过10种牛B功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.chillyroom.zhmr.gp",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.zhmr.gp/icon.png",
       "labels": {
