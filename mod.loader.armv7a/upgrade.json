@@ -1,13 +1,13 @@
 {
-  "lastUpdate": 1697447631716,
+  "lastUpdate": 1697447940375,
   "vername": "1.1.2",
   "urls": [
-    "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a.apk"
+    "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a.apk"
   ],
   "vercode": 2,
   "min_sdk_version": 21,
   "target_sdk_version": 26,
-  "size": 3217063,
+  "size": 2975111,
   "logs": {
     "en": "1.1.1 New version publish!\n 1.1.2 Fix minor bug, Now can play BattleCats happily.",
     "zh": "1.1.1 发第一版庆祝一下\n 1.1.2 修复一下GMS的处理，解决猫咪大战争闪退问题"
