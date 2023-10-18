@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.habby.archero",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.archero/icon.png",
+      "labels": {
+        "en": "ArchHero",
+        "zh": "弓箭传说"
+      },
+      "versions": [
+        {
+          "vercode": 1390,
+          "vername": "5.3.3",
+          "urls": [
+            "https://apkpure.com/cn/archero/com.habby.archero/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.habby.archero.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697614301485,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.archero/vc_full/com.habby.archero.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Less than 10 awesome features",
+                "zh": "不到10个牛B功能😓"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "jp.co.ponos.battlecatstw",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/jp.co.ponos.battlecatstw/icon.png",
       "labels": {
@@ -82,8 +115,7 @@
           "vercode": 50453,
           "vername": "5.4.5",
           "urls": [
-            "https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download",
-            "https://d-04.winudf.com/b/APK/Y29tLkNoaWxseVJvb20uRHVuZ2VvblNob290ZXJfNTA0NTNfNmFlOGY4NTU?_fn=U291bCBLbmlnaHRfNS40LjVfQXBrcHVyZS5hcGs&_p=Y29tLkNoaWxseVJvb20uRHVuZ2VvblNob290ZXI%3D&download_id=1997303566527169&is_hot=true&k=8068b3e2b12d9c18b7683b3feeb98a036528df5e"
+            "https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download"
           ],
           "mods": [
             {
@@ -105,6 +137,39 @@
       ]
     },
     {
+      "pkgname": "com.chillyroom.xenocmd",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.xenocmd/icon.png",
+      "labels": {
+        "en": "xenocmd",
+        "zh": "异星指令"
+      },
+      "versions": [
+        {
+          "vercode": 34,
+          "vername": "1.3.10",
+          "urls": [
+            "https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.chillyroom.xenocmd.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697200258282,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.xenocmd/vc_full/com.chillyroom.xenocmd.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "More than 10 awesome features",
+                "zh": "超过10项牛B功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.autumn.skullgirls",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.autumn.skullgirls/icon.png",
       "labels": {
@@ -116,8 +181,7 @@
           "vercode": 97,
           "vername": "6.0.1",
           "urls": [
-            "https://apkpure.com/skullgirls-fighting-rpg/com.autumn.skullgirls/download?utm_content=1008",
-            "https://d-10.winudf.com/b/XAPK/Y29tLmF1dHVtbi5za3VsbGdpcmxzXzk3X2QyYzlhNmE5?_fn=U2t1bGxnaXJsczogRmlnaHRpbmcgUlBHXzYuMC4xX0Fwa3B1cmUueGFwaw&_p=Y29tLmF1dHVtbi5za3VsbGdpcmxz&download_id=1370904469170886&is_hot=true&k=1440c60ab9e06c480c54b6f8966e757d6524c6a9"
+            "https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download"
           ],
           "mods": [
             {
@@ -150,8 +214,7 @@
           "vercode": 107350,
           "vername": "7.3.5",
           "urls": [
-            "https://apkpure.com/gardenscapes/com.playrix.gardenscapes/download?utm_content=1008",
-            "https://d-20.winudf.com/b/APK/Y29tLnBsYXlyaXguZ2FyZGVuc2NhcGVzXzEwNzM1MF9lMzdiMWVlMQ?_fn=R2FyZGVuc2NhcGVzXzcuMy41X0Fwa3B1cmUuYXBr&_p=Y29tLnBsYXlyaXguZ2FyZGVuc2NhcGVz&download_id=1370904469170886&is_hot=false&k=789fc8399e1e04175a7a556d5f8e3bf465219b87"
+            "https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download"
           ],
           "mods": [
             {
@@ -176,7 +239,7 @@
       "pkgname": "com.playrix.homescapes",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.homescapes/icon.png",
       "labels": {
-        "en": "梦幻家园",
+        "en": "HomeScapes",
         "zh": "梦幻家园"
       },
       "versions": [
@@ -238,39 +301,6 @@
         }
       ]
     },
-    {
-      "pkgname": "com.chillyroom.xenocmd",
-      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.xenocmd/icon.png",
-      "labels": {
-        "en": "xenocmd",
-        "zh": "异星指令"
-      },
-      "versions": [
-        {
-          "vercode": 34,
-          "vername": "1.3.10",
-          "urls": [
-            "https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download"
-          ],
-          "mods": [
-            {
-              "pkgname": "com.chillyroom.xenocmd.godmod",
-              "vercode": 1,
-              "lastUpdate": 1697200258282,
-              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.xenocmd/vc_full/com.chillyroom.xenocmd.godmod.v1.mod",
-              "labels": {
-                "en": "GODMODE",
-                "zh": "上帝模式"
-              },
-              "descs": {
-                "en": "More than 10 awesome features",
-                "zh": "超过10项牛B功能"
-              }
-            }
-          ]
-        }
-      ]
-    },
 	{
       "pkgname": "com.ea.game.pvz2_na",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvz2_na/icon.png",
@@ -280,11 +310,33 @@
       },
       "versions": [
         {
+          "vercode": 826,
+          "vername": "10.9.1",
+          "urls": [
+            "hhttps://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ea.game.pvz2_na.gm",
+              "vercode": 2,
+              "lastUpdate": 1697621596402,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvz2_na/vc826/com.ea.game.pvz2_na.gm.v2.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "More_than_10_useful_funcs",
+                "zh": "超过10种牛B功能"
+              }
+            }
+          ]
+        },
+        {
           "vercode": 820,
           "vername": "10.8.1",
           "urls": [
-            "hhttps://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download",
-            "https://d-e03.winudf.com/b/XAPK/Y29tLmVhLmdhbWUucHZ6Ml9yb3dfODIwXzc3NzQ1NGNl?_fn=UGxhbnRzIHZzIFpvbWJpZXPihKIgMl8xMC44LjFfQXBrcHVyZS54YXBr&_p=Y29tLmVhLmdhbWUucHZ6Ml9yb3c%3D&download_id=1370904469170886&is_hot=true&k=d8b8dea8d2d61fdb630b5c69db234f9b652194c4&uu=https%3A%2F%2Fd-13.winudf.com%2Fb%2FXAPK%2FY29tLmVhLmdhbWUucHZ6Ml9yb3dfODIwXzc3NzQ1NGNl%3Fk%3D8b6c71cf886cb11cb6948fd4cdd5b1f8652194c4"
+            "hhttps://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download"
           ],
           "mods": [
             {
@@ -317,8 +369,7 @@
           "vercode": 82,
           "vername": "1.6.108",
           "urls": [
-            "https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download",
-            "https://d-11.winudf.com/b/XAPK/Y29tLnBvbmNsZS52YW1waXJlc3Vydml2b3JzXzgyXzU5MWFkODRm?_fn=VmFtcGlyZSBTdXJ2aXZvcnNfMS42LjEwOF9BcGtwdXJlLnhhcGs&_p=Y29tLnBvbmNsZS52YW1waXJlc3Vydml2b3Jz&download_id=1370904469170886&is_hot=false&k=22f420f06a6a92a0b557e9c09014c19f652407f4"
+            "https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download"
           ],
           "mods": [
             {
@@ -351,8 +402,7 @@
           "vercode": 140,
           "vername": "1.4.0",
           "urls": [
-            "https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download",
-            "https://d-15.winudf.com/b/XAPK/Y29tLm1hcnMubGVndWFzLmFfMTQwXzJhNzc2ZDIw?_fn\u003dTWFycyBTdXJ2aXZvcnNfMS40LjBfQXBrcHVyZS54YXBr\u0026_p\u003dY29tLm1hcnMubGVndWFzLmE%3D\u0026download_id\u003d1826507426110556\u0026is_hot\u003dfalse\u0026k\u003dba7cad5f802bd52a1acbc3fb1619520f651acb77"
+            "https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download"
           ],
           "mods": [
             {
@@ -451,8 +501,7 @@
           "vercode": 300222,
           "vername": "2.01",
           "urls": [
-            "https://apkpure.com/cn/sky-force-reloaded/pl.idreams.SkyForceReloaded2016/download",
-            "https://d-10.winudf.com/b/XAPK/cGwuaWRyZWFtcy5Ta3lGb3JjZVJlbG9hZGVkMjAxNl8zMDAyMjJfMWYyZTM2MDU?_fn=U2t5IEZvcmNlIFJlbG9hZGVkXzIuMDFfQXBrcHVyZS54YXBr&_p=cGwuaWRyZWFtcy5Ta3lGb3JjZVJlbG9hZGVkMjAxNg%3D%3D&download_id=1981601731025048&is_hot=false&k=f463ab0f8e459e06a1397e4d81cc5135651af063"
+            "https://apkpure.com/cn/sky-force-reloaded/pl.idreams.SkyForceReloaded2016/download"
           ],
           "mods": [
             {
@@ -485,7 +534,7 @@
           "vercode": 51,
           "vername": "1.0.2",
           "urls": [
-			"https://apkaward.com/castlevania-symphony-of-the-night",
+			      "https://apkaward.com/castlevania-symphony-of-the-night",
             "https://dl25160.apkawards.com/MoD/dl25/jp.konami.epjCastlevania2/jp.konami.epjCastlevania2_1.0.2-APK_Award.apk",
             "https://dl25160.apkawards.com/MoD/dl25/jp.konami.epjCastlevania2/jp.konami.epjCastlevania2.zip"
           ],
