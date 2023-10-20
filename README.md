@@ -51,6 +51,7 @@ README
 
 |游戏更新时间|游戏下载链接|MOD匹配版本|备注说明|
 | ----------- | --------- | --------| --------|
+|2023.7.5| [暖雪](https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=46978&pack.id=46891961 "下载跳转") | 【通用】2.1.1| 纯搬运，要不要出64位版本呢？|
 |2023.8.11| [植物大战僵尸1【GP】](https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download "下载跳转") | 【专用】3.4.3| 用上MOD童年才完美|
 |2023.10| [植物大战僵尸2【GP】](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") |【专用】10.8.1|建议玩64位版本，性能比32位版本要好，MOD功能是一样的|
 |2022.x| 恶魔城月下夜想曲【GP】 | 【通用】1.0.0| 游戏链接找不到了，玩64位的1.0.2版本吧|

@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.bilibili.warmsnow.aligames",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.bilibili.warmsnow.aligames/icon.png",
+      "labels": {
+        "en": "WarmSnow",
+        "zh": "暖雪"
+      },
+      "versions": [
+        {
+          "vercode": 32,
+          "vername": "2.1.1",
+          "urls": [
+            "https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=46978&pack.id=46891961"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.bilibili.warmsnow.gm",
+              "vercode": 1,
+              "lastUpdate": 1697770333671,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.bilibili.warmsnow.aligames/vc_full/com.bilibili.warmsnow.gm.v1.mod",
+              "labels": {
+                "en": "godmod",
+                "zh": "暖雪GM"
+              },
+              "descs": {
+                "en": "VeryGood",
+                "zh": "搬运来的"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.ea.game.pvz2_na",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.ea.game.pvz2_na/icon.png",
       "labels": {
