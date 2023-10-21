@@ -5,6 +5,36 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.leiting.lostcastle.aligames",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.leiting.lostcastle.aligames/icon.png",
+      "labels": {
+        "zh": "失落城堡"
+      },
+      "versions": [
+        {
+          "vercode": 120,
+          "vername": "1.15.0.220",
+          "urls": [
+            "https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=235275&pack.id=48553417"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.leiting.lostcastle.gm",
+              "vercode": 1,
+              "lastUpdate": 1697856683776,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.leiting.lostcastle.aligames/vc_full/com.leiting.lostcastle.gm.v1.mod",
+              "labels": {
+                "zh": "城堡GM"
+              },
+              "descs": {
+                "zh": "失落啊失落"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.bilibili.warmsnow.aligames",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.bilibili.warmsnow.aligames/icon.png",
       "labels": {
