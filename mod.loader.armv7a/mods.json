@@ -136,6 +136,53 @@
       ]
     },
     {
+      "pkgname": "com.rawfury.kingdom2crowns",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.rawfury.kingdom2crowns/icon.png",
+      "labels": {
+        "en": "Kingdom Two Crowns",
+        "zh": "王国：两位君主"
+      },
+      "versions": [
+        {
+          "vercode": 17388,
+          "vername": "1.1.19",
+          "urls": [
+            "https://apkaward.com/kingdom-two-crowns"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.rawfury.kingdom2crowns.gm",
+              "vercode": 1,
+              "lastUpdate": 1698033870667,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.rawfury.kingdom2crowns/vc_full/com.rawfury.kingdom2crowns.gm.v1.mod",
+              "labels": {
+                "en": "上帝模式",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "12项修改器",
+                "zh": "12项修改器"
+              }
+            },
+            {
+              "pkgname": "com.gameassist.plugin.com.rawfury.kingdom2crowns",
+              "vercode": 1,
+              "lastUpdate": 1698033633676,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.rawfury.kingdom2crowns/vc_full/com.gameassist.plugin.com.rawfury.kingdom2crowns.v1.mod",
+              "labels": {
+                "en": "GOD MODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "More than 10 awesome features",
+                "zh": "12项修改器"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "jp.konami.epjCastlevania2",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/jp.konami.epjCastlevania2/icon.png",
       "labels": {
