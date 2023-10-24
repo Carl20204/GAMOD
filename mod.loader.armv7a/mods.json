@@ -68,6 +68,39 @@
       ]
     },
     {
+      "pkgname": "com.bscotch.crashlands",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.bscotch.crashlands/icon.png",
+      "labels": {
+        "en": "Crashlands",
+        "zh": "崩溃大陆"
+      },
+      "versions": [
+        {
+          "vercode": 100000119,
+          "vername": "100.0.119",
+          "urls": [
+            "https://apkaward.com/crashlands"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.bscotch.crashlands.gm",
+              "vercode": 1,
+              "lastUpdate": 1698163203641,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.bscotch.crashlands/vc100000119/com.bscotch.crashlands.gm.v1.mod",
+              "labels": {
+                "en": "GOD MODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "awesome!!!",
+                "zh": "超牛B的MOD"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.ea.game.pvz2_na",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.ea.game.pvz2_na/icon.png",
       "labels": {
