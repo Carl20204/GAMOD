@@ -37,6 +37,7 @@ README
 |2023.9.26| [元气骑士【GP】【中文】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |【通用】5.4.5|凉屋出品，中国版与GP版游戏包名一样，MOD也许能正常支持中国版，没试过中国版本|
 |2023.9.27| [异星指令【GP】【中文】](https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download "下载跳转") |【通用】1.3.10| 凉屋出品的小品游戏，喜欢凉屋风格的可以试一下|
 |2023.10.10| [篝火2·未知海岸【GP】【中文】](https://apkpure.com/cn/the-bonfire-2-uncharted-shores/com.xigmaGames.thebonfire2/download "下载跳转") |【通用】189.0.4||
+|2023.10.11| [篝火1·被遗忘的土地【GP】【中文】](https://apkpure.com/cn/the-bonfire-forsaken-lands/com.xigmagames.thebonfireFL/download "下载跳转") |【通用】2.9|MOD自动开启完整版|
 |2023.10.9| [梦幻花园【GP】【中文】](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") |【专用】7.3.5|刷各种小排行榜用吧|
 |2023.9.28| [梦幻家园【GP】【中文】](https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download "下载跳转") |【专用】6.5.2| 刷各种小排行榜用吧|
 |2023.10.4| [骷髅女孩【GP】【中文】](https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download "下载跳转") |【通用】6.0.1| MOD单机刷剧情刷道具玩就好了，别联机对战|

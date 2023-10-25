@@ -236,6 +236,39 @@
       ]
     },
     {
+      "pkgname": "com.xigmagames.thebonfireFL",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.xigmagames.thebonfireFL/icon.png",
+      "labels": {
+        "en": "The Bonfire",
+        "zh": "篝火1·被遗忘的土地"
+      },
+      "versions": [
+        {
+          "vercode": 99,
+          "vername": "2.9",
+          "urls": [
+            "https://apkpure.com/cn/the-bonfire-forsaken-lands/com.xigmagames.thebonfireFL/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.xigmagames.thebonfireFL.gm",
+              "vercode": 1,
+              "lastUpdate": 1698246266048,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.xigmagames.thebonfireFL/vc_full/com.xigmagames.thebonfireFL.gm.v1.mod",
+              "labels": {
+                "en": "GOD MODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "AWESOME",
+                "zh": "全能修改"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.playrix.gardenscapes",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/icon.png",
       "labels": {
