@@ -203,6 +203,39 @@
       ]
     },
     {
+      "pkgname": "com.xigmaGames.thebonfire2",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.xigmaGames.thebonfire2/icon.png",
+      "labels": {
+        "en": "TheBonfire2",
+        "zh": "篝火2·未知海岸"
+      },
+      "versions": [
+        {
+          "vercode": 450,
+          "vername": "189.0.4",
+          "urls": [
+            "https://apkpure.com/cn/the-bonfire-2-uncharted-shores/com.xigmaGames.thebonfire2/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.xigmaGames.thebonfire2.gm",
+              "vercode": 1,
+              "lastUpdate": 1698228665403,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.xigmaGames.thebonfire2/vc_full/com.xigmaGames.thebonfire2.gm.v1.mod",
+              "labels": {
+                "en": "GOD MODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "awesome",
+                "zh": "全能修改"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.playrix.gardenscapes",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/icon.png",
       "labels": {

@@ -36,6 +36,7 @@ README
 |2023.9.21| [战魂铭人【GP】【中文】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") |【通用】1.18.5|凉屋出品，中国版与GP版游戏包名不一样，所以此MOD不能在中国版运行|
 |2023.9.26| [元气骑士【GP】【中文】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |【通用】5.4.5|凉屋出品，中国版与GP版游戏包名一样，MOD也许能正常支持中国版，没试过中国版本|
 |2023.9.27| [异星指令【GP】【中文】](https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download "下载跳转") |【通用】1.3.10| 凉屋出品的小品游戏，喜欢凉屋风格的可以试一下|
+|2023.10.10| [篝火2·未知海岸【GP】【中文】](https://apkpure.com/cn/the-bonfire-2-uncharted-shores/com.xigmaGames.thebonfire2/download "下载跳转") |【通用】189.0.4||
 |2023.10.9| [梦幻花园【GP】【中文】](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") |【专用】7.3.5|刷各种小排行榜用吧|
 |2023.9.28| [梦幻家园【GP】【中文】](https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download "下载跳转") |【专用】6.5.2| 刷各种小排行榜用吧|
 |2023.10.4| [骷髅女孩【GP】【中文】](https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download "下载跳转") |【通用】6.0.1| MOD单机刷剧情刷道具玩就好了，别联机对战|
@@ -56,7 +57,7 @@ README
 |2023.8.11| [植物大战僵尸1【GP】](https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download "下载跳转") | 【专用】3.4.3| 用上MOD童年才完美|
 |2023.10| [植物大战僵尸2【GP】](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") |【专用】10.8.1|建议玩64位版本，性能比32位版本要好，MOD功能是一样的|
 |2023.2.23| [王国：两位君主【GP】](https://apkaward.com/kingdom-two-crowns "下载跳转") |【通用】1.1.19b|此链接的安装包只有32位，带启动Toast广告，解锁了DLC（还是建议用原版安装包配MOD，玩着最舒服）|
-|2022.4.27| [崩溃大陆](https://apkaward.com/crashlands "下载跳转") | 【通用】100.0.119| 经典游戏，搭配经典MOD，完美|
+|2022.4.27| [崩溃大陆【GP】【中文】](https://apkaward.com/crashlands "下载跳转") | 【通用】100.0.119| 经典游戏，搭配经典MOD，完美|
 |2022.x| 恶魔城月下夜想曲【GP】 | 【通用】1.0.0| 游戏链接找不到了，玩64位的1.0.2版本吧|
 
 **** 
