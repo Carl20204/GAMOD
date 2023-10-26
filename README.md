@@ -27,6 +27,7 @@ README
 - **【中文】** 标签，表示启动中文或设置里可以调为中文显示；
 - **【通用】** 标签，说明该MOD为通用型，只要游戏不做大变动，就所有版本通吃
 - **【专用】** 标签，说明MOD为针对游戏指定版本专用，每次游戏升级都要做针对性调整
+- ** 部分游戏同时有32位/64位版本MOD，说明作者手机运行64或32位时出现过闪退现象，出另一个版本防止兼容性问题。如果你玩64位版本闪退，可以换32位版本玩 **
 
 |游戏更新时间|游戏下载链接|MOD匹配版本|备注说明|
 | ----------- | --------- | --------| --------|
@@ -34,7 +35,7 @@ README
 |2023.10.17| [植物大战僵尸2【GP】](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") | 【专用】10.9.1| ea氪金太狠，不用MOD把200植物升满级简直不可能|
 |2023.9.22| [植物大战僵尸2【中国版】【中文】](http://game.talkweb.com.cn/ "下载跳转") |【专用】3.2.0| 手机号注册就能玩了，没做身份证实名认证，是我眼花了吗？|
 |2023.9.21| [战魂铭人【GP】【中文】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") |【通用】1.18.5|凉屋出品，中国版与GP版游戏包名不一样，所以此MOD不能在中国版运行|
-|2023.9.26| [元气骑士【GP】【中文】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |【通用】5.4.5|凉屋出品，中国版与GP版游戏包名一样，MOD也许能正常支持中国版，没试过中国版本|
+|2023.10.26| [元气骑士【GP】【中文】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |【通用】5.4.8|凉屋出品，游戏闪退的话可以试试32位版本，兼容性不太一样|
 |2023.9.27| [异星指令【GP】【中文】](https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download "下载跳转") |【通用】1.3.10| 凉屋出品的小品游戏，喜欢凉屋风格的可以试一下|
 |2023.10.10| [篝火2·未知海岸【GP】【中文】](https://apkpure.com/cn/the-bonfire-2-uncharted-shores/com.xigmaGames.thebonfire2/download "下载跳转") |【通用】189.0.4||
 |2023.10.11| [篝火1·被遗忘的土地【GP】【中文】](https://apkpure.com/cn/the-bonfire-forsaken-lands/com.xigmagames.thebonfireFL/download "下载跳转") |【通用】2.9|MOD自动开启完整版|
@@ -53,6 +54,7 @@ README
 
 |游戏更新时间|游戏下载链接|MOD匹配版本|备注说明|
 | ----------- | --------- | --------| --------|
+|2023.10.26| [元气骑士【GP】【中文】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |【通用】5.4.8|凉屋出品，中国版与GP版游戏包名一样，MOD也许能正常支持中国版，没试过中国版本|
 |2023.10.21| [失落城堡](https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=235275&pack.id=48553417 "下载跳转") | 【通用】1.15.0.220| 搬运+修复，要不要出64位版本呢？要不要补全呢？|
 |2023.7.5| [暖雪](https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=46978&pack.id=46891961 "下载跳转") | 【通用】2.1.1| 纯搬运，要不要出64位版本呢？|
 |2023.8.11| [植物大战僵尸1【GP】](https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download "下载跳转") | 【专用】3.4.3| 用上MOD童年才完美|

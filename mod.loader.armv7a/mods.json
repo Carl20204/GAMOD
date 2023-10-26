@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.ChillyRoom.DungeonShooter",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.ChillyRoom.DungeonShooter/icon.png",
+      "labels": {
+        "en": "Soul Knight",
+        "zh": "元气骑士"
+      },
+      "versions": [
+        {
+          "vercode": 50480,
+          "vername": "5.4.8",
+          "urls": [
+            "https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ChillyRoom.DungeonShooter.godmod",
+              "vercode": 1,
+              "lastUpdate": 1698325078397,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.ChillyRoom.DungeonShooter/vc_full/com.ChillyRoom.DungeonShooter.godmod.v1.mod",
+              "labels": {
+                "en": "GOD MODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "AWESOME",
+                "zh": "超牛一堆功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.leiting.lostcastle.aligames",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a/com.leiting.lostcastle.aligames/icon.png",
       "labels": {
