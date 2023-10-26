@@ -27,41 +27,42 @@ README
 - **【中文】** 标签，表示启动中文或设置里可以调为中文显示；
 - **【通用】** 标签，说明该MOD为通用型，只要游戏不做大变动，就所有版本通吃
 - **【专用】** 标签，说明MOD为针对游戏指定版本专用，每次游戏升级都要做针对性调整
-- ** 部分游戏同时有32位/64位版本MOD，说明作者手机运行64或32位时出现过闪退现象，出另一个版本防止兼容性问题。如果你玩64位版本闪退，可以换32位版本玩 **
+- **部分游戏同时有32位/64位版本MOD，说明作者手机运行64或32位时出现过闪退现象，出另一个版本防止兼容性问题。如果你玩64位版本闪退，可以换32位版本玩**
 
-|游戏更新时间|游戏下载链接|MOD匹配版本|备注说明|
-| ----------- | --------- | --------| --------|
-|2023.10.17| [弓箭传说【GP】](https://apkpure.com/cn/archero/com.habby.archero/download "下载跳转") |【通用】5.3.3| habby出品，引爆了此类肉鸽玩法|
-|2023.10.17| [植物大战僵尸2【GP】](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") | 【专用】10.9.1| ea氪金太狠，不用MOD把200植物升满级简直不可能|
-|2023.9.22| [植物大战僵尸2【中国版】【中文】](http://game.talkweb.com.cn/ "下载跳转") |【专用】3.2.0| 手机号注册就能玩了，没做身份证实名认证，是我眼花了吗？|
-|2023.9.21| [战魂铭人【GP】【中文】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") |【通用】1.18.5|凉屋出品，中国版与GP版游戏包名不一样，所以此MOD不能在中国版运行|
-|2023.10.26| [元气骑士【GP】【中文】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |【通用】5.4.8|凉屋出品，游戏闪退的话可以试试32位版本，兼容性不太一样|
-|2023.9.27| [异星指令【GP】【中文】](https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download "下载跳转") |【通用】1.3.10| 凉屋出品的小品游戏，喜欢凉屋风格的可以试一下|
-|2023.10.10| [篝火2·未知海岸【GP】【中文】](https://apkpure.com/cn/the-bonfire-2-uncharted-shores/com.xigmaGames.thebonfire2/download "下载跳转") |【通用】189.0.4||
-|2023.10.11| [篝火1·被遗忘的土地【GP】【中文】](https://apkpure.com/cn/the-bonfire-forsaken-lands/com.xigmagames.thebonfireFL/download "下载跳转") |【通用】2.9|MOD自动开启完整版|
-|2023.10.9| [梦幻花园【GP】【中文】](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") |【专用】7.3.5|刷各种小排行榜用吧|
-|2023.9.28| [梦幻家园【GP】【中文】](https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download "下载跳转") |【专用】6.5.2| 刷各种小排行榜用吧|
-|2023.10.4| [骷髅女孩【GP】【中文】](https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download "下载跳转") |【通用】6.0.1| MOD单机刷剧情刷道具玩就好了，别联机对战|
-|2023.9.27| [貓咪大戰爭【GP】【中文】](https://apkpure.com/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download "下载跳转") |【专用】12.6.1|卡池有大几百了吧？不氪金怎么收集？ |
-|2023.9.1| [果冻传奇【GP】【中文】](https://apkpure.com/cn/candy-crush-jelly-saga/com.king.candycrushjellysaga/download "下载跳转") |【专用】3.13.3| 暴雪收购的King出品，难度超高，不氪金怎么玩？|
-|2023.10.12| [糖果粉碎传奇【GP】](https://apkpure.com/cn/candy-crush-saga/com.king.candycrushsaga "下载跳转") |【专用】1.263.1.1| 暴雪收购的King发家之作，不氪金难度太大|
-|2023.8.30| [吸血鬼幸存者【GP】【中文】](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") |【通用】1.6.108|引爆了幸存者玩法，只是作为恶魔城月下夜想曲的同人作品，画面不如后来者优秀|
-|2023.10.9| [火星幸存者火星归来【GP】【中文】](https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download "下载跳转") |【通用】1.4.2|吸血鬼幸存者like类型，画面舒服了不少，隐藏要素没有吸血鬼多，但玩起来不累|
-|2023.3.16| [傲气雄鹰重装上阵【GP】](https://apkpure.com/cn/sky-force-reloaded/pl.idreams.SkyForceReloaded2016/download "下载跳转") |【专用】2.01| 从塞班S60时代走来的经典系列STG，用MOD开无双玩爽爆，童年必玩啊|
-|2022.8.23| [恶魔城月下夜想曲【GP】](https://apkaward.com/castlevania-symphony-of-the-night "下载跳转") |【专用】1.0.2| 官方移植，触控优化，怀旧的话不用MOD估计就没人玩了|
+|游戏更新时间|语言|游戏下载链接|MOD匹配版本|备注说明|
+| ----------- | --------- | --------- | --------| --------|
+|2023.10.26|中文|[元气骑士【GP】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |【通用】5.4.8|64位闪退可以用32位版本，多少年了，你的童年还在不？|
+|2023.10.25|中文|[哥布林弹球【GP】](https://apkpure.com/cn/peglin-a-pachinko-roguelike/com.RedNexusGamesInc.Peglin/download "下载跳转") |0.9.34|杀戮尖塔的爬塔肉鸽游戏，玩法很不错|
+|2023.10.17|中文|[弓箭传说【GP】](https://apkpure.com/cn/archero/com.habby.archero/download "下载跳转") |【通用】5.3.3| habby出品，引爆了此类肉鸽玩法|
+|2023.10.17|英文|[植物大战僵尸2【GP】](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") | 【专用】10.9.1| EA氪金太狠，不用MOD想把全植物收集全升满级简直不可能|
+|2023.10.12|英文|[糖果粉碎传奇【GP】](https://apkpure.com/cn/candy-crush-saga/com.king.candycrushsaga "下载跳转") |【专用】1.263.1.1| 暴雪收购的King发家之作，不氪金难度太大|
+|2023.10.11|中文|[篝火1·被遗忘的土地【GP】](https://apkpure.com/cn/the-bonfire-forsaken-lands/com.xigmagames.thebonfireFL/download "下载跳转") |【通用】2.9|MOD自动开启完整版|
+|2023.10.10|中文|[篝火2·未知海岸【GP】](https://apkpure.com/cn/the-bonfire-2-uncharted-shores/com.xigmaGames.thebonfire2/download "下载跳转") |【通用】189.0.4||
+|2023.10.9|中文|[火星幸存者火星归来【GP】](https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download "下载跳转") |【通用】1.4.2|吸血鬼幸存者like类型，画面舒服了不少，隐藏要素没有吸血鬼多，但玩起来不累|
+|2023.10.9|中文|[梦幻花园【GP】](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") |【专用】7.3.5|刷各种小排行榜用吧|
+|2023.10.4|中文|[骷髅女孩【GP】](https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download "下载跳转") |【通用】6.0.1| MOD单机刷剧情刷道具玩就好了，别联机对战|
+|2023.9.28|中文|[梦幻家园【GP】](https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download "下载跳转") |【专用】6.5.2| 刷各种小排行榜用吧|
+|2023.9.27|中文|[貓咪大戰爭【GP】](https://apkpure.com/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download "下载跳转") |【专用】12.6.1|卡池有大几百了吧？不氪金怎么收集？ |
+|2023.9.27|中文|[异星指令【GP】](https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download "下载跳转") |【通用】1.3.10| 凉屋出品的手机版RTS，和《钢铁陆战队》类似，有空把这个MOD也出一下|
+|2023.9.22|中文|[植物大战僵尸2](http://game.talkweb.com.cn/ "下载跳转") |【专用】3.2.0| 中国大陆版本，但是手机号注册就能玩了，没做实名认证，是我眼花了吗？|
+|2023.9.21|中文|[战魂铭人【GP】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") |【通用】1.18.5|凉屋出品，比元气骑士好玩，但是热度没有带童年滤镜的元气火|
+|2023.9.1|中文|[果冻传奇【GP】](https://apkpure.com/cn/candy-crush-jelly-saga/com.king.candycrushjellysaga/download "下载跳转") |【专用】3.13.3| 暴雪收购的King出品，难度超高，不氪金怎么玩？|
+|2023.8.30|中文|[吸血鬼幸存者【GP】](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") |【通用】1.6.108|引爆了幸存者玩法，只是作为恶魔城月下夜想曲的同人作品，画面不如后来者优秀|
+|2023.3.16|英文|[傲气雄鹰重装上阵【GP】](https://apkpure.com/cn/sky-force-reloaded/pl.idreams.SkyForceReloaded2016/download "下载跳转") |【专用】2.01| 从塞班S60时代走来的经典系列STG，用MOD开无双玩爽爆，童年必玩啊|
+|2022.8.23|英文|[恶魔城月下夜想曲【GP】](https://apkaward.com/castlevania-symphony-of-the-night "下载跳转") |【专用】1.0.2| 官方移植，触控优化，怀旧的话不用MOD估计就没人玩了|
 
 # GAMOD32支持的32位MOD
 
-|游戏更新时间|游戏下载链接|MOD匹配版本|备注说明|
-| ----------- | --------- | --------| --------|
-|2023.10.26| [元气骑士【GP】【中文】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |【通用】5.4.8|凉屋出品，中国版与GP版游戏包名一样，MOD也许能正常支持中国版，没试过中国版本|
-|2023.10.21| [失落城堡](https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=235275&pack.id=48553417 "下载跳转") | 【通用】1.15.0.220| 搬运+修复，要不要出64位版本呢？要不要补全呢？|
-|2023.7.5| [暖雪](https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=46978&pack.id=46891961 "下载跳转") | 【通用】2.1.1| 纯搬运，要不要出64位版本呢？|
-|2023.8.11| [植物大战僵尸1【GP】](https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download "下载跳转") | 【专用】3.4.3| 用上MOD童年才完美|
-|2023.10| [植物大战僵尸2【GP】](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") |【专用】10.8.1|建议玩64位版本，性能比32位版本要好，MOD功能是一样的|
-|2023.2.23| [王国：两位君主【GP】](https://apkaward.com/kingdom-two-crowns "下载跳转") |【通用】1.1.19b|此链接的安装包只有32位，带启动Toast广告，解锁了DLC（还是建议用原版安装包配MOD，玩着最舒服）|
-|2022.4.27| [崩溃大陆【GP】【中文】](https://apkaward.com/crashlands "下载跳转") | 【通用】100.0.119| 经典游戏，搭配经典MOD，完美|
-|2022.x| 恶魔城月下夜想曲【GP】 | 【通用】1.0.0| 游戏链接找不到了，玩64位的1.0.2版本吧|
+|游戏更新时间|语言|游戏下载链接|MOD匹配版本|备注说明|
+| ----------- | --------- | --------- | --------| --------|
+|2023.10.26|中文|[元气骑士【GP】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |【通用】5.4.8|凉屋出品，中国版与GP版游戏包名一样，MOD也许能正常支持中国版，没试过中国版本|
+|2023.10.21|中文|[失落城堡](https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=235275&pack.id=48553417 "下载跳转") | 【通用】1.15.0.220| 搬运+修复，要不要出64位版本呢？要不要补全呢？|
+|2023.10|英文|[植物大战僵尸2【GP】](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") |【专用】10.8.1|建议玩64位版本，性能比32位版本要好，MOD功能是一样的|
+|2023.8.11|英文|[植物大战僵尸1【GP】](https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download "下载跳转") | 【专用】3.4.3| 用上MOD童年才完美|
+|2023.7.5|中文|[暖雪](https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=46978&pack.id=46891961 "下载跳转") | 【通用】2.1.1| 纯搬运，要不要出64位版本呢？|
+|2023.2.23|中文|[王国：两位君主【GP】](https://apkaward.com/kingdom-two-crowns "下载跳转") |【通用】1.1.19b|此链接的安装包只有32位，带启动Toast广告，解锁了DLC（还是建议用原版安装包配MOD，玩着最舒服）|
+|2022.4.27|中文|[崩溃大陆【GP】](https://apkaward.com/crashlands "下载跳转") | 【通用】100.0.119| 经典游戏，搭配经典MOD，完美|
+|2022.x|英文|恶魔城月下夜想曲【GP】 | 【通用】1.0.0| 游戏链接找不到了，玩64位的1.0.2版本吧|
 
 **** 
 

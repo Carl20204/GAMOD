@@ -203,6 +203,39 @@
       ]
     },
     {
+      "pkgname": "com.RedNexusGamesInc.Peglin",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.RedNexusGamesInc.Peglin/icon.png",
+      "labels": {
+        "en": "Peglin",
+        "zh": "哥布林弹球"
+      },
+      "versions": [
+        {
+          "vercode": 31,
+          "vername": "0.9.34",
+          "urls": [
+            "https://apkpure.com/cn/peglin-a-pachinko-roguelike/com.RedNexusGamesInc.Peglin/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.RedNexusGamesInc.Peglin.gm",
+              "vercode": 1,
+              "lastUpdate": 1698333919934,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.RedNexusGamesInc.Peglin/vc_full/com.RedNexusGamesInc.Peglin.gm.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "超级模式"
+              },
+              "descs": {
+                "en": "FullGame+awesome feature",
+                "zh": "完整版+必备功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.xigmaGames.thebonfire2",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.xigmaGames.thebonfire2/icon.png",
       "labels": {
