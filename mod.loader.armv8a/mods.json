@@ -431,6 +431,39 @@
             }
           ]
         },
+    {
+      "pkgname": "com.ea.game.pvzfree_row",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvzfree_row/icon.png",
+      "labels": {
+        "en": "Plants vs. Zombies FREE",
+        "zh": "植物大战僵尸【国际版】"
+      },
+      "versions": [
+        {
+          "vercode": 163,
+          "vername": "3.4.3",
+          "urls": [
+            "https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ea.game.pvzfree_row.gm64",
+              "vercode": 3,
+              "lastUpdate": 1698389635528,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvzfree_row/vc163/com.ea.game.pvzfree_row.gm64.v3.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "AWESOME",
+                "zh": "完美童年必备"
+              }
+            }
+          ]
+        }
+      ]
+    },
         {
           "vercode": 820,
           "vername": "10.8.1",

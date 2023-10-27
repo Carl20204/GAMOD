@@ -18,7 +18,7 @@ README
 
 只要将.mod文件放在手机存储卡的 **/ggtest/plugin/** 这个开发目录中，GG大玩家就能自动识别。
 
-有人问植物大战僵尸2为啥不行？那是因为GG大玩家缺省支持的是32位版本，这里的mod是64位版本，你需要在GG大玩家的启动设置中将游戏改为64位启动，然后就能自动识别出MOD了。
+有人问植物大战僵尸2/元气骑士/战魂铭人为啥不行？那是因为GG大玩家缺省支持的是32位版本，这里的mod是64位版本，你需要在GG大玩家的启动设置中将游戏改为64位启动，然后就能自动识别出MOD了。
 
 ****
 
@@ -48,6 +48,7 @@ README
 |2023.9.21|**中**|[战魂铭人【GP】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") |1.18.5|通用|凉屋出品，比元气骑士好玩，但是热度没有带童年滤镜的元气火|
 |2023.9.1|**中**|[果冻传奇【GP】](https://apkpure.com/cn/candy-crush-jelly-saga/com.king.candycrushjellysaga/download "下载跳转") |3.13.3|**专用**| 暴雪收购的King出品，难度超高，不氪金怎么玩？|
 |2023.8.30|**中**|[吸血鬼幸存者【GP】](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") |1.6.108|通用|引爆了幸存者玩法，只是作为恶魔城月下夜想曲的同人作品，画面不如后来者优秀|
+|2023.8.11|英|[植物大战僵尸1【GP】](https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download "下载跳转") |3.4.3|**专用**|用上MOD童年才完美（补64位版本）|
 |2023.3.16|英|[傲气雄鹰重装上阵【GP】](https://apkpure.com/cn/sky-force-reloaded/pl.idreams.SkyForceReloaded2016/download "下载跳转") |2.01|**专用**| 从塞班S60时代走来的经典系列STG，用MOD开无双玩爽爆，童年必玩啊|
 |2022.8.23|英|[恶魔城月下夜想曲【GP】](https://apkaward.com/castlevania-symphony-of-the-night "下载跳转") |1.0.2|**专用**| 官方移植，触控优化，怀旧的话不用MOD估计就没人玩了|
 
@@ -58,7 +59,7 @@ README
 |2023.10.26|**中**|[元气骑士【GP】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |5.4.8|通用|凉屋出品，中国版与GP版游戏包名一样，MOD也许能正常支持中国版，没试过中国版本|
 |2023.10.21|**中**|[失落城堡](https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=235275&pack.id=48553417 "下载跳转") |1.15.0.220|通用|搬运+修复，要不要出64位版本呢？要不要补全呢？|
 |2023.10|英|[植物大战僵尸2【GP】](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") |10.8.1|**专用**|建议玩64位版本，性能比32位版本要好，MOD功能是一样的|
-|2023.8.11|英|[植物大战僵尸1【GP】](https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download "下载跳转") |3.4.3|**专用**|用上MOD童年才完美|
+|2023.8.11|英|[植物大战僵尸1【GP】](https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download "下载跳转") |3.4.3|**专用**|用上MOD童年才完美（64位游戏性能更好）|
 |2023.7.5|**中**|[暖雪](https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=46978&pack.id=46891961 "下载跳转") |2.1.1|通用| 纯搬运，要不要出64位版本呢？|
 |2023.2.23|**中**|[王国：两位君主【GP】](https://apkaward.com/kingdom-two-crowns "下载跳转") |1.1.19b|通用|此链接的安装包只有32位，带启动Toast广告，解锁了DLC（还是建议用原版安装包配MOD，玩着最舒服）|
 |2022.4.27|**中**|[崩溃大陆【GP】](https://apkaward.com/crashlands "下载跳转") |100.0.119|通用| 经典游戏，搭配经典MOD，完美|
