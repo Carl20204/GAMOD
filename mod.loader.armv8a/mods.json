@@ -324,11 +324,11 @@
               "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/vc107420/com.playrix.gardenscapes.godmod.v2.mod",
               "labels": {
                 "en": "RichMode",
-                "zh": "RichMode"
+                "zh": "土豪模式"
               },
               "descs": {
                 "en": "Unlimited",
-                "zh": "Unlimited"
+                "zh": "海量金币、星星、道具无限用"
               }
             }
           ]
@@ -366,6 +366,29 @@
         "zh": "梦幻家园"
       },
       "versions": [
+        {
+          "vercode": 150006506,
+          "vername": "6.5.6",
+          "urls": [
+            "https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.homescapes.gm",
+              "vercode": 2,
+              "lastUpdate": 1698414143796,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.homescapes/vc150006506/com.playrix.homescapes.gm.v2.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "How rich I am !",
+                "zh": "超级富豪"
+              }
+            }
+          ]
+        },
         {
           "vercode": 150006502,
           "vername": "6.5.2",
