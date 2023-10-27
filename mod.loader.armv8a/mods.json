@@ -431,6 +431,32 @@
             }
           ]
         },
+    
+        {
+          "vercode": 820,
+          "vername": "10.8.1",
+          "urls": [
+            "https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ea.game.pvz2_na.gm",
+              "vercode": 1,
+              "lastUpdate": 1696612571157,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvz2_na/vc820/com.ea.game.pvz2_na.gm.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "more than 10 awesome features",
+                "zh": "超过10项牛B功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
     {
       "pkgname": "com.ea.game.pvzfree_row",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvzfree_row/icon.png",
@@ -458,31 +484,6 @@
               "descs": {
                 "en": "AWESOME",
                 "zh": "完美童年必备"
-              }
-            }
-          ]
-        }
-      ]
-    },
-        {
-          "vercode": 820,
-          "vername": "10.8.1",
-          "urls": [
-            "https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download"
-          ],
-          "mods": [
-            {
-              "pkgname": "com.ea.game.pvz2_na.gm",
-              "vercode": 1,
-              "lastUpdate": 1696612571157,
-              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvz2_na/vc820/com.ea.game.pvz2_na.gm.v1.mod",
-              "labels": {
-                "en": "GODMODE",
-                "zh": "上帝模式"
-              },
-              "descs": {
-                "en": "more than 10 awesome features",
-                "zh": "超过10项牛B功能"
               }
             }
           ]
