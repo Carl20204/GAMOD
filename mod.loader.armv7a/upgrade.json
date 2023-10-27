@@ -1,15 +1,14 @@
 {
-  "lastUpdate": 1697447940375,
-  "vername": "1.1.4",
+  "vername": "1.1.5",
   "urls": [
     "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a.apk"
   ],
-  "vercode": 4,
+  "vercode": 5,
   "min_sdk_version": 21,
   "target_sdk_version": 26,
-  "size": 2975111,
+  "md5": "7E909D1D5F9E312EF11477B5DD73CD9B",
   "logs": {
-    "en": "1.1.4 Support fake android id, fix MOD UX",
-    "zh": "1.1.4 新增虚拟安卓ID，完善部分MOD功能的交互模式"
+    "zh": "v1.1.5 支持QQ下载目录的扫描检查，修复手机里游戏升级，但沙盒未同步导致游戏无法启动的问题",
+    "en": "v1.1.5 Now can scan QQ Download folder to find APK; Fix game upgrade in system, but not sync by sandbox"
   }
 }
