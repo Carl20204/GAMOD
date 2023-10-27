@@ -32,6 +32,7 @@ README
 |游戏更新时间|语言|点击下载|游戏版本|MOD匹配|备注说明|
 | -------------- | ---------- | ------------ | ------------ | -------------| --------|
 |2023.10.26|**中**|[元气骑士【GP】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |5.4.8|通用|64位闪退可以用32位版本，多少年了，你的童年还在不？|
+|2023.10.25|**中**|[梦幻花园【GP】](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") |7.4.2|**专用**|刷各种小排行榜用吧|
 |2023.10.25|**中**|[哥布林弹球【GP】](https://apkpure.com/cn/peglin-a-pachinko-roguelike/com.RedNexusGamesInc.Peglin/download "下载跳转") |0.9.34|通用|杀戮尖塔的爬塔肉鸽游戏，玩法很不错|
 |2023.10.17|**中**|[弓箭传说【GP】](https://apkpure.com/cn/archero/com.habby.archero/download "下载跳转") |5.3.3| 通用|habby出品，引爆了此类肉鸽玩法|
 |2023.10.17|英|[植物大战僵尸2【GP】](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") |10.9.1|**专用**| EA氪金太狠，不用MOD想把全植物收集全升满级简直不可能|
@@ -39,7 +40,6 @@ README
 |2023.10.11|**中**|[篝火1·被遗忘的土地【GP】](https://apkpure.com/cn/the-bonfire-forsaken-lands/com.xigmagames.thebonfireFL/download "下载跳转") |2.9|通用|流程太短，10天左右就能通关了|
 |2023.10.10|**中**|[篝火2·未知海岸【GP】](https://apkpure.com/cn/the-bonfire-2-uncharted-shores/com.xigmaGames.thebonfire2/download "下载跳转") |189.0.4|通用|延续1的创意，各方面素质大幅提升|
 |2023.10.9|**中**|[火星幸存者火星归来【GP】](https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download "下载跳转") |1.4.2|通用|吸血鬼幸存者like类型，画面舒服了不少，隐藏要素没有吸血鬼多，但玩起来不累|
-|2023.10.9|**中**|[梦幻花园【GP】](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") |7.3.5|**专用**|刷各种小排行榜用吧|
 |2023.10.4|**中**|[骷髅女孩【GP】](https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download "下载跳转") |6.0.1|通用|MOD单机刷剧情刷道具玩就好了，别联机对战|
 |2023.9.28|**中**|[梦幻家园【GP】](https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download "下载跳转") |6.5.2|**专用**| 刷各种小排行榜用吧|
 |2023.9.27|**中**|[貓咪大戰爭【GP】](https://apkpure.com/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download "下载跳转") |12.6.1|**专用**|卡池有大几百了吧？不氪金怎么收集？ |

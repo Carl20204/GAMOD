@@ -310,6 +310,30 @@
       },
       "versions": [
         {
+          "vercode": 107420,
+          "vername": "7.4.2",
+          "urls": [
+            "reserved1",
+            "reserved2"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.gardenscapes.godmod",
+              "vercode": 2,
+              "lastUpdate": 1698408156356,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/vc107420/com.playrix.gardenscapes.godmod.v2.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "RichMode"
+              },
+              "descs": {
+                "en": "Unlimited",
+                "zh": "Unlimited"
+              }
+            }
+          ]
+        },
+        {
           "vercode": 107350,
           "vername": "7.3.5",
           "urls": [
