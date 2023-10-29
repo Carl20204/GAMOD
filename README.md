@@ -43,9 +43,10 @@ README
 |2023.10.9|**中**|[火星幸存者火星归来【GP】](https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download "下载跳转") |1.4.2|通用|吸血鬼幸存者like类型，画面舒服了不少，隐藏要素没有吸血鬼多，但玩起来不累|
 |2023.10.4|**中**|[骷髅女孩【GP】](https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download "下载跳转") |6.0.1|通用|MOD单机刷剧情刷道具玩就好了，别联机对战|
 |2023.9.27|**中**|[貓咪大戰爭【GP】](https://apkpure.com/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download "下载跳转") |12.6.1|**专用**|卡池有大几百了吧？不氪金怎么收集？ |
-|2023.9.27|**中**|[异星指令【GP】](https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download "下载跳转") |1.3.10| 通用|凉屋出品的手机版RTS，和《钢铁陆战队》类似，有空把这个MOD也出一下|
+|2023.9.27|**中**|[异星指令【GP】](https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download "下载跳转") |1.3.10|通用|凉屋出品的手机版RTS，和《钢铁陆战队》类似，有空把这个MOD也出一下|
 |2023.9.22|**中**|[植物大战僵尸2](http://game.talkweb.com.cn/ "下载跳转") |3.2.0|**专用**| 中国大陆版本，但是手机号注册就能玩了，没做实名认证，是我眼花了吗？|
 |2023.9.21|**中**|[战魂铭人【GP】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") |1.18.5|通用|凉屋出品，比元气骑士好玩，但是热度没有带童年滤镜的元气火|
+|2023.9.21|**中**|[奇屋寻踪【GP】](https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download "下载跳转") |4.4.0|专用|playrix出品，基础素质还是蛮高的，自家的梦幻家园 + 寻物玩法，节奏比梦幻家园快，玩起来舒服许多|
 |2023.9.1|**中**|[果冻传奇【GP】](https://apkpure.com/cn/candy-crush-jelly-saga/com.king.candycrushjellysaga/download "下载跳转") |3.13.3|**专用**| 暴雪收购的King出品，难度超高，不氪金怎么玩？|
 |2023.8.30|**中**|[吸血鬼幸存者【GP】](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") |1.6.108|通用|引爆了幸存者玩法，只是作为恶魔城月下夜想曲的同人作品，画面不如后来者优秀|
 |2023.8.11|英|[植物大战僵尸1【GP】](https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download "下载跳转") |3.4.3|**专用**|用上MOD童年才完美（补64位版本）|

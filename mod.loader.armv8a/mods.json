@@ -313,8 +313,7 @@
           "vercode": 107420,
           "vername": "7.4.2",
           "urls": [
-            "reserved1",
-            "reserved2"
+            "https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download"
           ],
           "mods": [
             {
@@ -408,6 +407,39 @@
               "descs": {
                 "en": "How rich I am !",
                 "zh": "土豪不差钱"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.playrix.manormatters",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/icon.png",
+      "labels": {
+        "en": "manor-matters",
+        "zh": "奇屋寻踪"
+      },
+      "versions": [
+        {
+          "vercode": 1000440,
+          "vername": "4.4.0",
+          "urls": [
+            "https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.manormatters.godmod",
+              "vercode": 1,
+              "lastUpdate": 1698553066982,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/vc1000440/com.playrix.manormatters.godmod.v1.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "三消王者"
+              },
+              "descs": {
+                "en": "awesome",
+                "zh": "三消胜利大奖励"
               }
             }
           ]
