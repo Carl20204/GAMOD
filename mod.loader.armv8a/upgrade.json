@@ -1,14 +1,14 @@
 {
-  "vername": "1.1.5",
+  "vername": "1.1.6",
   "urls": [
     "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 5,
+  "vercode": 6,
   "min_sdk_version": 21,
   "target_sdk_version": 26,
-  "md5": "0FC04DFD02C94B658FDBE5A83EC13180",
+  "md5": "65738EB0BB2297FA12351507834BD12D",
   "logs": {
-    "en": "v1.1.5 Now can scan QQ Download folder to find APK; Fix game upgrade in system, but not sync by sandbox",
-    "zh": "v1.1.5 支持QQ下载目录的扫描检查，修复手机里游戏升级，但沙盒未同步导致游戏无法启动的问题"
+    "en": "v1.1.6 In some case(Install xapk with splited libs), the so files in sandbox maybe vanish. Now you can enter into file explorer in game launch view, select [Runtime Library] then [fix libs], try to fix this problem.",
+    "zh": "v1.1.6 特殊情况下，沙盒中游戏的库文件会消失（常见于分离了运行库的xapk安装后的游戏），导致游戏启动失败。可以在启动游戏界面的文件管理下，选择【运行库】—\u003e【修复运行库】尝试修复"
   }
 }

@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "julyhot.elementalworld",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/julyhot.elementalworld/icon.png",
+      "labels": {
+        "en": "Elemental World",
+        "zh": "元素世界"
+      },
+      "versions": [
+        {
+          "vercode": 56,
+          "vername": "2.0.0",
+          "urls": [
+            "https://apkpure.com/cn/elemental-world-adventure/julyhot.elementalworld"
+          ],
+          "mods": [
+            {
+              "pkgname": "julyhot.elementalworld.gm",
+              "vercode": 1,
+              "lastUpdate": 1699235436234,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/julyhot.elementalworld/vc_full/julyhot.elementalworld.gm.v1.mod",
+              "labels": {
+                "en": "GodMode",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Super Cool",
+                "zh": "超级无敌暴爽"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.habby.archero",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.archero/icon.png",
       "labels": {
