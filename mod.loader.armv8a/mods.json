@@ -455,6 +455,30 @@
       },
       "versions": [
         {
+          "vercode": 1000450,
+          "vername": "4.5.0",
+          "urls": [
+            "reserved1",
+            "reserved2"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.manormatters.godmod",
+              "vercode": 2,
+              "lastUpdate": 1699238524683,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/vc1000450/com.playrix.manormatters.godmod.v2.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "三消王者"
+              },
+              "descs": {
+                "en": "awesome win match3",
+                "zh": "三消胜利大奖励"
+              }
+            }
+          ]
+        },
+        {
           "vercode": 1000440,
           "vername": "4.4.0",
           "urls": [
