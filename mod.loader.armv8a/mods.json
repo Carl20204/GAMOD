@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.playrix.mysterymatters",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.mysterymatters/icon.png",
+      "labels": {
+        "en": "MysteryMatters",
+        "zh": "悬疑庄园"
+      },
+      "versions": [
+        {
+          "vercode": 10001600,
+          "vername": "1.6.0",
+          "urls": [
+            "https://apkpure.com/cn/mystery-matters/com.playrix.mysterymatters/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.mysterymatters.godmod",
+              "vercode": 1,
+              "lastUpdate": 1699462352436,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.mysterymatters/vc10001600/com.playrix.mysterymatters.godmod.v1.mod",
+              "labels": {
+                "en": "Free Boosters",
+                "zh": "免费道具"
+              },
+              "descs": {
+                "en": "Boosters in match3 are free!",
+                "zh": "三消道具免费用"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "julyhot.elementalworld",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/julyhot.elementalworld/icon.png",
       "labels": {
