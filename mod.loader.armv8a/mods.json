@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.ShinobiGames.InfiniteW",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ShinobiGames.InfiniteW/icon.png",
+      "labels": {
+        "en": "Labyrinth Legend II",
+        "zh": "迷宫传说II"
+      },
+      "versions": [
+        {
+          "vercode": 74,
+          "vername": "1.0.21",
+          "urls": [
+            "https://apkpure.com/cn/labyrinth-legend-ii/com.ShinobiGames.InfiniteW/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ShinobiGames.InfiniteW.godmod64",
+              "vercode": 1,
+              "lastUpdate": 1699587500371,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ShinobiGames.InfiniteW/vc_full/com.ShinobiGames.InfiniteW.godmod64.v1.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "SoCool",
+                "zh": "玩起来更爽"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.playrix.mysterymatters",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.mysterymatters/icon.png",
       "labels": {

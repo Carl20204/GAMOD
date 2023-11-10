@@ -34,6 +34,7 @@ README
 |2023.11.3|**中**|[悬疑庄园【GP】](https://apkpure.com/cn/mystery-matters/com.playrix.mysterymatters/download "下载跳转") |1.6.0|专用|playrix出品，《奇屋寻踪》的高级版，优化了小游戏与剧情的融合，寻物不再强制，更人性化了|
 |2023.10.29|**中**|[奇屋寻踪【GP】](https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download "下载跳转") |4.5.0|专用|playrix出品，基础素质还是蛮高的，自家的梦幻家园 + 寻物玩法，节奏比梦幻家园快，玩起来舒服许多|
 |2023.10.26|**中**|[元气骑士【GP】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |5.4.8|通用|64位闪退可以用32位版本，多少年了，你的童年还在不？|
+|2023.10.26|**中**|[迷宫传说2【GP】](https://apkpure.com/cn/labyrinth-legend-ii/com.ShinobiGames.InfiniteW/download "下载跳转") |1.0.21|通用|刷刷刷，不用MOD玩起来不爽|
 |2023.10.25|**中**|[梦幻花园【GP】](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") |7.4.2|**专用**|刷各种小排行榜用吧|
 |2023.10.25|**中**|[哥布林弹球【GP】](https://apkpure.com/cn/peglin-a-pachinko-roguelike/com.RedNexusGamesInc.Peglin/download "下载跳转") |0.9.34|通用|杀戮尖塔的爬塔肉鸽游戏，玩法很不错|
 |2023.10.23|**中**|[梦幻家园【GP】](https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download "下载跳转") |6.5.6|**专用**| 刷各种小排行榜用吧|
