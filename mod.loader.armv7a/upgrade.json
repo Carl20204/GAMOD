@@ -1,14 +1,14 @@
 {
-  "vername": "1.1.6",
+  "vername": "1.1.7",
   "urls": [
     "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a.apk"
   ],
-  "vercode": 6,
+  "vercode": 7,
   "min_sdk_version": 21,
   "target_sdk_version": 26,
-  "md5": "1CF5123D03F558615F483417F80FA51D",
+  "md5": "8A8095F395994BE82FA4179C5B3CC77D",
   "logs": {
-    "en": "v1.1.6 In some case(Install xapk with splited libs), the so files in sandbox maybe vanish. Now you can enter into file explorer in game launch view, select [Runtime Library] then [fix libs], try to fix this problem.",
-    "zh": "v1.1.6 特殊情况下，沙盒中游戏的库文件会消失（常见于分离了运行库的xapk安装后的游戏），导致游戏启动失败。可以在启动游戏界面的文件管理下，选择【运行库】—\u003e【修复运行库】尝试修复"
+    "en": "v1.1.7 Fix bug that testers can\u0027t use mod feature instantly",
+    "zh": "v1.1.7 修复测试账号没法立即启用所有功能的Bug"
   }
 }
