@@ -31,6 +31,7 @@ README
 
 |游戏更新时间|语言|点击下载|游戏版本|MOD匹配|备注说明|
 | -------------- | ---------- | ------------ | ------------ | -------------| --------|
+|2023.11.9|**中**|[现代战舰【GP】](https://apkpure.com/cn/modern-warships-naval-battles/com.Shooter.ModernWarships/download "下载跳转") |0.73.1|通用|搬运自GG大玩家：可免广告领所有激励，武器强化会被检测到异常，但可离线玩。封号换号的话，可使用GAMOD客户端的清除游戏数据+随机安卓ID，即可获得一个新的游客账号|
 |2023.11.3|**中**|[悬疑庄园【GP】](https://apkpure.com/cn/mystery-matters/com.playrix.mysterymatters/download "下载跳转") |1.6.0|专用|playrix出品，《奇屋寻踪》的高级版，优化了小游戏与剧情的融合，寻物不再强制，更人性化了|
 |2023.10.29|**中**|[奇屋寻踪【GP】](https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download "下载跳转") |4.5.0|专用|playrix出品，基础素质还是蛮高的，自家的梦幻家园 + 寻物玩法，节奏比梦幻家园快，玩起来舒服许多|
 |2023.10.26|**中**|[元气骑士【GP】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |5.4.8|通用|64位闪退可以用32位版本，多少年了，你的童年还在不？|

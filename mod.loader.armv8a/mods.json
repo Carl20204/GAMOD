@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.Shooter.ModernWarships",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.Shooter.ModernWarships/icon.png",
+      "labels": {
+        "en": "ModernWarships",
+        "zh": "现代战舰"
+      },
+      "versions": [
+        {
+          "vercode": 12051516,
+          "vername": "0.73.1.12051516",
+          "urls": [
+            "https://apkpure.com/cn/modern-warships-naval-battles/com.Shooter.ModernWarships/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.Shooter.ModernWarships.godmod64",
+              "vercode": 1,
+              "lastUpdate": 1699873767171,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.Shooter.ModernWarships/vc_full/com.Shooter.ModernWarships.godmod64.v1.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "解压模式"
+              },
+              "descs": {
+                "en": "SoCool",
+                "zh": "离线解压用，别联机"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.ShinobiGames.InfiniteW",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ShinobiGames.InfiniteW/icon.png",
       "labels": {
