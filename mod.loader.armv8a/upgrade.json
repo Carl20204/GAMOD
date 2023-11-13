@@ -1,14 +1,14 @@
 {
-  "vername": "1.1.7",
+  "vername": "1.1.8",
   "urls": [
     "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 7,
+  "vercode": 8,
   "min_sdk_version": 21,
   "target_sdk_version": 26,
-  "md5": "C9B53A78F9F7B474486D0637A0C3DE30",
+  "md5": "B44334C0ADE196F3D156B760133B66B7",
   "logs": {
-    "en": "v1.1.7 Fix bug that testers can\u0027t use mod feature instantly",
-    "zh": "v1.1.7 修复测试账号没法立即启用所有功能的Bug"
+    "en": "v1.1.8 Fix bug that add game crash!",
+    "zh": "v1.1.8 修复添加游戏闪退Bug"
   }
 }

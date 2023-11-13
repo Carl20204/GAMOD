@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.chillyroom.zhmr.aligames",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.zhmr.aligames/icon.png",
+      "labels": {
+        "en": "Otherworld Legends",
+        "zh": "战魂铭人"
+      },
+      "versions": [
+        {
+          "vercode": 20002,
+          "vername": "2.0.1",
+          "urls": [
+            "https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=235275&pack.id=48812704"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.chillyroom.zhmr.aligames.gm64",
+              "vercode": 1,
+              "lastUpdate": 1699890251969,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.zhmr.aligames/vc_full/com.chillyroom.zhmr.aligames.gm64.v1.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "more than 30 awesome features",
+                "zh": "超过30种牛B功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.Shooter.ModernWarships",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.Shooter.ModernWarships/icon.png",
       "labels": {
