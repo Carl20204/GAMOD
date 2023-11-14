@@ -32,10 +32,12 @@ README
 |游戏更新时间|语言|点击下载|游戏版本|MOD匹配|备注说明|
 | -------------- | ---------- | ------------ | ------------ | -------------| --------|
 |2023.11.13|**中**|[战魂铭人](https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=235275&pack.id=48812704 "下载跳转") |2.0.1|通用|凉屋出品，比元气骑士好玩，但是热度没有带童年滤镜的元气火。有人问为啥是9u版本，因为作者用9u账号登录方便啊，不用每个游戏都实名注册一遍。|
-|2023.11.9|**中**|[战魂铭人【GP】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") |2.0.1|通用|凉屋出品，比元气骑士好玩，但是热度没有带童年滤镜的元气火。|
+|2023.11.9|**中**|[战魂铭人【GP】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") |2.0.1|通用[未测]|凉屋出品，比元气骑士好玩，但是热度没有带童年滤镜的元气火。|
 |2023.11.9|**中**|[现代战舰【GP】](https://apkpure.com/cn/modern-warships-naval-battles/com.Shooter.ModernWarships/download "下载跳转") |0.73.1|通用|搬运自GG大玩家：可免广告领所有激励，武器强化会被检测到异常，但可离线玩。封号换号的话，可使用GAMOD客户端的清除游戏数据+随机安卓ID，即可获得一个新的游客账号|
 |2023.11.3|**中**|[悬疑庄园【GP】](https://apkpure.com/cn/mystery-matters/com.playrix.mysterymatters/download "下载跳转") |1.6.0|专用|playrix出品，《奇屋寻踪》的高级版，优化了小游戏与剧情的融合，寻物不再强制，更人性化了|
+|2023.10.30|**中**|[貓咪大戰爭【GP】](https://apkpure.com/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download "下载跳转") |12.7.0|**专用**|700多张猫卡？不氪金怎么收集？ |
 |2023.10.29|**中**|[奇屋寻踪【GP】](https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download "下载跳转") |4.5.0|专用|playrix出品，基础素质还是蛮高的，自家的梦幻家园 + 寻物玩法，节奏比梦幻家园快，玩起来舒服许多|
+|2023.10.27|**中**|[吸血鬼幸存者【GP】](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") |1.7.103|通用[未测]|引爆了幸存者玩法，只是作为恶魔城月下夜想曲的同人作品，画面不如后来者优秀|
 |2023.10.26|**中**|[元气骑士【GP】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |5.4.8|通用|64位闪退可以用32位版本，多少年了，你的童年还在不？|
 |2023.10.26|**中**|[迷宫传说2【GP】](https://apkpure.com/cn/labyrinth-legend-ii/com.ShinobiGames.InfiniteW/download "下载跳转") |1.0.21|通用|刷刷刷，不用MOD玩起来不爽|
 |2023.10.25|**中**|[梦幻花园【GP】](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") |7.4.2|**专用**|刷各种小排行榜用吧|
@@ -48,12 +50,10 @@ README
 |2023.10.10|**中**|[篝火2·未知海岸【GP】](https://apkpure.com/cn/the-bonfire-2-uncharted-shores/com.xigmaGames.thebonfire2/download "下载跳转") |189.0.4|通用|延续1的创意，各方面素质大幅提升|
 |2023.10.9|**中**|[火星幸存者火星归来【GP】](https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download "下载跳转") |1.4.2|通用|吸血鬼幸存者like类型，画面舒服了不少，隐藏要素没有吸血鬼多，但玩起来不累|
 |2023.10.4|**中**|[骷髅女孩【GP】](https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download "下载跳转") |6.0.1|通用|MOD单机刷剧情刷道具玩就好了，别联机对战|
-|2023.9.27|**中**|[貓咪大戰爭【GP】](https://apkpure.com/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download "下载跳转") |12.6.1|**专用**|卡池有大几百了吧？不氪金怎么收集？ |
 |2023.9.27|**中**|[异星指令【GP】](https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download "下载跳转") |1.3.10|通用|凉屋出品的手机版RTS，和《钢铁陆战队》类似，有空把这个MOD也出一下|
 |2023.9.26|**中**|[元素世界【GP】](https://apkpure.com/cn/elemental-world-adventure/julyhot.elementalworld "下载跳转") |2.0.0|通用|以技能组合为核心玩法的元气骑士|
 |2023.9.22|**中**|[植物大战僵尸2](http://game.talkweb.com.cn/ "下载跳转") |3.2.0|**专用**| 中国大陆版本，但是手机号注册就能玩了，没做实名认证，是我眼花了吗？|
 |2023.9.1|**中**|[果冻传奇【GP】](https://apkpure.com/cn/candy-crush-jelly-saga/com.king.candycrushjellysaga/download "下载跳转") |3.13.3|**专用**| 暴雪收购的King出品，难度超高，不氪金怎么玩？|
-|2023.8.30|**中**|[吸血鬼幸存者【GP】](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") |1.6.108|通用|引爆了幸存者玩法，只是作为恶魔城月下夜想曲的同人作品，画面不如后来者优秀|
 |2023.8.11|英|[植物大战僵尸1【GP】](https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download "下载跳转") |3.4.3|**专用**|用上MOD童年才完美（补64位版本）|
 |2023.3.16|英|[傲气雄鹰重装上阵【GP】](https://apkpure.com/cn/sky-force-reloaded/pl.idreams.SkyForceReloaded2016/download "下载跳转") |2.01|**专用**| 从塞班S60时代走来的经典系列STG，用MOD开无双玩爽爆，童年必玩啊|
 |2022.8.23|英|[恶魔城月下夜想曲【GP】](https://apkaward.com/castlevania-symphony-of-the-night "下载跳转") |1.0.2|**专用**| 官方移植，触控优化，怀旧的话不用MOD估计就没人玩了|
@@ -77,7 +77,8 @@ README
 - **【GP】** ，说明来自GooglePlay（谷歌市场），没有中国境内的实名要求，打开就玩。
 - **【中】** ，表示启动中文或设置里可以调为中文显示；
 - **【通用】** ，说明该MOD为通用型，只要游戏不做大变动，游戏更新也可以继续用
-- **【专用】** ，说明MOD为针对游戏指定版本专用，每次游戏升级都要做针对性调整，请确保下载的游戏版本与表格中的一致
+- **【专用】** ，说明MOD为针对游戏指定版本专用，每次游戏升级都要做针对性调整，请确保下载的游戏版本与表格中的一致(apkpure.com可下载历史版本，找到匹配的游戏版本)
+- **【未测】** ，MOD为通用版本，游戏升级了，理论上功能正常，但作者没有测过
 - **部分游戏同时有32位/64位版本MOD，说明作者手机运行64或32位时出现过闪退现象，出另一个版本防止兼容性问题。如果你玩64位版本闪退，可以换32位版本玩**
 
 
