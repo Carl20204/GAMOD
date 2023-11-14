@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "net.kairosoft.android.kingdom_en",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/net.kairosoft.android.kingdom_en/icon.png",
+      "labels": {
+        "en": "王都创世物语",
+        "zh": "王都创世物语"
+      },
+      "versions": [
+        {
+          "vercode": 243,
+          "vername": "2.4.3",
+          "urls": [
+            "https://apkpure.com/cn/kingdom-adventurers/net.kairosoft.android.kingdom_en/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "net.kairosoft.android.kingdom_en.gm64",
+              "vercode": 1,
+              "lastUpdate": 1699949766384,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/net.kairosoft.android.kingdom_en/vc_full/net.kairosoft.android.kingdom_en.gm64.v1.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "SoCool",
+                "zh": "必备的功能都有"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "jp.co.ponos.battlecatstw",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/jp.co.ponos.battlecatstw/icon.png",
       "labels": {

@@ -50,6 +50,7 @@ README
 |2023.10.10|**中**|[篝火2·未知海岸【GP】](https://apkpure.com/cn/the-bonfire-2-uncharted-shores/com.xigmaGames.thebonfire2/download "下载跳转") |189.0.4|通用|延续1的创意，各方面素质大幅提升|
 |2023.10.9|**中**|[火星幸存者火星归来【GP】](https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download "下载跳转") |1.4.2|通用|吸血鬼幸存者like类型，画面舒服了不少，隐藏要素没有吸血鬼多，但玩起来不累|
 |2023.10.4|**中**|[骷髅女孩【GP】](https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download "下载跳转") |6.0.1|通用|MOD单机刷剧情刷道具玩就好了，别联机对战|
+|2023.9.27|**中**|[王都创世物语【GP】](https://apkpure.com/cn/kingdom-adventurers/net.kairosoft.android.kingdom_en/download "下载跳转") |2.4.3|通用|从GG搬运来的，好像有失效的功能，有人玩再说吧|
 |2023.9.27|**中**|[异星指令【GP】](https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download "下载跳转") |1.3.10|通用|凉屋出品的手机版RTS，和《钢铁陆战队》类似，有空把这个MOD也出一下|
 |2023.9.26|**中**|[元素世界【GP】](https://apkpure.com/cn/elemental-world-adventure/julyhot.elementalworld "下载跳转") |2.0.0|通用|以技能组合为核心玩法的元气骑士|
 |2023.9.22|**中**|[植物大战僵尸2](http://game.talkweb.com.cn/ "下载跳转") |3.2.0|**专用**| 中国大陆版本，但是手机号注册就能玩了，没做实名认证，是我眼花了吗？|
