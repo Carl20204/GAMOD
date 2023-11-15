@@ -31,6 +31,8 @@ README
 
 |游戏更新时间|语言|点击下载|游戏版本|MOD匹配|备注说明|
 | -------------- | ---------- | ------------ | ------------ | -------------| --------|
+|2023.11.14|**中**|[梦幻花园【GP】](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") |7.4.6|**专用**|刷各种小排行榜用吧|
+|2023.11.14|**中**|[梦幻家园【GP】](https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download "下载跳转") |6.6.1|**专用**| 刷各种小排行榜用吧|
 |2023.11.13|**中**|[战魂铭人](https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=235275&pack.id=48812704 "下载跳转") |2.0.1|通用|凉屋出品，比元气骑士好玩，但是热度没有带童年滤镜的元气火。有人问为啥是9u版本，因为作者用9u账号登录方便啊，不用每个游戏都实名注册一遍。|
 |2023.11.9|**中**|[战魂铭人【GP】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") |2.0.1|通用[未测]|凉屋出品，比元气骑士好玩，但是热度没有带童年滤镜的元气火。|
 |2023.11.9|**中**|[现代战舰【GP】](https://apkpure.com/cn/modern-warships-naval-battles/com.Shooter.ModernWarships/download "下载跳转") |0.73.1|通用|搬运自GG大玩家：可免广告领所有激励，武器强化会被检测到异常，但可离线玩。封号换号的话，可使用GAMOD客户端的清除游戏数据+随机安卓ID，即可获得一个新的游客账号|
@@ -41,9 +43,7 @@ README
 |2023.10.27|**中**|[吸血鬼幸存者【GP】](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") |1.7.103|通用[未测]|引爆了幸存者玩法，只是作为恶魔城月下夜想曲的同人作品，画面不如后来者优秀|
 |2023.10.26|**中**|[元气骑士【GP】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |5.4.8|通用|64位闪退可以用32位版本，多少年了，你的童年还在不？|
 |2023.10.26|**中**|[迷宫传说2【GP】](https://apkpure.com/cn/labyrinth-legend-ii/com.ShinobiGames.InfiniteW/download "下载跳转") |1.0.21|通用|刷刷刷，不用MOD玩起来不爽|
-|2023.10.25|**中**|[梦幻花园【GP】](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") |7.4.2|**专用**|刷各种小排行榜用吧|
 |2023.10.25|**中**|[哥布林弹球【GP】](https://apkpure.com/cn/peglin-a-pachinko-roguelike/com.RedNexusGamesInc.Peglin/download "下载跳转") |0.9.34|通用|杀戮尖塔的爬塔肉鸽游戏，玩法很不错|
-|2023.10.23|**中**|[梦幻家园【GP】](https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download "下载跳转") |6.5.6|**专用**| 刷各种小排行榜用吧|
 |2023.10.17|**中**|[弓箭传说【GP】](https://apkpure.com/cn/archero/com.habby.archero/download "下载跳转") |5.3.3| 通用|habby出品，引爆了此类肉鸽玩法|
 |2023.10.17|英|[植物大战僵尸2【GP】](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") |10.9.1|**专用**| EA氪金太狠，不用MOD想把全植物收集全升满级简直不可能|
 |2023.10.12|英|[糖果粉碎传奇【GP】](https://apkpure.com/cn/candy-crush-saga/com.king.candycrushsaga "下载跳转") |1.263.1.1|**专用**| 暴雪收购的King发家之作，不氪金难度太大|
