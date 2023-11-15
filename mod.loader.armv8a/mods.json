@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.habby.sssnaker",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.sssnaker/icon.png",
+      "labels": {
+        "en": "SSSnaker",
+        "zh": "蛇蛇贪吃"
+      },
+      "versions": [
+        {
+          "vercode": 1698328169,
+          "vername": "1.1.8",
+          "urls": [
+            "https://apkpure.com/cn/sssnaker/com.habby.sssnaker/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.habby.sssnaker.gm64",
+              "vercode": 1,
+              "lastUpdate": 1700018828676,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.sssnaker/vc_full/com.habby.sssnaker.gm64.v1.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "SoCool",
+                "zh": "免广告，快速刷图"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "net.kairosoft.android.kingdom_en",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/net.kairosoft.android.kingdom_en/icon.png",
       "labels": {

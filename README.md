@@ -37,6 +37,7 @@ README
 |2023.11.3|**中**|[悬疑庄园【GP】](https://apkpure.com/cn/mystery-matters/com.playrix.mysterymatters/download "下载跳转") |1.6.0|专用|playrix出品，《奇屋寻踪》的高级版，优化了小游戏与剧情的融合，寻物不再强制，更人性化了|
 |2023.10.30|**中**|[貓咪大戰爭【GP】](https://apkpure.com/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download "下载跳转") |12.7.0|**专用**|700多张猫卡？不氪金怎么收集？ |
 |2023.10.29|**中**|[奇屋寻踪【GP】](https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download "下载跳转") |4.5.0|专用|playrix出品，基础素质还是蛮高的，自家的梦幻家园 + 寻物玩法，节奏比梦幻家园快，玩起来舒服许多|
+|2023.10.27|**中**|[蛇蛇贪吃【GP】](https://apkpure.com/cn/sssnaker/com.habby.sssnaker/download "下载跳转") |1.1.8|通用]|《弓箭传说》《弹壳特攻队》《砰砰法师》，habby出一个火一个，玩法创意+山寨优化上确实有一套|
 |2023.10.27|**中**|[吸血鬼幸存者【GP】](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") |1.7.103|通用[未测]|引爆了幸存者玩法，只是作为恶魔城月下夜想曲的同人作品，画面不如后来者优秀|
 |2023.10.26|**中**|[元气骑士【GP】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |5.4.8|通用|64位闪退可以用32位版本，多少年了，你的童年还在不？|
 |2023.10.26|**中**|[迷宫传说2【GP】](https://apkpure.com/cn/labyrinth-legend-ii/com.ShinobiGames.InfiniteW/download "下载跳转") |1.0.21|通用|刷刷刷，不用MOD玩起来不爽|
