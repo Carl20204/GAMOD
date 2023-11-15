@@ -5,6 +5,165 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.playrix.gardenscapes",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/icon.png",
+      "labels": {
+        "en": "Gardenscapes",
+        "zh": "梦幻花园"
+      },
+      "versions": [
+        {
+          "vercode": 107460,
+          "vername": "7.4.6",
+          "urls": [
+            "https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.gardenscapes.godmod",
+              "vercode": 3,
+              "lastUpdate": 1700046205636,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/vc107460/com.playrix.gardenscapes.godmod.v3.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "Unlimited",
+                "zh": "海量金币、星星、道具无限用"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 107420,
+          "vername": "7.4.2",
+          "urls": [
+            "https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.gardenscapes.godmod",
+              "vercode": 2,
+              "lastUpdate": 1698408156356,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/vc107420/com.playrix.gardenscapes.godmod.v2.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "Unlimited",
+                "zh": "海量金币、星星、道具无限用"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 107350,
+          "vername": "7.3.5",
+          "urls": [
+            "https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.gardenscapes.godmod",
+              "vercode": 1,
+              "lastUpdate": 1696667945734,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/vc107350/com.playrix.gardenscapes.godmod.v1.mod",
+              "labels": {
+                "en": "RICHMODE",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "lots of coin, lots of star, inf boosters",
+                "zh": "海量金币、星星、道具无限用"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.playrix.homescapes",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.homescapes/icon.png",
+      "labels": {
+        "en": "HomeScapes",
+        "zh": "梦幻家园"
+      },
+      "versions": [
+        {
+          "vercode": 150006601,
+          "vername": "6.6.1",
+          "urls": [
+            "reserved1",
+            "reserved2"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.homescapes.gm",
+              "vercode": 3,
+              "lastUpdate": 1700042445331,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.homescapes/vc150006601/com.playrix.homescapes.gm.v3.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "How rich I am !",
+                "zh": "超级富豪"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 150006506,
+          "vername": "6.5.6",
+          "urls": [
+            "https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.homescapes.gm",
+              "vercode": 2,
+              "lastUpdate": 1698414143796,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.homescapes/vc150006506/com.playrix.homescapes.gm.v2.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "How rich I am !",
+                "zh": "超级富豪"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 150006502,
+          "vername": "6.5.2",
+          "urls": [
+            "https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.homescapes.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697376033952,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.homescapes/vc150006502/com.playrix.homescapes.godmod.v1.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "How rich I am !",
+                "zh": "土豪不差钱"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.habby.sssnaker",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.sssnaker/icon.png",
       "labels": {
@@ -549,118 +708,6 @@
               "descs": {
                 "en": "AWESOME",
                 "zh": "全能修改"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "pkgname": "com.playrix.gardenscapes",
-      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/icon.png",
-      "labels": {
-        "en": "Gardenscapes",
-        "zh": "梦幻花园"
-      },
-      "versions": [
-        {
-          "vercode": 107420,
-          "vername": "7.4.2",
-          "urls": [
-            "https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download"
-          ],
-          "mods": [
-            {
-              "pkgname": "com.playrix.gardenscapes.godmod",
-              "vercode": 2,
-              "lastUpdate": 1698408156356,
-              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/vc107420/com.playrix.gardenscapes.godmod.v2.mod",
-              "labels": {
-                "en": "RichMode",
-                "zh": "土豪模式"
-              },
-              "descs": {
-                "en": "Unlimited",
-                "zh": "海量金币、星星、道具无限用"
-              }
-            }
-          ]
-        },
-        {
-          "vercode": 107350,
-          "vername": "7.3.5",
-          "urls": [
-            "https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download"
-          ],
-          "mods": [
-            {
-              "pkgname": "com.playrix.gardenscapes.godmod",
-              "vercode": 1,
-              "lastUpdate": 1696667945734,
-              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/vc107350/com.playrix.gardenscapes.godmod.v1.mod",
-              "labels": {
-                "en": "RICHMODE",
-                "zh": "土豪模式"
-              },
-              "descs": {
-                "en": "lots of coin, lots of star, inf boosters",
-                "zh": "海量金币、星星、道具无限用"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "pkgname": "com.playrix.homescapes",
-      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.homescapes/icon.png",
-      "labels": {
-        "en": "HomeScapes",
-        "zh": "梦幻家园"
-      },
-      "versions": [
-        {
-          "vercode": 150006506,
-          "vername": "6.5.6",
-          "urls": [
-            "https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download"
-          ],
-          "mods": [
-            {
-              "pkgname": "com.playrix.homescapes.gm",
-              "vercode": 2,
-              "lastUpdate": 1698414143796,
-              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.homescapes/vc150006506/com.playrix.homescapes.gm.v2.mod",
-              "labels": {
-                "en": "RichMode",
-                "zh": "土豪模式"
-              },
-              "descs": {
-                "en": "How rich I am !",
-                "zh": "超级富豪"
-              }
-            }
-          ]
-        },
-        {
-          "vercode": 150006502,
-          "vername": "6.5.2",
-          "urls": [
-            "https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download"
-          ],
-          "mods": [
-            {
-              "pkgname": "com.playrix.homescapes.godmod",
-              "vercode": 1,
-              "lastUpdate": 1697376033952,
-              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.homescapes/vc150006502/com.playrix.homescapes.godmod.v1.mod",
-              "labels": {
-                "en": "RichMode",
-                "zh": "土豪模式"
-              },
-              "descs": {
-                "en": "How rich I am !",
-                "zh": "土豪不差钱"
               }
             }
           ]
