@@ -34,6 +34,7 @@ README
 |2023.11.14|**中**|[梦幻花园【GP】](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") |7.4.6|**专用**|刷各种小排行榜用吧|
 |2023.11.14|**中**|[梦幻家园【GP】](https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download "下载跳转") |6.6.1|**专用**| 刷各种小排行榜用吧|
 |2023.11.13|**中**|[战魂铭人](https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=235275&pack.id=48812704 "下载跳转") |2.0.1|通用|凉屋出品，比元气骑士好玩，但是热度没有带童年滤镜的元气火。有人问为啥是9u版本，因为作者用9u账号登录方便啊，不用每个游戏都实名注册一遍。|
+|2023.11.11|**中**|[火星幸存者【GP】](https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download "下载跳转") |1.4.8|通用[未测]|吸血鬼幸存者like类型，画面舒服了不少，隐藏要素没有吸血鬼多，但玩起来不累|
 |2023.11.9|**中**|[战魂铭人【GP】](https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download "下载跳转") |2.0.1|通用[未测]|凉屋出品，比元气骑士好玩，但是热度没有带童年滤镜的元气火。|
 |2023.11.9|**中**|[现代战舰【GP】](https://apkpure.com/cn/modern-warships-naval-battles/com.Shooter.ModernWarships/download "下载跳转") |0.73.1|通用|搬运自GG大玩家：可免广告领所有激励，武器强化会被检测到异常，但可离线玩。封号换号的话，可使用GAMOD客户端的清除游戏数据+随机安卓ID，即可获得一个新的游客账号|
 |2023.11.3|**中**|[悬疑庄园【GP】](https://apkpure.com/cn/mystery-matters/com.playrix.mysterymatters/download "下载跳转") |1.6.0|专用|playrix出品，《奇屋寻踪》的高级版，优化了小游戏与剧情的融合，寻物不再强制，更人性化了|
@@ -49,7 +50,6 @@ README
 |2023.10.12|英|[糖果粉碎传奇【GP】](https://apkpure.com/cn/candy-crush-saga/com.king.candycrushsaga "下载跳转") |1.263.1.1|**专用**| 暴雪收购的King发家之作，不氪金难度太大|
 |2023.10.11|**中**|[篝火1·被遗忘的土地【GP】](https://apkpure.com/cn/the-bonfire-forsaken-lands/com.xigmagames.thebonfireFL/download "下载跳转") |2.9|通用|流程太短，10天左右就能通关了|
 |2023.10.10|**中**|[篝火2·未知海岸【GP】](https://apkpure.com/cn/the-bonfire-2-uncharted-shores/com.xigmaGames.thebonfire2/download "下载跳转") |189.0.4|通用|延续1的创意，各方面素质大幅提升|
-|2023.10.9|**中**|[火星幸存者火星归来【GP】](https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download "下载跳转") |1.4.2|通用|吸血鬼幸存者like类型，画面舒服了不少，隐藏要素没有吸血鬼多，但玩起来不累|
 |2023.10.4|**中**|[骷髅女孩【GP】](https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download "下载跳转") |6.0.1|通用|MOD单机刷剧情刷道具玩就好了，别联机对战|
 |2023.9.27|**中**|[王都创世物语【GP】](https://apkpure.com/cn/kingdom-adventurers/net.kairosoft.android.kingdom_en/download "下载跳转") |2.4.3|通用|从GG搬运来的，好像有失效的功能，有人玩再说吧|
 |2023.9.27|**中**|[异星指令【GP】](https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download "下载跳转") |1.3.10|通用|凉屋出品的手机版RTS，和《钢铁陆战队》类似，有空把这个MOD也出一下|

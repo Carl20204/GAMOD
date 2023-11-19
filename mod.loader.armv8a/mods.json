@@ -180,6 +180,20 @@
           "mods": [
             {
               "pkgname": "com.habby.sssnaker.gm64",
+              "vercode": 2,
+              "lastUpdate": 1700358088557,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.sssnaker/vc_full/com.habby.sssnaker.gm64.v2.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "So Cool So Awesome",
+                "zh": "免广告，快速刷图"
+              }
+            },
+            {
+              "pkgname": "com.habby.sssnaker.gm64",
               "vercode": 1,
               "lastUpdate": 1700018828676,
               "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.sssnaker/vc_full/com.habby.sssnaker.gm64.v1.mod",
