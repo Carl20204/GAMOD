@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.habby.punball",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.punball/icon.png",
+      "labels": {
+        "en": "PunBall",
+        "zh": "砰砰法师"
+      },
+      "versions": [
+        {
+          "vercode": 588,
+          "vername": "4.3.2",
+          "urls": [
+            "https://apkpure.com/cn/punball/com.habby.punball/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.habby.punball.gm64",
+              "vercode": 1,
+              "lastUpdate": 1700468007930,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.punball/vc_full/com.habby.punball.gm64.v1.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "CoolMod",
+                "zh": "免广告+超爽功能"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.playrix.gardenscapes",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/icon.png",
       "labels": {
@@ -95,8 +128,7 @@
           "vercode": 150006601,
           "vername": "6.6.1",
           "urls": [
-            "reserved1",
-            "reserved2"
+            "https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download"
           ],
           "mods": [
             {
@@ -189,7 +221,7 @@
               },
               "descs": {
                 "en": "So Cool So Awesome",
-                "zh": "免广告，快速刷图"
+                "zh": "v2免广告+6功能"
               }
             },
             {
@@ -203,7 +235,7 @@
               },
               "descs": {
                 "en": "SoCool",
-                "zh": "免广告，快速刷图"
+                "zh": "v1免广告+2功能"
               }
             }
           ]
