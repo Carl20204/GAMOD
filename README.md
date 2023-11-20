@@ -31,6 +31,7 @@ README
 
 |游戏更新时间|语言|点击下载|游戏版本|MOD匹配|备注说明|
 | -------------- | ---------- | ------------ | ------------ | -------------| --------|
+|2023.11.19|**中**|[奇屋寻踪【GP】](https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download "下载跳转") |4.5.5|专用|playrix出品，基础素质还是蛮高的，自家的梦幻家园 + 寻物玩法，节奏比梦幻家园快，玩起来舒服许多|
 |2023.11.14|**中**|[梦幻花园【GP】](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") |7.4.6|**专用**|刷各种小排行榜用吧|
 |2023.11.14|**中**|[梦幻家园【GP】](https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download "下载跳转") |6.6.1|**专用**| 刷各种小排行榜用吧|
 |2023.11.13|**中**|[战魂铭人](https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=235275&pack.id=48812704 "下载跳转") |2.0.1|通用|凉屋出品，比元气骑士好玩，但是热度没有带童年滤镜的元气火。有人问为啥是9u版本，因为作者用9u账号登录方便啊，不用每个游戏都实名注册一遍。|
@@ -40,7 +41,6 @@ README
 |2023.11.3|**中**|[悬疑庄园【GP】](https://apkpure.com/cn/mystery-matters/com.playrix.mysterymatters/download "下载跳转") |1.6.0|专用|playrix出品，《奇屋寻踪》的高级版，优化了小游戏与剧情的融合，寻物不再强制，更人性化了|
 |2023.10.31|**中**|[砰砰法师【GP】](https://apkpure.com/cn/punball/com.habby.punball/download "下载跳转") |4.3.2|**专用**|游戏有防护，必须带游戏版本对应的MOD才能启动游戏。MOD已免广告领取奖励，其它功能自己体验。 |
 |2023.10.30|**中**|[貓咪大戰爭【GP】](https://apkpure.com/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download "下载跳转") |12.7.0|**专用**|700多张猫卡？不氪金怎么收集？ |
-|2023.10.29|**中**|[奇屋寻踪【GP】](https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download "下载跳转") |4.5.0|专用|playrix出品，基础素质还是蛮高的，自家的梦幻家园 + 寻物玩法，节奏比梦幻家园快，玩起来舒服许多|
 |2023.10.27|**中**|[蛇蛇贪吃【GP】](https://apkpure.com/cn/sssnaker/com.habby.sssnaker/download "下载跳转") |1.1.8|通用|《弓箭传说》《弹壳特攻队》《砰砰法师》，habby出一个火一个，玩法创意+模仿优化+商业数值包装上确实有一套|
 |2023.10.27|**中**|[吸血鬼幸存者【GP】](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") |1.7.103|通用[未测]|引爆了幸存者玩法，只是作为恶魔城月下夜想曲的同人作品，画面不如后来者优秀|
 |2023.10.26|**中**|[元气骑士【GP】](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |5.4.8|通用|64位闪退可以用32位版本，多少年了，你的童年还在不？|

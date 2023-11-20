@@ -5,6 +5,85 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.playrix.manormatters",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/icon.png",
+      "labels": {
+        "en": "manor-matters",
+        "zh": "奇屋寻踪"
+      },
+      "versions": [
+        {
+          "vercode": 1000455,
+          "vername": "4.5.5",
+          "urls": [
+            "https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.manormatters.godmod",
+              "vercode": 3,
+              "lastUpdate": 1700472292081,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/vc1000455/com.playrix.manormatters.godmod.v3.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "三消王者"
+              },
+              "descs": {
+                "en": "awesome win match3",
+                "zh": "三消胜利大奖励"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 1000450,
+          "vername": "4.5.0",
+          "urls": [
+            "https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.manormatters.godmod",
+              "vercode": 2,
+              "lastUpdate": 1699238524683,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/vc1000450/com.playrix.manormatters.godmod.v2.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "三消王者"
+              },
+              "descs": {
+                "en": "awesome win match3",
+                "zh": "三消胜利大奖励"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 1000440,
+          "vername": "4.4.0",
+          "urls": [
+            "https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.manormatters.godmod",
+              "vercode": 1,
+              "lastUpdate": 1698553066982,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/vc1000440/com.playrix.manormatters.godmod.v1.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "三消王者"
+              },
+              "descs": {
+                "en": "awesome",
+                "zh": "三消胜利大奖励"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.habby.punball",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.punball/icon.png",
       "labels": {
@@ -754,63 +833,6 @@
               "descs": {
                 "en": "AWESOME",
                 "zh": "全能修改"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "pkgname": "com.playrix.manormatters",
-      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/icon.png",
-      "labels": {
-        "en": "manor-matters",
-        "zh": "奇屋寻踪"
-      },
-      "versions": [
-        {
-          "vercode": 1000450,
-          "vername": "4.5.0",
-          "urls": [
-            "reserved1",
-            "reserved2"
-          ],
-          "mods": [
-            {
-              "pkgname": "com.playrix.manormatters.godmod",
-              "vercode": 2,
-              "lastUpdate": 1699238524683,
-              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/vc1000450/com.playrix.manormatters.godmod.v2.mod",
-              "labels": {
-                "en": "RichMode",
-                "zh": "三消王者"
-              },
-              "descs": {
-                "en": "awesome win match3",
-                "zh": "三消胜利大奖励"
-              }
-            }
-          ]
-        },
-        {
-          "vercode": 1000440,
-          "vername": "4.4.0",
-          "urls": [
-            "https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download"
-          ],
-          "mods": [
-            {
-              "pkgname": "com.playrix.manormatters.godmod",
-              "vercode": 1,
-              "lastUpdate": 1698553066982,
-              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/vc1000440/com.playrix.manormatters.godmod.v1.mod",
-              "labels": {
-                "en": "RichMode",
-                "zh": "三消王者"
-              },
-              "descs": {
-                "en": "awesome",
-                "zh": "三消胜利大奖励"
               }
             }
           ]
