@@ -31,6 +31,7 @@ README
 
 |游戏更新时间|语言|渠道|下载|游戏版本|MOD匹配|备注说明|
 | -------------- | ---------- |---------- | ------------ | ------------ | -------------| --------|
+|2023.11.22|中|拓维官网|[植物大战僵尸2](http://game.talkweb.com.cn/ "下载跳转") |3.2.6|**专用**| 中国版本，要实名认证！百度“2023身份证号大全”找了个背锅的|
 |2023.11.22|英|谷歌市场|[植物大战僵尸2](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") |11.0.1|**专用**| EA氪金太狠，不用MOD想把全植物收集全升满级简直不可能|
 |2023.11.19|中/英|谷歌市场|[奇屋寻踪](https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download "下载跳转") |4.5.5|专用|playrix出品，基础素质还是蛮高的，自家的梦幻家园 + 寻物玩法，节奏比梦幻家园快，玩起来舒服许多|
 |2023.11.17|中/英|谷歌市场|[弓箭传说](https://apkpure.com/cn/archero/com.habby.archero/download "下载跳转") |5.5.0| 通用|《弓箭传说》《弹壳特攻队》《砰砰法师》《蛇蛇贪吃》habby出品，还有哪些爆款？|
@@ -56,7 +57,6 @@ README
 |2023.9.27|中/英|谷歌市场|[王都创世物语](https://apkpure.com/cn/kingdom-adventurers/net.kairosoft.android.kingdom_en/download "下载跳转") |2.4.3|通用|从GG搬运来的，好像有失效的功能，有人玩再说吧|
 |2023.9.27|中/英|谷歌市场|[异星指令](https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download "下载跳转") |1.3.10|通用|凉屋出品的手机版RTS，和《钢铁陆战队》类似，有空把这个MOD也出一下|
 |2023.9.26|中/英|谷歌市场|[元素世界](https://apkpure.com/cn/elemental-world-adventure/julyhot.elementalworld "下载跳转") |2.0.0|通用|以技能组合为核心玩法的元气骑士|
-|2023.9.22|中|拓维官网|[植物大战僵尸2](http://game.talkweb.com.cn/ "下载跳转") |3.2.0|**专用**| 中国大陆版本，但是手机号注册就能玩了，没做实名认证，是我眼花了吗？|
 |2023.9.1|中/英|谷歌市场|[果冻传奇](https://apkpure.com/cn/candy-crush-jelly-saga/com.king.candycrushjellysaga/download "下载跳转") |3.13.3|**专用**| 暴雪收购的King出品，难度超高，不氪金怎么玩？|
 |2023.8.11|英|谷歌市场|[植物大战僵尸1](https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download "下载跳转") |3.4.3|**专用**|用上MOD童年才完美（补64位版本）|
 |2023.3.16|英|谷歌市场|[傲气雄鹰重装上阵](https://apkpure.com/cn/sky-force-reloaded/pl.idreams.SkyForceReloaded2016/download "下载跳转") |2.01|**专用**| 从塞班S60时代走来的经典系列STG，用MOD开无双玩爽爆，童年必玩啊|
