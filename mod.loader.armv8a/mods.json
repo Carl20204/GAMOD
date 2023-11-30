@@ -881,6 +881,29 @@
       },
       "versions": [
         {
+          "vercode": 834,
+          "vername": "11.0.1",
+          "urls": [
+            "https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ea.game.pvz2_na.gm",
+              "vercode": 3,
+              "lastUpdate": 1701335431058,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvz2_na/vc834/com.ea.game.pvz2_na.gm.v3.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "More_than_10_useful_funcs",
+                "zh": "超过10项牛B功能"
+              }
+            }
+          ]
+        },
+        {
           "vercode": 826,
           "vername": "10.9.1",
           "urls": [
