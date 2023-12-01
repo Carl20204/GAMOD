@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.dream.dale",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.dream.dale/icon.png",
+      "labels": {
+        "en": "Dreamdale",
+        "zh": "我的梦幻小岛"
+      },
+      "versions": [
+        {
+          "vercode": 1304,
+          "vername": "1.0.34",
+          "urls": [
+            "https://apkpure.com/cn/dreamdale-fairy-adventure/com.dream.dale/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.dream.dale.gm64",
+              "vercode": 1,
+              "lastUpdate": 1701448913738,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.dream.dale/vc_full/com.dream.dale.gm64.v1.mod",
+              "labels": {
+                "en": "GodForDreamDale",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Save_Money_Save_Life",
+                "zh": "适当使用防肝防氪（+免广告）"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.ChillyRoom.DungeonShooter",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ChillyRoom.DungeonShooter/icon.png",
       "labels": {

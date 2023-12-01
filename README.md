@@ -31,6 +31,7 @@ README
 
 |游戏更新时间|语言|渠道|下载|游戏版本|MOD匹配|备注说明|
 | -------------- | ---------- |---------- | ------------ | ------------ | -------------| --------|
+|2023.11.30|中/英|谷歌市场|[我的梦幻小岛](https://apkpure.com/cn/dreamdale-fairy-adventure/com.dream.dale/download "下载跳转") |1.0.34|通用|中国区手机启动选项用【屏蔽谷歌框架】，很魔性的游戏，上手就停不下来的那种|
 |2023.11.30|中/英|谷歌市场|[元气骑士](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |5.5.0|通用|手机没有谷歌市场的，游戏中有小概率闪退，启动选项用虚拟谷歌框架可以减少闪退现象|
 |2023.11.30|中/英|凉屋官网|[元气骑士](http://www.chillyroom.com/zh "下载跳转") |5.5.0|通用|实名认证很烦，但是跑在中国版手机系统里不会闪退|
 |2023.11.22|中/英|谷歌市场|[死亡突围：僵尸战争](https://apkpure.com/cn/dead-ahead-zombie-warfare/com.mobirate.DeadAheadTactics/download "下载跳转") |3.9.3|**专用**| 老游戏了，懂得都懂|
