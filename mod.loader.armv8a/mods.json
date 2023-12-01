@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.mobirate.DeadAheadTactics",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.mobirate.DeadAheadTactics/icon.png",
+      "labels": {
+        "en": "Dead Ahead Zombie Warfare",
+        "zh": "死亡突围：僵尸战争"
+      },
+      "versions": [
+        {
+          "vercode": 397,
+          "vername": "3.9.3",
+          "urls": [
+            "https://apkpure.com/cn/dead-ahead-zombie-warfare/com.mobirate.DeadAheadTactics/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.gameassist.plugin.DeadAheadTactics.gm64",
+              "vercode": 1,
+              "lastUpdate": 1701407719214,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.mobirate.DeadAheadTactics/vc397/com.gameassist.plugin.DeadAheadTactics.gm64.v1.mod",
+              "labels": {
+                "en": "GodForDeadAhead",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "pl.idreams.skyforcehd",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/pl.idreams.skyforcehd/icon.png",
       "labels": {
@@ -29,8 +62,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "Over 10 awesome features",
-                "zh": "超过10种超酷功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -62,8 +95,8 @@
                 "zh": "三消王者"
               },
               "descs": {
-                "en": "awesome win match3",
-                "zh": "三消胜利大奖励"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -85,8 +118,8 @@
                 "zh": "三消王者"
               },
               "descs": {
-                "en": "awesome win match3",
-                "zh": "三消胜利大奖励"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -108,8 +141,8 @@
                 "zh": "三消王者"
               },
               "descs": {
-                "en": "awesome",
-                "zh": "三消胜利大奖励"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -141,8 +174,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "CoolMod",
-                "zh": "免广告+超爽功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪（+免广告）"
               }
             }
           ]
@@ -174,8 +207,8 @@
                 "zh": "土豪模式"
               },
               "descs": {
-                "en": "Unlimited",
-                "zh": "海量金币、星星、道具无限用"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -197,8 +230,8 @@
                 "zh": "土豪模式"
               },
               "descs": {
-                "en": "Unlimited",
-                "zh": "海量金币、星星、道具无限用"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -220,8 +253,8 @@
                 "zh": "土豪模式"
               },
               "descs": {
-                "en": "lots of coin, lots of star, inf boosters",
-                "zh": "海量金币、星星、道具无限用"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -253,8 +286,8 @@
                 "zh": "土豪模式"
               },
               "descs": {
-                "en": "How rich I am !",
-                "zh": "超级富豪"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -276,8 +309,8 @@
                 "zh": "土豪模式"
               },
               "descs": {
-                "en": "How rich I am !",
-                "zh": "超级富豪"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -299,8 +332,8 @@
                 "zh": "土豪模式"
               },
               "descs": {
-                "en": "How rich I am !",
-                "zh": "土豪不差钱"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -333,7 +366,7 @@
               },
               "descs": {
                 "en": "So Cool So Awesome",
-                "zh": "v2免广告+6功能"
+                "zh": "适当使用防肝防氪（+免广告）"
               }
             },
             {
@@ -346,8 +379,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "SoCool",
-                "zh": "v1免广告+2功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪（+免广告）"
               }
             }
           ]
@@ -379,8 +412,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "SoCool",
-                "zh": "必备的功能都有"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -412,8 +445,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "more than 10 awesome features",
-                "zh": "超过10种牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -435,8 +468,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "more than 10 awesome features",
-                "zh": "超过10种牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -468,8 +501,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "more than 30 awesome features",
-                "zh": "超过30种牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -501,8 +534,8 @@
                 "zh": "解压模式"
               },
               "descs": {
-                "en": "SoCool",
-                "zh": "离线解压用，别联机"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪（建议离线模式玩）"
               }
             }
           ]
@@ -534,8 +567,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "SoCool",
-                "zh": "玩起来更爽"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -567,8 +600,8 @@
                 "zh": "免费道具"
               },
               "descs": {
-                "en": "Boosters in match3 are free!",
-                "zh": "三消道具免费用"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -600,8 +633,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "Super Cool",
-                "zh": "超级无敌暴爽"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -633,8 +666,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "Less than 10 awesome features",
-                "zh": "不到10个牛B功能😓"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -666,8 +699,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "more than 30 awesome features",
-                "zh": "超过30种牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -699,8 +732,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "more than 20 awesome features",
-                "zh": "超过20种牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -732,8 +765,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "More than 10 awesome features",
-                "zh": "超过10项牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -765,8 +798,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "Unlimited Battle",
-                "zh": "无限制自由格斗"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -798,8 +831,8 @@
                 "zh": "超级模式"
               },
               "descs": {
-                "en": "FullGame+awesome feature",
-                "zh": "完整版+必备功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -827,12 +860,12 @@
               "lastUpdate": 1698228665403,
               "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.xigmaGames.thebonfire2/vc_full/com.xigmaGames.thebonfire2.gm.v1.mod",
               "labels": {
-                "en": "GOD MODE",
+                "en": "GOD MOD",
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "awesome",
-                "zh": "全能修改"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -860,12 +893,12 @@
               "lastUpdate": 1698246266048,
               "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.xigmagames.thebonfireFL/vc_full/com.xigmagames.thebonfireFL.gm.v1.mod",
               "labels": {
-                "en": "GOD MODE",
+                "en": "GOD MOD",
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "AWESOME",
-                "zh": "全能修改"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -893,12 +926,12 @@
               "lastUpdate": 1701340802127,
               "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.popcap.pvz2cthdbk/vc1440/com.popcap.pvz2cthdbk.gm.v2.mod",
               "labels": {
-                "en": "上帝模式",
+                "en": "GodMod",
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "超过10项牛B功能",
-                "zh": "超过10项牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -920,8 +953,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "More than 10 awesome features",
-                "zh": "超过10项牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -953,8 +986,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "More_than_10_useful_funcs",
-                "zh": "超过10项牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -976,8 +1009,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "More_than_10_useful_funcs",
-                "zh": "超过10种牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -1000,8 +1033,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "more than 10 awesome features",
-                "zh": "超过10项牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -1033,8 +1066,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "AWESOME",
-                "zh": "完美童年必备"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -1066,8 +1099,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "more than 20 awesome features",
-                "zh": "超过20种牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -1099,8 +1132,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "more than 15 awesome features",
-                "zh": "超过15种牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -1132,8 +1165,8 @@
                 "zh": "土豪模式"
               },
               "descs": {
-                "en": "Unlimited booster",
-                "zh": "道具使用不减"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -1165,8 +1198,8 @@
                 "zh": "无限道具"
               },
               "descs": {
-                "en": "Inf booster",
-                "zh": "无限道具：使用不减反加"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -1198,8 +1231,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "more than 15 awesome features",
-                "zh": "超过15种牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
@@ -1233,8 +1266,8 @@
                 "zh": "上帝模式"
               },
               "descs": {
-                "en": "more than 15 awesome features",
-                "zh": "超过15种牛B功能"
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
               }
             }
           ]
