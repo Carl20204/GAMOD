@@ -5,6 +5,63 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.ChillyRoom.DungeonShooter",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ChillyRoom.DungeonShooter/icon.png",
+      "labels": {
+        "en": "Soul Knight",
+        "zh": "元气骑士"
+      },
+      "versions": [
+        {
+          "vercode": 50500,
+          "vername": "5.5.0",
+          "urls": [
+            "https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download",
+            "http://www.chillyroom.com/zh"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ChillyRoom.DungeonShooter.godmod",
+              "vercode": 2,
+              "lastUpdate": 1701432828131,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ChillyRoom.DungeonShooter/vc_full/com.ChillyRoom.DungeonShooter.godmod.v2.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 50453,
+          "vername": "5.4.5",
+          "urls": [
+            "https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ChillyRoom.DungeonShooter.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697090922812,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ChillyRoom.DungeonShooter/vc_full/com.ChillyRoom.DungeonShooter.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.mobirate.DeadAheadTactics",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.mobirate.DeadAheadTactics/icon.png",
       "labels": {
@@ -694,39 +751,6 @@
               "vercode": 1,
               "lastUpdate": 1697161911116,
               "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.zhmr.gp/vc_full/com.chillyroom.zhmr.gp.godmod.v1.mod",
-              "labels": {
-                "en": "GODMODE",
-                "zh": "上帝模式"
-              },
-              "descs": {
-                "en": "Proper use, save ur money and life",
-                "zh": "适当使用防肝防氪"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "pkgname": "com.ChillyRoom.DungeonShooter",
-      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ChillyRoom.DungeonShooter/icon.png",
-      "labels": {
-        "en": "Soul Knight",
-        "zh": "元气骑士"
-      },
-      "versions": [
-        {
-          "vercode": 50453,
-          "vername": "5.4.5",
-          "urls": [
-            "https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download"
-          ],
-          "mods": [
-            {
-              "pkgname": "com.ChillyRoom.DungeonShooter.godmod",
-              "vercode": 1,
-              "lastUpdate": 1697090922812,
-              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ChillyRoom.DungeonShooter/vc_full/com.ChillyRoom.DungeonShooter.godmod.v1.mod",
               "labels": {
                 "en": "GODMODE",
                 "zh": "上帝模式"

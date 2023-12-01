@@ -31,6 +31,8 @@ README
 
 |游戏更新时间|语言|渠道|下载|游戏版本|MOD匹配|备注说明|
 | -------------- | ---------- |---------- | ------------ | ------------ | -------------| --------|
+|2023.11.30|中/英|谷歌市场|[元气骑士](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |5.5.0|通用|手机没有谷歌市场的，游戏中有小概率闪退，启动选项用虚拟谷歌框架可以减少闪退现象|
+|2023.11.30|中/英|凉屋官网|[元气骑士](http://www.chillyroom.com/zh "下载跳转") |5.5.0|通用|实名认证很烦，但是跑在中国版手机系统里不会闪退|
 |2023.11.22|中/英|谷歌市场|[死亡突围：僵尸战争](https://apkpure.com/cn/dead-ahead-zombie-warfare/com.mobirate.DeadAheadTactics/download "下载跳转") |3.9.3|**专用**| 老游戏了，懂得都懂|
 |2023.11.22|中|拓维官网|[植物大战僵尸2](http://game.talkweb.com.cn/ "下载跳转") |3.2.6|**专用**| 中国版本，要实名认证！百度“2023身份证号大全”找了个背锅的|
 |2023.11.22|英|谷歌市场|[植物大战僵尸2](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") |11.0.1|**专用**| EA氪金太狠，不用MOD想把全植物收集全升满级简直不可能|
@@ -48,7 +50,6 @@ README
 |2023.10.30|中/英|谷歌市场|[貓咪大戰爭](https://apkpure.com/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download "下载跳转") |12.7.0|**专用**|700多张猫卡？不氪金怎么收集？ |
 |2023.10.27|中/英|谷歌市场|[蛇蛇贪吃](https://apkpure.com/cn/sssnaker/com.habby.sssnaker/download "下载跳转") |1.1.8|通用|《弓箭传说》《弹壳特攻队》《砰砰法师》《蛇蛇贪吃》habby出品，还有哪些爆款？MOD免广告+个性化功能自己体验。|
 |2023.10.27|中/英|谷歌市场|[吸血鬼幸存者](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") |1.7.103|通用[未测]|引爆了幸存者玩法，只是作为恶魔城月下夜想曲的同人作品，画面不如后来者优秀|
-|2023.10.26|中/英|谷歌市场|[元气骑士](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |5.4.8|通用|64位闪退可以用32位版本，多少年了，你的童年还在不？|
 |2023.10.26|中/英|谷歌市场|[迷宫传说2](https://apkpure.com/cn/labyrinth-legend-ii/com.ShinobiGames.InfiniteW/download "下载跳转") |1.0.21|通用|刷刷刷，不用MOD玩起来不爽|
 |2023.10.25|中/英|谷歌市场|[哥布林弹球](https://apkpure.com/cn/peglin-a-pachinko-roguelike/com.RedNexusGamesInc.Peglin/download "下载跳转") |0.9.34|通用|杀戮尖塔的爬塔肉鸽游戏，玩法很不错|
 |2023.10.12|英|谷歌市场|[糖果粉碎传奇](https://apkpure.com/cn/candy-crush-saga/com.king.candycrushsaga "下载跳转") |1.263.1.1|**专用**| 暴雪收购的King发家之作，不氪金难度太大|
