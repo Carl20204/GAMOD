@@ -1297,6 +1297,39 @@
       ]
     },
     {
+      "pkgname": "com.halfbrick.colossatroncc",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.halfbrick.colossatroncc/icon.png",
+      "labels": {
+        "en": "Colossatron Cosmic Crisis",
+        "zh": "庞然巨物：宇宙危机"
+      },
+      "versions": [
+        {
+          "vercode": 677359,
+          "vername": "1.0.3",
+          "urls": [
+            "https://apkpure.com/cn/colossatron-cosmic-crisis/com.halfbrick.colossatroncc/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.halfbrick.colossatroncc.gm64",
+              "vercode": 1,
+              "lastUpdate": 1701483462390,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.halfbrick.colossatroncc/vc_full/com.halfbrick.colossatroncc.gm64.v1.mod",
+              "labels": {
+                "en": "GodForColossatronCC",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Save_Money_Save_Life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "jp.konami.epjCastlevania2",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/jp.konami.epjCastlevania2/icon.png",
       "labels": {

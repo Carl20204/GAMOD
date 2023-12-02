@@ -53,6 +53,7 @@ README
 |2023.10.27|中/英|谷歌市场|[吸血鬼幸存者](https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download "下载跳转") |1.7.103|通用[未测]|引爆了幸存者玩法，只是作为恶魔城月下夜想曲的同人作品，画面不如后来者优秀|
 |2023.10.26|中/英|谷歌市场|[迷宫传说2](https://apkpure.com/cn/labyrinth-legend-ii/com.ShinobiGames.InfiniteW/download "下载跳转") |1.0.21|通用|刷刷刷，不用MOD玩起来不爽|
 |2023.10.25|中/英|谷歌市场|[哥布林弹球](https://apkpure.com/cn/peglin-a-pachinko-roguelike/com.RedNexusGamesInc.Peglin/download "下载跳转") |0.9.34|通用|杀戮尖塔的爬塔肉鸽游戏，玩法很不错|
+|2023.10.19|英|谷歌市场|[庞然巨物：宇宙危机](https://apkpure.com/cn/colossatron-cosmic-crisis/com.halfbrick.colossatroncc/download "下载跳转") |1.0.3|通用|蛇蛇贪吃这个【魔改版】都爆火快1年了，Halfbrick才想起原型是他N年前的神作【庞然巨物】。PS：不想注册Halfbrick+账号，只要开启mod任一功能，再次进入游戏就不会要求登录了|
 |2023.10.12|英|谷歌市场|[糖果粉碎传奇](https://apkpure.com/cn/candy-crush-saga/com.king.candycrushsaga "下载跳转") |1.263.1.1|**专用**| 暴雪收购的King发家之作，不氪金难度太大|
 |2023.10.11|中/英|谷歌市场|[篝火1·被遗忘的土地](https://apkpure.com/cn/the-bonfire-forsaken-lands/com.xigmagames.thebonfireFL/download "下载跳转") |2.9|通用|流程太短，10天左右就能通关了|
 |2023.10.10|中/英|谷歌市场|[篝火2·未知海岸](https://apkpure.com/cn/the-bonfire-2-uncharted-shores/com.xigmaGames.thebonfire2/download "下载跳转") |189.0.4|通用|延续1的创意，各方面素质大幅提升|
