@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.brotato.shooting.survivors.action.roguelike",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.brotato.shooting.survivors.action.roguelike/icon.png",
+      "labels": {
+        "en": "Brotato",
+        "zh": "土豆兄弟"
+      },
+      "versions": [
+        {
+          "vercode": 1030210,
+          "vername": "1.3.210",
+          "urls": [
+            "https://apkpure.com/cn/brotato/com.brotato.shooting.survivors.action.roguelike/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.brotato.shooting.survivors.action.roguelike.gm64",
+              "vercode": 1,
+              "lastUpdate": 1701600017561,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.brotato.shooting.survivors.action.roguelike/vc1030210/com.brotato.shooting.survivors.action.roguelike.gm64.v1.mod",
+              "labels": {
+                "en": "GodForBrotato",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Save_Money_Save_Life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.dream.dale",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.dream.dale/icon.png",
       "labels": {

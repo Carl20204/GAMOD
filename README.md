@@ -37,6 +37,7 @@ README
 |2023.11.22|中/英|谷歌市场|[死亡突围：僵尸战争](https://apkpure.com/cn/dead-ahead-zombie-warfare/com.mobirate.DeadAheadTactics/download "下载跳转") |3.9.3|**专用**| 老游戏了，懂得都懂|
 |2023.11.22|中|拓维官网|[植物大战僵尸2](http://game.talkweb.com.cn/ "下载跳转") |3.2.6|**专用**| 中国版本，要实名认证！百度“2023身份证号大全”找了个背锅的|
 |2023.11.22|英|谷歌市场|[植物大战僵尸2](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") |11.0.1|**专用**| EA氪金太狠，不用MOD想把全植物收集全升满级简直不可能|
+|2023.11.21|中/英|谷歌市场|[土豆兄弟](https://apkpure.com/cn/brotato/com.brotato.shooting.survivors.action.roguelike/download "下载跳转") |1.3.210|专用|玩起来很上头，但还是开着MOD玩更爽一些|
 |2023.11.19|中/英|谷歌市场|[奇屋寻踪](https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download "下载跳转") |4.5.5|专用|playrix出品，基础素质还是蛮高的，自家的梦幻家园 + 寻物玩法，节奏比梦幻家园快，玩起来舒服许多|
 |2023.11.17|中/英|谷歌市场|[弓箭传说](https://apkpure.com/cn/archero/com.habby.archero/download "下载跳转") |5.5.0| 通用|《弓箭传说》《弹壳特攻队》《砰砰法师》《蛇蛇贪吃》habby出品，还有哪些爆款？|
 |2023.11.14|中/英|谷歌市场|[梦幻花园](https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download "下载跳转") |7.4.6|**专用**|刷各种小排行榜用吧|
