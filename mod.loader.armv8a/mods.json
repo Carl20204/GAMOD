@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.time.trigger",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.time.trigger/icon.png",
+      "labels": {
+        "en": "Johnny Trigger",
+        "zh": "神枪手强尼"
+      },
+      "versions": [
+        {
+          "vercode": 287,
+          "vername": "1.12.32",
+          "urls": [
+            "https://apkpure.com/cn/johnny-trigger-action-shooter/com.time.trigger/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.time.trigger.gm64",
+              "vercode": 1,
+              "lastUpdate": 1701663899392,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.time.trigger/vc_full/com.time.trigger.gm64.v1.mod",
+              "labels": {
+                "en": "GodForTimeTrigger",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Save_Money_Save_Life",
+                "zh": "适当使用防肝防氪（+免广告）"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.savetheworld.game",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.savetheworld.game/icon.png",
       "labels": {
@@ -30,7 +63,7 @@
               },
               "descs": {
                 "en": "Save_Money_Save_Life",
-                "zh": "适当使用防肝防氪"
+                "zh": "适当使用防肝防氪（+免广告）"
               }
             }
           ]
