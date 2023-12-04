@@ -34,6 +34,7 @@ README
 |2023.11.30|中/英|谷歌市场|[我的梦幻小岛](https://apkpure.com/cn/dreamdale-fairy-adventure/com.dream.dale/download "下载跳转") |1.0.34|通用|中国区手机启动选项用【屏蔽谷歌框架】，很魔性的游戏，上手就停不下来的那种|
 |2023.11.30|中/英|谷歌市场|[元气骑士](https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download "下载跳转") |5.5.0|通用|手机没有谷歌市场的，游戏中有小概率闪退，启动选项用虚拟谷歌框架可以减少闪退现象|
 |2023.11.30|中/英|凉屋官网|[元气骑士](http://www.chillyroom.com/zh "下载跳转") |5.5.0|通用|实名认证很烦，但是跑在中国版手机系统里不会闪退|
+|2023.11.26|中/英|谷歌市场|[我的小小宇宙](https://apkpure.com/cn/my-little-universe/com.savetheworld.game/download "下载跳转") |2.4.0|通用|相比《我的梦幻小岛》，更专注于收集、建设，用MOD去掉广告后，玩起来更流畅，更魔性上头|
 |2023.11.22|中/英|谷歌市场|[死亡突围：僵尸战争](https://apkpure.com/cn/dead-ahead-zombie-warfare/com.mobirate.DeadAheadTactics/download "下载跳转") |3.9.3|**专用**| 老游戏了，懂得都懂|
 |2023.11.22|中|拓维官网|[植物大战僵尸2](http://game.talkweb.com.cn/ "下载跳转") |3.2.6|**专用**| 中国版本，要实名认证！百度“2023身份证号大全”找了个背锅的|
 |2023.11.22|英|谷歌市场|[植物大战僵尸2](https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download "下载跳转") |11.0.1|**专用**| EA氪金太狠，不用MOD想把全植物收集全升满级简直不可能|

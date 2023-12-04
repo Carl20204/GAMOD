@@ -5,6 +5,39 @@
   "author": "Carl20204",
   "Packages": [
     {
+      "pkgname": "com.savetheworld.game",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.savetheworld.game/icon.png",
+      "labels": {
+        "en": "My Universe",
+        "zh": "我的小小宇宙"
+      },
+      "versions": [
+        {
+          "vercode": 141,
+          "vername": "2.4.0",
+          "urls": [
+            "https://apkpure.com/cn/my-little-universe/com.savetheworld.game/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.savetheworld.game.gm64",
+              "vercode": 1,
+              "lastUpdate": 1701661382970,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.savetheworld.game/vc_full/com.savetheworld.game.gm64.v1.mod",
+              "labels": {
+                "en": "GodForLittleUniverse",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Save_Money_Save_Life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "pkgname": "com.brotato.shooting.survivors.action.roguelike",
       "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.brotato.shooting.survivors.action.roguelike/icon.png",
       "labels": {
