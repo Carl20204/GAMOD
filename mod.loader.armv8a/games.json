@@ -1,0 +1,41 @@
+{
+  "games": [
+    {
+      "time": 1703116800001,
+      "pkgname": "com.brotato.shooting.survivors.action.roguelike",
+      "label": "土豆兄弟"
+    },{
+      "time": 1702512000000,
+      "pkgname": "com.ChillyRoom.DungeonShooter",
+      "label": "元气骑士"
+    },{
+      "time": 1703030400003,
+      "pkgname": "com.dream.dale",
+      "label": "我的梦幻小岛"
+    },{
+      "time": 1700611200000,
+      "pkgname": "com.ea.game.pvz2_na",
+      "label": "植物大战僵尸2：国际版"
+    },{
+      "time": 1691712000000,
+      "pkgname": "com.ea.game.pvzfree_row",
+      "label": "植物大战僵尸1：国际版"
+    },{
+      "time": 1702857600001,
+      "pkgname": "com.habby.sssnaker",
+      "label": "蛇蛇贪吃：国际版"
+    },{
+      "time": 1704240000000,
+      "pkgname": "com.savetheworld.game",
+      "label": "我的小小宇宙"
+    },{
+      "time": 1704240000000,
+      "pkgname": "com.time.trigger",
+      "label": "神枪手强尼"
+    },{
+      "time": 1702252800000,
+      "pkgname": "jp.co.ponos.battlecatstw",
+      "label": "猫咪大战争"
+    }
+  ]
+}
