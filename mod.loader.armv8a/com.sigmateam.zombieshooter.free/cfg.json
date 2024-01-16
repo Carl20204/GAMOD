@@ -1,0 +1,42 @@
+{
+  "time": 1704844800000,
+  "label": "孤单枪手：丧尸",
+  "pkgname": "com.sigmateam.zombieshooter.free",
+  "publisher": "8Floor Games",
+  "vername": "3.4.4",
+  "vercode": 1106,
+  "gms":1,
+  "tags": [
+    "英文",
+    "可离线",
+    "塔防",
+    "收集"
+  ],
+  "signmd5":"4EE28995A6A6B19D30BDE87B175D1B2F",
+  "info": "<font color=\"#ff0000\">孤单枪手</font>系列，是你的童年，你的青春不？<br><br>此版本敌人为丧尸系，一样还是尸山血海。",
+  "faqs": {
+    "孤单枪手系列在手机上有多少部游戏？": "由8Floor Games代理发行的《孤单枪手》系列，在谷歌市场上有五部作品：<br>孤单枪手2：传奇<br>孤单枪手：世界<br>孤单枪手：塔防<br>孤单枪手：失落城市<br>孤单枪手：丧尸"
+  },
+  "downloads": [
+    {
+      "host": "apkpure.net[翻墙]",
+      "url": "https://apkpure.net/cn/zombie-shooter/com.sigmateam.zombieshooter.free/download"
+    }
+  ],
+  "archs": [
+    "arm64-v8a"
+  ],
+  "mod": true,
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "独立可调节菜单，主要以解压功能为主。",
+        "可自定义调节生命强化、速度强化、幸运强化、枪械强化、僚机强化"
+      ],
+      "pkgname": "com.sigmateam.zombieshooter.free.gm64",
+      "targetvc":"1106",
+      "vercode": 1
+    }
+  ]
+}
