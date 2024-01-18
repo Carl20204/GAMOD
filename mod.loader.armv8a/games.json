@@ -26,7 +26,10 @@
       "label": "神枪手强尼"
     },{
       "pkgname": "com.sigmateam.zombieshooter.free",
-      "label": "孤单枪手：丧尸"
+      "label": "孤胆枪手：丧尸"
+    },{
+      "pkgname": "com.sigmateam.alienshooter2",
+      "label": "孤胆枪手2：传奇"
     }
   ]
 }
