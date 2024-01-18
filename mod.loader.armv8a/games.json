@@ -30,6 +30,12 @@
     },{
       "pkgname": "com.sigmateam.alienshooter2",
       "label": "孤胆枪手2：传奇"
+    },{
+      "pkgname": "com.sigmateam.alienshootermobile.free",
+      "label": "孤胆枪手：世界"
+    },{
+      "pkgname": "com.sigmateam.alienshooter.towerdefence",
+      "label": "孤胆枪手：塔防"
     }
   ]
 }
