@@ -22,7 +22,6 @@
   },
   "downloads": [
     {
-      "same": true,
       "host": "apkpure[翻墙]",
       "url": "https://d.apkpure.net/b/XAPK/com.sigmateam.alienshootermobile.free?versionCode=1185"
     }
@@ -35,8 +34,9 @@
     {
       "name": "上帝模式",
       "descs": [
-        "独立可调节菜单十几项功能，主要以解压为主。",
-        "可自定义调节玩家的生命、速度、幸运，武器的射速、装弹、范围、僚机射速、威力等。"
+        "独立可调节菜单十几项功能，有效防肝防氪，日常解压。",
+        "可自定义调节玩家的生命、速度、幸运，武器的射速、装弹、范围、僚机射速、威力等。玩起来就一个爽字。",
+        "商店1能量兑换1抽奖券，十连抽又可以抽出几百能量，代币越抽越多……"
       ],
       "pkgname": "com.sigmateam.alienshootermobile.free.gm64",
       "targetvc":"1185",
