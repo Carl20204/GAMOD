@@ -1,0 +1,45 @@
+{
+  "time": 1702857600001,
+  "label": "悬疑庄园",
+  "pkgname": "com.playrix.mysterymatters",
+  "publisher": "Playrix",
+  "vername": "1.7.0",
+  "vercode": 10001700,
+  "gms":1,
+  "tags": [
+    "中文",
+    "可离线",
+    "休闲",
+    "三消",
+    "装饰",
+    "寻物",
+    "解密"
+  ],
+  "signmd5":"FC3EE3B17F7A2483353FA54F0778794F",
+  "info": "<font color=\"#ff0000\">《梦幻家园》《梦幻花园》</font>类，如果喜欢益智休闲类游戏，喜欢三消，喜欢解密，喜欢装饰，喜欢寻物或找不同，本作就是集多种休闲玩法于一体的作品。",
+  "downloads": [
+    {
+      "host": "apkpure下载页[翻墙]",
+      "url": "https://apkpure.net/cn/mystery-matters/com.playrix.mysterymatters/download/1.7.0"
+    },
+    {
+      "host": "apkpure直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/XAPK/com.playrix.mysterymatters?versionCode=10001700&nc=arm64-v8a&sv=21"
+    }
+  ],
+  "archs": [
+    "arm64-v8a"
+  ],
+  "mod": true,
+  "mods": [
+    {
+      "name": "休闲模式",
+      "descs": [
+        "三消局中的道具无限使用，主打的就是一个休闲"
+      ],
+      "pkgname": "com.playrix.mysterymatters.gm64",
+      "targetvc":"10001700",
+      "vercode": 2
+    }
+  ]
+}
