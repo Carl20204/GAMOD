@@ -36,6 +36,12 @@
     },{
       "pkgname": "com.sigmateam.alienshooter.towerdefence",
       "label": "孤胆枪手：塔防"
+    },{
+      "pkgname": "com.playrix.mysterymatters",
+      "label": "悬疑庄园"
+    },{
+      "pkgname": "com.playrix.gardenscapes",
+      "label": "梦幻花园"
     }
   ]
 }
