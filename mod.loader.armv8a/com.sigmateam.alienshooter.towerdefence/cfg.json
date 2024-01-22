@@ -1,19 +1,14 @@
 {
-  "time": 1692748800000,
+  "time": 1692748800001,
   "label": "孤胆枪手：塔防",
   "pkgname": "com.sigmateam.alienshooter.towerdefence",
   "publisher": "8Floor Games",
   "vername": "1.7.2",
   "vercode": 69,
   "gms":2,
-  "tags": [
-    "英文",
-    "可离线",
-    "塔防",
-    "经典IP",
-    "尸山血海",
-    "开箱抽卡"
-  ],
+  "archs": ["arm64-v8a"],
+  "mod": true,
+  "tags": ["英文","可离线","塔防","经典IP","尸山血海","开箱抽卡"],
   "signmd5":"4EE28995A6A6B19D30BDE87B175D1B2F",
   "info": "<font color=\"#ff0000\">孤胆枪手</font>改编的塔防游戏。<br><br>孤胆枪手粉丝向作品，第一次见到塔防游戏要买子弹的设定，这个创新好不好，就仁者见仁智者见智了。",
   "faqs": {
@@ -21,14 +16,13 @@
   },
   "downloads": [
     {
-      "host": "apkpure[翻墙]",
+      "host": "apkpure下载页[翻墙]",
+      "url": "https://apkpure.net/cn/alien-shooter-td/com.sigmateam.alienshooter.towerdefence/download/1.7.2"
+    },{
+      "host": "apkpure直链下载[翻墙]",
       "url": "https://d.apkpure.net/b/XAPK/com.sigmateam.alienshooter.towerdefence?versionCode=69"
     }
   ],
-  "archs": [
-    "arm64-v8a"
-  ],
-  "mod": true,
   "mods": [
     {
       "name": "上帝模式",
@@ -41,5 +35,6 @@
       "targetvc":"69",
       "vercode": 1
     }
+  ]
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "time": 1695686400001,
+  "label": "元素世界",
+  "pkgname": "julyhot.elementalworld",
+  "publisher": "SoulGlen Games",
+  "vername": "2.0.0",
+  "vercode": 56,
+  "gms":2,
+  "tags": ["国际版","中文","肉鸽","地下城"],
+  "archs": ["arm64-v8a"],
+  "signmd5":"13C322C40907ED0BA7670FA96E229045",
+  "info": "肉鸽地牢射击，《元气骑士》是更换武器，本作则是N种元素+N套皮肤+N种法术排列组合的肉鸽乐趣。<br><br>喜欢《元气骑士》此类的，一定要玩玩这款，强烈推荐的",
+  "faqs": {
+    "什么是肉鸽游戏RougeLike？": "随机地图，随机敌人，随机武器，随机强化，尽可能多的随机要素。构成了肉鸽的乐趣，但有个前提，随机要素要足够多！"
+  },
+  "downloads": [
+    {
+      "var": true,
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/elemental-world-adventure/julyhot.elementalworld/download"
+    }
+  ],
+  "urls": {
+    "https://share.feijipan.com/s/ZUUkMldE":"感谢热心玩家[ð]的分享"
+  },
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "启用后自动激活免广告",
+        "可选菜单可调节金币、钻石、经验的收益，可以少肝少氪一些。",
+        "可根据需要调整伤害、技能、速度等等，只要自己喜欢就好。",
+        "测试开关，有些彩蛋功能，需要测试员试用。"
+      ],
+      "pkgname": "julyhot.elementalworld.gm64",
+      "targetvc":"*",
+      "vercode": 2
+    }
+  ]
+}

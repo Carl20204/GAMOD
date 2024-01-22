@@ -1,0 +1,46 @@
+{
+  "time": 1705536000001,
+  "label": "我的梦幻小岛",
+  "pkgname": "com.dream.dale",
+  "publisher": "SayGames",
+  "vername": "1.0.37",
+  "vercode": 1408,
+  "signmd5":"C60E5A38566C0B31FF58EEB436E73A52",
+  "gms":1,
+  "archs": ["arm64-v8a"],
+  "tags": [ "中文", "国际版", "采集", "战斗", "建设", "低模"],
+  "info": "采集、建设、战斗，采集的获得感与建设的成就感做的很到位，但战斗方面稍微拉垮一点。<br><br>第一眼感觉是休闲游戏，玩起来才发现是硬核无底洞。<br><font color=\"#ff0000\">强烈建议更新1.0.37，之前版本的卡顿现象几乎都解决了</font>",
+  "faqs": {
+    "有时进出地下城会卡住，无法操作": "<font color=\"#ff0000\">没办法，重启游戏吧。只要重启游戏，上次卡住的地方就能跳过。<br>游戏设置里关闭触控也能改善一些。</font>",
+    "玩过，广告好多，氪金好多！": "用免广告MOD吧，没有广告，收获多多的的再玩一遍，你会发现好爽。"
+  },
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "免广告功能，带MOD启动游戏后会立即生效，所有广告奖励可以直接白嫖",
+        "带MOD启动游戏后，会自动将博物馆蓝图解锁：<br>因为游戏初期极大概率会卡在解锁【羊】图纸任务上，所以MOD直接解锁了所有蓝图任务，不影响游戏流程与体验",
+        "其它可选菜单功能，以提升收益为主，有效护肝",
+        "全物品功能，请尽量在解锁该资源后再使用，防止破坏游戏任务链"
+      ],
+      "pkgname": "com.dream.dale.gm64",
+      "targetvc":"*",
+      "vercode": 3
+    }
+  ],
+  "urls": {
+    "https://share.feijipan.com/s/uhUhKAj5":"感谢玩家[刑者 缘]的分享",
+    "https://share.feijipan.com/s/dVUhk4LY":"感谢玩家[ð]的分享",
+    "https://share.feijipan.com/s/BtUieiW1":"感谢玩家[棱]的分享"
+  },
+  "downloads": [
+    {
+      "host": "apkpure直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/APK/com.dream.dale?versionCode=1408"
+    },{
+      "var" : true,
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/dreamdale-fairy-adventure/com.dream.dale/download"
+    }
+  ]
+}

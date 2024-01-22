@@ -1,0 +1,49 @@
+{
+  "time": 1704585600001,
+  "label": "植物大战僵尸1：国际版",
+  "pkgname": "com.ea.game.pvzfree_row",
+  "publisher": "EA（美国艺电）",
+  "vername": "3.5.1",
+  "vercode": 175,
+  "gms":1,
+  "signmd5":"0B6456DC879E54303E76D6999085F1CB",
+  "tags": ["英文","可离线","塔防","经典"],
+  "archs": ["arm64-v8a"],
+  "info": "<font color=\"#ff0000\">经典中的经典</font>，建议手机常驻。<br><br>赞一下EA，2024年了，还在做优化更新的维护。最新版又修复了不少小Bug。",
+  "faqs": {
+    "声音突然消失的Bug修复了没？": "之前版本突然没声音，是因为游戏退到后台导致的。<br>1。游戏中不要主动切换到后台。<br>2。免广告防止游戏自己进后台。",
+    "那怎么免广告呢？": "你懂得，神秘MOD是干啥用的？"
+  },
+  "downloads": [
+    {
+      "author": "刑者 缘",
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/o1Ujh5ZY"
+    },{
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/hYUjzsYQ"
+    },{
+      "author": "棱",
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/7IUjgPec"
+    },{
+      "host": "apkpure直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/XAPK/com.ea.game.pvzfree_row?versionCode=175&nc=arm64-v8a&sv=19"
+    },{
+      "host": "apkpure下载页[翻墙]",
+      "url": "https://apkpure.net/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download/3.5.1"
+    }
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "启用自动生效，免广告，让游戏流畅不被打断。",
+        "可选菜单：自定义僵尸、植物强化、投掷加速、射击加速、满屏弹幕、无种植CD、无限阳光、保龄球炸弹，无脑爽就行"
+      ],
+      "pkgname": "com.ea.game.pvzfree_row.gm64",
+      "targetvc":"175",
+      "vercode": 5
+    }
+  ]
+}

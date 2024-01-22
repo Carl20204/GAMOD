@@ -1,35 +1,28 @@
 {
-  "time": 1698019200000,
+  "time": 1698019200001,
   "label": "孤胆枪手：世界",
   "pkgname": "com.sigmateam.alienshootermobile.free",
   "publisher": "8Floor Games",
   "vername": "5.9.2",
   "vercode": 1185,
   "gms":2,
-  "tags": [
-    "英文",
-    "可离线",
-    "廿年经典",
-    "动作射击",
-    "尸山血海",
-    "无双割草"
-  ],
+  "archs": ["arm64-v8a"],
+  "mod": true,
+  "tags": ["英文","可离线","动作射击","经典IP","无双割草","尸山血海","开箱抽卡"],
   "signmd5":"4EE28995A6A6B19D30BDE87B175D1B2F",
   "info": "<font color=\"#ff0000\">孤胆枪手</font>一代手机版的集大成之作。<br><br>除了2代系列外，这就是最好的版本，甚至和《孤胆枪手2传奇》在某些地方各有千秋。<br><br>就比如玩了《植物大战僵尸2》，但《植物大战僵尸1》照样好玩一样。",
   "faqs": {
-    "为啥我下载的最新版一进游戏就自动退到后台？":"本游戏有独立数据包，正版游戏必须是用含数据包的xapk格式安装的才可正常玩。<br><br>apkpure提供的正版下载链接镜像，有部分版本未提供数据包，建议下载<font color=\"#ff\">2023年10月23日发布的5.9.2版本</font>。",
-    "孤胆枪手系列出了那么多，玩哪部好？": "<b>《孤胆枪手2：传奇》</b>是必玩的，集大成之作，玩这一部就好。<br><br>若你是当你网吧里的怀旧党，建议玩<b>《孤胆枪手：世界》</b>，对PC版一代做过大幅优化后移植到安卓手机上的，即怀旧又适合手机。<br><br>如果你纯怀旧，不想搞收集、培养这一套，就单纯想回味当年PC版纯割草感觉的，建议玩<b>《孤胆枪手：丧尸（丧尸枪手）》</b>，玩法纯粹，和PC版本一样单纯。《失落之城》不建议玩，过分简陋了。"
+    "为啥我下载的最新版一进游戏就自动退到后台？":"本游戏有独立数据包，正版游戏必须是用含数据包的xapk格式安装的才可正常玩。<br><br>apkpure提供的正版下载链接镜像，有部分版本未提供数据包，建议下载<font color=\"#ff\">2023年10月25日发布的5.9.2版本</font>。"
   },
   "downloads": [
     {
-      "host": "apkpure[翻墙]",
+      "host": "apkpure下载页[翻墙]",
+      "url": "https://apkpure.net/cn/alien-shooter-world/com.sigmateam.alienshootermobile.free/download/5.9.2"
+    },{
+      "host": "apkpure直链下载[翻墙]",
       "url": "https://d.apkpure.net/b/XAPK/com.sigmateam.alienshootermobile.free?versionCode=1185"
     }
   ],
-  "archs": [
-    "arm64-v8a"
-  ],
-  "mod": true,
   "mods": [
     {
       "name": "上帝模式",

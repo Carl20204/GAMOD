@@ -1,36 +1,28 @@
 {
-  "time": 1692662400000,
+  "time": 1692662400001,
   "label": "孤单枪手：丧尸",
   "pkgname": "com.sigmateam.zombieshooter.free",
   "publisher": "8Floor Games",
   "vername": "3.4.4",
   "vercode": 1106,
   "gms":1,
-  "tags": [
-    "英文",
-    "可离线",
-    "动作射击",
-    "经典改编",
-    "无双割草",
-    "尸山血海",
-    "开箱抽卡"
-  ],
+  "archs": ["arm64-v8a"],
+  "mod": true,
+  "tags": ["英文","可离线","动作射击","经典IP","无双割草","尸山血海","开箱抽卡"],
   "signmd5":"4EE28995A6A6B19D30BDE87B175D1B2F",
   "info": "<font color=\"#ff0000\">孤单枪手</font>改编的丧尸版本。<br><br>一样的枪林弹雨，一样的尸山血海。请注意，血是红的，喜欢绿血的不要玩。",
   "faqs": {
-    "为啥我下载的最新版一进游戏就自动退到后台？":"本游戏有独立数据包，正版游戏必须是用含数据包的xapk格式安装的才可正常玩。<br><br>apkpure提供的正版下载链接镜像，有部分版本未提供数据包，建议下载<font color=\"#ff\">2023年8月22日发布的3.4.4版本</font>。",
-    "孤胆枪手系列出了那么多，玩哪部好？": "<b>《孤胆枪手2：传奇》</b>是必玩的，集大成之作，玩这一部就好。<br><br>若你是当你网吧里的怀旧党，建议玩<b>《孤胆枪手：世界》</b>，对PC版一代做过大幅优化后移植到安卓手机上的，即怀旧又适合手机。<br><br>如果你不想搞太多的收集、培养这一套，可以玩玩<b>《孤胆枪手：丧尸（丧尸枪手）》</b>，玩法相对纯粹一些。"
+    "为啥我下载的最新版一进游戏就自动退到后台？":"本游戏有独立数据包，正版游戏必须是用含数据包的xapk格式安装的才可正常玩。<br><br>apkpure提供的正版下载链接镜像，有部分版本未提供数据包，建议下载<font color=\"#ff\">2023年8月22日发布的3.4.4版本</font>。"
   },
   "downloads": [
     {
-      "host": "apkpure[翻墙]",
+      "host": "apkpure[翻墙]下载页",
+      "url": "https://apkpure.net/cn/zombie-shooter/com.sigmateam.zombieshooter.free/download/3.4.4"
+    },{
+      "host": "apkpure[翻墙]直链下载",
       "url": "https://d.apkpure.net/b/XAPK/com.sigmateam.zombieshooter.free?versionCode=1106"
     }
   ],
-  "archs": [
-    "arm64-v8a"
-  ],
-  "mod": true,
   "mods": [
     {
       "name": "上帝模式",

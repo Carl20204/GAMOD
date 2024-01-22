@@ -1,0 +1,45 @@
+{
+  "time": 1702598400001,
+  "label": "死亡突围：僵尸战争",
+  "pkgname": "com.mobirate.DeadAheadTactics",
+  "publisher": "Mobirate",
+  "vername": "3.9.4",
+  "vercode": 401,
+  "gms":1,
+  "mod": true,
+  "tags": ["中文","国际版","塔防","暴兵流","像素风"],
+  "archs": ["arm64-v8a"],
+  "info": "暴兵流塔防，同类有<font color=\"#ff\">《猫咪大战争》《合金弹头：进攻/防守》</font>，战斗核心就是保住自家基地，暴兵拆对家基地。",
+  "signmd5":"C60E5A38566C0B31FF58EEB436E73A52",
+  "faqs": {
+    "游戏启动闪退？": "<font color=\"#ff0000\">游戏有检测，请使用对应版本的MOD过检测才能正常玩</font>"
+  },
+  "downloads": [
+    {
+      "host": "apkpure直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/XAPK/com.mobirate.DeadAheadTactics?versionCode=401&nc=arm64-v8a&sv=22"
+    },{
+      "host": "apkpure下载页[翻墙]",
+      "url": "https://apkpure.net/cn/dead-ahead-zombie-warfare/com.mobirate.DeadAheadTactics/download/3.9.4"
+    }
+  ],
+  "urls": {
+    "https://share.feijipan.com/s/qhUhKUAl":"感谢玩家[刑者 缘]的分享",
+    "https://share.feijipan.com/s/ZvUhkemr":"感谢玩家[ð]的分享",
+    "https://share.feijipan.com/s/imUieuii":"感谢玩家[棱]的分享"
+  },
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "启用后自动过检测，让沙盒正常启动游戏。<font color=\"#ff\">其它可选功能请斟酌使用</font>",
+        "【护肝】加速、增伤、减伤、经验获得",
+        "【保肾】增加各代币",
+        "【解压】无CD、满水满怒，请谨慎使用"
+      ],
+      "pkgname": "com.mobirate.DeadAheadTactics.gm64",
+      "targetvc":"397",
+      "vercode": 2
+    }
+  ]
+}

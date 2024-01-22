@@ -1,0 +1,38 @@
+{
+  "time": 1702944000001,
+  "label": "成长城堡",
+  "pkgname": "com.raongames.growcastle",
+  "publisher": "RAON GAMES",
+  "vername": "1.39.6",
+  "vercode": 404,
+  "gms":1,
+  "mod": true,
+  "archs": ["arm64-v8a"],
+  "tags": ["英文","国际版","塔防","放置","卡通"],
+  "signmd5":"7C438CE5B89EA6BAA59612296BE76068",
+  "info": "卡通画风的放置塔防，内容庞大，超大的技能树，海量的道具体系，扩展养成元素巨多无比，不肝十年是别想玩透。",
+  "downloads": [
+    {
+      "var": true,
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/grow-castle-tower-defense/com.raongames.growcastle/download"
+    },
+    {
+      "host": "apkpure直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/XAPK/com.raongames.growcastle?versionCode=404&nc=arm64-v8a&sv=23"
+    }
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "可选菜单主要以提升收益为主。几百倍的金币收益，都经不起花，那种感觉你懂不？",
+        "金币、钻石、不死、无CD、满蓝，全启用都干不过去，只能自杀重来，你体验过没？",
+        "缺红钻，可以开启100%掉落最高级别装备，打最低级地下城/绿龙获得装备后换红钻即可。"
+      ],
+      "pkgname": "com.raongames.growcastle.gm64",
+      "targetvc":"*",
+      "vercode": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "time": 1702252800001,
+  "label": "貓咪大戰爭",
+  "pkgname": "jp.co.ponos.battlecatstw",
+  "publisher": "PONOS",
+  "vername": "13.0.0",
+  "vercode": 1300000,
+  "gms":1,
+  "tags": ["中文","国际版","策略塔防","开箱抽卡","暴兵流","恶搞"],
+  "archs": ["arm64-v8a"],
+  "signmd5":"FCC6E2E877BC0CCAB01E85D1DD2920F9",
+  "info": "左右对攻，暴兵流塔防。<br>本游戏的精髓，在于<font color=\"#8e1b\">二周目开启的几十种超级难度</font>玩法，此时700多张各色卡牌的培养价值开始体现，策略性开始展露",
+  "faqs": {
+    "提示无法在谷歌商店购买怎么办？": "凉拌！中国区的手机就别想氪金了，请老老实实的肝。肝不动怎么办，MOD呗！"
+  },
+  "downloads": [
+    {
+      "host": "apkpure[翻墙]直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/jp.co.ponos.battlecatstw?versionCode=1300000&nc=&sv=21"
+    },{
+      "host": "apkpure[翻墙]下载页",
+      "url": "https://apkpure.net/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download/13.0.0"
+    }
+  ],
+  "urls": {
+    "https://share.feijipan.com/s/IvUieJ4f":"感谢热心玩家[棱]的分享",
+    "https://share.feijipan.com/s/m4UhKTCt":"感谢热心玩家[刑者 缘]的分享"
+  },
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "【护肝】各种强化，可以帮你快速度过一周目发育期",
+        "【保肾】十连抽抽不停，白嫖的不香吗？",
+        "【测试】猫罐头功能生效会稍稍复杂一些，请测试员帮忙测试具体流程。"
+      ],
+      "pkgname": "jp.co.ponos.battlecatstw.gm64",
+      "targetvc":"1300000",
+      "vercode": 2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "time": 1702598400001,
+  "label": "神枪手强尼",
+  "pkgname": "com.time.trigger",
+  "publisher": "SayGames",
+  "vername": "1.12.33",
+  "vercode": 291,
+  "gms":1,
+  "mod": true,
+  "tags": ["中文","国际版","休闲","子弹时间","眼疾手快","收集"],
+  "archs": ["arm64-v8a"],
+  "info": "SayGames和Voodoo一样，都是低模休闲画风，但SayGames心气高，休闲也加上超多内容，玩起来硬核了许多。<br><br>相比SayGames出品的<font color=\"#ff\">《我的小小宇宙》《我的梦幻小岛》</font>，本作体量小多了，确实算纯休闲。",
+  "signmd5":"63CCFBB562B14049C22E0BA31D2B13A2",
+  "faqs": {
+    "对游戏第一感觉是啥？": "看名字是基努·里维斯《疾速追杀》，玩起来是《我的朋友佩德罗》，画面是VOODOO系列休闲游戏风格。",
+    "游戏核心玩法是啥？": "核心玩法是子弹时间，配合快速反应射击，关卡内容量大管饱。",
+    "有长线玩法没？": "战斗赚钱，买皮肤、买枪械、建设基地，然后继续换皮肤、换枪械，角色养成内容较少，休闲游戏嘛"
+  },
+  "downloads": [
+    {
+      "host": "apkpure[翻墙]直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.time.trigger?versionCode=291&nc=&sv=24"
+    },{
+      "var" : true,
+      "host": "apkpure[翻墙]下载页",
+      "url": "https://apkpure.net/cn/johnny-trigger-action-shooter/com.time.trigger/download"
+    }
+  ],
+  "urls": {
+    "https://share.feijipan.com/s/W1UhKB9O":"感谢热心玩家[刑者 缘]的分享",
+    "https://share.feijipan.com/s/4IUhiw0M":"感谢热心玩家[ð]的分享",
+    "https://share.feijipan.com/s/k3Uie1qr":"感谢热心玩家[棱]的分享"
+  },
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "免广告功能，MOD启动游戏后会立即生效，所有广告奖励可以直接白嫖。",
+        "菜单可选功能，主要以提升各种虚拟货币的收益为主，有效避免过度商业化导致的游戏收益率过低问题。",
+        "还有解压功能，则是无限子弹，建议装备冲锋枪扫射玩。"
+      ],
+      "pkgname": "com.time.trigger.gm64",
+      "targetvc":"*",
+      "vercode": 2
+    }
+  ]
+  ]
+}

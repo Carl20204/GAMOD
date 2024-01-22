@@ -1,0 +1,43 @@
+{
+  "time": 1705622400001,
+  "label": "元气骑士",
+  "pkgname": "com.ChillyRoom.DungeonShooter",
+  "publisher": "凉屋（ChillyRoom）",
+  "vername": "6.0.0",
+  "vercode": 60000,
+  "gms":1,
+  "tags": ["中文", "国际版", "中国版", "射击", "肉鸽" ],
+  "archs": [ "arm64-v8a" ],
+  "info": "<font color=\"#ff0000\">谁的童年，谁的情怀</font>，6.0了，N年的持续更新，海量的内容，相比同类型游戏诚意满满。",
+  "signmd5":"EC8FA0DAA69E8FFB4109B4FA6401F121",
+  "urls": {
+    "https://share.feijipan.com/s/qhUhKUAl":"小飞机网盘分享<br>感谢玩家[刑者 缘]的分享",
+    "https://share.feijipan.com/s/bRUiejsc":"小飞机网盘分享<br>感谢玩家[棱]的分享",
+    "https://share.feijipan.com/s/FTUhkcJ8":"小飞机网盘分享<br>感谢玩家[ð]的分享"
+  },
+  "faqs": {
+    "选国际版还是中国版？": "最大区别就是：国际版无需实名制，中国版有实名制",
+    "我是成年人，两个都要！": "不好意思，因为本游戏国际版与中国版使用了相同包名，导致你只能二选一，手机上只能存在一款版本。"
+  },
+  "downloads": [
+    {
+      "host": "apkpure下载页[翻墙]",
+      "url": "https://apkpure.net/cn/soul-knight/com.ChillyRoom.DungeonShooter/download/6.0.0"
+    },{
+      "host": "apkpure直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/APK/com.ChillyRoom.DungeonShooter?versionCode=60000&nc=arm64-v8a%2Carmeabi-v7a&sv=22"
+    }
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "自选菜单以防肝防氪强化解压为主",
+        "强化武器，无敌，无CD，加速，商场等等功能，对游戏本身破坏性较大，请谨慎使用按需启用。"
+      ],
+      "pkgname": "com.ChillyRoom.DungeonShooter.gm64",
+      "targetvc":"*",
+      "vercode": 4
+    }
+  ]
+}
