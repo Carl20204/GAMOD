@@ -3,7 +3,7 @@
     "en": "It is a great version! ",
     "zh": "UI大改，完成MOD的GitHub在线同步。支持MOD大佬通过MOD文件实现对游戏的介绍，离线也能通过MOD文件更新游戏配置。"
   },
-  "md5": "C8B301C9D9CC6B63C4BBC508B6E2EEE7",
+  "md5": "DFF1919A423414FFB2888A1AF3D4B548",
   "min_sdk_version": 24,
   "target_sdk_version": 26,
   "urls": [
