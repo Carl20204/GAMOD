@@ -37,6 +37,10 @@
       "pkgname": "com.sigmateam.alienshooter.towerdefence",
       "label": "孤胆枪手：塔防"
     },{
+		"time":1703203200000,
+      "pkgname": "com.playrix.manormatters",
+      "label": "奇屋寻踪"
+    },{
 		"time":1702857600001,
       "pkgname": "com.playrix.mysterymatters",
       "label": "悬疑庄园"
@@ -44,6 +48,10 @@
 		"time":1705622400000,
       "pkgname": "com.playrix.gardenscapes",
       "label": "梦幻花园"
+    },{
+		"time":1705449600000,
+      "pkgname": "com.playrix.homescapes",
+      "label": "梦幻家园"
     },{
 		"time":1702944000000,
       "pkgname": "com.raongames.growcastle",
