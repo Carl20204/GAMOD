@@ -1,6 +1,10 @@
 {
   "games": [
     {
+		"time":1705449600000,
+      "pkgname": "com.autumn.skullgirls",
+      "label": "骷髅女孩"
+    },{
       "pkgname": "com.brotato.shooting.survivors.action.roguelike",
       "label": "土豆兄弟"
     },{
