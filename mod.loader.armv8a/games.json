@@ -1,15 +1,21 @@
 {
   "games": [
     {
-		"time":1705449600000,
+	  "time":1705449600000,
       "pkgname": "com.autumn.skullgirls",
       "label": "骷髅女孩"
     },{
+	  "time": 1704773242000,
       "pkgname": "com.brotato.shooting.survivors.action.roguelike",
       "label": "土豆兄弟"
     },{
-      "pkgname": "com.ChillyRoom.DungeonShooter",
+      "time": 1705622400000,
+	  "pkgname": "com.ChillyRoom.DungeonShooter",
       "label": "元气骑士"
+    },{
+      "time": 1705536000000,
+	  "pkgname": "com.chillyroom.xenocmd",
+      "label": "异星指令"
     },{
       "pkgname": "com.dream.dale",
       "label": "我的梦幻小岛"
