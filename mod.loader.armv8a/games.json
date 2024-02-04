@@ -70,6 +70,10 @@
 		"time":1702944000000,
       "pkgname": "com.raongames.growcastle",
       "label": "成长城堡"
+    },{
+	  "time":1705449600000,
+      "pkgname": "com.RedNexusGamesInc.Peglin",
+      "label": "哥布林弹球"
     }
   ]
 }
