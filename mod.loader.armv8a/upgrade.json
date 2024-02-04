@@ -1,14 +1,14 @@
 {
-  "logs": {
-    "en": "It is a great version! ",
-    "zh": "UI大改，完成MOD的GitHub在线同步。支持MOD大佬通过MOD文件实现对游戏的介绍，离线也能通过MOD文件更新游戏配置。"
-  },
-  "md5": "DFF1919A423414FFB2888A1AF3D4B548",
-  "min_sdk_version": 24,
-  "target_sdk_version": 26,
+  "vername": "2.0.1",
   "urls": [
     "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 199,
-  "vername": "1.9.9"
+  "vercode": 201,
+  "min_sdk_version": 24,
+  "target_sdk_version": 26,
+  "md5": "B611665AEB27942D4F9651DDEA408C36",
+  "logs": {
+    "en": "2.0! Support Android 14! ",
+    "zh": "2.0正式版，支持了安卓14！支持MOD文件内置游戏信息！支持游戏活跃度统计！"
+  }
 }
