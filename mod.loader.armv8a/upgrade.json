@@ -6,9 +6,9 @@
   "vercode": 201,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "B611665AEB27942D4F9651DDEA408C36",
+  "md5": "604AA5CE3B52F1AF5BFAA9FED8BDEF71",
   "logs": {
-    "en": "2.0! Support Android 14! ",
+    "en": "2.0! Support Android 14!",
     "zh": "2.0正式版，支持了安卓14！支持MOD文件内置游戏信息！支持游戏活跃度统计！"
   }
 }
