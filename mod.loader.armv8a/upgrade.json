@@ -1,14 +1,14 @@
 {
-  "vername": "2.0.1",
+  "vername": "2.0.2",
   "urls": [
     "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 201,
+  "vercode": 202,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "604AA5CE3B52F1AF5BFAA9FED8BDEF71",
+  "md5": "53E670A081417555E0922158BC5B2DA6",
   "logs": {
-    "en": "2.0! Support Android 14!",
-    "zh": "2.0正式版，支持了安卓14！支持MOD文件内置游戏信息！支持游戏活跃度统计！"
+    "en": "2.0.2! Support Android 14！",
+    "zh": "2.0.2支持了安卓14！支持MOD文件内置游戏信息！支持游戏活跃度统计！修复之前版本的N个小Bug"
   }
 }
