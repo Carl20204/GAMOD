@@ -13,22 +13,26 @@
 	  "pkgname": "com.ChillyRoom.DungeonShooter",
       "label": "元气骑士"
     },{
-      "time": 1705536000000,
-	  "pkgname": "com.chillyroom.xenocmd",
-      "label": "异星指令"
+		"time": 1705536000000,
+		"pkgname": "com.chillyroom.xenocmd",
+		"label": "异星指令"
     },{
-      "time": 1705881600000,
-	  "pkgname": "com.chillyroom.zhmr.aligames",
-      "label": "战魂铭人"
+		"time": 1705881600000,
+		"pkgname": "com.chillyroom.zhmr.aligames",
+		"label": "战魂铭人"
     },{
-      "pkgname": "com.dream.dale",
-      "label": "我的梦幻小岛"
+		"pkgname": "com.dream.dale",
+		"label": "我的梦幻小岛"
     },{
-      "pkgname": "com.ea.game.pvz2_row",
-      "label": "植物大战僵尸2：美版"
+		"pkgname": "com.ea.game.pvz2_row",
+		"label": "植物大战僵尸2：美版"
     },{
-      "pkgname": "com.ea.game.pvzfree_row",
-      "label": "植物大战僵尸1：国际版"
+		"pkgname": "com.ea.game.pvzfree_row",
+		"label": "植物大战僵尸1：国际版"
+    },{
+		"time": 1706054400000,
+		"label": "砰砰法师",
+		"pkgname": "com.habby.punball",
     },{
 	  "time":1707124544000,
       "pkgname": "com.habby.sssnaker",
