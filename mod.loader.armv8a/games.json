@@ -39,15 +39,19 @@
       "pkgname": "com.time.trigger",
       "label": "神枪手强尼"
     },{
-      "pkgname": "com.sigmateam.zombieshooter.free",
+      "time":1692662400000,
+	  "pkgname": "com.sigmateam.zombieshooter.free",
       "label": "孤胆枪手：丧尸"
     },{
+	  "time":1692921600000,
       "pkgname": "com.sigmateam.alienshooter2",
       "label": "孤胆枪手2：传奇"
     },{
+	  "time":1698019200000,
       "pkgname": "com.sigmateam.alienshootermobile.free",
       "label": "孤胆枪手：世界"
     },{
+	  "time":1692748800000,
       "pkgname": "com.sigmateam.alienshooter.towerdefence",
       "label": "孤胆枪手：塔防"
     },{
@@ -55,7 +59,7 @@
       "pkgname": "com.playrix.manormatters",
       "label": "奇屋寻踪"
     },{
-		"time":1702857600001,
+	  "time":1702857600001,
       "pkgname": "com.playrix.mysterymatters",
       "label": "悬疑庄园"
     },{
