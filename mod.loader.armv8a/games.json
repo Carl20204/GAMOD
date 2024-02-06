@@ -34,9 +34,13 @@
 		"label": "砰砰法师",
 		"pkgname": "com.habby.punball",
     },{
-	  "time":1707124544000,
-      "pkgname": "com.habby.sssnaker",
-      "label": "蛇蛇贪吃：国际版"
+		"time":1707124544000,
+		"pkgname": "com.habby.sssnaker",
+		"label": "蛇蛇贪吃：国际版"
+    },{  
+		"time": 1706227200000,
+		"label": "死亡突围：僵尸战争",
+		"pkgname": "com.mobirate.DeadAheadTactics"
     },{
       "pkgname": "com.savetheworld.game",
       "label": "我的小小宇宙"
