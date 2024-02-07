@@ -87,6 +87,10 @@
             "pkgname": "com.RedNexusGamesInc.Peglin",
             "label": "哥布林弹球"
         }, {
+            "time": 1701043200000,
+            "label": "游戏厅物语 加强版",
+            "pkgname": "net.kairosoft.android.gamecenterdx"
+        }, {
             "time": 1706832000000,
             "label": "王都创世物语",
             "pkgname": "net.kairosoft.android.kingdom_en"
