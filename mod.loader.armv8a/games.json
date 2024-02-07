@@ -8,9 +8,13 @@
             "pkgname": "com.brotato.shooting.survivors.action.roguelike",
             "label": "土豆兄弟"
         }, {
-			"time": 1707091200000,
-			"label": "黎明前20分钟",
-			"pkgname": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp"
+            "time": 1707091200000,
+            "label": "黎明前20分钟",
+            "pkgname": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp"
+        }, {
+            "time": 1704153600000,
+            "label": "火星幸存者：火星归来",
+            "pkgname": "com.mars.leguas.a"
         }, {
             "time": 1705622400000,
             "pkgname": "com.ChillyRoom.DungeonShooter",
