@@ -4,9 +4,13 @@
             "pkgname": "com.autumn.skullgirls",
             "label": "骷髅女孩"
         }, {
-            "time": 1704773242000,
+            "time": 1707091200000,
             "pkgname": "com.brotato.shooting.survivors.action.roguelike",
             "label": "土豆兄弟"
+        }, {
+			"time": 1707091200000,
+			"label": "黎明前20分钟",
+			"pkgname": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp"
         }, {
             "time": 1705622400000,
             "pkgname": "com.ChillyRoom.DungeonShooter",
