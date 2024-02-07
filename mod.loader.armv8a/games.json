@@ -92,6 +92,22 @@
 		"label": "王都创世物语",
 		"pkgname": "net.kairosoft.android.kingdom_en"
     },{
+		"time": 1706054400000,
+		"label": "箱庭都市",
+		"pkgname": "net.kairosoft.android.miniature_en"
+    },{
+		"time": 1706745600000,
+		"label": "开罗拉面店全国篇",
+		"pkgname": "net.kairosoft.android.noodle2_en"
+    },{
+		"time": 1703030400006,
+		"label": "冲刺！赛车物语2",
+		"pkgname": "net.kairosoft.android.paddock2_en"
+    },{
+		"time": 1695254400006,
+		"label": "冠军足球2",
+		"pkgname": "net.kairosoft.android.soccer2_en"
+    },{
 	  "time":1698796800000,
       "pkgname": "pl.idreams.skyforcehd",
       "label": "傲气雄鹰2014"
