@@ -16,6 +16,10 @@
             "label": "火星幸存者：火星归来",
             "pkgname": "com.mars.leguas.a"
         }, {
+            "time": 1703116800000,
+            "label": "吸血鬼幸存者",
+            "pkgname": "com.poncle.vampiresurvivors"
+        }, {
             "time": 1705622400000,
             "pkgname": "com.ChillyRoom.DungeonShooter",
             "label": "元气骑士"
