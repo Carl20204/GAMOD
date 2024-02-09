@@ -134,6 +134,10 @@
             "time": 1678924800000,
             "pkgname": "pl.idreams.SkyForceReloaded2016",
             "label": "傲气雄鹰：重装上阵"
+        }, {
+			"time": 1706227200006,
+			"label": "暖雪",
+			"pkgname": "com.bilibili.warmsnow.aligames"
         }
     ]
 }
