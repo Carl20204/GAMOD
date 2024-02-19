@@ -36,6 +36,11 @@
             "pkgname": "com.dream.dale",
             "label": "我的梦幻小岛"
         }, {
+			"time": 1706313600000,
+            "pkgname": "com.ea.game.pvz2_na",
+            "label": "植物大战僵尸2：国际版"
+        },  {
+			"time": 1707868800000,
             "pkgname": "com.ea.game.pvz2_row",
             "label": "植物大战僵尸2：美版"
         }, {
@@ -137,9 +142,13 @@
             "pkgname": "pl.idreams.SkyForceReloaded2016",
             "label": "傲气雄鹰：重装上阵"
         }, {
-			"time": 1706227200006,
+			"time": 1706227200002,
 			"label": "暖雪",
 			"pkgname": "com.bilibili.warmsnow.aligames"
+        }, {
+		    "time": 1707091200002,
+			"label": "貓咪大戰爭",
+			"pkgname": "jp.co.ponos.battlecatstw"
         }
     ]
 }
