@@ -4,6 +4,10 @@
             "pkgname": "com.autumn.skullgirls",
             "label": "骷髅女孩"
         }, {
+			"time": 1706227200002,
+			"label": "暖雪",
+			"pkgname": "com.bilibili.warmsnow.aligames"
+        }, {
             "time": 1707091200000,
             "pkgname": "com.brotato.shooting.survivors.action.roguelike",
             "label": "土豆兄弟"
@@ -110,6 +114,14 @@
             "label": "游戏厅物语 加强版",
             "pkgname": "net.kairosoft.android.gamecenterdx"
         }, {
+            "time": 1700179200002,
+            "label": "篝火2：未知彼岸",
+            "pkgname": "com.xigmaGames.thebonfire2"
+        }, {
+            "time": 1696982400002,
+            "label": "篝火：被遗忘的土地",
+            "pkgname": "com.xigmagames.thebonfireFL"
+        }, {
             "time": 1706832000000,
             "label": "王都创世物语",
             "pkgname": "net.kairosoft.android.kingdom_en"
@@ -141,10 +153,6 @@
             "time": 1678924800000,
             "pkgname": "pl.idreams.SkyForceReloaded2016",
             "label": "傲气雄鹰：重装上阵"
-        }, {
-			"time": 1706227200002,
-			"label": "暖雪",
-			"pkgname": "com.bilibili.warmsnow.aligames"
         }, {
 		    "time": 1707091200002,
 			"label": "貓咪大戰爭",
