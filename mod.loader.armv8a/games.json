@@ -40,6 +40,13 @@
             "pkgname": "com.dream.dale",
             "label": "我的梦幻小岛"
         }, {
+			"time": 1707350400000,
+            "pkgname": "com.savetheworld.game",
+            "label": "我的小宇宙"
+        }, {
+            "pkgname": "com.time.trigger",
+            "label": "神枪手强尼"
+        }, {
 			"time": 1706313600000,
             "pkgname": "com.ea.game.pvz2_na",
             "label": "植物大战僵尸2：国际版"
@@ -62,13 +69,6 @@
             "time": 1706227200000,
             "label": "死亡突围：僵尸战争",
             "pkgname": "com.mobirate.DeadAheadTactics"
-        }, {
-			"time": 1692662400000,
-            "pkgname": "com.savetheworld.game",
-            "label": "我的小小宇宙"
-        }, {
-            "pkgname": "com.time.trigger",
-            "label": "神枪手强尼"
         }, {
             "time": 1692662400000,
             "pkgname": "com.sigmateam.zombieshooter.free",
