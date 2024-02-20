@@ -48,10 +48,14 @@
             "pkgname": "com.time.trigger",
             "label": "神枪手强尼"
         }, {
+			"time": 1707004800000,
+            "pkgname": "com.popcap.pvz2cthdbk",
+            "label": "植物大战僵尸2：中国版"
+        }, {
 			"time": 1706313600000,
             "pkgname": "com.ea.game.pvz2_na",
             "label": "植物大战僵尸2：国际版"
-        },  {
+        }, {
 			"time": 1707868800000,
             "pkgname": "com.ea.game.pvz2_row",
             "label": "植物大战僵尸2：美版"
