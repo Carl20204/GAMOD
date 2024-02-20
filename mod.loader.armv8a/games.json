@@ -44,6 +44,7 @@
             "pkgname": "com.savetheworld.game",
             "label": "我的小宇宙"
         }, {
+			"time": 1702598400000,
             "pkgname": "com.time.trigger",
             "label": "神枪手强尼"
         }, {
@@ -94,11 +95,11 @@
             "pkgname": "com.playrix.mysterymatters",
             "label": "悬疑庄园"
         }, {
-            "time": 1705622400000,
+            "time": 1707091200000,
             "pkgname": "com.playrix.gardenscapes",
             "label": "梦幻花园"
         }, {
-            "time": 1705449600000,
+            "time": 1708128000000,
             "pkgname": "com.playrix.homescapes",
             "label": "梦幻家园"
         }, {
