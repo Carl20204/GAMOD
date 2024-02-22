@@ -1,231 +1,447 @@
 {
-  "time": 1708090415006,
+  "time": 1708560000000,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
+    {
+      "pkg": "com.miaoa.ygdhk.aligames",
+      "title": "勇敢的哈克",
+      "url": "https://ugame.9game.cn/game/share-235275-3045370.html"
+    },
+    {
+      "pkg": "com.jinke.ezzzfx.aligames",
+      "title": "进击的战场",
+      "url": "https://ugame.9game.cn/game/share-235275-1121264.html"
+    },
+    {
+      "pkg": "com.bilibili.warmsnow.aligames",
+      "title": "暖雪",
+      "url": "https://ugame.9game.cn/game/share-235275-1239339.html"
+    },
+    {
+      "pkg": "com.chillyroom.zhmr.aligames",
+      "title": "战魂铭人",
+      "url": "https://ugame.9game.cn/game/share-235275-1151557.html"
+    },
+    {
+      "pkg": "com.zyqw.kdcq.aligames",
+      "title": "口袋苍穹",
+      "url": "https://ugame.9game.cn/game/share-235275-3074067.html"
+    },
+    {
+      "pkg": "com.game.jlonglss.aligames",
+      "title": "巨龙猎手",
+      "url": "https://ugame.9game.cn/game/share-235275-656362.html"
+    },
+    {
+      "pkg": "com.peakx.idlegongfu.cn.aligames",
+      "title": "我比武特牛",
+      "url": "https://ugame.9game.cn/game/share-235275-3078033.html"
+    },
+    {
+      "pkg": "com.games.hcr2.acing.aligames",
+      "title": "火柴人联盟2",
+      "url": "https://ugame.9game.cn/game/share-235275-613371.html"
+    },
+    {
+      "pkg": "com.bilibili.fgo.uc",
+      "title": "命运-冠位指定",
+      "url": "https://ugame.9game.cn/game/share-235275-733329.html"
+    },
+    {
+      "pkg": "com.hermes.p6game.aligames",
+      "title": "晶核",
+      "url": "https://ugame.9game.cn/game/share-235275-3040427.html"
+    },
+    {
+      "pkg": "com.zhaolu.games.ftg.aligames",
+      "title": "薇薇安和骑士",
+      "url": "https://ugame.9game.cn/game/share-235275-751838.html"
+    },
+    {
+      "pkg": "com.zushi.aligames",
+      "title": "最强祖师",
+      "url": "https://ugame.9game.cn/game/share-235275-3068140.html"
+    },
+    {
+      "pkg": "com.humo.yqqsqz.aligames",
+      "title": "元气骑士前传",
+      "url": "https://ugame.9game.cn/game/share-235275-1231698.html"
+    },
+    {
+      "pkg": "com.qydl.aligames",
+      "title": "奇异大陆",
+      "url": "https://ugame.9game.cn/game/share-235275-1139312.html"
+    },
+    {
+      "pkg": "com.habby.cnarchero.aligames",
+      "title": "弓箭传说",
+      "url": "https://ugame.9game.cn/game/share-235275-1154801.html"
+    },
+    {
+      "pkg": "com.tanwan.yscq.aligames",
+      "title": "原始传奇",
+      "url": "https://ugame.9game.cn/game/share-235275-1170404.html"
+    },
+    {
+      "pkg": "com.xm4399.ghyj.aligames",
+      "title": "古荒遗迹",
+      "url": "https://ugame.9game.cn/game/share-235275-1145924.html"
+    },
+    {
+      "pkg": "com.jsqq.skbj.aligames",
+      "title": "时空边际",
+      "url": "https://ugame.9game.cn/game/share-235275-763544.html"
+    },
+    {
+      "pkg": "com.habby.danke.aligames",
+      "title": "弹壳特攻队",
+      "url": "https://ugame.9game.cn/game/share-235275-3039902.html"
+    },
+    {
+      "pkg": "com.bleach.sjxh.cn.aligames",
+      "title": "境界:斩魂之刃",
+      "url": "https://ugame.9game.cn/game/share-235275-1226010.html"
+    },
+    {
+      "pkg": "com.hermes.nvwa.aligames",
+      "title": "神仙道3",
+      "url": "https://ugame.9game.cn/game/share-235275-1318377.html"
+    },
+    {
+      "pkg": "com.tgame.sgzl.aligames",
+      "title": "三国之旅",
+      "url": "https://ugame.9game.cn/game/share-235275-3066872.html"
+    },
+    {
+      "pkg": "com.taomee.seerplan.aligames",
+      "title": "赛尔计划",
+      "url": "https://ugame.9game.cn/game/share-235275-1316531.html"
+    },
+    {
+      "pkg": "com.srtt.cjby.aligames",
+      "title": "裁决霸业",
+      "url": "https://ugame.9game.cn/game/share-235275-808547.html"
+    },
+    {
+      "pkg": "com.metek.ultraman.uc",
+      "title": "奥特曼系列OL",
+      "url": "https://ugame.9game.cn/game/share-235275-575274.html"
+    },
+    {
+      "pkg": "com.szyy.pkyz.aligames",
+      "title": "跑酷勇者",
+      "url": "https://ugame.9game.cn/game/share-235275-3037639.html"
+    },
+    {
+      "pkg": "com.fyd.aligames",
+      "title": "枫叶岛",
+      "url": "https://ugame.9game.cn/game/share-235275-3048630.html"
+    },
+    {
+      "pkg": "com.hermes.h1game.aligames",
+      "title": "航海王热血航线",
+      "url": "https://ugame.9game.cn/game/share-235275-1170872.html"
+    },
+    {
+      "pkg": "com.leiting.lostcastle.aligames",
+      "title": "失落城堡",
+      "url": "https://ugame.9game.cn/game/share-235275-863055.html"
+    },
+    {
+      "pkg": "com.xyhygame.lycj.aligames",
+      "title": "烈焰裁决移动版",
+      "url": "https://ugame.9game.cn/game/share-235275-3090744.html"
+    },
+    {
+      "pkg": "com.leiting.dragonraider.aligames",
+      "title": "飞吧龙骑士",
+      "url": "https://ugame.9game.cn/game/share-235275-1298620.html"
+    },
+    {
+      "pkg": "com.leiting.szqsf.aligames",
+      "title": "神州千食舫",
+      "url": "https://ugame.9game.cn/game/share-235275-3087708.html"
+    },
+    {
+      "pkg": "com.leiting.myzr.aligames",
+      "title": "魔渊之刃",
+      "url": "https://ugame.9game.cn/game/share-235275-1083761.html"
+    },
+    {
+      "pkg": "com.hnyj.jxlmt.aligames",
+      "title": "见习猎魔团",
+      "url": "https://ugame.9game.cn/game/share-235275-1180367.html"
+    },
+    {
+      "pkg": "com.game.yttx.aligames",
+      "title": "一统天下",
+      "url": "https://ugame.9game.cn/game/share-235275-1317362.html"
+    },
+    {
+      "pkg": "com.pwrd.projectt.aligames",
+      "title": "天龙八部2：飞龙战天",
+      "url": "https://ugame.9game.cn/game/share-235275-1224507.html"
+    },
+    {
+      "pkg": "com.sy.dldlhsdj.aligames",
+      "title": "斗罗大陆：魂师对决",
+      "url": "https://ugame.9game.cn/game/share-235275-1182503.html"
+    },
+    {
+      "pkg": "com.lilithgame.sgame.aligames",
+      "title": "剑与家园",
+      "url": "https://ugame.9game.cn/game/share-235275-614366.html"
+    },
+    {
+      "pkg": "com.cmge.xxjhjwq.aligames",
+      "title": "新仙剑奇侠传之挥剑问情",
+      "url": "https://ugame.9game.cn/game/share-235275-1225582.html"
+    },
+    {
+      "pkg": "com.hanjiasongshu.jianghux2.aligames",
+      "title": "汉家江湖",
+      "url": "https://ugame.9game.cn/game/share-235275-773396.html"
+    },
+    {
+      "pkg": "com.hypnos.funplus.aligames",
+      "title": "修普诺斯",
+      "url": "https://ugame.9game.cn/game/share-235275-3040035.html"
+    },
+    {
+      "pkg": "com.xm4399.gbws.aligames",
+      "title": "果宝无双",
+      "url": "https://ugame.9game.cn/game/share-235275-3070973.html"
+    },
+    {
+      "pkg": "com.taiyouxi.tk2.aligames",
+      "title": "极无双2",
+      "url": "https://ugame.9game.cn/game/share-235275-2102172.html"
+    },
+    {
+      "pkg": "com.miHoYo.HSoDv22144.uc",
+      "title": "崩坏学院2",
+      "url": "https://ugame.9game.cn/game/share-235275-537921.html"
+    },
+    {
+      "pkg": "com.jiaotu.snbqt.aligames",
+      "title": "少年包青天",
+      "url": "https://ugame.9game.cn/game/share-235275-1021997.html"
+    },
+    {
+      "pkg": "com.fengyanyunqi.sh.xcfy.aligames",
+      "title": "烽烟云起",
+      "url": "https://ugame.9game.cn/game/share-235275-3071626.html"
+    },
+    {
+      "pkg": "com.mechanist.poi.leiting.aligames",
+      "title": "这个地下城有点怪",
+      "url": "https://ugame.9game.cn/game/share-235275-3047776.html"
+    },
+    {
+      "pkg": "com.miHoYo.bh3.uc",
+      "title": "崩坏3",
+      "url": "https://ugame.9game.cn/game/share-235275-654463.html"
+    },
+    {
+      "pkg": "com.PGSoul.BOG2.pangu.aligames",
+      "title": "古魂",
+      "url": "https://ugame.9game.cn/game/share-235275-1172569.html"
+    },
+    {
+      "pkg": "com.bilibili.zzzj.aligames",
+      "title": "重装战姬",
+      "url": "https://ugame.9game.cn/game/share-235275-811431.html"
+    },
+    {
+      "pkg": "com.yjdwb.jd.aligames",
+      "title": "妖精的尾巴：激斗",
+      "url": "https://ugame.9game.cn/game/share-235275-1226484.html"
+    },
+    {
+      "pkg": "com.r2games.myhero.aligames",
+      "title": "我的勇者",
+      "url": "https://ugame.9game.cn/game/share-235275-892136.html"
+    },
+    {
+      "pkg": "com.kn.jzlj.aligames",
+      "title": "矩阵临界：失控边缘",
+      "url": "https://ugame.9game.cn/game/share-235275-3066984.html"
+    },
+    {
+      "pkg": "com.hcg.cok.uc",
+      "title": "列王的纷争",
+      "url": "https://ugame.9game.cn/game/share-235275-537420.html"
+    },
+    {
+      "pkg": "com.bilibili.snake.aligames",
+      "title": "坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险",
+      "url": "https://ugame.9game.cn/game/share-235275-1030083.html"
+    },
     {
       "pkg": "com.hottagames.hotta.aligames",
       "title": "幻塔",
       "url": "https://ugame.9game.cn/game/share-235275-1170034.html"
-    },{
-      "pkg": "com.leiting.dragonraider.aligames",
-      "title": "飞吧龙骑士",
-      "url": "https://ugame.9game.cn/game/share-235275-1298620.html"
-    },{
-      "pkg": "com.tanwan.yscq.aligames",
-      "title": "原始传奇",
-      "url": "https://ugame.9game.cn/game/share-235275-1170404.html"
-    },{
-      "pkg": "com.zushi.aligames",
-      "title": "最强祖师",
-      "url": "https://ugame.9game.cn/game/share-235275-3068140.html"
-    },{
-      "pkg": "com.metek.ultraman.uc",
-      "title": "奥特曼系列OL",
-      "url": "https://ugame.9game.cn/game/share-235275-575274.html"
-    },{
-      "pkg": "com.hermes.p6game.aligames",
-      "title": "晶核",
-      "url": "https://ugame.9game.cn/game/share-235275-3040427.html"
-    },{
-      "pkg": "com.r2games.myhero.aligames",
-      "title": "我的勇者",
-      "url": "https://ugame.9game.cn/game/share-235275-892136.html"
-    },{
-      "pkg": "com.bilibili.snake.aligames",
-      "title": "坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险",
-      "url": "https://ugame.9game.cn/game/share-235275-1030083.html"
-    },{
-      "pkg": "com.peakx.idlegongfu.cn.aligames",
-      "title": "我比武特牛",
-      "url": "https://ugame.9game.cn/game/share-235275-3078033.html"
-    },{
-      "pkg": "com.fyd.aligames",
-      "title": "枫叶岛",
-      "url": "https://ugame.9game.cn/game/share-235275-3048630.html"
-    },{
-      "pkg": "com.hcg.cok.uc",
-      "title": "列王的纷争",
-      "url": "https://ugame.9game.cn/game/share-235275-537420.html"
-    },{
-      "pkg": "com.hnyj.jxlmt.aligames",
-      "title": "见习猎魔团",
-      "url": "https://ugame.9game.cn/game/share-235275-1180367.html"
-    },{
-      "pkg": "com.game.jlonglss.aligames",
-      "title": "巨龙猎手",
-      "url": "https://ugame.9game.cn/game/share-235275-656362.html"
-    },{
-      "pkg": "com.games.hcr2.acing.aligames",
-      "title": "火柴人联盟2",
-      "url": "https://ugame.9game.cn/game/share-235275-613371.html"
-    },{
-      "pkg": "com.miaoa.ygdhk.aligames",
-      "title": "勇敢的哈克",
-      "url": "https://ugame.9game.cn/game/share-235275-3045370.html"
-    },{
-      "pkg": "com.PGSoul.BOG2.pangu.aligames",
-      "title": "古魂",
-      "url": "https://ugame.9game.cn/game/share-235275-1172569.html"
-    },{
-      "pkg": "com.lilithgame.sgame.aligames",
-      "title": "剑与家园",
-      "url": "https://ugame.9game.cn/game/share-235275-614366.html"
-    },{
-      "pkg": "com.game.yttx.aligames",
-      "title": "一统天下",
-      "url": "https://ugame.9game.cn/game/share-235275-1317362.html"
-    },{
-      "pkg": "com.zhaolu.games.ftg.aligames",
-      "title": "薇薇安和骑士",
-      "url": "https://ugame.9game.cn/game/share-235275-751838.html"
-    },{
-      "pkg": "com.sy.dldlhsdj.aligames",
-      "title": "斗罗大陆：魂师对决",
-      "url": "https://ugame.9game.cn/game/share-235275-1182503.html"
-    },{
-      "pkg": "com.miHoYo.bh3.uc",
-      "title": "崩坏3",
-      "url": "https://ugame.9game.cn/game/share-235275-654463.html"
-    },{
-      "pkg": "com.miHoYo.HSoDv22144.uc",
-      "title": "崩坏学院2",
-      "url": "https://ugame.9game.cn/game/share-235275-537921.html"
-    },{
-      "pkg": "com.chillyroom.zhmr.aligames",
-      "title": "战魂铭人",
-      "url": "https://ugame.9game.cn/game/share-235275-1151557.html"
-    },{
-      "pkg": "com.leiting.lostcastle.aligames",
-      "title": "失落城堡",
-      "url": "https://ugame.9game.cn/game/share-235275-863055.html"
-    },{
-      "pkg": "com.bilibili.warmsnow.aligames",
-      "title": "暖雪",
-      "url": "https://ugame.9game.cn/game/share-235275-1239339.html"
-    },{
-      "pkg": "com.taiyouxi.tk2.aligames",
-      "title": "极无双2",
-      "url": "https://ugame.9game.cn/game/share-235275-2102172.html"
-    },{
-      "pkg": "com.pwrd.projectt.aligames",
-      "title": "天龙八部2：飞龙战天",
-      "url": "https://ugame.9game.cn/game/share-235275-1224507.html"
-    },{
-      "pkg": "com.habby.cnarchero.aligames",
-      "title": "弓箭传说",
-      "url": "https://ugame.9game.cn/game/share-235275-1154801.html"
-    },{
-      "pkg": "com.habby.danke.aligames",
-      "title": "弹壳特攻队",
-      "url": "https://ugame.9game.cn/game/share-235275-3039902.html"
-    },{
-      "pkg": "com.tgame.sgzl.aligames",
-      "title": "三国之旅",
-      "url": "https://ugame.9game.cn/game/share-235275-3066872.html"
-    },{
-      "pkg": "com.qydl.aligames",
-      "title": "奇异大陆",
-      "url": "https://ugame.9game.cn/game/share-235275-1139312.html"
-    },{
-      "pkg": "com.xyhygame.lycj.aligames",
-      "title": "烈焰裁决移动版",
-      "url": "https://ugame.9game.cn/game/share-235275-3090744.html"
-    },{
-      "pkg": "com.bilibili.fgo.uc",
-      "title": "命运-冠位指定",
-      "url": "https://ugame.9game.cn/game/share-235275-733329.html"
-    },{
-      "pkg": "com.jsqq.skbj.aligames",
-      "title": "时空边际",
-      "url": "https://ugame.9game.cn/game/share-235275-763544.html"
-    },{
-      "pkg": "com.humo.yqqsqz.aligames",
-      "title": "元气骑士前传",
-      "url": "https://ugame.9game.cn/game/share-235275-1231698.html"
-    },{
-      "pkg": "com.taomee.seerplan.aligames",
-      "title": "赛尔计划",
-      "url": "https://ugame.9game.cn/game/share-235275-1316531.html"
-    },{
-      "pkg": "com.cmge.xxjhjwq.aligames",
-      "title": "新仙剑奇侠传之挥剑问情",
-      "url": "https://ugame.9game.cn/game/share-235275-1225582.html"
-    },{
-      "pkg": "com.hermes.nvwa.aligames",
-      "title": "神仙道3",
-      "url": "https://ugame.9game.cn/game/share-235275-1318377.html"
-    },{
-      "pkg": "com.mechanist.poi.leiting.aligames",
-      "title": "这个地下城有点怪",
-      "url": "https://ugame.9game.cn/game/share-235275-3047776.html"
-    },{
-      "pkg": "com.hypnos.funplus.aligames",
-      "title": "修普诺斯",
-      "url": "https://ugame.9game.cn/game/share-235275-3040035.html"
-    },{
-      "pkg": "com.yjdwb.jd.aligames",
-      "title": "妖精的尾巴：激斗",
-      "url": "https://ugame.9game.cn/game/share-235275-1226484.html"
-    },{
-      "pkg": "com.jiaotu.snbqt.aligames",
-      "title": "少年包青天",
-      "url": "https://ugame.9game.cn/game/share-235275-1021997.html"
-    },{
-      "pkg": "com.zyqw.kdcq.aligames",
-      "title": "口袋苍穹",
-      "url": "https://ugame.9game.cn/game/share-235275-3074067.html"
-    },{
-      "pkg": "com.xm4399.gbws.aligames",
-      "title": "果宝无双",
-      "url": "https://ugame.9game.cn/game/share-235275-3070973.html"
-    },{
-      "pkg": "com.szyy.pkyz.aligames",
-      "title": "跑酷勇者",
-      "url": "https://ugame.9game.cn/game/share-235275-3037639.html"
-    },{
-      "pkg": "com.bleach.sjxh.cn.aligames",
-      "title": "境界:斩魂之刃",
-      "url": "https://ugame.9game.cn/game/share-235275-1226010.html"
-    },{
-      "pkg": "com.hermes.h1game.aligames",
-      "title": "航海王热血航线",
-      "url": "https://ugame.9game.cn/game/share-235275-1170872.html"
-    },{
-      "pkg": "com.xm4399.ghyj.aligames",
-      "title": "古荒遗迹",
-      "url": "https://ugame.9game.cn/game/share-235275-1145924.html"
-    },{
-      "pkg": "com.leiting.myzr.aligames",
-      "title": "魔渊之刃",
-      "url": "https://ugame.9game.cn/game/share-235275-1083761.html"
-    },{
-      "pkg": "com.bilibili.zzzj.aligames",
-      "title": "重装战姬",
-      "url": "https://ugame.9game.cn/game/share-235275-811431.html"
-    },{
-      "pkg": "com.hanjiasongshu.jianghux2.aligames",
-      "title": "汉家江湖",
-      "url": "https://ugame.9game.cn/game/share-235275-773396.html"
-    },{
-      "pkg": "com.fengyanyunqi.sh.xcfy.aligames",
-      "title": "烽烟云起",
-      "url": "https://ugame.9game.cn/game/share-235275-3071626.html"
-    },{
-      "pkg": "com.jinke.ezzzfx.aligames",
-      "title": "进击的战场",
-      "url": "https://ugame.9game.cn/game/share-235275-1121264.html"
-    },{
-      "pkg": "com.leiting.szqsf.aligames",
-      "title": "神州千食舫",
-      "url": "https://ugame.9game.cn/game/share-235275-3087708.html"
-    },{
-      "pkg": "com.kn.jzlj.aligames",
-      "title": "矩阵临界：失控边缘",
-      "url": "https://ugame.9game.cn/game/share-235275-3066984.html"
-    },{
-      "pkg": "com.srtt.cjby.aligames",
-      "title": "裁决霸业",
-      "url": "https://ugame.9game.cn/game/share-235275-808547.html"
+    }
+  ],
+  "supports": [
+    {
+      "time": 1708090415002,
+      "pkg": "mod.loader.armv8a"
+    },
+    {
+      "label": "植物大战僵尸1：国际版",
+      "time": 1704585600000,
+      "pkg": "com.ea.game.pvzfree_row"
+    },
+    {
+      "label": "孤单枪手：丧尸",
+      "time": 1692662400005,
+      "pkg": "com.sigmateam.zombieshooter.free"
+    },
+    {
+      "label": "黎明前20分钟",
+      "time": 1707091200005,
+      "pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp"
+    },
+    {
+      "label": "砰砰法师",
+      "time": 1706054400005,
+      "pkg": "com.habby.punball"
+    },
+    {
+      "label": "蛇蛇贪吃",
+      "time": 1707124544003,
+      "pkg": "com.habby.sssnaker"
+    },
+    {
+      "label": "哥布林弹球",
+      "time": 1705449600000,
+      "pkg": "com.RedNexusGamesInc.Peglin"
+    },
+    {
+      "label": "土豆兄弟",
+      "time": 1707091200000,
+      "pkg": "com.brotato.shooting.survivors.action.roguelike"
+    },
+    {
+      "label": "死亡突围：僵尸战争",
+      "time": 1706227200000,
+      "pkg": "com.mobirate.DeadAheadTactics"
+    },
+    {
+      "label": "孤胆枪手：世界",
+      "time": 1698019200000,
+      "pkg": "com.sigmateam.alienshootermobile.free"
+    },
+    {
+      "label": "元气骑士",
+      "time": 1706832000000,
+      "pkg": "com.ChillyRoom.DungeonShooter"
+    },
+    {
+      "label": "植物大战僵尸2：美版",
+      "time": 1707868800000,
+      "pkg": "com.ea.game.pvz2_row"
+    },
+    {
+      "label": "傲气雄鹰2014",
+      "time": 1698796800000,
+      "pkg": "pl.idreams.skyforcehd"
+    },
+    {
+      "label": "篝火2：未知彼岸",
+      "time": 1700179200002,
+      "pkg": "com.xigmaGames.thebonfire2"
+    },
+    {
+      "label": "梦幻家园",
+      "time": 1708128000000,
+      "pkg": "com.playrix.homescapes"
+    },
+    {
+      "label": "篝火：被遗忘的土地",
+      "time": 1696982400000,
+      "pkg": "com.xigmagames.thebonfireFL"
+    },
+    {
+      "label": "梦幻花园",
+      "time": 1707091200000,
+      "pkg": "com.playrix.gardenscapes"
+    },
+    {
+      "label": "我的朋友佩德罗",
+      "time": 1670976000000,
+      "pkg": "com.devolverdigital.myfriendpedro"
+    },
+    {
+      "label": "貓咪大戰爭",
+      "time": 1707091200000,
+      "pkg": "jp.co.ponos.battlecatstw"
+    },
+    {
+      "label": "我的小小宇宙",
+      "time": 1704240000000,
+      "pkg": "com.savetheworld.game"
+    },
+    {
+      "label": "火星幸存者：火星归来",
+      "time": 1704153600000,
+      "pkg": "com.mars.leguas.a"
+    },
+    {
+      "label": "植物大战僵尸2：国际版",
+      "time": 1706313600000,
+      "pkg": "com.ea.game.pvz2_na"
+    },
+    {
+      "label": "骷髅女孩",
+      "time": 1705449600000,
+      "pkg": "com.autumn.skullgirls"
+    },
+    {
+      "label": "异星指令",
+      "time": 1705536000003,
+      "pkg": "com.chillyroom.xenocmd"
+    },
+    {
+      "label": "孤胆枪手：塔防",
+      "time": 1692748800005,
+      "pkg": "com.sigmateam.alienshooter.towerdefence"
+    },
+    {
+      "label": "我的梦幻小岛",
+      "time": 1707004800005,
+      "pkg": "com.dream.dale"
+    },
+    {
+      "label": "孤胆枪手2：传奇",
+      "time": 1692921600005,
+      "pkg": "com.sigmateam.alienshooter2"
+    },
+    {
+      "label": "元素世界",
+      "time": 1695686400001,
+      "pkg": "julyhot.elementalworld"
+    },
+    {
+      "label": "神枪手强尼",
+      "time": 1702598400002,
+      "pkg": "com.time.trigger"
+    },
+    {
+      "label": "成长城堡",
+      "time": 1702944000003,
+      "pkg": "com.raongames.growcastle"
+    },
+    {
+      "label": "傲气雄鹰：重装上阵",
+      "time": 1678924800005,
+      "pkg": "pl.idreams.SkyForceReloaded2016"
+    },
+    {
+      "label": "植物大战僵尸3",
+      "time": 1705536000000,
+      "pkg": "com.ea.gp.pvzn3xt"
     }
   ]
 }
