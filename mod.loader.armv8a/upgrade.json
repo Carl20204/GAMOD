@@ -1,14 +1,14 @@
 {
-  "vername": "2.1.2",
+  "vername": "2.1.3",
   "urls": [
     "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 212,
+  "vercode": 213,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "5F67AFE2D9E3C9A878D7723362B1DE26",
+  "md5": "C9539DC195DF7C2D3DD75DC35C861B8F",
   "logs": {
-    "en": "2.1.2, fix UI, fix interface of MODS, fix lastest MODs data",
-    "zh": "2.1.2，完善了UI，完善了给MOD大佬们的接口，完善了MOD数据"
+    "en": "2.1.3，Fixed UI speed； Fixed some games blocked at Splash Screen",
+    "zh": "2.1.3，优化了加载效率；修复了植物大战僵尸1、2、3及其它类似技术的游戏，启动游戏卡在加载画面的的Bug"
   }
 }
