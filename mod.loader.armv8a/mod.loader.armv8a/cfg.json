@@ -289,6 +289,11 @@
       "pkg": "mod.loader.armv8a"
     },
     {
+      "label": "我渴望力量",
+      "time": 1703203200000,
+      "pkg": "bartmamzer.powerlust.actionrpg.roguelike"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600000,
       "pkg": "cc.jasfun.soldier"

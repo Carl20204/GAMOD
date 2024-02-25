@@ -1,0 +1,44 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "标准的地下城暗黑类游戏，与《火炬之光》《拉结尔》《异教之神》《地牢猎手4》等相比，战斗的格局还是稍微小了点",
+  "label": "我渴望力量",
+  "time": 1703203200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动免广告，所有广告奖励白嫖",
+        "可选菜单：各种战场技能的强化"
+      ],
+      "name": "上帝模式",
+      "pkgname": "bartmamzer.powerlust.actionrpg.roguelike.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "bartmamzer.powerlust.actionrpg.roguelike",
+  "vercode": 9988,
+  "vername": "0.9988",
+  "publisher": "Bartlomiej Mamzer",
+  "signmd5": "3D96DBC84EF2D2838E8D9D8D9649DD9C",
+  "tags": [
+    "中文",
+    "动作",
+    "地下城"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/bartmamzer.powerlust.actionrpg.roguelike?versionCode\u003d9988\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/powerlust-action-rpg-offline/bartmamzer.powerlust.actionrpg.roguelike/download",
+      "var": true
+    }
+  ]
+}
