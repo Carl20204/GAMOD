@@ -289,6 +289,11 @@
       "pkg": "mod.loader.armv8a"
     },
     {
+      "label": "亚特兰蒂斯入侵者",
+      "time": 1708646400000,
+      "pkg": "atlantis.invaders.subnautica.space.shooter"
+    },
+    {
       "label": "我渴望力量",
       "time": 1703203200000,
       "pkg": "bartmamzer.powerlust.actionrpg.roguelike"
