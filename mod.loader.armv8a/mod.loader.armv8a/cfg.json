@@ -314,6 +314,11 @@
       "pkg": "com.acegames.candy.disaster.tdbattles.gp"
     },
     {
+      "label": "岛屿战争",
+      "time": 1709078400002,
+      "pkg": "com.addictive.empire.clash.conquest"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"

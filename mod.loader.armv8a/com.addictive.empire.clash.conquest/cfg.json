@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "合成+部落冲突，一次次合并，合成出强大的兵种",
+  "label": "岛屿战争",
+  "time": 1709078400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，增加士兵攻击或减少敌人攻击。请不要过分刷榜，防止被封。"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.addictive.empire.clash.conquest.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.addictive.empire.clash.conquest",
+  "vercode": 5320,
+  "vername": "5.3.2",
+  "publisher": "Fastone Games HK",
+  "signmd5": "F82573BE72F077E01320A20873CB0559",
+  "tags": [
+    "中文",
+    "挂机",
+    "建设",
+    "合成",
+    "塔防"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.addictive.empire.clash.conquest?versionCode\u003d5320\u0026nc\u003darm64-v8a\u0026sv\u003d19",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/island-war/com.addictive.empire.clash.conquest/download",
+      "var": false
+    }
+  ]
+}
