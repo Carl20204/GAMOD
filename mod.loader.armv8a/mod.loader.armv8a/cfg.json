@@ -324,6 +324,11 @@
       "pkg": "com.addictive.strategy.army"
     },
     {
+      "label": "魔法围城",
+      "time": 1701734400002,
+      "pkg": "com.akpublish.magicsiege"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
