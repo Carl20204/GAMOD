@@ -319,6 +319,11 @@
       "pkg": "com.addictive.empire.clash.conquest"
     },
     {
+      "label": "战争艺术：军团",
+      "time": 1704758400002,
+      "pkg": "com.addictive.strategy.army"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
