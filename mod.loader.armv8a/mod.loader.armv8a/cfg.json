@@ -339,6 +339,11 @@
       "pkg": "com.alexanderwinn.landfall"
     },
     {
+      "label": "节奏弹球",
+      "time": 1708214400002,
+      "pkg": "com.amanotes.beathopper"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"

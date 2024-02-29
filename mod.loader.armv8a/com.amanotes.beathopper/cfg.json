@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "海量的欧美曲库，画面绚丽多彩，玩法难度也不高，适合听着音乐休闲点点划划的玩，玩起来不会累",
+  "label": "节奏弹球",
+  "time": 1708214400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节资源，调节火箭，调节建筑。实在玩累了，就稍微开个功能算了"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.amanotes.beathopper.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.amanotes.beathopper",
+  "vercode": 24020511,
+  "vername": "6.3.0",
+  "publisher": "AMANOTES PTE LTD",
+  "signmd5": "8CEC6191F93546B229A7D11951E39CCC",
+  "tags": [
+    "中文",
+    "单机",
+    "音乐",
+    "节奏",
+    "欧美曲库"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.amanotes.beathopper?versionCode\u003d24020511\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/tiles-hop-edm-rush/com.amanotes.beathopper/download",
+      "var": false
+    }
+  ]
+}
