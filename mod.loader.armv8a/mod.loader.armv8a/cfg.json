@@ -334,6 +334,11 @@
       "pkg": "com.aldagames.zombieshooter"
     },
     {
+      "label": "飞跃星球",
+      "time": 1674777600002,
+      "pkg": "com.alexanderwinn.landfall"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
