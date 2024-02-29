@@ -1,0 +1,46 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "一个好莱坞式的末世平民英雄的生存故事，剧情完整，战斗靠谱，值得玩。",
+  "label": "行尸走肉2：僵尸射手",
+  "time": 1708905600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动开启免广告，所有广告激励随意白嫖",
+        "可选菜单，各种武器强化玩起来更爽，无敌，。"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.aldagames.zombieshooter.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.aldagames.zombieshooter",
+  "vercode": 114,
+  "vername": "3.13.0",
+  "publisher": "Alda Games",
+  "signmd5": "2A49A3D77808E221162BD707BBA13BFA",
+  "tags": [
+    "中文",
+    "射击",
+    "僵尸",
+    "生存",
+    "剧情"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.aldagames.zombieshooter?versionCode\u003d114\u0026nc\u003darm64-v8a\u0026sv\u003d21",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/the-walking-zombie-2-shooter/com.aldagames.zombieshooter/download",
+      "var": false
+    }
+  ]
+}

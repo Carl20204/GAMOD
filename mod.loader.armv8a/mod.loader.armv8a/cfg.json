@@ -329,6 +329,11 @@
       "pkg": "com.akpublish.magicsiege"
     },
     {
+      "label": "行尸走肉2：僵尸射手",
+      "time": 1708905600002,
+      "pkg": "com.aldagames.zombieshooter"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
