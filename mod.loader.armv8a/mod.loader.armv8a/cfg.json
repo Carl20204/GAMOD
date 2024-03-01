@@ -344,6 +344,11 @@
       "pkg": "com.amanotes.beathopper"
     },
     {
+      "label": "射击英雄",
+      "time": 1709251200002,
+      "pkg": "com.anglesgames.auto.shoot.hero"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
