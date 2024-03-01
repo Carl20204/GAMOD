@@ -1,0 +1,44 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "玩过《奇幻小岛》《合成魔法》《萌龙进化论》的玩家，立刻就懂了，没玩过的建议随意选一款玩一下，质量都是很不错的。",
+  "label": "繁荣合并：建造动物城",
+  "time": 1703894400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节金币、钻石等的收益率与消费折扣率"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.apollo.boommerge.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.apollo.boommerge",
+  "vercode": 1308,
+  "vername": "0.59.0",
+  "publisher": "HK GX GAMES",
+  "signmd5": "BCCFC7759256AD3154A688E964DDDB3F",
+  "tags": [
+    "中文",
+    "单机",
+    "休闲",
+    "合并"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.apollo.boommerge?versionCode\u003d1308\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/boom-merge-mahjong-match-tiles/com.apollo.boommerge/download",
+      "var": false
+    }
+  ]
+}

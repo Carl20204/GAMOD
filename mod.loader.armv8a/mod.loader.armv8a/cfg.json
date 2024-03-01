@@ -354,6 +354,11 @@
       "pkg": "com.anxiousottergames.spacefarmer"
     },
     {
+      "label": "繁荣合并：建造动物城",
+      "time": 1703894400002,
+      "pkg": "com.apollo.boommerge"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
