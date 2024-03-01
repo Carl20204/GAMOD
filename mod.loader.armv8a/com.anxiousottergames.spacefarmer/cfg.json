@@ -1,0 +1,44 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "二次元美少女探员太空打怪挖矿，外围培养、塔防、建设各种玩法一堆，一款被名字耽误了的放置类精品手游。",
+  "label": "太空农妇",
+  "time": 1694736000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节收获更多的金币、太空货币"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.anxiousottergames.spacefarmer.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.anxiousottergames.spacefarmer",
+  "vercode": 408,
+  "vername": "1.10.3",
+  "publisher": "ADQUANTUM LTD",
+  "signmd5": "DF6BC2474DBAE1A93DDCDF40742BD60F",
+  "tags": [
+    "中文",
+    "二次元",
+    "单机",
+    "放置"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.anxiousottergames.spacefarmer?versionCode\u003d408\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/idle-space-farmer-tycoon/com.anxiousottergames.spacefarmer/download",
+      "var": false
+    }
+  ]
+}

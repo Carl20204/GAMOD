@@ -349,6 +349,11 @@
       "pkg": "com.anglesgames.auto.shoot.hero"
     },
     {
+      "label": "太空农妇",
+      "time": 1694736000002,
+      "pkg": "com.anxiousottergames.spacefarmer"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
