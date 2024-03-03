@@ -359,6 +359,11 @@
       "pkg": "com.apollo.boommerge"
     },
     {
+      "label": "苏打地牢2",
+      "time": 1666483200002,
+      "pkg": "com.armorgames.sodadungeon2"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
