@@ -364,6 +364,11 @@
       "pkg": "com.armorgames.sodadungeon2"
     },
     {
+      "label": "使命法则 - 永恒地牢",
+      "time": 1708992000002,
+      "pkg": "com.aubjective.jobmania"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
