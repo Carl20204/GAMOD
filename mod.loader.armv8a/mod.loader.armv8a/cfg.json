@@ -369,6 +369,11 @@
       "pkg": "com.aubjective.jobmania"
     },
     {
+      "label": "帝国守卫战",
+      "time": 1709424000002,
+      "pkg": "com.babeltimeus.legendstd"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
