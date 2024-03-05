@@ -374,6 +374,11 @@
       "pkg": "com.babeltimeus.legendstd"
     },
     {
+      "label": "龙珠激战传说",
+      "time": 1709251200002,
+      "pkg": "com.bandainamcoent.dblegends_ww"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
