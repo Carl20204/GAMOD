@@ -1,0 +1,43 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "荣获2019 GooglePlay最佳独立游戏",
+  "label": "疾病",
+  "time": 1708992000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节武器射速、弹药、减伤、增伤等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.BeardyBird.Ailment.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.BeardyBird.Ailment",
+  "vercode": 460,
+  "vername": "3.4.1",
+  "publisher": "Creauctopus",
+  "signmd5": "1D6D72426E1317C4A0734F37D8806B7A",
+  "tags": [
+    "中文",
+    "射击",
+    "冒险"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.BeardyBird.Ailment?versionCode\u003d460\u0026nc\u003darm64-v8a\u0026sv\u003d23",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/ailment-dead-space-standoff/com.BeardyBird.Ailment/download",
+      "var": false
+    }
+  ]
+}

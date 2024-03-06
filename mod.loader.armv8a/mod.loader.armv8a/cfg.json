@@ -379,6 +379,11 @@
       "pkg": "com.bandainamcoent.dblegends_ww"
     },
     {
+      "label": "疾病",
+      "time": 1708992000002,
+      "pkg": "com.BeardyBird.Ailment"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
