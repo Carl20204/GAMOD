@@ -1,1 +1,57 @@
-{"archs":["arm64-v8a"],"faqs":{"卸载重装，会自动恢复存档？":"是的。\u003cbr\u003ePlayrix出品的休闲游戏，不注册账号以游客模式玩的话，是基于安卓ID存档的，只要不换手机，每次重装游戏都会继承之前的进度。\u003cbr\u003e希望换个账号从头玩？可以使用本应用的随机安卓ID功能，开新账号。"},"gms":1,"info":"\u003cfont color\u003d\"#ff0000\"\u003e《梦幻家园》《梦幻花园》\u003c/font\u003e，每月固定更新全新的赛季+合成+探险活动。永远不缺新鲜内容","label":"梦幻花园","time":1707091200005,"mod":true,"mods":[{"descs":["可自定义调节三消胜利后的金币收获xN，星星收获xN，主打的就是不肝不氪","可自选的星星无消耗，道具无消耗，则是给纯体验派玩家用的，主打就是一个行云流水的爽"],"name":"休闲模式","pkgname":"com.playrix.gardenscapes.gm64","targetvc":"107650","vercode":5}],"pkgname":"com.playrix.gardenscapes","vercode":107650,"vername":"7.6.5","publisher":"Playrix","signmd5":"86B2077CDA90AB8D99645D636ACDBE60","tags":["中文","可离线","国际版","休闲","三消","装饰","合并","探险"],"downloads":[{"host":"翻墙｜下载页","url":"https://apkpure.net/cn/gardenscapes/com.playrix.gardenscapes/download/7.6.5","var":false},{"host":"翻墙｜直链下载","url":"https://d.apkpure.net/b/XAPK/com.playrix.gardenscapes?versionCode\u003d107650\u0026nc\u003darm64-v8a\u0026sv\u003d19","var":false}]}
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "faqs": {
+    "卸载重装，会自动恢复存档？": "是的。\u003cbr\u003ePlayrix出品的休闲游戏，不注册账号以游客模式玩的话，是基于安卓ID存档的，只要不换手机，每次重装游戏都会继承之前的进度。\u003cbr\u003e希望换个账号从头玩？可以使用本应用的随机安卓ID功能，开新账号。"
+  },
+  "gms": 1,
+  "info": "\u003cfont color\u003d\"#ff0000\"\u003e《梦幻家园》《梦幻花园》\u003c/font\u003e，每月固定更新全新的赛季+合成+探险活动。永远不缺新鲜内容",
+  "label": "梦幻花园",
+  "time": 1708646400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可自定义调节三消胜利后的金币收获xN，星星收获xN，主打的就是不肝不氪",
+        "可自选的星星无消耗，道具无消耗，则是给纯体验派玩家用的，主打就是一个行云流水的爽"
+      ],
+      "name": "休闲模式",
+      "pkgname": "com.playrix.gardenscapes.gm64",
+      "targetvc": "107700",
+      "vercode": 6
+    }
+  ],
+  "pkgname": "com.playrix.gardenscapes",
+  "vercode": 107700,
+  "vername": "7.7.0",
+  "publisher": "Playrix",
+  "signmd5": "86B2077CDA90AB8D99645D636ACDBE60",
+  "tags": [
+    "中文",
+    "可离线",
+    "国际版",
+    "休闲",
+    "三消",
+    "装饰",
+    "合并",
+    "探险"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/gardenscapes/com.playrix.gardenscapes/download",
+      "var": false
+    },
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/APK/com.playrix.gardenscapes?versionCode\u003d107700\u0026nc\u003darm64-v8a%2Carmeabi-v7a%2Cx86%2Cx86_64\u0026sv\u003d21",
+      "var": false
+    }
+  ]
+}

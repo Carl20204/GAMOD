@@ -454,6 +454,11 @@
       "pkg": "pl.idreams.skyforcehd"
     },
     {
+      "label": "篝火：被遗忘的土地",
+      "time": 1696982400002,
+      "pkg": "com.xigmagames.thebonfireFL"
+    },
+    {
       "label": "篝火2：未知彼岸",
       "time": 1700179200002,
       "pkg": "com.xigmaGames.thebonfire2"
@@ -464,13 +469,8 @@
       "pkg": "com.playrix.homescapes"
     },
     {
-      "label": "篝火：被遗忘的土地",
-      "time": 1696982400002,
-      "pkg": "com.xigmagames.thebonfireFL"
-    },
-    {
       "label": "梦幻花园",
-      "time": 1707091200002,
+      "time": 1708646400002,
       "pkg": "com.playrix.gardenscapes"
     },
     {
