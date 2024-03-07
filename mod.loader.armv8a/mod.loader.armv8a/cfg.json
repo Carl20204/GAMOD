@@ -389,6 +389,11 @@
       "pkg": "com.beesquare.almostahero"
     },
     {
+      "label": "钟表匠",
+      "time": 1709596800002,
+      "pkg": "com.belkatechnologies.clockmaker"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"

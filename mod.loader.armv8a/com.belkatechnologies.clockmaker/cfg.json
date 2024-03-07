@@ -1,0 +1,44 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "三消的玩法上，比《梦幻家园》《梦幻花园》略差一些，但在故事线推进上有独特的风格",
+  "label": "钟表匠",
+  "time": 1709596800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，红宝石消耗打折或倒贴"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.belkatechnologies.clockmaker.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.belkatechnologies.clockmaker",
+  "vercode": 100008107,
+  "vername": "80.1.1",
+  "publisher": "BELKA GAMES",
+  "signmd5": "38B184DA551811D956E76B3D9A4F1EA9",
+  "tags": [
+    "中文",
+    "休闲",
+    "剧情",
+    "三消"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.belkatechnologies.clockmaker?versionCode\u003d100008107\u0026nc\u003darm64-v8a\u0026sv\u003d19",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/clockmaker-jewel-match-3-game/com.belkatechnologies.clockmaker/download",
+      "var": false
+    }
+  ]
+}
