@@ -394,6 +394,11 @@
       "pkg": "com.belkatechnologies.clockmaker"
     },
     {
+      "label": "自我剑：剑闲置唱首歌",
+      "time": 1709856000002,
+      "pkg": "com.betdon.egosword"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"

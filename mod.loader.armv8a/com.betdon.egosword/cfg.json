@@ -1,0 +1,43 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "与《养剑大师》类似，但在纯像素风上叠加了少量韩流二次元\u003cbr\u003e\u003cbr\u003e进游戏后右上选项里可更改繁体中文",
+  "label": "自我剑：剑闲置唱首歌",
+  "time": 1709856000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，调节技能CD、加速域外来信奖励"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.betdon.egosword.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.betdon.egosword",
+  "vercode": 2198,
+  "vername": "2.06",
+  "publisher": "MagmaCube",
+  "signmd5": "B95C5E3E4FA3077ECC6E4814910A5437",
+  "tags": [
+    "中文",
+    "休闲",
+    "放置"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.betdon.egosword?versionCode\u003d2198\u0026nc\u003darm64-v8a\u0026sv\u003d24",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/ego-sword-idle-hero-training/com.betdon.egosword/download",
+      "var": false
+    }
+  ]
+}
