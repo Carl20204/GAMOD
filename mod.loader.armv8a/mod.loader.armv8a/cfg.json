@@ -399,6 +399,11 @@
       "pkg": "com.betdon.egosword"
     },
     {
+      "label": "毁灭战士(DOOM)",
+      "time": 1708473600002,
+      "pkg": "com.bethsoft.ubu"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
