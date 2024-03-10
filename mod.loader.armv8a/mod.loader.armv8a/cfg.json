@@ -404,6 +404,11 @@
       "pkg": "com.bethsoft.ubu"
     },
     {
+      "label": "生存RPG3：失落时空",
+      "time": 1705968000002,
+      "pkg": "com.bewgames.lostintime"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"

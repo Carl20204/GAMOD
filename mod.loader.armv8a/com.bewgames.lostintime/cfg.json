@@ -1,0 +1,44 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "像素风2D冒险生存类RPG，穿越时间的设定致敬1995年的【超时空之轮】，海量的道具合成体系给人【崩溃大陆】的体验……",
+  "label": "生存RPG3：失落时空",
+  "time": 1705968000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节无伤，移速，加钻石，添加指定物品"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bewgames.lostintime.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.bewgames.lostintime",
+  "vercode": 1012011,
+  "vername": "1.12.11",
+  "publisher": "Bew Games inc",
+  "signmd5": "9ACC6849D45495FD00B71331D6CD4C84",
+  "tags": [
+    "中文",
+    "像素",
+    "冒险",
+    "生存"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/APK/com.bewgames.lostintime?versionCode\u003d1012011",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/survival-rpg-3-lost-in-time-2d/com.bewgames.lostintime/download",
+      "var": false
+    }
+  ]
+}
