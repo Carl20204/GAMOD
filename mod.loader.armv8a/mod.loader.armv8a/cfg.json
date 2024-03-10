@@ -414,6 +414,11 @@
       "pkg": "com.bewgames.templeruins"
     },
     {
+      "label": "我的邮轮",
+      "time": 1708473600002,
+      "pkg": "com.big.my.cruise.ship"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"

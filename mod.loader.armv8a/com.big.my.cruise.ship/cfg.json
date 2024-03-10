@@ -1,0 +1,43 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "不喜欢开罗系列的大颗粒像素风的，又想玩奇奇怪怪的模拟经营的，可以试试本作。\u003cbr\u003e可以理解为本作为高画质版的开罗游戏",
+  "label": "我的邮轮",
+  "time": 1708473600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节钻石收益率"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.big.my.cruise.ship.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.big.my.cruise.ship",
+  "vercode": 1494,
+  "vername": "1.4.13",
+  "publisher": "Focus apps",
+  "signmd5": "ECE9799FEF4C371D713939FFB92724A7",
+  "tags": [
+    "中文",
+    "休闲",
+    "模拟经营"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/APK/com.big.my.cruise.ship?versionCode\u003d1494",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/my-cruise/com.big.my.cruise.ship/download",
+      "var": false
+    }
+  ]
+}
