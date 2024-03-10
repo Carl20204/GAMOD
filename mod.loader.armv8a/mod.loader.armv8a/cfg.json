@@ -409,6 +409,11 @@
       "pkg": "com.bewgames.lostintime"
     },
     {
+      "label": "生存RPG2：神庙废墟",
+      "time": 1705968000002,
+      "pkg": "com.bewgames.templeruins"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"

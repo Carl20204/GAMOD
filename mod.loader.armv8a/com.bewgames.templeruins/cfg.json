@@ -1,0 +1,44 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "像素风2D复古RPG游戏，3代会更好玩些……",
+  "label": "生存RPG2：神庙废墟",
+  "time": 1705968000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节无伤，移速，加钻石"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bewgames.templeruins.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.bewgames.templeruins",
+  "vercode": 40090007,
+  "vername": "4.9.7",
+  "publisher": "Bew Games inc",
+  "signmd5": "9ACC6849D45495FD00B71331D6CD4C84",
+  "tags": [
+    "中文",
+    "像素",
+    "冒险",
+    "角色扮演"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.bewgames.templeruins?versionCode\u003d40090007\u0026nc\u003darm64-v8a\u0026sv\u003d21",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/survival-rpg-2-temple-ruins-2d/com.bewgames.templeruins/download",
+      "var": false
+    }
+  ]
+}
