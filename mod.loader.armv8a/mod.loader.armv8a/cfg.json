@@ -424,6 +424,11 @@
       "pkg": "com.blockstack.tophero"
     },
     {
+      "label": "战巡大作战",
+      "time": 1710115200002,
+      "pkg": "com.Bluebottle.Battlecruisers"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
