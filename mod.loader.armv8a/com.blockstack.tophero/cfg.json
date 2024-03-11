@@ -1,0 +1,44 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "同类游戏的话，【成长城堡】会更好玩，但本款有机翻中文，总比纯英文稍好些",
+  "label": "塔英雄 - 塔防",
+  "time": 1707609600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节金币、钻石，战场上增伤减伤无CD等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.blockstack.tophero.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.blockstack.tophero",
+  "vercode": 11205,
+  "vername": "1.12.05",
+  "publisher": "Block Stack2",
+  "signmd5": "351427D628FEBFD7B7E7F96BB6CBE5C9",
+  "tags": [
+    "中文",
+    "休闲",
+    "放置",
+    "塔防"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.blockstack.tophero?versionCode\u003d11205",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/tower-hero-tower-defense/com.blockstack.tophero/download",
+      "var": false
+    }
+  ]
+}

@@ -419,6 +419,11 @@
       "pkg": "com.big.my.cruise.ship"
     },
     {
+      "label": "塔英雄 - 塔防",
+      "time": 1707609600002,
+      "pkg": "com.blockstack.tophero"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
