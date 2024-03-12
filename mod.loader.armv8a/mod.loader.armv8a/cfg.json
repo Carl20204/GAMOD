@@ -449,6 +449,11 @@
       "pkg": "com.ccyiyo.story"
     },
     {
+      "label": "异星指令",
+      "time": 1705536000002,
+      "pkg": "com.chillyroom.xenocmd"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
@@ -557,11 +562,6 @@
       "label": "骷髅女孩",
       "time": 1705449600002,
       "pkg": "com.autumn.skullgirls"
-    },
-    {
-      "label": "异星指令",
-      "time": 1705536000003,
-      "pkg": "com.chillyroom.xenocmd"
     },
     {
       "label": "孤胆枪手：塔防",
