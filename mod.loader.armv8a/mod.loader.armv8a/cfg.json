@@ -439,6 +439,11 @@
       "pkg": "com.buildupstudio.idolproducer"
     },
     {
+      "label": "地牢编年史",
+      "time": 1701388800002,
+      "pkg": "com.BUNKERim.DC"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"

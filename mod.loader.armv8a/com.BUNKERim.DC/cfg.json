@@ -1,0 +1,44 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "同类的【我渴望力量】会偏向暗黑破坏神，本作更光鲜亮丽偏向【火炬之光】",
+  "label": "地牢编年史",
+  "time": 1701388800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节技能法力消耗、CD、无伤、移速、杀怪掉落类型与品质等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.BUNKERim.DC.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.BUNKERim.DC",
+  "vercode": 50,
+  "vername": "3.16",
+  "publisher": "BUNKERim Studio",
+  "signmd5": "6FB09EF05E9449908957DC8B1E0BD274",
+  "tags": [
+    "中文",
+    "随机",
+    "刷宝",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.BUNKERim.DC?versionCode\u003d50\u0026nc\u003darm64-v8a\u0026sv\u003d19",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/dungeon-chronicle/com.BUNKERim.DC/download",
+      "var": false
+    }
+  ]
+}
