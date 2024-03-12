@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "素质很高的肉鸽地牢类游戏，雷霆出品的游戏，基本都是肉鸽地牢类了",
+  "label": "烛火地牢2：猫咪的诅咒",
+  "time": 1698192000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活付费完整版",
+        "可选菜单，可调节格挡、生命、掉落品质、强化Buff、物品价格等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ChrisMcFarland.Tallowmere2.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.ChrisMcFarland.Tallowmere2",
+  "vercode": 45,
+  "vername": "0.4.0f",
+  "publisher": "Chris McFarland",
+  "signmd5": "AB8927206C1D85C285F1690D361C1210",
+  "tags": [
+    "中文",
+    "肉鸽",
+    "地牢",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/APK/com.ChrisMcFarland.Tallowmere2?versionCode\u003d45",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/tallowmere-2/com.ChrisMcFarland.Tallowmere2/download",
+      "var": false
+    }
+  ]
+}
