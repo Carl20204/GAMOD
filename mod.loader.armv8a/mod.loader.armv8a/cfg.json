@@ -429,6 +429,16 @@
       "pkg": "com.Bluebottle.Battlecruisers"
     },
     {
+      "label": "土豆兄弟",
+      "time": 1707091200002,
+      "pkg": "com.brotato.shooting.survivors.action.roguelike"
+    },
+    {
+      "label": "偶像制作人",
+      "time": 1710115200002,
+      "pkg": "com.buildupstudio.idolproducer"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
@@ -462,11 +472,6 @@
       "label": "哥布林弹球",
       "time": 1705449600002,
       "pkg": "com.RedNexusGamesInc.Peglin"
-    },
-    {
-      "label": "土豆兄弟",
-      "time": 1707091200002,
-      "pkg": "com.brotato.shooting.survivors.action.roguelike"
     },
     {
       "label": "死亡突围：僵尸战争",
