@@ -444,6 +444,11 @@
       "pkg": "com.BUNKERim.DC"
     },
     {
+      "label": "楼下的早餐店",
+      "time": 1708992000002,
+      "pkg": "com.ccyiyo.story"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
