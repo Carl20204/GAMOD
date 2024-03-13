@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "生物进化，宇宙进化，画面好，题材好，强烈建议玩一下。\u003cbr\u003e\u003cbr\u003e启动游戏时会连接Google服务导致卡1分钟，中国区玩家建议断网进游戏",
+  "label": "从细胞到奇点：进化永无止境",
+  "time": 1708560000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有激励广告可白嫖",
+        "可选菜单，可调节收益率与消费折扣率"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.computerlunch.evolution.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.computerlunch.evolution",
+  "vercode": 202392,
+  "vername": "23.92",
+  "publisher": "ComputerLunch",
+  "signmd5": "47580D2DF4DBAF3720F5791A35241534",
+  "tags": [
+    "中文",
+    "放置",
+    "休闲",
+    "模拟"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.computerlunch.evolution?versionCode\u003d116\u0026nc\u003darm64-v8a\u0026sv\u003d24",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/prison-empire-tycoon%EF%BC%8Didle-game/com.computerlunch.evolution/download",
+      "var": false
+    }
+  ]
+}
