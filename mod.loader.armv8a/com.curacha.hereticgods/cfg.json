@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "手机上的刷地牢刷装备的《暗黑破坏神》类游戏，中文翻译完成度只有85%",
+  "label": "异教之神",
+  "time": 1707782400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有激励广告可白嫖",
+        "可选菜单，可自由调节金币、技能点、无伤、增伤、移动速度等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.curacha.hereticgods.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.curacha.hereticgods",
+  "vercode": 13015,
+  "vername": "1.30.15",
+  "publisher": "CurachaPH",
+  "signmd5": "190CE4826B8564FFF12120C28BB94735",
+  "tags": [
+    "中文",
+    "离线",
+    "地牢",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.curacha.hereticgods?versionCode\u003d13015\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/heretic-gods/com.curacha.hereticgods/download",
+      "var": false
+    }
+  ]
+}

@@ -464,6 +464,11 @@
       "pkg": "com.computerlunch.evolution"
     },
     {
+      "label": "异教之神",
+      "time": 1707782400002,
+      "pkg": "com.curacha.hereticgods"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
