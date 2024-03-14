@@ -494,6 +494,11 @@
       "pkg": "com.dawinstone.milkacola"
     },
     {
+      "label": "国王之血：防御",
+      "time": 1704326400002,
+      "pkg": "com.dawinstone.kb"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
