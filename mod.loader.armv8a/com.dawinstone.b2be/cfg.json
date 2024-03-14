@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "【物种战争】第二作，潘少校从前作的的左右对攻塔防，来到本作的人质救援战场射击模式，带领你的战术小队，救出所有人质吧",
+  "label": "物种战争：灭绝",
+  "time": 1704326400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有激励广告可白嫖",
+        "可选菜单，可自由调节移动速度、射击速度、经验获取、弹药使用等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.dawinstone.b2be.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.dawinstone.b2be",
+  "vercode": 10256,
+  "vername": "3.0.7",
+  "publisher": "DAWINSTONE GAMES",
+  "signmd5": "F6E30E7D0FBFA727364F31C4B85E16C6",
+  "tags": [
+    "中文",
+    "离线",
+    "动作",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/APK/com.dawinstone.b2be?versionCode\u003d10256\u0026nc\u003darm64-v8a\u0026sv\u003d19",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/bad-2-bad-extinction/com.dawinstone.b2be/download",
+      "var": false
+    }
+  ]
+}
