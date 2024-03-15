@@ -489,14 +489,24 @@
       "pkg": "com.dawinstone.b2be"
     },
     {
+      "label": "国王之血：防御",
+      "time": 1704326400002,
+      "pkg": "com.dawinstone.kb"
+    },
+    {
       "label": "牛奶可乐：苏打之王",
       "time": 1705968000002,
       "pkg": "com.dawinstone.milkacola"
     },
     {
-      "label": "国王之血：防御",
-      "time": 1704326400002,
-      "pkg": "com.dawinstone.kb"
+      "label": "我的朋友佩德罗",
+      "time": 1670976000002,
+      "pkg": "com.devolverdigital.myfriendpedro"
+    },
+    {
+      "label": "格里姆瓦勒",
+      "time": 1695945600002,
+      "pkg": "com.direlight.grimvalor"
     },
     {
       "label": "疯狂大兵",
@@ -577,11 +587,6 @@
       "label": "梦幻花园",
       "time": 1708646400002,
       "pkg": "com.playrix.gardenscapes"
-    },
-    {
-      "label": "我的朋友佩德罗",
-      "time": 1670976000002,
-      "pkg": "com.devolverdigital.myfriendpedro"
     },
     {
       "label": "貓咪大戰爭",

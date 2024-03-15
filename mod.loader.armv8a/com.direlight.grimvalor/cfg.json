@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "暗黑风格的横版黑魂",
+  "label": "格里姆瓦勒",
+  "time": 1695945600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可激活完整版、解锁全装备、提高爆率，无限跳，无限能量，减伤，增伤等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.direlight.grimvalor.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.direlight.grimvalor",
+  "vercode": 46,
+  "vername": "1.2.5",
+  "publisher": "Direlight",
+  "signmd5": "9F2A0B28BD587984F0B38991533776D8",
+  "tags": [
+    "英文",
+    "离线",
+    "动作",
+    "街机",
+    "推荐"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.direlight.grimvalor?versionCode\u003d46",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/grimvalor/com.direlight.grimvalor/download",
+      "var": false
+    }
+  ]
+}
