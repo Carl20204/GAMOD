@@ -1,14 +1,14 @@
 {
-  "vername": "2.1.3",
+  "vername": "2.1.5",
   "urls": [
-    "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a.apk"
+    "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 213,
+  "vercode": 215,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "C9539DC195DF7C2D3DD75DC35C861B8F",
+  "md5": "E2632502A3E719D4896D386C7BB3515A",
   "logs": {
-    "en": "2.1.3，Fixed UI speed； Fixed some games blocked at Splash Screen",
-    "zh": "2.1.3，优化了加载效率；修复了植物大战僵尸1、2、3及其它类似技术的游戏，启动游戏卡在加载画面的的Bug"
+    "en": "With GitHub mirror and proxy, some area can sync data in GitHub",
+    "zh": "内置了GitHub镜像代理，中国区用户也能正常使用同步最新数据了"
   }
 }
