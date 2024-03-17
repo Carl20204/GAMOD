@@ -1,0 +1,48 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "faqs": {
+    "为什么启动游戏闪退？": "\u003cfont color\u003d\"#ff0000\"\u003e游戏有模拟器/沙盒检测，正常无法运行。但只要启动游戏时启用对应版本MOD，即可跳过检测，正常游戏。\u003c/font\u003e"
+  },
+  "gms": 2,
+  "info": "类魂战斗+一定的肉鸽体系，素质上乘",
+  "label": "浪人：末代武士",
+  "time": 1704412800008,
+  "mtime": 1710633600000,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有激励广告可白嫖",
+        "可选菜单，可调节战斗强度，增伤，减伤，奥义"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.dreamotion.ronin.gm64",
+      "targetvc": "664",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.dreamotion.ronin",
+  "vercode": 664,
+  "vername": "2.9.664",
+  "publisher": "Dreamotion Inc",
+  "signmd5": "017D16695E797690A0DED3BEDDFDC914",
+  "tags": [
+    "中文",
+    "动作",
+    "肉鸽"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.dreamotion.ronin?versionCode\u003d664\u0026nc\u003darm64-v8a\u0026sv\u003d21",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/ronin-the-last-samurai/com.dreamotion.ronin/download",
+      "var": false
+    }
+  ]
+}
