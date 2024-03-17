@@ -662,6 +662,16 @@
       "label": "植物大战僵尸3",
       "time": 1705536000002,
       "pkg": "com.ea.gp.pvzn3xt"
+    },
+    {
+      "label": "西部狙击手",
+      "time": 1710374400002,
+      "pkg": "wild.west.sniper"
+    },
+    {
+      "label": "丧尸猎人",
+      "time": 1710547200002,
+      "pkg": "zombie.survival.dead.shooting"
     }
   ]
 }

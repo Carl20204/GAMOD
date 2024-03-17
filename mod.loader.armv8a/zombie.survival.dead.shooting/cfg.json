@@ -1,0 +1,48 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "还记得【死亡扳机】不？枪、车、球、丧尸作为美式游戏的代表，本作就是标准的【枪+丧尸】类型\u003cbr\u003e\u003cbr\u003e但是过完前10小关后，就会有末日基地建设玩法出现……",
+  "label": "丧尸猎人",
+  "time": 1710547200008,
+  "mtime": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "\u003cfont color\u003d#ff0000\u003e测试员请注意，游戏启动加载完成后再激活功能，否则可能画面有异常\u003c/font\u003e",
+        "自动激活免广告，所有激励广告可白嫖",
+        "可选菜单，可调节血石收益率与消费折扣，出兵时间，投石机CD，传说级装备掉率，商店全解锁等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "zombie.survival.dead.shooting.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "zombie.survival.dead.shooting",
+  "vercode": 180009063,
+  "vername": "1.80.0",
+  "publisher": "VNGGames",
+  "signmd5": "6F34D4404CFE28229D836E78759F05D0",
+  "tags": [
+    "中文",
+    "离线",
+    "射击",
+    "丧尸",
+    "FPS"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/APK/zombie.survival.dead.shooting?versionCode\u003d180009063",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/zombie-hunter-offline-games/zombie.survival.dead.shooting/download",
+      "var": false
+    }
+  ]
+}
