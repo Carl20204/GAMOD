@@ -1,5 +1,5 @@
 {
-  "time": 1708560000000,
+  "time": 1710720000000,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -281,6 +281,66 @@
       "pkg": "com.hottagames.hotta.aligames",
       "title": "幻塔",
       "url": "https://ugame.9game.cn/game/share-235275-1170034.html"
+    },
+    {
+      "pkg": "com.ztgame.yszt.aligames",
+      "title": "原始征途",
+      "url": "https://ugame.9game.cn/game/share-235275-1222983.html"
+    },
+    {
+      "pkg": "com.hermes.j1game.aligames",
+      "title": "星球：重启",
+      "url": "https://ugame.9game.cn/game/share-235275-3037556.html"
+    },
+    {
+      "pkg": "com.sjsgfx.union.aligames",
+      "title": "神将三国",
+      "url": "https://ugame.9game.cn/game/share-235275-1182017.html"
+    },
+    {
+      "pkg": "com.pokemon.awakening.aligames",
+      "title": "口袋觉醒",
+      "url": "https://ugame.9game.cn/game/share-235275-1088351.html"
+    },
+    {
+      "pkg": "com.shiyue.sszg.aligames",
+      "title": "闪烁之光",
+      "url": "https://ugame.9game.cn/game/share-235275-1059336.html"
+    },
+    {
+      "pkg": "com.ycgame.smsy.aligames",
+      "title": "蜀门手游",
+      "url": "https://ugame.9game.cn/game/share-235275-744760.html"
+    },
+    {
+      "pkg": "com.bf.sgs.hdexp.uc",
+      "title": "三国杀移动版",
+      "url": "https://ugame.9game.cn/game/share-235275-6066.html"
+    },
+    {
+      "pkg": "com.supercell.boombeach.uc",
+      "title": "海岛奇兵",
+      "url": "https://ugame.9game.cn/game/share-235275-539038.html"
+    },
+    {
+      "pkg": "com.hw.hcrglx.aligames",
+      "title": "火柴人归来",
+      "url": "https://ugame.9game.cn/game/share-235275-3111893.html"
+    },
+    {
+      "pkg": "com.zzonegame.aresvirus.aligames",
+      "title": "阿瑞斯病毒",
+      "url": "https://ugame.9game.cn/game/share-235275-920750.html"
+    },
+    {
+      "pkg": "com.ledou.jjzd.aligames",
+      "title": "机甲战队",
+      "url": "https://ugame.9game.cn/game/share-235275-3070921.html"
+    },
+    {
+      "pkg": "com.kn.zdfz.aligames",
+      "title": "战斗法则",
+      "url": "https://ugame.9game.cn/game/share-235275-1337176.html"
     }
   ],
   "supports": [
@@ -454,6 +514,11 @@
       "pkg": "com.chillyroom.xenocmd"
     },
     {
+      "label": "战魂铭人",
+      "time": 1705881600002,
+      "pkg": "com.chillyroom.zhmr.aligames"
+    },
+    {
       "label": "烛火地牢2：猫咪的诅咒",
       "time": 1698192000002,
       "pkg": "com.ChrisMcFarland.Tallowmere2"
@@ -517,6 +582,11 @@
       "label": "浪人：末代武士",
       "time": 1704412800002,
       "pkg": "com.dreamotion.ronin"
+    },
+    {
+      "label": "火柴人联盟2",
+      "time": 1709942400002,
+      "pkg": "com.games.hcr2.acing.aligames"
     },
     {
       "label": "疯狂大兵",
