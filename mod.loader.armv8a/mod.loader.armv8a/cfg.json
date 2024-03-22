@@ -585,7 +585,7 @@
     },
     {
       "label": "火柴人联盟2",
-      "time": 1709942400002,
+      "time": 1698278400002,
       "pkg": "com.games.hcr2.acing.aligames"
     },
     {
@@ -667,6 +667,11 @@
       "label": "梦幻花园",
       "time": 1708646400002,
       "pkg": "com.playrix.gardenscapes"
+    },
+    {
+      "label": "迷宫传奇2",
+      "time": 1698302418000,
+      "pkg": "com.ShinobiGames.InfiniteW"
     },
     {
       "label": "貓咪大戰爭",
