@@ -1,14 +1,15 @@
 {
-  "vername": "2.1.5",
+  "vername": "2.1.6",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 215,
+  "vercode": 216,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "E2632502A3E719D4896D386C7BB3515A",
+  "md5": "7CAAA9E26BE038B8A86EA1528A7339D3",
   "logs": {
-    "en": "With GitHub mirror and proxy, some area can sync data in GitHub",
-    "zh": "内置了GitHub镜像代理，中国区用户也能正常使用同步最新数据了"
-  }
+    "en": "refactoring data sync module; sort game tags; compliance permission request",
+    "zh": "重构数据同步代码，修复了同步异常；新增分类统计；权限申请合规，先同意再授权"
+  },
+  "h": false
 }
