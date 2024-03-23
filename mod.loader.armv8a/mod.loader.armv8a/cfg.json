@@ -1,5 +1,5 @@
 {
-  "time": 1711089618009,
+  "time": 1711089618019,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -584,6 +584,16 @@
       "pkg": "com.dreamotion.ronin"
     },
     {
+      "label": "无尽漫游",
+      "time": 1710288000000,
+      "pkg": "com.FirstPickStudios.EndlessWander"
+    },
+    {
+      "label": "黎明前20分钟",
+      "time": 1707091200005,
+      "pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp"
+    },
+    {
       "label": "火柴人联盟2",
       "time": 1698278400002,
       "pkg": "com.games.hcr2.acing.aligames"
@@ -602,11 +612,6 @@
       "label": "孤单枪手：丧尸",
       "time": 1692662400005,
       "pkg": "com.sigmateam.zombieshooter.free"
-    },
-    {
-      "label": "黎明前20分钟",
-      "time": 1707091200005,
-      "pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp"
     },
     {
       "label": "砰砰法师",

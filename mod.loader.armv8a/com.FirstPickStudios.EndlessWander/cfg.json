@@ -1,0 +1,47 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "肉鸽冷兵器战斗类，像素画风类似《王国：两位君主》，通过自由组合剑技+元素技产生多种战斗特色。\u003cbr\u003e\u003cbr\u003e游戏纯英文，英文苦手建议快速跳过剧情，直接去战斗就好。",
+  "label": "无尽漫游",
+  "time": 1710288000008,
+  "mtime": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有广告奖励可白嫖",
+        "自选菜单，可调节减伤、增伤、无CD、解锁全角色、收获增加、消费打折等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.FirstPickStudios.EndlessWander.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.FirstPickStudios.EndlessWander",
+  "vercode": 218,
+  "vername": "1.5.13",
+  "publisher": "First Pick Studios",
+  "signmd5": "69289583441569904BDA67F7321521E1",
+  "tags": [
+    "英文",
+    "国际版",
+    "单机",
+    "肉鸽",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/APK/com.FirstPickStudios.EndlessWander?versionCode\u003d218",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/endless-wander-roguelike-rpg/com.FirstPickStudios.EndlessWander/download",
+      "var": false
+    }
+  ]
+}
