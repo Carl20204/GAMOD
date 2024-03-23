@@ -1,5 +1,5 @@
 {
-  "time": 1711089618001,
+  "time": 1711089618009,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -672,6 +672,11 @@
       "label": "迷宫传奇2",
       "time": 1698302418000,
       "pkg": "com.ShinobiGames.InfiniteW"
+    },
+    {
+      "label": "因狄斯的谎言",
+      "time": 1709683200000,
+      "pkg": "com.yokagame.ProjectS"
     },
     {
       "label": "貓咪大戰爭",
