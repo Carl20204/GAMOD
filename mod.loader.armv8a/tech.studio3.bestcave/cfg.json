@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "标准的肉鸽地牢RPG玩法，比「像素地牢」画质更高，比「贪婪洞窟」的内容要少，优点就是始终在维护，缺点就是无中文……",
+  "label": "命运的秩序",
+  "time": 1710633600008,
+  "mtime": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，调节消耗品、货币的使用"
+      ],
+      "name": "上帝模式",
+      "pkgname": "tech.studio3.bestcave.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "tech.studio3.bestcave",
+  "vercode": 500572,
+  "vername": "1.41.2",
+  "publisher": "HGPUBLISHING LIMITED",
+  "signmd5": "DCEB26028465C88F89F17A038D20F7EC",
+  "tags": [
+    "英文",
+    "单机",
+    "肉鸽",
+    "地牢"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/APK/tech.studio3.bestcave?versionCode\u003d500572",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/order-of-fate-roguelike-rpg/tech.studio3.bestcave/download",
+      "var": false
+    }
+  ]
+}

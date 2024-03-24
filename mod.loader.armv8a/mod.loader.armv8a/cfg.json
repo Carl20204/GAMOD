@@ -1,5 +1,5 @@
 {
-  "time": 1711089618029,
+  "time": 1711089618030,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -792,6 +792,11 @@
       "label": "梦想商店街物语SP",
       "time": 1703635200000,
       "pkg": "net.kairosoft.android.townshopsp"
+    },
+    {
+      "label": "命运的秩序",
+      "time": 1710633600000,
+      "pkg": "tech.studio3.bestcave"
     },
     {
       "label": "西部狙击手",
