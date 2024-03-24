@@ -1,5 +1,5 @@
 {
-  "time": 1711089618030,
+  "time": 1711089618031,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -792,6 +792,11 @@
       "label": "梦想商店街物语SP",
       "time": 1703635200000,
       "pkg": "net.kairosoft.android.townshopsp"
+    },
+    {
+      "label": "放置僵尸防御",
+      "time": 1708732800000,
+      "pkg": "tdcgame.zombie.idle.defense"
     },
     {
       "label": "命运的秩序",
