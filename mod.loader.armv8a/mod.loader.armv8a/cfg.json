@@ -1,5 +1,5 @@
 {
-  "time": 1711089618019,
+  "time": 1711089618029,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -341,6 +341,16 @@
       "pkg": "com.kn.zdfz.aligames",
       "title": "战斗法则",
       "url": "https://ugame.9game.cn/game/share-235275-1337176.html"
+    },
+    {
+      "pkg": "com.sy.frxxzrjp.aligames",
+      "title": "凡人修仙传：人界篇",
+      "url": "https://ugame.9game.cn/game/share-235275-1354168.html"
+    },
+    {
+      "pkg": "com.hero.lszt.aligames",
+      "title": "绿色征途",
+      "url": "https://ugame.9game.cn/game/share-235275-976614.html"
     }
   ],
   "supports": [
@@ -747,6 +757,41 @@
       "label": "植物大战僵尸3",
       "time": 1705536000002,
       "pkg": "com.ea.gp.pvzn3xt"
+    },
+    {
+      "label": "游戏厅物语：加强版",
+      "time": 1701043200000,
+      "pkg": "net.kairosoft.android.gamecenterdx"
+    },
+    {
+      "label": "王都创世物语",
+      "time": 1706832000000,
+      "pkg": "net.kairosoft.android.kingdom_en"
+    },
+    {
+      "label": "箱庭都市",
+      "time": 1706054400000,
+      "pkg": "net.kairosoft.android.miniature_en"
+    },
+    {
+      "label": "开罗拉面店全国篇",
+      "time": 1706745600000,
+      "pkg": "net.kairosoft.android.noodle2_en"
+    },
+    {
+      "label": "冲刺！赛车物语2",
+      "time": 1703030400000,
+      "pkg": "net.kairosoft.android.paddock2_en"
+    },
+    {
+      "label": "冠军足球2",
+      "time": 1695254400000,
+      "pkg": "net.kairosoft.android.soccer2_en"
+    },
+    {
+      "label": "梦想商店街物语SP",
+      "time": 1703635200000,
+      "pkg": "net.kairosoft.android.townshopsp"
     },
     {
       "label": "西部狙击手",
