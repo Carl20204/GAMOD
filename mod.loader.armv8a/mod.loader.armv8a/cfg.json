@@ -1,5 +1,5 @@
 {
-  "time": 1711089618032,
+  "time": 1711089618033,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -659,11 +659,6 @@
       "pkg": "com.ea.game.pvz2_row"
     },
     {
-      "label": "傲气雄鹰2014",
-      "time": 1698796800002,
-      "pkg": "pl.idreams.skyforcehd"
-    },
-    {
       "label": "篝火：被遗忘的土地",
       "time": 1696982400002,
       "pkg": "com.xigmagames.thebonfireFL"
@@ -749,11 +744,6 @@
       "pkg": "com.raongames.growcastle"
     },
     {
-      "label": "傲气雄鹰：重装上阵",
-      "time": 1678924800005,
-      "pkg": "pl.idreams.SkyForceReloaded2016"
-    },
-    {
       "label": "植物大战僵尸3",
       "time": 1705536000002,
       "pkg": "com.ea.gp.pvzn3xt"
@@ -794,6 +784,16 @@
       "pkg": "net.kairosoft.android.townshopsp"
     },
     {
+      "label": "傲气雄鹰2014",
+      "time": 1709510400000,
+      "pkg": "pl.idreams.skyforcehd"
+    },
+    {
+      "label": "傲气雄鹰：重装上阵",
+      "time": 1678924800000,
+      "pkg": "pl.idreams.SkyForceReloaded2016"
+    },
+    {
       "label": "丧尸狙击手",
       "time": 1705363200000,
       "pkg": "sniper.gun.zombie.shooting"
@@ -810,12 +810,12 @@
     },
     {
       "label": "西部狙击手",
-      "time": 1710374400002,
+      "time": 1710374400000,
       "pkg": "wild.west.sniper"
     },
     {
       "label": "丧尸猎人",
-      "time": 1710547200002,
+      "time": 1710547200000,
       "pkg": "zombie.survival.dead.shooting"
     }
   ]
