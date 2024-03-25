@@ -1,5 +1,5 @@
 {
-  "time": 1711089618035,
+  "time": 1711089618036,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -782,6 +782,11 @@
       "label": "梦想商店街物语SP",
       "time": 1703635200000,
       "pkg": "net.kairosoft.android.townshopsp"
+    },
+    {
+      "label": "苹果骑士2",
+      "time": 1702684800000,
+      "pkg": "online.limitless.appleknight.dungeons"
     },
     {
       "label": "深海垂钓",
