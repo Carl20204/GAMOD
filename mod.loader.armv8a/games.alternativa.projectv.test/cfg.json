@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "模拟生存类，收集物资，建设庇护所，在丧尸末日中生存下去\u003cbr\u003e进入游戏后才能在设置页里改中文，但翻译有缺失，部分物品、任务描述还是英文",
+  "label": "几日之后",
+  "time": 1710460800008,
+  "mtime": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单可调节移速、耐力、饥、渴、快速制作、快速升级等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "games.alternativa.projectv.test.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "games.alternativa.projectv.test",
+  "vercode": 102174,
+  "vername": "11.2.0",
+  "publisher": "REACTGAMES STUDIO",
+  "signmd5": "0F514F6147A3B5815F5A133F3917C9C7",
+  "tags": [
+    "中文",
+    "模拟",
+    "生存",
+    "RPG"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/games.alternativa.projectv.test?versionCode\u003d102174\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/days-after-zombie-survival/games.alternativa.projectv.test/download",
+      "var": false
+    }
+  ]
+}

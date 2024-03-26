@@ -1,5 +1,5 @@
 {
-  "time": 1711089618046,
+  "time": 1711089618056,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -729,11 +729,6 @@
       "pkg": "com.sigmateam.alienshooter2"
     },
     {
-      "label": "元素世界",
-      "time": 1695686400001,
-      "pkg": "julyhot.elementalworld"
-    },
-    {
       "label": "神枪手强尼",
       "time": 1702598400002,
       "pkg": "com.time.trigger"
@@ -752,6 +747,16 @@
       "label": "冷酷灵魂：黑暗幻想",
       "time": 1710460800000,
       "pkg": "fantasy.survival.game.rpg"
+    },
+    {
+      "label": "几日之后",
+      "time": 1710460800000,
+      "pkg": "games.alternativa.projectv.test"
+    },
+    {
+      "label": "元素世界",
+      "time": 1695686400001,
+      "pkg": "julyhot.elementalworld"
     },
     {
       "label": "游戏厅物语：加强版",
