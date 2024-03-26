@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "模拟生存类，收集物资，建设城堡，在末世中生存下去",
+  "label": "冷酷灵魂：黑暗幻想",
+  "time": 1710460800008,
+  "mtime": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单可调节能量、伤害减轻、增强，饥、渴、道具物资、城堡建设等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "fantasy.survival.game.rpg.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "fantasy.survival.game.rpg",
+  "vercode": 601010634,
+  "vername": "6.1.1",
+  "publisher": "Brickworks Games Ltd",
+  "signmd5": "69B136637EBB6BECEC4400E12502FE39",
+  "tags": [
+    "中文",
+    "模拟",
+    "生存",
+    "RPG"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/fantasy.survival.game.rpg?versionCode\u003d601010634\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/grim-soul-dark-survival-rpg/fantasy.survival.game.rpg/download",
+      "var": false
+    }
+  ]
+}

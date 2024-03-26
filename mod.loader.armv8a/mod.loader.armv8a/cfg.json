@@ -1,5 +1,5 @@
 {
-  "time": 1711089618036,
+  "time": 1711089618046,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -747,6 +747,11 @@
       "label": "植物大战僵尸3",
       "time": 1705536000002,
       "pkg": "com.ea.gp.pvzn3xt"
+    },
+    {
+      "label": "冷酷灵魂：黑暗幻想",
+      "time": 1710460800000,
+      "pkg": "fantasy.survival.game.rpg"
     },
     {
       "label": "游戏厅物语：加强版",
