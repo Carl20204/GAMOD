@@ -1,1 +1,53 @@
-{"archs":["arm64-v8a"],"faqs":{"为啥卡在开始游戏加载画面？":"1。确保客户端使用的是2.1.3或之后的版本，\u003cbr\u003e游戏启动需联网下载不到1M的数据，但EA的服务器必须翻墙才能连上……请使用合适的加速器翻墙\u003cbr\u003ePS：游戏中也频繁联网更新关卡数据，请时刻保持翻墙状态"},"gms":1,"info":"植物大战僵尸就不用多说了，中国区玩家首次下载或玩之前请注意看游戏帮助说明","label":"植物大战僵尸3","time":1705536000005,"mod":true,"mods":[{"descs":["可选菜单：可控阳光掉落如雨，增伤，减伤，战斗轻轻松松"],"name":"上帝模式","pkgname":"com.ea.gp.pvzn3xt.gm64","targetvc":"*","vercode":1}],"pkgname":"com.ea.gp.pvzn3xt","vercode":9,"vername":"8.0.17","publisher":"EA（美国艺电）","signmd5":"98C6719B7F441B0040D206520169FEE7","tags":["英文","塔防","花园建设"],"downloads":[{"host":"翻墙｜直链下载","url":"https://d.apkpure.net/b/XAPK/com.ea.gp.pvzn3xt?versionCode\u003d9\u0026nc\u003darm64-v8a\u0026sv\u003d22","var":false},{"host":"翻墙｜下载页","url":"https://apkpure.net/cn/plants-vs-zombies-3/com.ea.gp.pvzn3xt/download","var":true}]}
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "faqs": {
+    "为啥卡在开始游戏加载画面？": "1。确保客户端使用的是2.1.3或之后的版本，\u003cbr\u003e游戏启动需联网下载不到1M的数据，但EA的服务器必须翻墙才能连上……请使用合适的加速器翻墙\u003cbr\u003ePS：游戏中也频繁联网更新关卡数据，请时刻保持翻墙状态"
+  },
+  "gms": 1,
+  "info": "植物大战僵尸就不用多说了，本作全程联网，自备梯子",
+  "label": "植物大战僵尸3",
+  "time": 1710288000008,
+  "mtime": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单：可控阳光掉落如雨，增伤，减伤，战斗轻轻松松"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ea.gp.pvzn3xt.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.ea.gp.pvzn3xt",
+  "vercode": 10,
+  "vername": "10.0.22",
+  "publisher": "EA（美国艺电）",
+  "signmd5": "98C6719B7F441B0040D206520169FEE7",
+  "tags": [
+    "英文",
+    "塔防",
+    "建设",
+    "翻墙"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "var": false
+    },
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.ea.gp.pvzn3xt?versionCode\u003d10\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/plants-vs-zombies-3/com.ea.gp.pvzn3xt/download",
+      "var": true
+    }
+  ]
+}
