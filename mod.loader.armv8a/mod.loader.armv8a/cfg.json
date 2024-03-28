@@ -1,5 +1,5 @@
 {
-  "time": 1711089618059,
+  "time": 1711089618069,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -634,6 +634,16 @@
       "pkg": "cc.jasfun.soldier"
     },
     {
+      "label": "瘟疫公司",
+      "time": 1707264000000,
+      "pkg": "com.miniclip.plagueinc"
+    },
+    {
+      "label": "死亡突围：僵尸战争",
+      "time": 1706227200002,
+      "pkg": "com.mobirate.DeadAheadTactics"
+    },
+    {
       "label": "孤单枪手：丧尸",
       "time": 1692662400005,
       "pkg": "com.sigmateam.zombieshooter.free"
@@ -652,11 +662,6 @@
       "label": "哥布林弹球",
       "time": 1705449600002,
       "pkg": "com.RedNexusGamesInc.Peglin"
-    },
-    {
-      "label": "死亡突围：僵尸战争",
-      "time": 1706227200002,
-      "pkg": "com.mobirate.DeadAheadTactics"
     },
     {
       "label": "孤胆枪手：世界",
