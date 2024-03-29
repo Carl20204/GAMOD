@@ -1,5 +1,5 @@
 {
-  "time": 1711089618069,
+  "time": 1711089618071,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -762,6 +762,11 @@
       "label": "元素世界",
       "time": 1695686400001,
       "pkg": "julyhot.elementalworld"
+    },
+    {
+      "label": "艾洛伊：防卫战争",
+      "time": 1698278400000,
+      "pkg": "net.ekgames.elroi"
     },
     {
       "label": "游戏厅物语：加强版",
