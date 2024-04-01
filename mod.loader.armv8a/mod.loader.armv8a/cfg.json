@@ -1,5 +1,5 @@
 {
-  "time": 1711089618075,
+  "time": 1711089618077,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -439,6 +439,11 @@
       "pkg": "com.aubjective.jobmania"
     },
     {
+      "label": "骷髅女孩",
+      "time": 1705449600002,
+      "pkg": "com.autumn.skullgirls"
+    },
+    {
       "label": "帝国守卫战",
       "time": 1709424000002,
       "pkg": "com.babeltimeus.legendstd"
@@ -676,6 +681,11 @@
       "pkg": "com.sigmateam.alienshootermobile.free"
     },
     {
+      "label": "孤胆枪手：塔防",
+      "time": 1692748800005,
+      "pkg": "com.sigmateam.alienshooter.towerdefence"
+    },
+    {
       "label": "元气骑士",
       "time": 1706832000002,
       "pkg": "com.ChillyRoom.DungeonShooter"
@@ -706,16 +716,6 @@
       "pkg": "com.ShinobiGames.InfiniteW"
     },
     {
-      "label": "因狄斯的谎言",
-      "time": 1709683200000,
-      "pkg": "com.yokagame.ProjectS"
-    },
-    {
-      "label": "貓咪大戰爭",
-      "time": 1707091200002,
-      "pkg": "jp.co.ponos.battlecatstw"
-    },
-    {
       "label": "我的小小宇宙",
       "time": 1704240000002,
       "pkg": "com.savetheworld.game"
@@ -724,16 +724,6 @@
       "label": "火星幸存者：火星归来",
       "time": 1704153600002,
       "pkg": "com.mars.leguas.a"
-    },
-    {
-      "label": "骷髅女孩",
-      "time": 1705449600002,
-      "pkg": "com.autumn.skullgirls"
-    },
-    {
-      "label": "孤胆枪手：塔防",
-      "time": 1692748800005,
-      "pkg": "com.sigmateam.alienshooter.towerdefence"
     },
     {
       "label": "我的梦幻小岛",
@@ -762,6 +752,17 @@
       "pkg": "com.YEMA.FinalDestiny"
     },
     {
+      "label": "因狄斯的谎言",
+      "time": 1709683200000,
+      "pkg": "com.yokagame.ProjectS"
+    },
+    {
+      "label": "英雄冒险",
+      "time": 1681516800000,
+	  "mtime": 1711411200000,
+      "pkg": "com.z1.projectx.idle"
+    },
+    {
       "label": "冷酷灵魂：黑暗幻想",
       "time": 1710460800000,
 	  "mtime": 1711411200000,
@@ -772,6 +773,11 @@
       "time": 1710460800000,
 	  "mtime": 1711411200000,
       "pkg": "games.alternativa.projectv.test"
+    },
+    {
+      "label": "貓咪大戰爭",
+      "time": 1707091200002,
+      "pkg": "jp.co.ponos.battlecatstw"
     },
     {
       "label": "元素世界",
