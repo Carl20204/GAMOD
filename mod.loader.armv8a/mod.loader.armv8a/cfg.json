@@ -1,5 +1,5 @@
 {
-  "time": 1711089618071,
+  "time": 1711089618075,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -531,6 +531,7 @@
     {
       "label": "烛火地牢2：猫咪的诅咒",
       "time": 1698192000002,
+	  "mtime": 1711065600000,
       "pkg": "com.ChrisMcFarland.Tallowmere2"
     },
     {
@@ -586,16 +587,19 @@
     {
       "label": "格里姆瓦勒",
       "time": 1695945600002,
+	  "mtime": 1710460800000,
       "pkg": "com.direlight.grimvalor"
     },
     {
       "label": "浪人：末代武士",
       "time": 1704412800002,
+	  "mtime": 1710633600000,
       "pkg": "com.dreamotion.ronin"
     },
     {
       "label": "植物大战僵尸2：国际版",
       "time": 1711411200000,
+	  "mtime": 1711497600000,
       "pkg": "com.ea.game.pvz2_na"
     },
     {
@@ -611,11 +615,13 @@
     {
       "label": "植物大战僵尸3",
       "time": 1710288000000,
+	  "mtime": 1711497600000,
       "pkg": "com.ea.gp.pvzn3xt"
     },
     {
       "label": "无尽漫游",
       "time": 1710288000000,
+	  "mtime": 1711152000000,
       "pkg": "com.FirstPickStudios.EndlessWander"
     },
     {
@@ -636,6 +642,7 @@
     {
       "label": "瘟疫公司",
       "time": 1707264000000,
+	  "mtime": 1711584000000,
       "pkg": "com.miniclip.plagueinc"
     },
     {
@@ -749,13 +756,21 @@
       "pkg": "com.raongames.growcastle"
     },
     {
+      "label": "最终命运：穿越世界的尽头",
+      "time": 1706313600009,
+	  "mtime": 1711411200000,
+      "pkg": "com.YEMA.FinalDestiny"
+    },
+    {
       "label": "冷酷灵魂：黑暗幻想",
       "time": 1710460800000,
+	  "mtime": 1711411200000,
       "pkg": "fantasy.survival.game.rpg"
     },
     {
       "label": "几日之后",
       "time": 1710460800000,
+	  "mtime": 1711411200000,
       "pkg": "games.alternativa.projectv.test"
     },
     {
@@ -766,6 +781,7 @@
     {
       "label": "艾洛伊：防卫战争",
       "time": 1698278400000,
+	  "mtime": 1711670400000,
       "pkg": "net.ekgames.elroi"
     },
     {
@@ -776,6 +792,7 @@
     {
       "label": "王都创世物语",
       "time": 1706832000000,
+	  "mtime": 1711238400000,
       "pkg": "net.kairosoft.android.kingdom_en"
     },
     {
@@ -791,46 +808,55 @@
     {
       "label": "冲刺！赛车物语2",
       "time": 1703030400000,
+	  "mtime": 1711238400000,
       "pkg": "net.kairosoft.android.paddock2_en"
     },
     {
       "label": "冠军足球2",
       "time": 1695254400000,
+	  "mtime": 1711238400000,
       "pkg": "net.kairosoft.android.soccer2_en"
     },
     {
       "label": "梦想商店街物语SP",
       "time": 1703635200000,
+	  "mtime": 1711238400000,
       "pkg": "net.kairosoft.android.townshopsp"
     },
     {
       "label": "苹果骑士2",
       "time": 1702684800000,
+	  "mtime": 1711324800000,
       "pkg": "online.limitless.appleknight.dungeons"
     },
     {
       "label": "深海垂钓",
       "time": 1710460800000,
+	  "mtime": 1711324800000,
       "pkg": "pl.idreams.cotd"
     },
     {
       "label": "傲气雄鹰2014",
       "time": 1709510400000,
+	  "mtime": 1711324800000,
       "pkg": "pl.idreams.skyforcehd"
     },
     {
       "label": "傲气雄鹰：重装上阵",
       "time": 1678924800000,
+	  "mtime": 1711324800000,
       "pkg": "pl.idreams.SkyForceReloaded2016"
     },
     {
       "label": "丧尸狙击手",
       "time": 1705363200000,
+	  "mtime": 1711238400000,
       "pkg": "sniper.gun.zombie.shooting"
     },
     {
       "label": "放置僵尸防御",
       "time": 1708732800000,
+	  "mtime": 1711238400000,
       "pkg": "tdcgame.zombie.idle.defense"
     },
     {

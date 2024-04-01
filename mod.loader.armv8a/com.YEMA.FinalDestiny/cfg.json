@@ -1,0 +1,50 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "韩国的游戏，标准的韩系二次元像素画风，有其它同类手游很少见的搓照连招体系",
+  "label": "最终命运：穿越世界的尽头",
+  "time": 1706313600008,
+  "mtime": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动免广告，所有广告激励可白嫖",
+        "可选菜单可自由加钱，调节战斗爽度"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.YEMA.FinalDestiny.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.YEMA.FinalDestiny",
+  "vercode": 366,
+  "vername": "1.74",
+  "publisher": "YEMA GAMES",
+  "signmd5": "FEF1DB66618131282C599D758CB60DEB",
+  "tags": [
+    "中文",
+    "动作",
+    "ACT"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/PuURFwt8",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.YEMA.FinalDestiny?versionCode\u003d366\u0026nc\u003darm64-v8a\u0026sv\u003d19",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/final-destiny/com.YEMA.FinalDestiny/download",
+      "var": false
+    }
+  ]
+}
