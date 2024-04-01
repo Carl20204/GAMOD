@@ -1,5 +1,5 @@
 {
-  "time": 1711089618077,
+  "time": 1711089618079,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -643,6 +643,12 @@
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
+    },
+    {
+      "label": "暴君的游戏",
+      "time": 1710720000000,
+	  "mtime": 1711929600000,
+      "pkg": "com.KonfaGames.DespotsGame"
     },
     {
       "label": "瘟疫公司",
