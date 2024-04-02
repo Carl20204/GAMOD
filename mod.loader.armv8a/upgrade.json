@@ -1,15 +1,15 @@
 {
-  "vername": "2.1.7",
+  "vername": "2.1.8",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 217,
+  "vercode": 218,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "624977D026B776044EC976546C0C058A",
+  "md5": "4AECE346218AF5349316BFE14DD966A1",
   "logs": {
-    "en": "complete 2.1.6, added sort by publisher, by last update time, add shortcut tips for new mod file, xapk file",
-    "zh": "对2.1.6版本的补充完善，增加按时间、发行分类，增加MOD提示，增加自动识别可安装、可导入的情形，方便MOD大佬使用"
+    "en": "fix 2.1.6/2.1.7, good for MOD Dev",
+    "zh": "对2.1.6/2.1.7版本的补充完善，还是以方便MOD大佬为核心"
   },
   "h": false
 }
