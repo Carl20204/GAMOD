@@ -1,5 +1,5 @@
 {
-  "time": 1711089618079,
+  "time": 1711929600000,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -633,6 +633,12 @@
       "label": "黎明前20分钟",
       "time": 1707091200005,
       "pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp"
+    },
+    {
+      "label": "僵尸炮艇：生存",
+      "time": 1710374400000,
+	  "mtime": 1712016000000,
+      "pkg": "com.flaregames.zgs"
     },
     {
       "label": "泡菜皮特",

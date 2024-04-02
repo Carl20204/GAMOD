@@ -1,0 +1,49 @@
+{
+  "faqs": {
+    "进游戏卡住怎么回事？": "偶尔的进入游戏或基地画面会卡住无法点击，此时一般是卡在联网中，一般耐心等10～30秒左右就行"
+  },
+  "gms": 1,
+  "info": "驾驶AC-130，空中炮艇，死亡天使，从空中打击丧尸\u003cbr\u003e\u003cbr\u003e说实话，和俄乌战争中无人机视角下的高空打击很类似……",
+  "label": "僵尸炮艇：生存",
+  "time": 1710374400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可免广告解锁、领取物资、调节机炮自由射击、地面部队无敌"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.flaregames.zgs.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.flaregames.zgs",
+  "vercode": 1006096,
+  "vername": "1.6.96",
+  "publisher": "Flaregames",
+  "signmd5": "BC7A7C4FC95C0ABD4CF45005CD7C40EA",
+  "tags": [
+    "中文",
+    "射击",
+    "塔防",
+    "建设"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "var": false
+    },
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.flaregames.zgs?versionCode\u003d1006096",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/zombie-gunship-survival/com.flaregames.zgs/download",
+      "var": false
+    }
+  ]
+}
