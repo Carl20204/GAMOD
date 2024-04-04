@@ -1,5 +1,5 @@
 {
-  "time": 1711929600000,
+  "time": 1711929600005,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -524,6 +524,11 @@
       "pkg": "com.ccyiyo.story"
     },
     {
+      "label": "元气骑士",
+      "time": 1711411200000,
+      "pkg": "com.ChillyRoom.DungeonShooter"
+    },
+    {
       "label": "异星指令",
       "time": 1705536000002,
       "pkg": "com.chillyroom.xenocmd"
@@ -596,6 +601,11 @@
       "pkg": "com.direlight.grimvalor"
     },
     {
+      "label": "我的梦幻小岛",
+      "time": 1707004800000,
+      "pkg": "com.dream.dale"
+    },
+    {
       "label": "浪人：末代武士",
       "time": 1704412800002,
 	  "mtime": 1710633600000,
@@ -652,6 +662,16 @@
       "pkg": "com.games.hcr2.acing.aligames"
     },
     {
+      "label": "砰砰法师",
+      "time": 1706054400000,
+      "pkg": "com.habby.punball"
+    },
+    {
+      "label": "蛇蛇贪吃",
+      "time": 1707124544000,
+      "pkg": "com.habby.sssnaker"
+    },
+    {
       "label": "疯狂大兵",
       "time": 1683849600002,
       "pkg": "cc.jasfun.soldier"
@@ -674,49 +694,10 @@
       "pkg": "com.mobirate.DeadAheadTactics"
     },
     {
-      "label": "孤单枪手：丧尸",
-      "time": 1692662400000,
-      "pkg": "com.sigmateam.zombieshooter.free"
-    },
-    {
-      "label": "砰砰法师",
-      "time": 1706054400000,
-      "pkg": "com.habby.punball"
-    },
-    {
-      "label": "蛇蛇贪吃",
-      "time": 1707124544000,
-      "pkg": "com.habby.sssnaker"
-    },
-    {
-      "label": "哥布林弹球",
-      "time": 1705449600000,
-      "pkg": "com.RedNexusGamesInc.Peglin"
-    },
-    {
-      "label": "孤胆枪手：世界",
-      "time": 1698019200000,
-      "pkg": "com.sigmateam.alienshootermobile.free"
-    },
-    {
-      "label": "孤胆枪手：塔防",
-      "time": 1692748800000,
-      "pkg": "com.sigmateam.alienshooter.towerdefence"
-    },
-    {
-      "label": "元气骑士",
-      "time": 1711411200000,
-      "pkg": "com.ChillyRoom.DungeonShooter"
-    },
-    {
-      "label": "篝火：被遗忘的土地",
-      "time": 1696982400000,
-      "pkg": "com.xigmagames.thebonfireFL"
-    },
-    {
-      "label": "篝火2：未知彼岸",
-      "time": 1700179200000,
-      "pkg": "com.xigmaGames.thebonfire2"
+      "label": "地牢杀手",
+      "time": 1711584000000,
+	  "mtime": 1711929600000,
+      "pkg": "com.nspgames.dungeonslasher"
     },
     {
       "label": "梦幻家园",
@@ -729,9 +710,9 @@
       "pkg": "com.playrix.gardenscapes"
     },
     {
-      "label": "迷宫传奇2",
-      "time": 1698302418000,
-      "pkg": "com.ShinobiGames.InfiniteW"
+      "label": "哥布林弹球",
+      "time": 1705449600000,
+      "pkg": "com.RedNexusGamesInc.Peglin"
     },
     {
       "label": "我的小小宇宙",
@@ -739,19 +720,44 @@
       "pkg": "com.savetheworld.game"
     },
     {
-      "label": "火星幸存者：火星归来",
-      "time": 1704153600000,
-      "pkg": "com.mars.leguas.a"
+      "label": "迷宫传奇2",
+      "time": 1698302418000,
+      "pkg": "com.ShinobiGames.InfiniteW"
     },
     {
-      "label": "我的梦幻小岛",
-      "time": 1707004800000,
-      "pkg": "com.dream.dale"
+      "label": "孤单枪手：丧尸",
+      "time": 1692662400000,
+      "pkg": "com.sigmateam.zombieshooter.free"
+    },
+    {
+      "label": "孤胆枪手：世界",
+      "time": 1698019200000,
+      "pkg": "com.sigmateam.alienshootermobile.free"
+    },
+    {
+      "label": "孤胆枪手：塔防",
+      "time": 1692748800000,
+      "pkg": "com.sigmateam.alienshooter.towerdefence"
     },
     {
       "label": "孤胆枪手2：传奇",
       "time": 1692921600000,
       "pkg": "com.sigmateam.alienshooter2"
+    },
+    {
+      "label": "篝火：被遗忘的土地",
+      "time": 1696982400000,
+      "pkg": "com.xigmagames.thebonfireFL"
+    },
+    {
+      "label": "篝火2：未知彼岸",
+      "time": 1700179200000,
+      "pkg": "com.xigmaGames.thebonfire2"
+    },
+    {
+      "label": "火星幸存者：火星归来",
+      "time": 1704153600000,
+      "pkg": "com.mars.leguas.a"
     },
     {
       "label": "神枪手强尼",
