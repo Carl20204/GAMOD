@@ -1,5 +1,5 @@
 {
-  "time": 1711929600005,
+  "time": 1711929600009,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -701,13 +701,19 @@
     },
     {
       "label": "梦幻家园",
-      "time": 1709769600002,
+      "time": 1709769600000,
       "pkg": "com.playrix.homescapes"
     },
     {
       "label": "梦幻花园",
-      "time": 1708646400002,
+      "time": 1708646400000,
       "pkg": "com.playrix.gardenscapes"
+    },
+    {
+      "label": "吸血鬼幸存者",
+      "time": 1710374400000,
+	  "mtime": 1711929600000,
+      "pkg": "com.poncle.vampiresurvivors"
     },
     {
       "label": "哥布林弹球",
