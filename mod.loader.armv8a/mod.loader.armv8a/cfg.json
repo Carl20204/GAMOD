@@ -1,5 +1,5 @@
 {
-  "time": 1711929600009,
+  "time": 1711929600019,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -714,6 +714,12 @@
       "time": 1710374400000,
 	  "mtime": 1711929600000,
       "pkg": "com.poncle.vampiresurvivors"
+    },
+    {
+      "label": "梦跃国度",
+      "time": 1706486400000,
+	  "mtime": 1711843200000,
+      "pkg": "com.protostar.hopper"
     },
     {
       "label": "哥布林弹球",

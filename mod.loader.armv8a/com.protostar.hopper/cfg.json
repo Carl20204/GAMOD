@@ -1,0 +1,46 @@
+{
+  "gms": 2,
+  "info": "艺术类作品，美轮美奂，休闲放松体悟光影之美",
+  "label": "梦跃国度",
+  "time": 1706486400008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单可调节更多金币、钻石与体力"
+      ],
+      "name": "禅意模式",
+      "pkgname": "com.protostar.hopper.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.protostar.hopper",
+  "vercode": 7429,
+  "vername": "1.5.9",
+  "publisher": "Protostar",
+  "signmd5": "428C2602C626BCA4BA121C430285223B",
+  "tags": [
+    "中文",
+    "休闲",
+    "艺术",
+    "禅"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/XAPK/com.protostar.hopper?versionCode\u003d7429",
+      "var": false
+    },
+    {
+      "host": "下载页[翻墙]",
+      "url": "https://apkpure.net/cn/dream-hopper/com.protostar.hopper/download",
+      "var": true
+    }
+  ]
+}
