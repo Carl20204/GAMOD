@@ -1,0 +1,50 @@
+{
+  "gms": 2,
+  "info": "无尽的滑雪之旅！在美丽雪山、远古树林以及旧日遗迹间畅快穿梭",
+  "label": "阿尔托的冒险",
+  "time": 1698969600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动免广告，激励广告可白嫖",
+        "可选菜单可调节各项道具功能，增强速度等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.noodlecake.altosadventure.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.noodlecake.altosadventure",
+  "vercode": 500169,
+  "vername": "1.8.15",
+  "publisher": "Noodlecake",
+  "signmd5": "B55C477AF305DEAF7C905258D5FCB695",
+  "tags": [
+    "中文",
+    "单机",
+    "跑酷",
+    "休闲",
+    "禅",
+    "艺术",
+    "经典"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.noodlecake.altosadventure?versionCode\u003d500169\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/alto-s-adventure/com.noodlecake.altosadventure/download",
+      "var": false
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "time": 1711929600019,
+  "time": 1711929600029,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -692,6 +692,18 @@
       "label": "死亡突围：僵尸战争",
       "time": 1706227200000,
       "pkg": "com.mobirate.DeadAheadTactics"
+    },
+    {
+      "label": "阿尔托的冒险",
+      "time": 1698969600000,
+	  "mtime": 1711843200000,
+      "pkg": "com.noodlecake.altosadventure"
+    },
+    {
+      "label": "阿尔托的奥德赛",
+      "time": 1702512000000,
+	  "mtime": 1711843200000,
+      "pkg": "com.noodlecake.altosodyssey"
     },
     {
       "label": "地牢杀手",
