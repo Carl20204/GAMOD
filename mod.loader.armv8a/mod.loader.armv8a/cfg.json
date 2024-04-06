@@ -1,5 +1,5 @@
 {
-  "time": 1711929600029,
+  "time": 1711929600039,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -440,7 +440,8 @@
     },
     {
       "label": "骷髅女孩",
-      "time": 1705449600002,
+      "time": 1711411200000,
+	  "mtime": 1712275200000,
       "pkg": "com.autumn.skullgirls"
     },
     {
