@@ -1,0 +1,46 @@
+{
+  "gms": 2,
+  "info": "国际版，纯英文，汉化版等改版请自行百度\u003cbr\u003e\u003cbr\u003e只有未改过包名的改版才可以用MOD",
+  "label": "辐射避难所",
+  "time": 1709856000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选功能，随意获取商店购买的午餐盒来开箱，可设置快速生产"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bethsoft.falloutshelter.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.bethsoft.falloutshelter",
+  "vercode": 151,
+  "vername": "1.15.15",
+  "publisher": "Bethesda Softworks LLC",
+  "signmd5": "18B25D5038EF8DFF048BBBA7FA52085E",
+  "tags": [
+    "英文",
+    "单机",
+    "模拟",
+    "生存"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "下载页[翻墙]",
+      "url": "https://apkpure.net/cn/fallout-shelter/com.bethsoft.falloutshelter/download",
+      "var": true
+    },
+    {
+      "host": "直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/XAPK/com.bethsoft.falloutshelter?versionCode\u003d151\u0026nc\u003darm64-v8a%2Carmeabi-v7a\u0026sv\u003d22",
+      "var": false
+    }
+  ]
+}

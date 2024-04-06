@@ -1,5 +1,5 @@
 {
-  "time": 1711929600039,
+  "time": 1711929600049,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -478,6 +478,12 @@
       "label": "毁灭战士(DOOM)",
       "time": 1708473600002,
       "pkg": "com.bethsoft.ubu"
+    },
+    {
+      "label": "辐射避难所",
+      "time": 1709856000000,
+	  "mtime": 1711843200000,
+      "pkg": "com.bethsoft.falloutshelter"
     },
     {
       "label": "生存RPG3：失落时空",
