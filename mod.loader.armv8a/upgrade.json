@@ -1,15 +1,15 @@
 {
-  "vername": "2.2.0",
+  "vername": "2.2.2",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
   "vercode": 220,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "385D79A4B571764B93CE0E6C3426C7BF",
+  "md5": "4ABDD07F021013DD69550EA6D014A5A3",
   "logs": {
-    "en": "优化数据同步，游戏分组，权限申请合规，UI细节完善",
-    "zh": "优化数据同步，游戏分组，权限申请合规，UI细节完善"
+    "en": "优化数据同步，游戏分组，权限申请合规，UI细节完善；修复已知Bug",
+    "zh": "优化数据同步，游戏分组，权限申请合规，UI细节完善；修复已知Bug"
   },
   "h": false
 }
