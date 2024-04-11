@@ -1,5 +1,5 @@
 {
-  "time": 1711929600049,
+  "time": 1711929600059,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -653,8 +653,8 @@
     },
     {
       "label": "僵尸炮艇：生存",
-      "time": 1710374400000,
-	  "mtime": 1712016000000,
+      "time": 1712620800000,
+	  "mtime": 1712620800000,
       "pkg": "com.flaregames.zgs"
     },
     {
