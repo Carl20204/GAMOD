@@ -1,5 +1,5 @@
 {
-  "time": 1711929600059,
+  "time": 1711929600069,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -720,12 +720,14 @@
     },
     {
       "label": "梦幻家园",
-      "time": 1709769600000,
+      "time": 1712966400000,
+	  "mtime": 1712966400000,
       "pkg": "com.playrix.homescapes"
     },
     {
       "label": "梦幻花园",
-      "time": 1708646400000,
+      "time": 1712620800000,
+	  "mtime": 1712966400000,
       "pkg": "com.playrix.gardenscapes"
     },
     {

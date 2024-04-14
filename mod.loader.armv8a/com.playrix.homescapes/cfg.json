@@ -1,31 +1,28 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 1,
   "info": "\u003cfont color\u003d\"#ff0000\"\u003e《梦幻家园》《梦幻花园》\u003c/font\u003e，每月固定更新全新的赛季+合成+探险活动。永远不缺新鲜内容",
   "label": "梦幻家园",
-  "time": 1709769600008,
+  "time": 1712966400008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "三消局中的道具无限使用，主打的就是一个休闲"
+        "可选菜单，可配置三消胜利金币、星星收益，可调节开局步数"
       ],
       "name": "休闲模式",
       "pkgname": "com.playrix.homescapes.gm64",
-      "targetvc": "150006901",
-      "vercode": 6
+      "targetvc": "150007001",
+      "vercode": 7
     }
   ],
   "pkgname": "com.playrix.homescapes",
-  "vercode": 150006901,
-  "vername": "6.9.1",
+  "vercode": 150007001,
+  "vername": "7.0.1",
   "publisher": "Playrix",
   "signmd5": "86B2077CDA90AB8D99645D636ACDBE60",
   "tags": [
     "中文",
-    "可离线",
+    "单机",
     "休闲",
     "三消",
     "装饰",
@@ -40,12 +37,12 @@
     },
     {
       "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/homescapes-android/com.playrix.homescapes/download/6.9.1",
+      "url": "https://apkpure.net/cn/homescapes-android/com.playrix.homescapes/download",
       "var": false
     },
     {
       "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/APK/com.playrix.homescapes?versionCode\u003d150006901\u0026nc\u003darm64-v8a\u0026sv\u003d19",
+      "url": "https://d.apkpure.net/b/APK/com.playrix.homescapes?versionCode\u003d150007001",
       "var": false
     }
   ]
