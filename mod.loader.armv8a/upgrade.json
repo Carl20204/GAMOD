@@ -1,16 +1,16 @@
 {
-  "vername": "2.2.2",
+  "vername": "2.2.3",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 222,
+  "vercode": 223,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "14A9EFFEBEB1101BF9C6109EDEF78794",
-  "size": 4090618,
+  "md5": "31BE28DE69D3136F2686A415D3E8A6C6",
+  "size": 4099120,
   "logs": {
-    "en": "优化数据同步，游戏分组，权限申请合规，UI细节完善；修复已知Bug",
-    "zh": "优化数据同步，游戏分组，权限申请合规，UI细节完善；修复已知Bug"
+    "en": "优化数据同步，游戏分组，权限申请合规，UI细节完善；修复已知Bug（植物大战僵尸系列）",
+    "zh": "优化数据同步，游戏分组，权限申请合规，UI细节完善；修复已知Bug（植物大战僵尸系列）"
   },
   "i": false
 }
