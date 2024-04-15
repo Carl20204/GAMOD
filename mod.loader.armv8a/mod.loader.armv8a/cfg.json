@@ -1,5 +1,5 @@
 {
-  "time": 1711929600069,
+  "time": 1711929600079,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -717,6 +717,12 @@
       "time": 1711584000000,
 	  "mtime": 1711929600000,
       "pkg": "com.nspgames.dungeonslasher"
+    },
+    {
+      "label": "梦幻水族箱",
+      "time": 1712793600000,
+	  "mtime": 1712966400000,
+      "pkg": "com.playrix.fishdomdd.gplay"
     },
     {
       "label": "梦幻家园",
