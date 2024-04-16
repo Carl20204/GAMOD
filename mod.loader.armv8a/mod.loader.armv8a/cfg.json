@@ -1,5 +1,5 @@
 {
-  "time": 1711929600099,
+  "time": 1711929600100,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -76,6 +76,11 @@
       "pkg": "com.habby.cnarchero.aligames",
       "title": "弓箭传说",
       "url": "https://ugame.9game.cn/game/share-235275-1154801.html"
+    },
+    {
+      "pkg": "com.habby.punballcn.aligames",
+      "title": "砰砰法师",
+      "url": "https://ugame.9game.cn/game/share-235275-3041409.html"
     },
     {
       "pkg": "com.tanwan.yscq.aligames",
@@ -670,9 +675,15 @@
       "pkg": "com.games.hcr2.acing.aligames"
     },
     {
-      "label": "砰砰法师",
+      "label": "砰砰法师：国际版",
       "time": 1706054400000,
       "pkg": "com.habby.punball"
+    },
+    {
+      "label": "砰砰法师",
+      "time": 1710460800000,
+	  "mtime": 1713225600000,
+      "pkg": "com.habby.punballcn.aligames"
     },
     {
       "label": "蛇蛇贪吃",
