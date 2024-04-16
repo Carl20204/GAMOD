@@ -1,5 +1,5 @@
 {
-  "time": 1711929600089,
+  "time": 1711929600099,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -631,7 +631,8 @@
     },
     {
       "label": "植物大战僵尸1：国际版",
-      "time": 1704585600000,
+      "time": 1709856000000,
+	  "mtime": 1713139200000,
       "pkg": "com.ea.game.pvzfree_row"
     },
     {
