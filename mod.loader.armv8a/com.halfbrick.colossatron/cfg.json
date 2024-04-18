@@ -1,0 +1,48 @@
+{
+  "gms": 1,
+  "info": "超级经典的游戏，多年后的「蛇蛇贪吃」模仿了其创意做了创新，但说实话，还是「庞然巨物」好玩！\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e虽然是单机，但首次游戏需要使用电子邮箱注册账号，国内玩家需要翻墙才能注册，126、QQ邮箱等国内邮箱都可以注册验证，之后就可以断网、单机随意玩了\u003c/font\u003e",
+  "label": "庞然巨物",
+  "time": 1698192000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可实时调节各种武器强化、蛇体强化、棱镜强化等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.halfbrick.colossatron.gm64",
+      "targetvc": "680799",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.halfbrick.colossatron",
+  "vercode": 680799,
+  "vername": "2.6.1.680799",
+  "publisher": "Halfbrick Studios",
+  "signmd5": "EA03114D87FDBB3220E4EE24B6C06C79",
+  "tags": [
+    "中文",
+    "单机",
+    "合成",
+    "肉鸽",
+    "射击",
+    "经典"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "下载页｜翻墙",
+      "url": "https://apkpure.net/cn/colossatron/com.halfbrick.colossatron",
+      "var": false
+    }
+  ]
+}

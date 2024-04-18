@@ -1,5 +1,5 @@
 {
-  "time": 1711929600101,
+  "time": 1711929600103,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -690,6 +690,12 @@
       "time": 1712534400000,
 	  "mtime": 1713225600000,
       "pkg": "com.habby.sssnaker"
+    },
+    {
+      "label": "庞然巨物",
+      "time": 1698192000000,
+	  "mtime": 1713398400000,
+      "pkg": "com.halfbrick.colossatron"
     },
     {
       "label": "疯狂大兵",
