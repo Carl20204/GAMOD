@@ -1,5 +1,5 @@
 {
-  "time": 1711929600103,
+  "time": 1711929600105,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -643,7 +643,7 @@
     {
       "label": "植物大战僵尸3",
       "time": 1712188800000,
-	  "mtime": 1713139200000,
+	  "mtime": 1713759706000,
       "pkg": "com.ea.gp.pvzn3xt"
     },
     {
