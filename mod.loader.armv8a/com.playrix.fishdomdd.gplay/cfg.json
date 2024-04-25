@@ -2,17 +2,17 @@
   "gms": 1,
   "info": "自己动手装饰特色鱼缸，和Playrix自家的「梦幻家园」「梦幻花园」的装饰主线不太一样",
   "label": "梦幻水族箱",
-  "time": 1712793600008,
+  "time": 1712793600018,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，可调节开局步数，闪电蓄力等级"
+        "可选菜单，可调节三消开局步数，闪电蓄力等级，金币，宝石，喂鱼等等"
       ],
       "name": "休闲模式",
       "pkgname": "com.playrix.fishdomdd.gplay.gm64",
       "targetvc": "933080200",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.playrix.fishdomdd.gplay",
