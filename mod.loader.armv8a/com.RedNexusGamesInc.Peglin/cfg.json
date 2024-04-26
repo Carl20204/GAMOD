@@ -1,1 +1,56 @@
-{"archs":["arm64-v8a"],"gms":2,"info":"弹珠+肉鸽，会不会被Habby看中，包装上养成要素后卖爆？\u003cbr\u003e\u003cbr\u003e创意十足，没有商业化元素，没有玩家心理学陷阱，很纯粹的游戏体验。","label":"哥布林弹球","time":1705449600003,"mod":false,"mods":[{"descs":["自动解锁完整版","自选调节金币收获倍数，伤害免疫系数，适当使用防止抓狂"],"name":"上帝模式","pkgname":"com.RedNexusGamesInc.Peglin.gm64","targetvc":"*","vercode":2}],"pkgname":"com.RedNexusGamesInc.Peglin","vercode":37,"vername":"0.9.44","publisher":"Red Nexus Games","signmd5":"CFCB74306583BFCEBB9021BA7EF3EC06","tags":["国际版","中文","肉鸽","弹球","Steam"],"downloads":[{"host":"小飞机网盘","url":"https://share.feijipan.com/s/vTUi5BNM","var":false},{"host":"小飞机网盘","url":"https://share.feijipan.com/s/m4UhKTCt","var":false},{"host":"apkpure直链下载[翻墙]","url":"https://d.apkpure.net/b/APK/com.RedNexusGamesInc.Peglin?versionCode\u003d37","var":false},{"host":"apkpure[翻墙]","url":"https://apkpure.net/cn/peglin-a-pachinko-roguelike/com.RedNexusGamesInc.Peglin/download","var":true}],"videos":{"https://www.ixigua.com/7334581342572970522?logTag\u003d69d93870850e683ae920":"一款完美平衡的游戏，没有任何漏洞","https://www.ixigua.com/7334580651414258211?logTag\u003d9eba5aae169a893dcdfb":"每次刷新，弹球都会变得更强大!"}}
+{
+  "gms": 2,
+  "info": "弹珠+肉鸽，会不会被Habby看中，包装上养成要素后卖爆？\u003cbr\u003e\u003cbr\u003e创意十足，没有商业化元素，没有玩家心理学陷阱，很纯粹的游戏体验。",
+  "label": "哥布林弹球",
+  "time": 17101152000008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "自动解锁完整版",
+        "自选菜单可调节金币收获倍数，伤害免疫系数"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.RedNexusGamesInc.Peglin.gm64",
+      "targetvc": "*",
+      "vercode": 3
+    }
+  ],
+  "pkgname": "com.RedNexusGamesInc.Peglin",
+  "vercode": 42,
+  "vername": "0.9.55",
+  "publisher": "Red Nexus Games",
+  "signmd5": "CFCB74306583BFCEBB9021BA7EF3EC06",
+  "tags": [
+    "国际版",
+    "中文",
+    "肉鸽",
+    "弹球"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/m4UhKTCt",
+      "var": false
+    },
+    {
+      "host": "apkpure直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/XAPK/com.RedNexusGamesInc.Peglin?versionCode\u003d42\u0026nc\u003d\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/peglin-a-pachinko-roguelike/com.RedNexusGamesInc.Peglin/download",
+      "var": true
+    }
+  ],
+  "videos": {
+    "https://www.ixigua.com/7334581342572970522?logTag\u003d69d93870850e683ae920": "一款完美平衡的游戏，没有任何漏洞",
+    "https://www.ixigua.com/7334580651414258211?logTag\u003d9eba5aae169a893dcdfb": "每次刷新，弹球都会变得更强大!"
+  }
+}

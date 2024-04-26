@@ -1,5 +1,5 @@
 {
-  "time": 1711929600115,
+  "time": 1711929600215,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -775,7 +775,8 @@
     },
     {
       "label": "哥布林弹球",
-      "time": 1705449600000,
+      "time": 17101152000009,
+	  "mtime": 17139655440000,
       "pkg": "com.RedNexusGamesInc.Peglin"
     },
     {
