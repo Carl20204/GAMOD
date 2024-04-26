@@ -1,5 +1,5 @@
 {
-  "time": 1711929600113,
+  "time": 1711929600115,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -636,7 +636,7 @@
     },
     {
       "label": "植物大战僵尸1",
-      "time": 1709856000009,
+      "time": 1709856000010,
 	  "mtime": 1713965544000,
       "pkg": "com.ea.game.pvzfree_row"
     },
@@ -736,6 +736,12 @@
       "time": 1711584000000,
 	  "mtime": 1711929600000,
       "pkg": "com.nspgames.dungeonslasher"
+    },
+    {
+      "label": "弃船逃生",
+      "time": 17101152000000,
+	  "mtime": 17139655440012
+      "pkg": "com.pid.abandonship"
     },
     {
       "label": "梦幻水族箱",
