@@ -1,5 +1,5 @@
 {
-  "time": 1714089600002,
+  "time": 1714089600003,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -796,7 +796,8 @@
     },
     {
       "label": "孤胆枪手：世界",
-      "time": 1698019200000,
+      "time": 1709856000000,
+	  "mtime": 1713916800000,
       "pkg": "com.sigmateam.alienshootermobile.free"
     },
     {
