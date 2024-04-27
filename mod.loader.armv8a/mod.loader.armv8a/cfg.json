@@ -1,5 +1,5 @@
 {
-  "time": 17141760001,
+  "time": 1714089600001,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -739,8 +739,8 @@
     },
     {
       "label": "弃船逃生",
-      "time": 17101152000000,
-	  "mtime": 17139655440012,
+      "time": 1710115200000,
+	  "mtime": 1713965544012,
       "pkg": "com.pid.abandonship"
     },
     {
@@ -775,8 +775,8 @@
     },
     {
       "label": "哥布林弹球",
-      "time": 17101152000009,
-	  "mtime": 17139655440000,
+      "time": 1710115200009,
+	  "mtime": 1713965544000,
       "pkg": "com.RedNexusGamesInc.Peglin"
     },
     {
