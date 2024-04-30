@@ -6,7 +6,7 @@
   "gms": 2,
   "info": "\u003cfont color\u003d\"#ff0000\"\u003e谁的童年，谁的情怀\u003c/font\u003e，6年多的持续更新，海量的内容，相比同类型游戏诚意满满。",
   "label": "元气骑士",
-  "time": 1711411200008,
+  "time": 1713830400008,
   "mod": false,
   "mods": [
     {
@@ -17,12 +17,12 @@
       "name": "上帝模式",
       "pkgname": "com.ChillyRoom.DungeonShooter.gm64",
       "targetvc": "*",
-      "vercode": 6
+      "vercode": 7
     }
   ],
   "pkgname": "com.ChillyRoom.DungeonShooter",
-  "vercode": 60100,
-  "vername": "6.1.0",
+  "vercode": 60200,
+  "vername": "6.2.0",
   "publisher": "凉屋（ChillyRoom）",
   "signmd5": "EC8FA0DAA69E8FFB4109B4FA6401F121",
   "tags": [
