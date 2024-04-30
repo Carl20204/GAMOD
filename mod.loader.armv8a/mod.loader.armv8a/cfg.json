@@ -1,5 +1,5 @@
 {
-  "time": 1714435200004,
+  "time": 1714435200005,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -553,7 +553,8 @@
     },
     {
       "label": "战魂铭人",
-      "time": 1705881600002,
+      "time": 1709856000000,
+	  "mtime": 1714435200001,
       "pkg": "com.chillyroom.zhmr.aligames"
     },
     {
