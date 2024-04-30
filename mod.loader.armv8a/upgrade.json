@@ -1,16 +1,16 @@
 {
-  "vername": "2.2.4",
+  "vername": "2.2.5",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 224,
+  "vercode": 225,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "FF68CF8C004E3C28DED3897EE54A467E",
-  "size": 4114068,
+  "md5": "B73302493A8C3DD6027C8E5F30A1E8D4",
+  "size": 4139112,
   "logs": {
-    "en": "修复部分机型启动白屏卡住的Bug，优化启动速度",
-    "zh": "修复部分机型启动白屏卡住的Bug，优化启动速度"
+    "en": "修正虚拟谷歌服务；修复部分Bug；更新部分UI",
+    "zh": "修正虚拟谷歌服务；修复部分Bug；更新部分UI"
   },
   "i": false
 }
