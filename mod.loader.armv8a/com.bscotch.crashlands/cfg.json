@@ -1,0 +1,47 @@
+{
+  "gms": 2,
+  "info": "超大开放世界，无厘头的对话剧情，500多种合成装备道具，有趣的战斗体系，优点太多说不完怎么办？",
+  "label": "崩溃大陆",
+  "time": 1649635200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，自定义调节各种战斗模式，物品自由收集，快速跑图，怎么舒服怎么来"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bscotch.crashlands.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.bscotch.crashlands",
+  "vercode": 100000119,
+  "vername": "100.0.199",
+  "publisher": "Butterscotch Shenanigans",
+  "tags": [
+    "中文",
+    "单机",
+    "生存",
+    "收集",
+    "剧情",
+    "RPG"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/PuURFwt8",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链页",
+      "url": "https://apkpure.net/cn/crashlands/com.bscotch.crashlands",
+      "var": false
+    }
+  ]
+}

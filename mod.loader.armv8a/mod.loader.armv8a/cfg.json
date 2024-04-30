@@ -1,5 +1,5 @@
 {
-  "time": 1714089600003,
+  "time": 1714435200004,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -519,6 +519,12 @@
       "label": "土豆兄弟",
       "time": 1707091200002,
       "pkg": "com.brotato.shooting.survivors.action.roguelike"
+    },
+    {
+      "label": "崩溃大陆",
+      "time": 1649635200000,
+	  "mtime": 1714435200000,
+      "pkg": "com.bscotch.crashlands"
     },
     {
       "label": "偶像制作人",
