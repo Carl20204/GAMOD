@@ -1,5 +1,5 @@
 {
-  "time": 1714435200006,
+  "time": 1714521600006,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -786,6 +786,12 @@
       "time": 1713571200000,
 	  "mtime": 1713965544000,
       "pkg": "com.RedNexusGamesInc.Peglin"
+    },
+    {
+      "label": "王国：八十年代",
+      "time": 1712534400000,
+	  "mtime": 1714521600000,
+      "pkg": "com.rawfury.kingdom80s"
     },
     {
       "label": "我的小小宇宙",
