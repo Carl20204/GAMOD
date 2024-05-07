@@ -1,5 +1,5 @@
 {
-  "time": 1715040000008,
+  "time": 1715040000009,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -732,6 +732,12 @@
       "time": 1711324800000,
 	  "mtime": 1715040000000,
       "pkg": "com.netflix.NGP.TombRaiderReloaded"
+    },
+    {
+      "label": "家园：重建王国",
+      "time": 1698710400000,
+	  "mtime": 1715040000000,
+      "pkg": "com.netflix.NGP.TownsmenAKingdomRebuilt"
     },
     {
       "label": "阿尔托的冒险",
