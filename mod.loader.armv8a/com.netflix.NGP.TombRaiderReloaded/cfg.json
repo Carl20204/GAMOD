@@ -1,0 +1,48 @@
+{
+  "faqs": {
+    "没有网飞Netflix账号怎么玩": "MOD有免网飞账号功能，没有安装Netflix，没有账号，不会翻墙的，务必使用MOD运行游戏"
+  },
+  "gms": 2,
+  "info": "弓箭传说类型，DOOM也是同类游戏，喜欢这种IP改编的，可以玩玩",
+  "label": "古墓丽影：重装上阵",
+  "time": 1711324800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单可调节加速、增伤、减伤、技能强化等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.netflix.NGP.TombRaiderReloaded.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.netflix.NGP.TombRaiderReloaded",
+  "vercode": 217421,
+  "vername": "1.5",
+  "publisher": "Netflix",
+  "tags": [
+    "中文",
+    "单机",
+    "肉鸽",
+    "动作射击"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/UOAmQ8kx",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.netflix.NGP.TombRaiderReloaded?versionCode\u003d217421\u0026nc\u003darm64-v8a\u0026sv\u003d26",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/tomb-raider-reloaded-netflix/com.netflix.NGP.TombRaiderReloaded/download",
+      "var": false
+    }
+  ]
+}
