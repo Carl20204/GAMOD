@@ -1,5 +1,5 @@
 {
-  "time": 1715040000009,
+  "time": 1715126400009,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -726,6 +726,12 @@
       "label": "死亡突围：僵尸战争",
       "time": 1706227200000,
       "pkg": "com.mobirate.DeadAheadTactics"
+    },
+    {
+      "label": "尘烟霓虹",
+      "time": 1710201600000,
+	  "mtime": 1715126400000,
+      "pkg": "com.netflix.NGP.DustNeon"
     },
     {
       "label": "古墓丽影：重装上阵",
