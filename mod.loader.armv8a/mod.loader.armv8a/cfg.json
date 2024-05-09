@@ -1,5 +1,5 @@
 {
-  "time": 1715212800009,
+  "time": 1715212800010,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -733,6 +733,12 @@
       "time": 1710201600000,
 	  "mtime": 1715126400000,
       "pkg": "com.netflix.NGP.DustNeon"
+    },
+    {
+      "label": "陷阵之志",
+      "time": 1698796800000,
+	  "mtime": 1715126400001,
+      "pkg": "com.netflix.NGP.IntoTheBreach"
     },
     {
       "label": "古墓丽影：重装上阵",
