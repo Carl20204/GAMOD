@@ -1,1 +1,56 @@
-{"archs":["arm64-v8a"],"faqs":{"启动游戏显示下载中怎么办？":"没下载数据包吧？请确保下载的是900M左右的安装包。请确保启动时加载了MOD以跳过检测"},"gms":2,"info":"\u003cfont color\u003d\"#ff0000\"\u003e200种植物，每种植物10+200级\u003c/font\u003e，喜欢新鲜的，喜好收集养成的狂喜……","label":"植物大战僵尸2：美版","time":1707868800008,"mod":true,"mods":[{"descs":["跳过下载检测，跳过年龄设置","【护肝】更多的金币、钻石、植物碎片，有效解决游戏内收益过低问题","【防氪】全植物解锁，全植物满级，不要998不要98","【解压】无限叶绿素，无限阳光，无CD，玩的就是爽"],"name":"上帝模式","pkgname":"com.ea.game.pvz2_row.gm64","targetvc":"850","vercode":2}],"pkgname":"com.ea.game.pvz2_row","vercode":850,"vername":"11.2.1","publisher":"EA（美国艺电）","signmd5":"0B6456DC879E54303E76D6999085F1CB","tags":["英文","可离线","塔防","收集"],"downloads":[{"host":"小飞机网盘","url":"https://share.feijipan.com/s/OHUROPi7","var":false},{"host":"翻墙|直链页","url":"https://apkpure.net/cn/plants-vs-zombies%E2%84%A2-2-android/com.ea.game.pvz2_row/download/11.2.1","var":false},{"host":"翻墙｜直链下载","url":"https://d.apkpure.net/b/XAPK/com.ea.game.pvz2_row?versionCode\u003d850","var":false}]}
+{
+  "faqs": {
+    "启动游戏显示下载中怎么办？": "没下载数据包吧？请确保下载的是900M左右的安装包。请确保启动时加载了MOD以跳过检测"
+  },
+  "gms": 2,
+  "info": "\u003cfont color\u003d\"#ff0000\"\u003e200种植物，每种植物10+200级\u003c/font\u003e，喜欢新鲜的，喜好收集养成的狂喜……",
+  "label": "植物大战僵尸2：美版",
+  "time": 1713830400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【护肝】更多的金币、钻石、植物碎片，有效解决游戏内收益过低问题",
+        "【防氪】全植物解锁，全植物满级，不要998不要98",
+        "【解压】无限叶绿素，无限阳光，无CD，玩的就是爽"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ea.game.pvz2_row.gm64",
+      "targetvc": "865",
+      "vercode": 3
+    }
+  ],
+  "pkgname": "com.ea.game.pvz2_row",
+  "vercode": 865,
+  "vername": "11.4.1",
+  "publisher": "EA（美国艺电）",
+  "signmd5": "0B6456DC879E54303E76D6999085F1CB",
+  "tags": [
+    "英文",
+    "单机",
+    "塔防",
+    "收集"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/K1AbQBjG",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链页",
+      "url": "https://apkpure.net/cn/plants-vs-zombies%E2%84%A2-2-android/com.ea.game.pvz2_row/download/11.4.1",
+      "var": false
+    },
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.ea.game.pvz2_row?versionCode\u003d865",
+      "var": false
+    }
+  ]
+}

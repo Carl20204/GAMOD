@@ -1,5 +1,5 @@
 {
-  "time": 1715126400009,
+  "time": 1715212800009,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -639,7 +639,8 @@
     },
     {
       "label": "植物大战僵尸2：美版",
-      "time": 1707868800002,
+      "time": 1713830400000,
+      "mtime": 1715212800000,
       "pkg": "com.ea.game.pvz2_row"
     },
     {
