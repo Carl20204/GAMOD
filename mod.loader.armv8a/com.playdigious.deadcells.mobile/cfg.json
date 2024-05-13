@@ -1,0 +1,41 @@
+{
+  "faqs": {
+    "沙盒无法运行？": "游戏使用了Google加固，会检测沙盒、模拟器，使用MOD跳过检测即可",
+    "添加的物品装备不全？": "新DLC增加的物品道具装备技能未支持，如果需要的玩家多，以后可以再加",
+    "MOD添加物品为啥无效？": "MOD的添加物品是基于最后捡到的物品，所以只要捡过任意一次道具物品，就可以添加物品、武器、Buff了"
+  },
+  "gms": 1,
+  "info": "国内版的【重生细胞】要实名认证，国际版就不用了",
+  "label": "死亡细胞：重返恶魔城",
+  "time": 1702598400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动过Google加固的沙盒、模拟器检测",
+        "可选菜单，可自由加钱、加武器装备，可调节无敌、无限跳、秒杀、弹药无限、无CD等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.playdigious.deadcells.mobile.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.playdigious.deadcells.mobile",
+  "vercode": 209,
+  "vername": "3.3.15",
+  "publisher": "playdigious",
+  "tags": [
+    "中文",
+    "单机",
+    "肉鸽",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    }
+  ]
+}

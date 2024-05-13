@@ -1,5 +1,5 @@
 {
-  "time": 1715212800010,
+  "time": 1715558400010,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -775,6 +775,12 @@
       "time": 1710115200000,
 	  "mtime": 1713965544012,
       "pkg": "com.pid.abandonship"
+    },
+    {
+      "label": "死亡细胞：重返恶魔城",
+      "time": 1702598400000,
+	  "mtime": 1715558400000,
+      "pkg": "com.playdigious.deadcells.mobile"
     },
     {
       "label": "梦幻水族箱",
