@@ -1,0 +1,39 @@
+{
+  "faqs": {
+    "为啥没提供官方原版下载链接？": "本游戏为付费版本，原版在无谷歌市场未购买的用户手机上是无法运行的，分享的云盘链接里是纯净直装版，无付费无小广告弹出，",
+    "为啥桌面可玩沙盒不能玩？": "付费游戏都使用了Google加固，有沙盒模拟器检测，只要带MOD启动游戏跳过检测就可以了"
+  },
+  "gms": 2,
+  "info": "2023年Google年度游戏大奖，同时也是Switch、Steam爆火的游戏，不玩对不起自己啊\u003cbr\u003e\u003cbr\u003e游戏难度较大，适合手柄，手残养老建议全程MOD",
+  "label": "传说法师",
+  "time": 1704672000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活跳过Google加固环境检测",
+        "可选菜单，可调整收入增幅、消费打折，战斗无敌、无CD、大招随意发"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.humblebundle.wizardoflegend.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.humblebundle.wizardoflegend",
+  "vercode": 24,
+  "vername": "1.24.30008",
+  "publisher": "Humble Games",
+  "tags": [
+    "中文",
+    "动作",
+    "肉鸽"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    }
+  ]
+}
