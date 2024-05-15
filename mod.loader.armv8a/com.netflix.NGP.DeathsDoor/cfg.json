@@ -1,0 +1,52 @@
+{
+  "faqs": {
+    "为啥点桌面图标启动游戏会黑屏卡住？": "分享的下载链接为官方原版，需要手机安装Netflix客户端，并购买了网飞会员的用户才能玩。",
+    "没有Netflix，也没有网飞会员怎么玩": "MOD有免网飞账号功能，用墨魔豆带着MOD启动游戏就行了",
+    "进游戏是英文的？": "进游戏缺省为英文，请在开屏画面点击进入Option，然后连续点击Language，切换到繁体中文或简体中文均可",
+    "游戏卡关了，有攻略没？": "本游戏含解密要素，请仔细阅读游戏中的各种提示，看见可疑的就砍一刀，基本都能找到玩法"
+  },
+  "gms": 2,
+  "info": "荣获2023谷歌游戏大奖，从高精度的画面，到完美的多国语言本地化，都体现了主机品质\u003cbr\u003e\u003cbr\u003e玩法也不是小成本的肉鸽模式，而是大世界，大地图，完整的故事剧情线的主机ARPG游戏模式",
+  "label": "死亡门扉",
+  "time": 1711411200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免网飞会员验证",
+        "可选菜单可调节灵魂收益率，无敌、各项属性额外增幅等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.netflix.NGP.DeathsDoor.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.netflix.NGP.DeathsDoor",
+  "vercode": 56,
+  "vername": "1.2.4",
+  "publisher": "Netflix",
+  "tags": [
+    "中文",
+    "单机",
+    "剧情",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/UOAmQ8kx",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/APK/com.netflix.NGP.DeathsDoor?versionCode\u003d56\u0026nc\u003darm64-v8a%2Carmeabi-v7a\u0026sv\u003d26",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/death-s-door/com.netflix.NGP.DeathsDoor/download",
+      "var": false
+    }
+  ]
+}
