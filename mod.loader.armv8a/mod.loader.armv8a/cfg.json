@@ -1,5 +1,5 @@
 {
-  "time": 1715731200011,
+  "time": 1715817600012,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -751,6 +751,12 @@
       "time": 1698796800000,
 	  "mtime": 1715126400001,
       "pkg": "com.netflix.NGP.IntoTheBreach"
+    },
+    {
+      "label": "夜勤人",
+      "time": 1709078400000,
+	  "mtime": 1715817600000,
+      "pkg": "com.netflix.NGP.Moonlighter"
     },
     {
       "label": "古墓丽影：重装上阵",
