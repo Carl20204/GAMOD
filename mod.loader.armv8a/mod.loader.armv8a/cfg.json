@@ -1,5 +1,5 @@
 {
-  "time": 1715817600012,
+  "time": 1716422400013,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -677,6 +677,12 @@
       "time": 1709683200000,
 	  "mtime": 1711497600000,
       "pkg": "com.frojo.pickle"
+    },
+    {
+      "label": "合成花园",
+      "time": 1715817600000,
+	  "mtime": 1716422400000,
+      "pkg": "com.futureplay.mergematch"
     },
     {
       "label": "火柴人联盟2",
