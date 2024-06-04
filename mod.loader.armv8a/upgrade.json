@@ -1,16 +1,16 @@
 {
-  "vername": "2.2.5",
+  "vername": "2.2.6",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 225,
+  "vercode": 226,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "B73302493A8C3DD6027C8E5F30A1E8D4",
-  "size": 4139112,
+  "md5": "BFFABE873298EE1FADC5FC06EEE1EF91",
+  "size": 4154108,
   "logs": {
-    "en": "修正虚拟谷歌服务；修复部分Bug；更新部分UI",
-    "zh": "修正虚拟谷歌服务；修复部分Bug；更新部分UI"
+    "en": "游戏图标缓存不显示在相册中；优化下载目录中存在超大apk导致的卡顿；增加游戏分享活跃度；增加非标准xapk的安装提示与建议",
+    "zh": "游戏图标缓存不显示在相册中；优化下载目录中存在超大apk导致的卡顿；增加游戏分享活跃度；增加非标准xapk的安装提示与建议"
   },
   "i": false
 }
