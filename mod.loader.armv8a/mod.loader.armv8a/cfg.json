@@ -1,5 +1,5 @@
 {
-  "time": 1719273600126,
+  "time": 1719273600127,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -504,6 +504,12 @@
       "label": "我的邮轮",
       "time": 1708473600002,
       "pkg": "com.big.my.cruise.ship"
+    },
+    {
+      "label": "暖雪",
+      "time": 1719541629000,
+      "mtime": 1719541629000,
+      "pkg": "com.bilibili.warmsnow.aligames"
     },
     {
       "label": "塔英雄 - 塔防",
