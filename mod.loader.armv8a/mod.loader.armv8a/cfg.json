@@ -1,5 +1,5 @@
 {
-  "time": 1719273600127,
+  "time": 1719964800127,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -702,8 +702,8 @@
     },
     {
       "label": "砰砰法师",
-      "time": 1710460800000,
-	  "mtime": 1713225600000,
+      "time": 1719964800000,
+	  "mtime": 1719964800000,
       "pkg": "com.habby.punballcn.aligames"
     },
     {
