@@ -2,46 +2,39 @@
   "gms": 1,
   "info": "自己动手装饰特色鱼缸，和Playrix自家的「梦幻家园」「梦幻花园」的装饰主线不太一样",
   "label": "梦幻水族箱",
-  "time": 1712793600018,
+  "time": 1720137600008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，可调节三消开局步数，闪电蓄力等级，金币，宝石，喂鱼等等"
+        "可选菜单，可调节三消开局步数，金币获取，宝石免费等等"
       ],
       "name": "休闲模式",
       "pkgname": "com.playrix.fishdomdd.gplay.gm64",
-      "targetvc": "933080200",
-      "vercode": 2
+      "targetvc": "933082300",
+      "vercode": 3
     }
   ],
   "pkgname": "com.playrix.fishdomdd.gplay",
-  "vercode": 933080200,
-  "vername": "8.0.2.0",
+  "vercode": 933082300,
+  "vername": "8.2.3.0",
   "publisher": "Playrix",
-  "signmd5": "86B2077CDA90AB8D99645D636ACDBE60",
   "tags": [
     "中文",
-    "单机",
     "休闲",
     "三消",
-    "装饰",
-    "合并"
+    "弱联网",
+    "强制更新"
   ],
   "downloads": [
     {
       "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
       "var": false
     },
     {
       "host": "翻墙｜下载页",
       "url": "https://apkpure.net/cn/fishdom/com.playrix.fishdomdd.gplay/download",
-      "var": false
-    },
-    {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/APK/com.playrix.fishdomdd.gplay?versionCode\u003d933080200\u0026nc\u003darm64-v8a\u0026sv\u003d19",
       "var": false
     }
   ]

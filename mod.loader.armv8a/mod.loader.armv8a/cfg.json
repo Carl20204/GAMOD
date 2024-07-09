@@ -1,5 +1,5 @@
 {
-  "time": 1719964800127,
+  "time": 1720483200127,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -814,20 +814,20 @@
     },
     {
       "label": "梦幻水族箱",
-      "time": 1712793600010,
-	  "mtime": 1713965544001,
+      "time": 1720137600000,
+	  "mtime": 1720483200000,
       "pkg": "com.playrix.fishdomdd.gplay"
     },
     {
       "label": "梦幻家园",
-      "time": 1712966400000,
-	  "mtime": 1712966400000,
+      "time": 1720137600000,
+	  "mtime": 1720483200000,
       "pkg": "com.playrix.homescapes"
     },
     {
       "label": "梦幻花园",
-      "time": 1712620800000,
-	  "mtime": 1712966400000,
+      "time": 1719964800000,
+	  "mtime": 1720483200000,
       "pkg": "com.playrix.gardenscapes"
     },
     {
