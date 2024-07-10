@@ -2,7 +2,7 @@
   "gms": 1,
   "info": "\u003cfont color\u003d\"#ff0000\"\u003e《梦幻家园》《梦幻花园》\u003c/font\u003e，每月固定更新全新的赛季+合成+探险活动。永远不缺新鲜内容",
   "label": "梦幻家园",
-  "time": 1712966400008,
+  "time": 1720137600008,
   "mod": true,
   "mods": [
     {
@@ -11,38 +11,30 @@
       ],
       "name": "休闲模式",
       "pkgname": "com.playrix.homescapes.gm64",
-      "targetvc": "150007001",
-      "vercode": 7
+      "targetvc": "150007202",
+      "vercode": 8
     }
   ],
   "pkgname": "com.playrix.homescapes",
-  "vercode": 150007001,
-  "vername": "7.0.1",
+  "vercode": 150007202,
+  "vername": "7.2.2",
   "publisher": "Playrix",
-  "signmd5": "86B2077CDA90AB8D99645D636ACDBE60",
   "tags": [
     "中文",
-    "单机",
     "休闲",
     "三消",
-    "装饰",
-    "合并",
-    "探险"
+    "弱联网",
+    "强制更新"
   ],
   "downloads": [
     {
       "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
       "var": false
     },
     {
       "host": "翻墙｜下载页",
       "url": "https://apkpure.net/cn/homescapes-android/com.playrix.homescapes/download",
-      "var": false
-    },
-    {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/APK/com.playrix.homescapes?versionCode\u003d150007001",
       "var": false
     }
   ]

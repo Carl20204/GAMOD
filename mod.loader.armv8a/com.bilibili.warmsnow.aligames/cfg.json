@@ -1,1 +1,34 @@
-{"archs":["arm64-v8a"],"gms":1,"info":"游戏是好游戏，但被\u003cfont color\u003d\"#ff0000\"\u003e小破站代理发行\u003c/font\u003e，就是不卖钱！","label":"暖雪","time":1706227200005,"mod":false,"mods":[{"descs":["懂得都懂"],"name":"上帝模式","pkgname":"com.bilibili.warmsnow.aligames.gm64","targetvc":"*","vercode":3}],"pkgname":"com.bilibili.warmsnow.aligames","vercode":37,"vername":"2.2.0","publisher":"bilibili","signmd5":"7B1A92EAD48C3F489002428DEF69DFE7","tags":["中文","九游版","肉鸽动作"],"downloads":[{"host":"九游渠道","url":"https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId\u003d235275\u0026pack.id\u003d48553418","var":true}]}
+{
+  "gms": 1,
+  "label": "暖雪",
+  "time": 1719541629008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "懂得都懂"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bilibili.warmsnow.aligames.gm64",
+      "targetvc": "*",
+      "vercode": 4
+    }
+  ],
+  "pkgname": "com.bilibili.warmsnow.aligames",
+  "vercode": 56,
+  "vername": "3.1.1",
+  "publisher": "bilibili",
+  "tags": [
+    "中文",
+    "实名制",
+    "肉鸽",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "九游",
+      "url": "https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId\u003d235275\u0026pack.id\u003d48553418",
+      "var": false
+    }
+  ]
+}

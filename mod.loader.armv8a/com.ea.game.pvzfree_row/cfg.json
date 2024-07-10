@@ -1,8 +1,8 @@
 {
   "gms": 1,
-  "info": "\u003cfont color\u003d\"#ff0000\"\u003e经典中的经典\u003c/font\u003e，建议手机常驻。\u003cbr\u003e\u003cbr\u003e赞一下EA，2024年了，还在做优化更新的维护。",
+  "info": "\u003cfont color\u003d\"#ff0000\"\u003e经典中的经典\u003c/font\u003e，建议手机常驻。\u003cbr\u003e\u003cbr\u003e赞一下EA，2024年了，还在持续做优化更新的维护。",
   "label": "植物大战僵尸1",
-  "time": 1709856000018,
+  "time": 1716854400008,
   "mod": false,
   "mods": [
     {
@@ -12,15 +12,14 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.ea.game.pvzfree_row.gm64",
-      "targetvc": "353",
-      "vercode": 8
+      "targetvc": "355",
+      "vercode": 9
     }
   ],
   "pkgname": "com.ea.game.pvzfree_row",
-  "vercode": 353,
-  "vername": "3.5.3",
+  "vercode": 355,
+  "vername": "3.5.5",
   "publisher": "EA（美国艺电）",
-  "signmd5": "0B6456DC879E54303E76D6999085F1CB",
   "tags": [
     "英文",
     "单机",
@@ -44,7 +43,7 @@
     },
     {
       "host": "直链下载[翻墙]",
-      "url": "https://d.apkpure.net/b/XAPK/com.ea.game.pvzfree_row?versionCode\u003d176\u0026nc\u003darm64-v8a\u0026sv\u003d21",
+      "url": "https://d.apkpure.net/b/APK/com.ea.game.pvzfree_row?versionCode\u003d355",
       "var": false
     },
     {

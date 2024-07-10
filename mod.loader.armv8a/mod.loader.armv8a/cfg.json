@@ -1,5 +1,5 @@
 {
-  "time": 1716422400013,
+  "time": 1720483200127,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -506,6 +506,12 @@
       "pkg": "com.big.my.cruise.ship"
     },
     {
+      "label": "暖雪",
+      "time": 1719541629000,
+      "mtime": 1719541629000,
+      "pkg": "com.bilibili.warmsnow.aligames"
+    },
+    {
       "label": "塔英雄 - 塔防",
       "time": 1707609600002,
       "pkg": "com.blockstack.tophero"
@@ -645,8 +651,8 @@
     },
     {
       "label": "植物大战僵尸1",
-      "time": 1709856000010,
-	  "mtime": 1713965544000,
+      "time": 1716854400000,
+	  "mtime": 1717459200000,
       "pkg": "com.ea.game.pvzfree_row"
     },
     {
@@ -680,8 +686,8 @@
     },
     {
       "label": "合成花园",
-      "time": 1715817600000,
-	  "mtime": 1716422400000,
+      "time": 1718236800000,
+	  "mtime": 1718236800000,
       "pkg": "com.futureplay.mergematch"
     },
     {
@@ -696,8 +702,8 @@
     },
     {
       "label": "砰砰法师",
-      "time": 1710460800000,
-	  "mtime": 1713225600000,
+      "time": 1719964800000,
+	  "mtime": 1719964800000,
       "pkg": "com.habby.punballcn.aligames"
     },
     {
@@ -808,20 +814,20 @@
     },
     {
       "label": "梦幻水族箱",
-      "time": 1712793600010,
-	  "mtime": 1713965544001,
+      "time": 1720137600000,
+	  "mtime": 1720483200000,
       "pkg": "com.playrix.fishdomdd.gplay"
     },
     {
       "label": "梦幻家园",
-      "time": 1712966400000,
-	  "mtime": 1712966400000,
+      "time": 1720137600000,
+	  "mtime": 1720483200000,
       "pkg": "com.playrix.homescapes"
     },
     {
       "label": "梦幻花园",
-      "time": 1712620800000,
-	  "mtime": 1712966400000,
+      "time": 1719964800000,
+	  "mtime": 1720483200000,
       "pkg": "com.playrix.gardenscapes"
     },
     {
@@ -829,6 +835,12 @@
       "time": 1710374400000,
 	  "mtime": 1711929600000,
       "pkg": "com.poncle.vampiresurvivors"
+    },
+    {
+      "label": "植物大战僵尸2",
+      "time": 1719273600000,
+	  "mtime": 1719273600000,
+      "pkg": "com.popcap.pvz2cthdbk"
     },
     {
       "label": "梦跃国度",
