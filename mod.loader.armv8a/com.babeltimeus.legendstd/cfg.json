@@ -1,37 +1,33 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 2,
-  "info": "王国保卫战/皇家守卫军真爱粉之作，多年持续优化，几百关卡，只为原汁原味",
+  "info": "王国保卫战(皇家守卫军)真爱粉之作，多年持续优化，几百关卡，只为原汁原味",
   "label": "帝国守卫战",
-  "time": 1709424000008,
+  "time": 1720396800008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，可调节英雄技能CD、塔技能CD、单位无伤"
+        "可选菜单，可调节英雄技能CD、塔技能CD、英雄/士兵无伤"
       ],
       "name": "上帝模式",
       "pkgname": "com.babeltimeus.legendstd.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.babeltimeus.legendstd",
-  "vercode": 30100001,
-  "vername": "3.1.0",
+  "vercode": 30211001,
+  "vername": "3.2.11",
   "publisher": "Babeltime US",
-  "signmd5": "EBA7D67B96B6029D0C33CF6E8E57E6C8",
   "tags": [
     "中文",
-    "单机",
-    "塔防"
+    "塔防",
+    "弱联网"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.babeltimeus.legendstd?versionCode\u003d30100001\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
       "var": false
     },
     {

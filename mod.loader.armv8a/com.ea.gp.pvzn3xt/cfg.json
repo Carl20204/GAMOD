@@ -1,11 +1,11 @@
 {
   "faqs": {
-    "为啥卡在开始游戏加载画面？": "1。确保客户端使用的是2.1.3或之后的版本，\u003cbr\u003e游戏启动需联网下载不到1M的数据，但EA的服务器必须翻墙才能连上……请使用合适的加速器翻墙\u003cbr\u003ePS：游戏中也频繁联网更新关卡数据，请时刻保持翻墙状态"
+    "为啥卡在开始游戏加载画面？": "1。使用最新版墨魔豆，\u003cbr\u003e2。游戏关卡数据需联网下载额外数据包，但EA的服务器必须翻墙才能连上……请使用合适的加速器翻墙"
   },
   "gms": 1,
-  "info": "植物大战僵尸就不用多说了，本作全程联网，自备梯子",
+  "info": "植物大战僵尸就不用多说了，虽然创新不足，但吃PVZ的老本勉强及格吧\u003cbr\u003e\u003cbr\u003e战斗方面增加了场地的多样性，提高布局的策略性\u003cbr\u003e植物方面做了减法，减少了战斗前的漫长挑选",
   "label": "植物大战僵尸3",
-  "time": 1712188800008,
+  "time": 1719619200008,
   "mod": true,
   "mods": [
     {
@@ -15,29 +15,23 @@
       "name": "上帝模式",
       "pkgname": "com.ea.gp.pvzn3xt.gm64",
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.ea.gp.pvzn3xt",
-  "vercode": 11,
-  "vername": "12.0.13",
+  "vercode": 14,
+  "vername": "16.1.1",
   "publisher": "EA（美国艺电）",
-  "signmd5": "98C6719B7F441B0040D206520169FEE7",
   "tags": [
     "英文",
-    "翻墙",
     "塔防",
-    "建设"
+    "弱联网",
+    "翻墙"
   ],
   "downloads": [
     {
       "host": "小飞机网盘",
       "url": "https://share.feijipan.com/s/OHUROPi7",
-      "var": false
-    },
-    {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/APK/com.ea.gp.pvzn3xt?versionCode\u003d11\u0026nc\u003darm64-v8a%2Carmeabi-v7a\u0026sv\u003d22",
       "var": false
     },
     {

@@ -1,12 +1,8 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 2,
-  "info": "肉鸽冷兵器战斗类，像素画风类似《王国：两位君主》，通过自由组合剑技+元素技产生多种战斗特色。\u003cbr\u003e\u003cbr\u003e游戏纯英文，英文苦手建议快速跳过剧情，直接去战斗就好。",
+  "info": "肉鸽冷兵器战斗类，画风类似《王国：两位君主》《传说法师》，通过剑技+元素技的组合构造出N种独特的战斗特色。\u003cbr\u003e\u003cbr\u003e游戏纯英文，2.0新增了剧情对话的跳过按钮，看不懂就跳",
   "label": "无尽漫游",
-  "time": 1710288000008,
-  "mtime": 0,
+  "time": 1720396800008,
   "mod": true,
   "mods": [
     {
@@ -17,25 +13,23 @@
       "name": "上帝模式",
       "pkgname": "com.FirstPickStudios.EndlessWander.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.FirstPickStudios.EndlessWander",
-  "vercode": 218,
-  "vername": "1.5.13",
+  "vercode": 242,
+  "vername": "2.0.22",
   "publisher": "First Pick Studios",
-  "signmd5": "69289583441569904BDA67F7321521E1",
   "tags": [
     "英文",
-    "国际版",
     "单机",
     "肉鸽",
     "动作"
   ],
   "downloads": [
     {
-      "host": "翻墙|直链下载",
-      "url": "https://d.apkpure.net/b/APK/com.FirstPickStudios.EndlessWander?versionCode\u003d218",
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
       "var": false
     },
     {

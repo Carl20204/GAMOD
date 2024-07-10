@@ -1,40 +1,34 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 2,
   "info": "DBG爱好者推荐\u003cbr\u003e肉鸽卡牌无尽爬塔，角色养成、卡牌、职业系统。规则极多，可组合出各种Build玩法。",
   "label": "使命法则 - 永恒地牢",
-  "time": 1708992000008,
+  "time": 1720569600008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免广告，所有广告奖励白嫖",
         "可选菜单，可调节战斗减伤、增伤、AP消耗"
       ],
       "name": "上帝模式",
       "pkgname": "com.aubjective.jobmania.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.aubjective.jobmania",
-  "vercode": 533,
-  "vername": "2.19.3",
+  "vercode": 582,
+  "vername": "2.24.3",
   "publisher": "Aubjective Technology",
-  "signmd5": "9C9BB7A957F435A2F178F069BEC0DF73",
   "tags": [
     "中文",
     "单机",
-    "卡牌",
-    "休闲",
-    "冒险"
+    "肉鸽",
+    "DBG"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.aubjective.jobmania?versionCode\u003d533\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
       "var": false
     },
     {

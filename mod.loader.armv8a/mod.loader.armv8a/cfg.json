@@ -1,5 +1,5 @@
 {
-  "time": 1720483200127,
+  "time": 1720569600127,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -440,7 +440,8 @@
     },
     {
       "label": "使命法则 - 永恒地牢",
-      "time": 1708992000002,
+      "time": 1720509600009,
+      "mtime": 1720509600000,
       "pkg": "com.aubjective.jobmania"
     },
     {
@@ -451,7 +452,8 @@
     },
     {
       "label": "帝国守卫战",
-      "time": 1709424000002,
+      "time": 1720396800000,
+      "mtime": 1720509600000,
       "pkg": "com.babeltimeus.legendstd"
     },
     {
@@ -657,14 +659,14 @@
     },
     {
       "label": "植物大战僵尸3",
-      "time": 1712188800000,
-	  "mtime": 1713759706000,
+      "time": 1719619200000,
+	  "mtime": 1720509600000,
       "pkg": "com.ea.gp.pvzn3xt"
     },
     {
       "label": "无尽漫游",
-      "time": 1710288000000,
-	  "mtime": 1711152000000,
+      "time": 1720396800000,
+	  "mtime": 1720509600000,
       "pkg": "com.FirstPickStudios.EndlessWander"
     },
     {
@@ -849,16 +851,16 @@
       "pkg": "com.protostar.hopper"
     },
     {
-      "label": "哥布林弹球",
-      "time": 1713571200000,
-	  "mtime": 1713965544000,
-      "pkg": "com.RedNexusGamesInc.Peglin"
-    },
-    {
       "label": "王国：八十年代",
       "time": 1712534400000,
 	  "mtime": 1714521600000,
       "pkg": "com.rawfury.kingdom80s"
+    },
+    {
+      "label": "哥布林弹球",
+      "time": 1720310400000,
+	  "mtime": 1720509600001,
+      "pkg": "com.RedNexusGamesInc.Peglin"
     },
     {
       "label": "我的小小宇宙",
