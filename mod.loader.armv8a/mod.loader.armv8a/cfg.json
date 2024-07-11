@@ -1,5 +1,5 @@
 {
-  "time": 1720569600127,
+  "time": 1720656000127,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -385,7 +385,8 @@
     },
     {
       "label": "糖果灾难",
-      "time": 1708992000002,
+      "time": 1708992000000,
+	  "mtime": 1720483200000,
       "pkg": "com.acegames.candy.disaster.tdbattles.gp"
     },
     {
@@ -425,7 +426,8 @@
     },
     {
       "label": "太空农妇",
-      "time": 1694736000002,
+      "time": 1719964800000,
+	  "mtime": 1720656000000,
       "pkg": "com.anxiousottergames.spacefarmer"
     },
     {
@@ -520,7 +522,8 @@
     },
     {
       "label": "战巡大作战",
-      "time": 1710115200002,
+      "time": 1720483200000,
+	  "mtime": 1720656000000,
       "pkg": "com.Bluebottle.Battlecruisers"
     },
     {
@@ -954,7 +957,8 @@
     },
     {
       "label": "元素世界",
-      "time": 1695686400001,
+      "time": 1716508800000,
+	  "mtime": 1720656000000,
       "pkg": "julyhot.elementalworld"
     },
     {
@@ -1034,8 +1038,8 @@
     },
     {
       "label": "放置僵尸防御",
-      "time": 1708732800000,
-	  "mtime": 1711238400000,
+      "time": 1720224000000,
+	  "mtime": 1720483200000,
       "pkg": "tdcgame.zombie.idle.defense"
     },
     {

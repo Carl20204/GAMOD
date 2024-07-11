@@ -1,30 +1,25 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 2,
   "info": "放置打丧尸，类似还有「点击泰坦」「差不多英雄」「成长城堡」，标准美式卡通画风，不过美式打枪的感觉比欧式剑与魔法的体验更爽些",
   "label": "放置僵尸防御",
-  "time": 1708732800008,
-  "mtime": 0,
+  "time": 1720224000008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "激活任一功能后，自动激活免广告",
+        "自动激活免广告",
         "可选菜单，可调节游戏速度、收益系数、消费折扣、技能CD、枪械射速等"
       ],
       "name": "上帝模式",
       "pkgname": "tdcgame.zombie.idle.defense.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "tdcgame.zombie.idle.defense",
-  "vercode": 479,
-  "vername": "2.7.0b1",
+  "vercode": 491,
+  "vername": "2.8.0b2",
   "publisher": "TDCGames Global",
-  "signmd5": "FBB8A3A5115D2DDF21623A3C1E1943C6",
   "tags": [
     "英文",
     "单机",
@@ -32,8 +27,8 @@
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/tdcgame.zombie.idle.defense?versionCode\u003d479\u0026nc\u003darm64-v8a\u0026sv\u003d25",
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
       "var": false
     },
     {
