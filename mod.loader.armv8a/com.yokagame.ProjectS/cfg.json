@@ -1,12 +1,8 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 1,
-  "info": "\u003cfont color\u003d\"#ff0000\"\u003e杀戮尖塔\u003c/font\u003e类型的爬塔玩法，不过一款卡牌游戏1.5G大小，可见卡牌、敌人种类之多，美术资源需求之多。",
+  "info": "\u003cfont color\u003d\"#ff0000\"\u003e杀戮尖塔\u003c/font\u003e类型的爬塔玩法，不过一款卡牌游戏1.5G，可见卡牌、敌人种类之多，美术资源需求之多。",
   "label": "因狄斯的谎言",
-  "time": 1709683200008,
-  "mtime": 0,
+  "time": 1715817600008,
   "mod": true,
   "mods": [
     {
@@ -16,24 +12,23 @@
       "name": "上帝模式",
       "pkgname": "com.yokagame.ProjectS.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.yokagame.ProjectS",
-  "vercode": 462,
-  "vername": "1.8.3",
+  "vercode": 474,
+  "vername": "1.8.6",
   "publisher": "Erabit Studios",
-  "signmd5": "2A679D972342BEA042F1D9F7A5429B46",
   "tags": [
     "中文",
-    "国际版",
     "肉鸽",
-    "卡牌DBG"
+    "卡牌",
+    "DBG"
   ],
   "downloads": [
     {
-      "host": "翻墙|直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.yokagame.ProjectS?versionCode\u003d462",
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
       "var": false
     },
     {
