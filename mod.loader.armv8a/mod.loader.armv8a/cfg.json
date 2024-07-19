@@ -1,5 +1,5 @@
 {
-  "time": 1721347300127,
+  "time": 1721347400127,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -416,7 +416,8 @@
     },
     {
       "label": "节奏弹球",
-      "time": 1708214400002,
+      "time": 1721347200000,
+	  "mtime": 1721347200000,
       "pkg": "com.amanotes.beathopper"
     },
     {
