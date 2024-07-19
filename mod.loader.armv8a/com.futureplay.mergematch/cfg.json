@@ -1,8 +1,11 @@
 {
+  "faqs": {
+    "为什么有时启动游戏会闪退？": "只要启动一次桌面版本，之后再运行MOD版本就可以正常玩了。"
+  },
   "gms": 2,
   "info": "三消游戏，从PopCap的限时玩法的钻石迷阵，到King的限制步数的糖果粉碎传奇，然后再到playrix的装饰主线的梦幻家园/花园，然后终于进化到了本作：\u003cbr\u003e荣获2023谷歌游戏大奖的合成花园，以合成玩法做故事主线的三消，很容易令人沉迷",
   "label": "合成花园",
-  "time": 1718236800008,
+  "time": 1721001600008,
   "mod": true,
   "mods": [
     {
@@ -13,18 +16,20 @@
       "name": "上帝模式",
       "pkgname": "com.futureplay.mergematch.gm64",
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.futureplay.mergematch",
-  "vercode": 1370,
-  "vername": "1.29.0",
+  "vercode": 1376,
+  "vername": "1.30.2",
   "publisher": "Futureplay",
   "tags": [
     "中文",
     "休闲",
     "三消",
-    "合成"
+    "合成",
+    "翻墙",
+    "强制更新"
   ],
   "downloads": [
     {
@@ -39,12 +44,7 @@
     },
     {
       "host": "下载页|翻墙",
-      "url": "https://apkpure.net/merge-gardens/com.futureplay.mergematch/download",
-      "var": false
-    },
-    {
-      "host": "下载链接|翻墙",
-      "url": "https://d.apkpure.net/b/XAPK/com.futureplay.mergematch?versionCode\u003d1370\u0026nc\u003darm64-v8a\u0026sv\u003d24",
+      "url": "https://apkpure.net/cn/merge-gardens/com.futureplay.mergematch/download",
       "var": false
     }
   ]
