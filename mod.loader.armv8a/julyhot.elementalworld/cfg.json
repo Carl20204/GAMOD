@@ -2,7 +2,7 @@
   "gms": 2,
   "info": "肉鸽地牢射击，《元气骑士》是更换武器，本作则是N种元素+N套皮肤+N种法术排列组合的肉鸽乐趣。\u003cbr\u003e\u003cbr\u003e喜欢《元气骑士》此类的，一定要玩玩这款，强烈推荐的",
   "label": "元素世界",
-  "time": 1716508800008,
+  "time": 1721088000008,
   "mod": false,
   "mods": [
     {
@@ -13,13 +13,13 @@
       ],
       "name": "上帝模式",
       "pkgname": "julyhot.elementalworld.gm64",
-      "targetvc": "60",
-      "vercode": 3
+      "targetvc": "61",
+      "vercode": 4
     }
   ],
   "pkgname": "julyhot.elementalworld",
-  "vercode": 60,
-  "vername": "2.3.0",
+  "vercode": 61,
+  "vername": "2.4.1",
   "publisher": "SoulGlen Games",
   "tags": [
     "中文",
@@ -34,7 +34,7 @@
     },
     {
       "host": "小飞机网盘分享",
-      "url": "https://share.feijipan.com/s/ZUUkMldE",
+      "url": "https://share.feijipan.com/s/gJUSGXYM",
       "var": false
     },
     {
