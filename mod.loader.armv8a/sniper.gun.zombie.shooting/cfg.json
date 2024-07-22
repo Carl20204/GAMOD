@@ -1,12 +1,8 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 2,
-  "info": "狙击手玩法，机翻中文是有些烂，但不影响打枪的快感。\u003cbr\u003eVNG发行的打丧尸游戏太多了……算是丧尸游戏专业户了",
+  "info": "狙击手玩法，要的就是枪枪爆头\u003cbr\u003eVNG发行的打丧尸游戏太多了……算是丧尸游戏专业户了",
   "label": "丧尸狙击手",
-  "time": 1705363200008,
-  "mtime": 0,
+  "time": 1721088000008,
   "mod": true,
   "mods": [
     {
@@ -17,24 +13,22 @@
       "name": "上帝模式",
       "pkgname": "sniper.gun.zombie.shooting.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "sniper.gun.zombie.shooting",
-  "vercode": 160089463,
-  "vername": "1.60.8",
+  "vercode": 160109263,
+  "vername": "1.60.10",
   "publisher": "VNGGames Studios",
-  "signmd5": "51316BE2FDA67C4D43203C88D0CF3559",
   "tags": [
     "中文",
-    "单机",
     "狙击",
     "FPS"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/sniper.gun.zombie.shooting?versionCode\u003d160089463\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/SsBxSZB9",
       "var": false
     },
     {

@@ -1,5 +1,5 @@
 {
-  "time": 1721347500127,
+  "time": 1721606400128,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -919,6 +919,12 @@
       "pkg": "com.time.trigger"
     },
     {
+      "label": "点击巫师2",
+      "time": 1713052800000,
+	  "mtime": 1721347200000,
+      "pkg": "com.topcog.tapwizard2"
+    },
+    {
       "label": "成长城堡",
       "time": 1702944000000,
       "pkg": "com.raongames.growcastle"
@@ -1036,8 +1042,8 @@
     },
     {
       "label": "丧尸狙击手",
-      "time": 1705363200000,
-	  "mtime": 1711238400000,
+      "time": 1721088000000,
+	  "mtime": 1721347200000,
       "pkg": "sniper.gun.zombie.shooting"
     },
     {
@@ -1053,12 +1059,14 @@
     },
     {
       "label": "西部狙击手",
-      "time": 1710374400000,
+      "time": 1721347200000,
+	  "mtime": 1721347200000,
       "pkg": "wild.west.sniper"
     },
     {
       "label": "丧尸猎人",
       "time": 1710547200000,
+	  "mtime": 1721347200000,
       "pkg": "zombie.survival.dead.shooting"
     }
   ]
