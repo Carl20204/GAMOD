@@ -5,7 +5,7 @@
   "gms": 2,
   "info": "三消游戏，从PopCap的限时玩法的钻石迷阵，到King的限制步数的糖果粉碎传奇，然后再到playrix的装饰主线的梦幻家园/花园，然后终于进化到了本作：\u003cbr\u003e荣获2023谷歌游戏大奖的合成花园，以合成玩法做故事主线的三消，很容易令人沉迷",
   "label": "合成花园",
-  "time": 1721001600008,
+  "time": 1721692800008,
   "mod": true,
   "mods": [
     {
@@ -16,12 +16,12 @@
       "name": "上帝模式",
       "pkgname": "com.futureplay.mergematch.gm64",
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.futureplay.mergematch",
-  "vercode": 1376,
-  "vername": "1.30.2",
+  "vercode": 1377,
+  "vername": "1.30.3",
   "publisher": "Futureplay",
   "tags": [
     "中文",

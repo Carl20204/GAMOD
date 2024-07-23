@@ -1,5 +1,5 @@
 {
-  "time": 1721693000134,
+  "time": 1721694000134,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -681,8 +681,8 @@
     },
     {
       "label": "僵尸炮艇：生存",
-      "time": 1712620800000,
-	  "mtime": 1712620800000,
+      "time": 1721692800000,
+	  "mtime": 1721692800009,
       "pkg": "com.flaregames.zgs"
     },
     {
@@ -693,8 +693,8 @@
     },
     {
       "label": "合成花园",
-      "time": 1721001600000,
-	  "mtime": 1721001600000,
+      "time": 1721692800000,
+	  "mtime": 1721692800006,
       "pkg": "com.futureplay.mergematch"
     },
     {
