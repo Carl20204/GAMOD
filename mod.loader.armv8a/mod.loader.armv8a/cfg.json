@@ -1,5 +1,5 @@
 {
-  "time": 1721692800129,
+  "time": 1721692800132,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -743,6 +743,11 @@
       "pkg": "com.KonfaGames.DespotsGame"
     },
     {
+      "label": "火星幸存者：火星归来",
+      "time": 1704153600000,
+      "pkg": "com.mars.leguas.a"
+    },
+    {
       "label": "瘟疫公司",
       "time": 1707264000000,
 	  "mtime": 1711584000000,
@@ -812,6 +817,24 @@
       "time": 1710115200000,
 	  "mtime": 1713965544012,
       "pkg": "com.pid.abandonship"
+    },
+    {
+      "label": "培养地牢英雄",
+      "time": 1716336000000,
+	  "mtime": 1721692800000,
+      "pkg": "com.pixelstar.gsm"
+    },
+    {
+      "label": "养剑大师",
+      "time": 1715299200000,
+	  "mtime": 1721692800002,
+      "pkg": "com.pixelstar.gsm"
+    },
+    {
+      "label": "像素刀片M",
+      "time": 1716940800000,
+	  "mtime": 1721692800001,
+      "pkg": "com.pixelstar.PixelFBlade"
     },
     {
       "label": "死亡细胞：重返恶魔城",
@@ -897,11 +920,6 @@
       "label": "孤胆枪手2：传奇",
       "time": 1692921600000,
       "pkg": "com.sigmateam.alienshooter2"
-    },
-    {
-      "label": "火星幸存者：火星归来",
-      "time": 1704153600000,
-      "pkg": "com.mars.leguas.a"
     },
     {
       "label": "成长城堡",
