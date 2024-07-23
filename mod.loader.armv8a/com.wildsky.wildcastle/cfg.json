@@ -1,0 +1,50 @@
+{
+  "faqs": {
+    "不带MOD无法启动？": "游戏使用了谷歌加固，请使用对应版本MOD跳过加固验证"
+  },
+  "gms": 2,
+  "info": "成长城堡类型，【皇室战争】【部落冲突】画风，弱联网有全球玩家排行榜",
+  "label": "狂野城堡：王国统治",
+  "time": 1719446400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，跳过谷歌加固验证",
+        "可选菜单，可调节英雄技能CD、法力，金币收入等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.wildsky.wildcastle.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.wildsky.wildcastle",
+  "vercode": 5284,
+  "vername": "1.53.2",
+  "publisher": "Funovus",
+  "tags": [
+    "中文",
+    "塔防",
+    "放置",
+    "成长",
+    "弱联网"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/fPBzg9Hw",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/wild-castle-tower-defense-td/com.wildsky.wildcastle/download",
+      "var": false
+    }
+  ]
+}

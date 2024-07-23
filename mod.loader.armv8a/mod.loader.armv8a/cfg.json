@@ -1,5 +1,5 @@
 {
-  "time": 1721606400128,
+  "time": 1721692800129,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -899,19 +899,14 @@
       "pkg": "com.sigmateam.alienshooter2"
     },
     {
-      "label": "篝火：被遗忘的土地",
-      "time": 1696982400000,
-      "pkg": "com.xigmagames.thebonfireFL"
-    },
-    {
-      "label": "篝火2：未知彼岸",
-      "time": 1700179200000,
-      "pkg": "com.xigmaGames.thebonfire2"
-    },
-    {
       "label": "火星幸存者：火星归来",
       "time": 1704153600000,
       "pkg": "com.mars.leguas.a"
+    },
+    {
+      "label": "成长城堡",
+      "time": 1702944000000,
+      "pkg": "com.raongames.growcastle"
     },
     {
       "label": "神枪手强尼",
@@ -925,9 +920,20 @@
       "pkg": "com.topcog.tapwizard2"
     },
     {
-      "label": "成长城堡",
-      "time": 1702944000000,
-      "pkg": "com.raongames.growcastle"
+      "label": "狂野城堡：王国统治",
+      "time": 1719446400000,
+	  "mtime": 1721692800000,
+      "pkg": "com.wildsky.wildcastle"
+    },
+    {
+      "label": "篝火：被遗忘的土地",
+      "time": 1696982400000,
+      "pkg": "com.xigmagames.thebonfireFL"
+    },
+    {
+      "label": "篝火2：未知彼岸",
+      "time": 1700179200000,
+      "pkg": "com.xigmaGames.thebonfire2"
     },
     {
       "label": "最终命运：穿越世界的尽头",
