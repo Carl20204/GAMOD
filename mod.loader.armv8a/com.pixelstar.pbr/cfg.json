@@ -1,0 +1,46 @@
+{
+  "gms": 2,
+  "info": "可以看作《像素刀片M》2代，大幅优化了画质，完善了各项细节，喜欢PixelStar系列游戏的不可不玩。",
+  "label": "像素刀片：革命",
+  "time": 1721692800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告",
+        "可选菜单可调节战斗速度与技能，加金币、宝石、钻石等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.pixelstar.pbr.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.pixelstar.pbr",
+  "vercode": 2024072301,
+  "vername": "2.3.5",
+  "publisher": "pixelstar",
+  "tags": [
+    "中文",
+    "动作",
+    "收集",
+    "养成"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/iQBzg6lM",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/fPBzg9Hw",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/pixel-blade-r-revolution/com.pixelstar.pbr/download",
+      "var": false
+    }
+  ]
+}

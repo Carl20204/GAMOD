@@ -1,5 +1,5 @@
 {
-  "time": 1721692900132,
+  "time": 1721693000134,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -834,6 +834,12 @@
       "label": "养剑大师",
       "time": 1715299200000,
 	  "mtime": 1721692800002,
+      "pkg": "com.pixelstar.gsm"
+    },
+    {
+      "label": "像素刀片：革命",
+      "time": 1721692800000,
+	  "mtime": 1721692800005,
       "pkg": "com.pixelstar.gsm"
     },
     {
