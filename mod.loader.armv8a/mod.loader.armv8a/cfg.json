@@ -1,5 +1,5 @@
 {
-  "time": 1721692800132,
+  "time": 1721692900132,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -823,6 +823,12 @@
       "time": 1716336000000,
 	  "mtime": 1721692800000,
       "pkg": "com.pixelstar.DNPH"
+    },
+    {
+      "label": "最强弓箭手",
+      "time": 1707091200000,
+	  "mtime": 1721692800003,
+      "pkg": "com.pixelstar.gam"
     },
     {
       "label": "养剑大师",

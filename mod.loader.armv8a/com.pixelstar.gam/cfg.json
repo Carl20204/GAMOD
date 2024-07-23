@@ -1,0 +1,46 @@
+{
+  "gms": 2,
+  "info": "pixelstar专注像素养成类游戏10年，推出的集大成者。相对《养剑大师》《培养幸存者》等，优化了非常多的细节，喜欢此类游戏的强烈推荐。",
+  "label": "最强弓箭手",
+  "time": 1707091200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告",
+        "可选菜单可调节技能CD、金币、宝石、素材等收益"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.pixelstar.gam.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.pixelstar.gam",
+  "vercode": 2024020201,
+  "vername": "2.0.3",
+  "publisher": "pixelstar",
+  "tags": [
+    "中文",
+    "放置",
+    "收集",
+    "养成"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/iQBzg6lM",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/fPBzg9Hw",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/grow-archermaster/com.pixelstar.gam/download",
+      "var": false
+    }
+  ]
+}
