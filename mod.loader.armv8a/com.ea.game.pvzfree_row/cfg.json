@@ -2,23 +2,23 @@
   "gms": 1,
   "info": "\u003cfont color\u003d\"#ff0000\"\u003e经典中的经典\u003c/font\u003e，建议手机常驻。\u003cbr\u003e\u003cbr\u003e赞一下EA，2024年了，还在持续做优化更新的维护。",
   "label": "植物大战僵尸1",
-  "time": 1716854400008,
+  "time": 1721779200008,
   "mod": false,
   "mods": [
     {
       "descs": [
         "启用自动生效，免广告，让游戏流畅不被打断。",
-        "可选菜单：自定义僵尸、植物强化、投掷加速、射击加速、满屏弹幕、无种植CD、无限阳光、保龄球炸弹，无脑爽就行"
+        "可选菜单：自定义僵尸、植物强化、投掷加速、射击加速、满屏弹幕、无种植CD、无限阳光、保龄球炸弹，种植无地形限制，无脑爽就行"
       ],
       "name": "上帝模式",
       "pkgname": "com.ea.game.pvzfree_row.gm64",
-      "targetvc": "355",
-      "vercode": 9
+      "targetvc": "361",
+      "vercode": 10
     }
   ],
   "pkgname": "com.ea.game.pvzfree_row",
-  "vercode": 355,
-  "vername": "3.5.5",
+  "vercode": 361,
+  "vername": "3.6.0",
   "publisher": "EA（美国艺电）",
   "tags": [
     "英文",
@@ -39,11 +39,6 @@
     {
       "host": "小飞机网盘",
       "url": "https://share.feijipan.com/s/7IUjgPec",
-      "var": false
-    },
-    {
-      "host": "直链下载[翻墙]",
-      "url": "https://d.apkpure.net/b/APK/com.ea.game.pvzfree_row?versionCode\u003d355",
       "var": false
     },
     {
