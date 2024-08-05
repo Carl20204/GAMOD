@@ -2,7 +2,7 @@
   "gms": 1,
   "info": "二次元美少女探员太空打怪挖矿，外围培养、塔防、建设各种玩法一堆，一款被名字耽误了的放置类精品手游。",
   "label": "太空农妇",
-  "time": 1719964800008,
+  "time": 1722816000008,
   "mod": true,
   "mods": [
     {
@@ -12,13 +12,13 @@
       "name": "上帝模式",
       "pkgname": "com.anxiousottergames.spacefarmer.gm64",
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.anxiousottergames.spacefarmer",
-  "vercode": 419,
-  "vername": "1.10.6",
-  "publisher": "ADQUANTUM LTD",
+  "vercode": 422,
+  "vername": "1.10.8",
+  "publisher": "Anxious Otter Games",
   "tags": [
     "中文",
     "二次元",
@@ -29,6 +29,11 @@
     {
       "host": "小飞机网盘",
       "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/5XAUtqbj",
       "var": false
     },
     {

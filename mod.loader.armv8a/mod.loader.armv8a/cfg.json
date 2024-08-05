@@ -1,5 +1,5 @@
 {
-  "time": 1722297600135,
+  "time": 1722816000135,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -427,8 +427,8 @@
     },
     {
       "label": "太空农妇",
-      "time": 1719964800000,
-	  "mtime": 1720656000000,
+      "time": 1722816000000,
+	  "mtime": 1722816000000,
       "pkg": "com.anxiousottergames.spacefarmer"
     },
     {
