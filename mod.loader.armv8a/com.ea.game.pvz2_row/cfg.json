@@ -1,11 +1,11 @@
 {
   "faqs": {
-    "启动游戏显示下载中怎么办？": "没下载数据包吧？请确保下载的是900M左右的安装包。请确保启动时加载了MOD以跳过检测"
+    "启动游戏显示下载中怎么办？": "没下载数据包吧？请确保下载的是900M左右的安装包。请确保启动时加载了MOD以跳过下载检测"
   },
   "gms": 2,
   "info": "\u003cfont color\u003d\"#ff0000\"\u003e200种植物，每种植物10+200级\u003c/font\u003e，喜欢新鲜的，喜好收集养成的狂喜……",
   "label": "植物大战僵尸2：美版",
-  "time": 1713830400008,
+  "time": 1722297600008,
   "mod": true,
   "mods": [
     {
@@ -16,20 +16,18 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.ea.game.pvz2_row.gm64",
-      "targetvc": "865",
-      "vercode": 3
+      "targetvc": "883",
+      "vercode": 4
     }
   ],
   "pkgname": "com.ea.game.pvz2_row",
-  "vercode": 865,
-  "vername": "11.4.1",
+  "vercode": 883,
+  "vername": "11.6.1",
   "publisher": "EA（美国艺电）",
-  "signmd5": "0B6456DC879E54303E76D6999085F1CB",
   "tags": [
     "英文",
     "单机",
-    "塔防",
-    "收集"
+    "塔防"
   ],
   "downloads": [
     {
@@ -39,17 +37,12 @@
     },
     {
       "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/K1AbQBjG",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
       "var": false
     },
     {
       "host": "翻墙|直链页",
-      "url": "https://apkpure.net/cn/plants-vs-zombies%E2%84%A2-2-android/com.ea.game.pvz2_row/download/11.4.1",
-      "var": false
-    },
-    {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.ea.game.pvz2_row?versionCode\u003d865",
+      "url": "https://apkpure.net/cn/plants-vs-zombies%E2%84%A2-2-android/com.ea.game.pvz2_row/download",
       "var": false
     }
   ]
