@@ -1,0 +1,44 @@
+{
+  "gms": 2,
+  "info": "植物大战僵尸越南版，以植物大战僵尸1为模板，增加了植物升级与大招体系",
+  "label": "花花大战僵尸",
+  "time": 1721692800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节阳光、种植CD、金币、道具等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.g4fun.hoaquadaichien.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.g4fun.hoaquadaichien",
+  "vercode": 800163,
+  "vername": "1.6.3",
+  "publisher": "G4F",
+  "tags": [
+    "英文",
+    "塔防",
+    "植物大战僵尸"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/fPBzg9Hw",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/merge-gardens/com.g4fun.hoaquadaichien/download",
+      "var": false
+    }
+  ]
+}
