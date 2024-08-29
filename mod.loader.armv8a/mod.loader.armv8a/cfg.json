@@ -1,5 +1,5 @@
 {
-  "time": 1724889600135,
+  "time": 1724889700135,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -546,7 +546,8 @@
     },
     {
       "label": "地牢编年史",
-      "time": 1701388800002,
+      "time": 1716940800000,
+	  "mtime": 1724630400000,
       "pkg": "com.BUNKERim.DC"
     },
     {
