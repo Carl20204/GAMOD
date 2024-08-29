@@ -1,5 +1,5 @@
 {
-  "time": 1724889700135,
+  "time": 1724889800135,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -370,7 +370,8 @@
     },
     {
       "label": "我渴望力量",
-      "time": 1703203200002,
+      "time": 1723766400000,
+	  "mtime": 1724630400000,
       "pkg": "bartmamzer.powerlust.actionrpg.roguelike"
     },
     {

@@ -1,11 +1,8 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 2,
-  "info": "标准的地下城暗黑类游戏，与《火炬之光》《拉结尔》《异教之神》《地牢猎手4》等相比，战斗的格局还是稍微小了点",
+  "info": "标准的地下城暗黑类游戏，同类可参考《火炬之光》《拉结尔》《异教之神》《地牢猎手4》等",
   "label": "我渴望力量",
-  "time": 1703203200008,
+  "time": 1723766400008,
   "mod": true,
   "mods": [
     {
@@ -16,23 +13,39 @@
       "name": "上帝模式",
       "pkgname": "bartmamzer.powerlust.actionrpg.roguelike.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "bartmamzer.powerlust.actionrpg.roguelike",
-  "vercode": 9988,
-  "vername": "0.9988",
+  "vercode": 16604,
+  "vername": "1.66.04",
   "publisher": "Bartlomiej Mamzer",
-  "signmd5": "3D96DBC84EF2D2838E8D9D8D9649DD9C",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
   "tags": [
     "中文",
     "动作",
+    "刷刷刷",
     "地下城"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/bartmamzer.powerlust.actionrpg.roguelike?versionCode\u003d9988\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/PuURFwt8",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
       "var": false
     },
     {
