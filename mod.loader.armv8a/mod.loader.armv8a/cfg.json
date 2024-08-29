@@ -1,5 +1,5 @@
 {
-  "time": 1722816200135,
+  "time": 1724889600135,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -692,9 +692,9 @@
       "pkg": "com.frojo.pickle"
     },
     {
-      "label": "合成花园",
-      "time": 1722297600000,
-	  "mtime": 1722297600000,
+      "label": "荟萃花园",
+      "time": 1724630400000,
+	  "mtime": 1724630400000,
       "pkg": "com.futureplay.mergematch"
     },
     {
