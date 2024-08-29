@@ -1,16 +1,16 @@
 {
-  "vername": "2.2.8",
+  "vername": "2.2.9",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 228,
+  "vercode": 229,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "A28A74FA75BB7A593ED05FF55D4AF5C6",
-  "size": 4165850,
+  "md5": "89456985E839CAAEBCFA3F82017F8077",
+  "size": 4167494,
   "logs": {
-    "en": "修复【部分xapk文件升级安装失败】bug。",
-    "zh": "修复【部分xapk文件升级安装失败】bug。"
+    "en": "更多的活跃度，支持MOD中配置额外活跃度",
+    "zh": "更多的活跃度，支持MOD中配置额外活跃度"
   },
   "i": false
 }
