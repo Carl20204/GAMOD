@@ -1,5 +1,5 @@
 {
-  "time": 1724889800135,
+  "time": 1724889900135,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -587,6 +587,7 @@
     {
       "label": "异教之神",
       "time": 1707782400002,
+	  "mtime": 1724630400000,
       "pkg": "com.curacha.hereticgods"
     },
     {

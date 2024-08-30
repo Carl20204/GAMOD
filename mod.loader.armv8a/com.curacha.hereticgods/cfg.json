@@ -1,9 +1,6 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 1,
-  "info": "手机上的刷地牢刷装备的《暗黑破坏神》类游戏，中文翻译完成度只有85%",
+  "info": "手机上的刷地牢刷装备的《暗黑破坏神》类游戏，中文翻译完成度只有85%，介意勿入",
   "label": "异教之神",
   "time": 1707782400008,
   "mod": true,
@@ -16,30 +13,45 @@
       "name": "上帝模式",
       "pkgname": "com.curacha.hereticgods.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.curacha.hereticgods",
   "vercode": 13015,
   "vername": "1.30.15",
   "publisher": "CurachaPH",
-  "signmd5": "190CE4826B8564FFF12120C28BB94735",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
   "tags": [
     "中文",
-    "离线",
-    "地牢",
+    "刷刷刷",
+    "地下城",
     "动作"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.curacha.hereticgods?versionCode\u003d13015\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/PuURFwt8",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
       "var": false
     },
     {
       "host": "翻墙｜下载页",
       "url": "https://apkpure.net/cn/heretic-gods/com.curacha.hereticgods/download",
-      "var": false
+      "var": true
     }
   ]
 }
