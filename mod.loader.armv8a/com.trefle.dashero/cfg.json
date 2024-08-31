@@ -1,0 +1,56 @@
+{
+  "gms": 2,
+  "info": "《弓箭传说》类型的肉鸽射击游戏，创新在于近战要素与场景要素，同类还有《古墓丽影Reload》《毁灭战士Doom》都是值得一玩",
+  "label": "魔劍傳說",
+  "time": 1698710400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调增伤、减伤、金币、宝石"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.trefle.dashero.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.trefle.dashero",
+  "vercode": 583,
+  "vername": "0.9.9",
+  "publisher": "Trefle \u0026 Co. Limited",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "动作",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/f8USV6Yl",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/dash-io-roguelike-survivor/com.trefle.dashero/download",
+      "var": true
+    }
+  ]
+}
