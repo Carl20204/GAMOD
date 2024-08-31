@@ -1,0 +1,60 @@
+{
+  "faqs": {
+    "进入游戏是英文？": "启动游戏后，点击左上角设置按钮，弹出的九宫格选左下语言按钮，点击后选择中文可以切换到繁体中文模式。"
+  },
+  "gms": 2,
+  "info": "UBI出品的大鱼吃小鱼的经典第一作，已经十周年了，虽然画质比之后的版本《饥饿的鲨鱼：世界》差一些，但情怀无价",
+  "label": "饥饿的鲨鱼：进化",
+  "time": 1723593600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有广告激励可以直接白嫖",
+        "可选菜单，可调节减伤、金币、宝石收益、爆发槽无限、强化特效开关"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.fgol.HungrySharkEvolution.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.fgol.HungrySharkEvolution",
+  "vercode": 10300,
+  "vername": "11.7.5",
+  "publisher": "Ubisoft Entertainment",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "休闲",
+    "探索",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/hungry-shark-evolution/com.fgol.HungrySharkEvolution/download",
+      "var": true
+    }
+  ]
+}
