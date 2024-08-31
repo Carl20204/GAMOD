@@ -1,5 +1,5 @@
 {
-  "time": 1725062400139,
+  "time": 1725062500139,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -675,7 +675,7 @@
       "label": "饥饿的鲨鱼：进化",
       "time": 1723593600000,
 	  "mtime": 1725062400008,
-      "pkg": "com.ubisoft.hungrysharkworld"
+      "pkg": "com.fgol.HungrySharkEvolution"
     },
     {
       "label": "无尽漫游",
