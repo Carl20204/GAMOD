@@ -1,5 +1,5 @@
 {
-  "time": 1725062400136,
+  "time": 1725062400138,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -953,6 +953,12 @@
       "pkg": "com.time.trigger"
     },
     {
+      "label": "火车大亨",
+      "time": 1724803200000,
+	  "mtime": 1725062400000,
+      "pkg": "com.tinytitanstudios.TrainChu"
+    },
+    {
       "label": "点击巫师2",
       "time": 1713052800000,
 	  "mtime": 1721347200000,
@@ -963,6 +969,12 @@
       "time": 1698710400009,
 	  "mtime": 1725062400000,
       "pkg": "com.trefle.dashero"
+    },
+    {
+      "label": "饥饿的鲨鱼：世界",
+      "time": 1724025600000,
+	  "mtime": 1725062400009,
+      "pkg": "com.ubisoft.hungrysharkworld"
     },
     {
       "label": "狂野城堡：王国统治",

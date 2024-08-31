@@ -1,0 +1,60 @@
+{
+  "faqs": {
+    "墨魔豆启动游戏后提示无法存档？": "游戏有模拟器检测，请使用MOD过检测才能正常存档。"
+  },
+  "gms": 2,
+  "info": "大鱼吃小鱼的经典之作，UBI出品，还有人没玩过吗？",
+  "label": "饥饿的鲨鱼：世界",
+  "time": 1724025600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有广告激励可以直接白嫖",
+        "可选菜单，可调节减伤、金币、宝石、珍珠收益、爆发槽无限、强化特效开关"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ubisoft.hungrysharkworld.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.ubisoft.hungrysharkworld",
+  "vercode": 316,
+  "vername": "6.1.6",
+  "publisher": "Ubisoft Entertainment",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "休闲",
+    "探索",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/hungry-shark-world/com.ubisoft.hungrysharkworld/download",
+      "var": true
+    }
+  ]
+}
