@@ -1,0 +1,59 @@
+{
+  "faqs": {
+    "启动加载很慢怎么办？": "游戏启动会访问谷歌服务器，导致卡住。\u003cbr\u003e只要断一下网就能立刻进游戏了，作为单机离线游戏，不联网玩很正常。"
+  },
+  "gms": 2,
+  "info": "放置类型，类似的有《点击泰坦》《点击巫师》《差不多英雄》《放置僵尸防御》《养剑大师》《成长城堡》等等等等，太多质量不错的同类作品\u003cbr\u003e\u003cbr\u003e本作玩的主要还是IP，ZITGA以自家的火柴人/影子战士出战，玩过他家的一大堆火柴人动作格斗游戏的玩家可以上手休闲一下",
+  "label": "暗影战争",
+  "time": 1724284800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有广告激励可以直接白嫖",
+        "可选菜单，可调节所有的资源收益率"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.shadow.war.legend.slime.idle.rpg.survival.game.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.shadow.war.legend.slime.idle.rpg.survival.game",
+  "vercode": 10353,
+  "vername": "1.0.35",
+  "publisher": "ZITGA",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "休闲",
+    "放置"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/iQBzg6lM",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/shadow-war-idle-rpg-survival/com.shadow.war.legend.slime.idle.rpg.survival.game/download",
+      "var": true
+    }
+  ]
+}
