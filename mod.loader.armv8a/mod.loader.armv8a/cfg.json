@@ -1,5 +1,5 @@
 {
-  "time": 1725062500140,
+  "time": 1725148800141,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1021,6 +1021,12 @@
       "time": 1681516800000,
 	  "mtime": 1711411200000,
       "pkg": "com.z1.projectx.idle"
+    },
+    {
+      "label": "火柴人传奇",
+      "time": 1725148800000,
+	  "mtime": 1725148800000,
+      "pkg": "com.zitga.ninja.stickman.legends"
     },
     {
       "label": "冷酷灵魂：黑暗幻想",

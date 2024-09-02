@@ -1,0 +1,56 @@
+{
+  "gms": 2,
+  "info": "《火柴人联盟1/2》带火了火柴人动作游戏，本作就是海量同类游戏中品质不错的一作。",
+  "label": "火柴人传奇",
+  "time": 1725148800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有广告激励可以直接白嫖",
+        "可选菜单，可调节减伤、技能CD、冲刺CD、资源消耗等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.zitga.ninja.stickman.legends.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.zitga.ninja.stickman.legends",
+  "vercode": 6053,
+  "vername": "7.0.0",
+  "publisher": "ZITGA",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "火柴人",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/PuURFwt8",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/RoC10pGf",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/hungry-shark-world/com.zitga.ninja.stickman.legends/download",
+      "var": true
+    }
+  ]
+}
