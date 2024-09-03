@@ -1,0 +1,51 @@
+{
+  "faqs": {
+    "为啥点桌面图标启动游戏会黑屏卡住？": "分享的下载链接为官方原版，需要手机安装Netflix客户端，并购买了网飞会员的用户才能玩。",
+    "没有Netflix，没有网飞会员怎么玩？": "MOD有免网飞账号功能，用墨魔豆带着MOD启动游戏就行了",
+    "启动时始终显示下载中怎么办？": "请自备梯子，翻墙下载！"
+  },
+  "gms": 1,
+  "info": "谷歌商店的高素质付费游戏，本版本为网飞会员专享无广告免费可玩版本。\u003cbr\u003e\u003cbr\u003e靠着多年的积累，游戏社区模块里有海量玩家自制地图等内容，多人模式下请注意合理使用MOD",
+  "label": "猴子塔防6",
+  "time": 1723250713008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免网飞会员验证",
+        "可选菜单可调节玩家经验、猴子经验、猴币收益率，猴币消费折扣，猴子英雄解锁等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.netflix.NGP.BloonsTDSix.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.netflix.NGP.BloonsTDSix",
+  "vercode": 8303,
+  "vername": "44.1",
+  "publisher": "Netflix",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "单机",
+    "塔防"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/UOAmQ8kx",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/g4C1zjdY",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/death-s-door/com.netflix.NGP.BloonsTDSix/download",
+      "var": true
+    }
+  ]
+}
