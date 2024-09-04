@@ -1,0 +1,62 @@
+{
+  "faqs": {
+    "安装后桌面版本没法玩？": "网盘分享的是谷歌原版，需要连接谷歌商店购买。免费玩家请使用墨魔豆加载MOD来玩。",
+    "为什么是英文？没有中文选项？": "请使用墨魔豆加载MOD来玩，锁定了简体中文。"
+  },
+  "gms": 1,
+  "info": "2D版本《我的世界》，十多年的持续更新，海量的内容，只要没玩过最新版的，建议必玩……",
+  "label": "泰拉瑞亚",
+  "time": 1696204800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活中文，自动激活付费版",
+        "可选菜单可调节时间、满血、满魔、召唤NPC、添加道具、传送等等几十项功能"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.and.games505.Terraria.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.and.games505.Terraria",
+  "vercode": 301087,
+  "vername": "1.4.4.9.5",
+  "publisher": "505 Games Srl",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "单机",
+    "动作",
+    "像素",
+    "我的世界"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/h2C2gW6I",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/terraria-i/com.and.games505.Terraria/download",
+      "var": true
+    }
+  ]
+}

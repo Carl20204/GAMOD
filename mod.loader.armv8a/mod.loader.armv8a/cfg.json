@@ -1,5 +1,5 @@
 {
-  "time": 1725324300143,
+  "time": 1725408000144,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -419,6 +419,12 @@
       "label": "节奏弹球",
       "time": 1721347200000,
 	  "mtime": 1721347200000,
+      "pkg": "com.amanotes.beathopper"
+    },
+    {
+      "label": "泰拉瑞亚",
+      "time": 1696204800000,
+	  "mtime": 1725408000009,
       "pkg": "com.amanotes.beathopper"
     },
     {
