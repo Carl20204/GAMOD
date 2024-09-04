@@ -1,5 +1,5 @@
 {
-  "time": 1725408000144,
+  "time": 1725408100144,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -425,7 +425,7 @@
       "label": "泰拉瑞亚",
       "time": 1696204800000,
 	  "mtime": 1725408000009,
-      "pkg": "com.amanotes.beathopper"
+      "pkg": "com.and.games505.Terraria"
     },
     {
       "label": "射击英雄",
