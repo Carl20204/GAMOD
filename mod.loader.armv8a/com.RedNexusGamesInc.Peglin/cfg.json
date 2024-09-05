@@ -1,8 +1,8 @@
 {
   "gms": 2,
-  "info": "弹珠+肉鸽，会不会被Habby看中，包装上养成要素后卖爆？\u003cbr\u003e\u003cbr\u003e创意十足，没有商业化元素，没有玩家心理学陷阱，很纯粹的游戏体验。",
+  "info": "经过两年的打磨，于2024年8月，1.0正式版发布在switch和安卓平台了\u003cbr\u003e\u003cbr\u003e创意十足，没有商业化元素，没有玩家心理学陷阱，很纯粹的游戏体验。",
   "label": "哥布林弹球",
-  "time": 1720310400008,
+  "time": 1724803200008,
   "mod": false,
   "mods": [
     {
@@ -13,22 +13,34 @@
       "name": "上帝模式",
       "pkgname": "com.RedNexusGamesInc.Peglin.gm64",
       "targetvc": "*",
-      "vercode": 4
+      "vercode": 5
     }
   ],
   "pkgname": "com.RedNexusGamesInc.Peglin",
-  "vercode": 47,
-  "vername": "0.9.591",
+  "vercode": 57,
+  "vername": "1.0.1",
   "publisher": "Red Nexus Games",
+  "s3": 0,
   "tags": [
     "中文",
     "肉鸽",
-    "弹球"
+    "弹球",
+    "像素"
   ],
   "downloads": [
     {
       "host": "小飞机网盘",
       "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/f8USV6Yl",
       "var": false
     },
     {
