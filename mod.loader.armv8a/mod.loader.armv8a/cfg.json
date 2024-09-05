@@ -1,5 +1,5 @@
 {
-  "time": 1725408100144,
+  "time": 1725494400145,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -802,6 +802,12 @@
       "time": 1698796800000,
 	  "mtime": 1715126400001,
       "pkg": "com.netflix.NGP.IntoTheBreach"
+    },
+    {
+      "label": "武士 零",
+      "time": 1722384000000,
+	  "mtime": 1725321600002,
+      "pkg": "com.netflix.NGP.KatanaZero"
     },
     {
       "label": "幸运的露娜",
