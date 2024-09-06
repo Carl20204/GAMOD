@@ -1,11 +1,11 @@
 {
   "faqs": {
-    "中文怎么调？": "启动游戏后，停留在首页时，点击右上角的【齿轮】图标，点击第一行的language会列出所有支持语言，选择简体中文即可。"
+    "进游戏怎么是英文？中文怎么调？": "启动游戏后，停留在首页时，点击右上角的【齿轮】图标，点击第一行的language会列出所有支持语言，选择简体中文即可。"
   },
   "gms": 2,
   "info": "作为《恶魔城月下夜想曲》的同人作品，带火了\"幸存者\"玩法。\u003cbr\u003e2023年多次更新，加入了大量新的DLC，不管之前有没有玩过，最新版刚加入的DLC内容肯定要玩一下吧？\u003cbr\u003e\u003cbr\u003e首次游戏，需手动调整中文",
   "label": "吸血鬼幸存者",
-  "time": 1710374400008,
+  "time": 1724803200008,
   "mod": false,
   "mods": [
     {
@@ -17,14 +17,24 @@
       "name": "上帝模式",
       "pkgname": "com.poncle.vampiresurvivors.gm64",
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.poncle.vampiresurvivors",
-  "vercode": 3384,
-  "vername": "1.9.104",
+  "vercode": 11820080,
+  "vername": "1.11.110",
   "publisher": "Poncle",
-  "signmd5": "1CC7300A744B55DDDEB3744D18F81D37",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
   "tags": [
     "中文",
     "肉鸽",
@@ -33,18 +43,13 @@
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/K1AbQBjG",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
+      "host": "网盘分享",
       "url": "https://share.feijipan.com/s/gJUSGXYM",
       "var": false
     },
     {
-      "host": "直链下载[翻墙]",
-      "url": "https://d.apkpure.net/b/XAPK/com.poncle.vampiresurvivors?versionCode\u003d3384\u0026nc\u003darm64-v8a\u0026sv\u003d24",
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
       "var": false
     },
     {

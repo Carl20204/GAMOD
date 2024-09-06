@@ -1,5 +1,5 @@
 {
-  "time": 1725494500145,
+  "time": 1725494600145,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -766,7 +766,8 @@
     },
     {
       "label": "火星幸存者：火星归来",
-      "time": 1704153600000,
+      "time": 1725235200000,
+	  "mtime": 1725321600001,
       "pkg": "com.mars.leguas.a"
     },
     {
@@ -914,8 +915,8 @@
     },
     {
       "label": "吸血鬼幸存者",
-      "time": 1710374400000,
-	  "mtime": 1711929600000,
+      "time": 1724803200000,
+	  "mtime": 1725321600002,
       "pkg": "com.poncle.vampiresurvivors"
     },
     {
