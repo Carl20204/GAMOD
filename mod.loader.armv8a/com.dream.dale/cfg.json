@@ -1,1 +1,52 @@
-{"archs":["arm64-v8a"],"faqs":{"玩过，广告好多，氪金好多！":"用免广告MOD吧，没有广告，收获多多的的再玩一遍，你会发现玩的好爽。"},"gms":1,"info":"采集、建设、战斗，采集的获得感与建设的成就感做的很到位，但战斗方面稍微拉垮一点。\u003cbr\u003e第一眼感觉是休闲游戏，玩起来才发现是硬核无底洞。","label":"我的梦幻小岛","time":1707004800005,"mod":false,"mods":[{"descs":["免广告，所有广告奖励可以直接白嫖。自动解锁博物馆蓝图，防止卡任务。","其它可选菜单功能，以提升收益为主，有效护肝","全物品，请尽量在解锁该资源后再使用，防止破坏游戏任务链"],"name":"上帝模式","pkgname":"com.dream.dale.gm64","targetvc":"*","vercode":4}],"pkgname":"com.dream.dale","vercode":1481,"vername":"1.0.39","publisher":"SayGames","signmd5":"C60E5A38566C0B31FF58EEB436E73A52","tags":["中文","国际版","采集","战斗","建设","低模"],"downloads":[{"host":"小飞机云盘","url":"https://share.feijipan.com/s/FTATSvER","var":false},{"host":"apkpure直链下载[翻墙]","url":"https://d.apkpure.net/b/APK/com.dream.dale?versionCode\u003d1481","var":false},{"host":"apkpure[翻墙]","url":"https://apkpure.net/cn/dreamdale-fairy-adventure/com.dream.dale/download","var":true}]}
+{
+  "faqs": {
+    "玩过，广告好多，氪金好多！": "用免广告MOD吧，没有广告，收获多多的的再玩一遍，你会发现玩的好爽。"
+  },
+  "gms": 1,
+  "info": "采集、建设、战斗，采集的获得感与建设的成就感做的很到位，但战斗方面稍微拉垮一点。\u003cbr\u003e第一眼感觉是休闲游戏，玩起来才发现是硬核无底洞。",
+  "label": "我的梦幻小岛",
+  "time": 1724284800008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "免广告，所有广告奖励可以直接白嫖。自动解锁博物馆蓝图，防止卡任务。",
+        "其它可选菜单功能，以提升收益为主，有效护肝",
+        "全物品，请尽量在解锁该资源后再使用，防止破坏游戏任务链"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.dream.dale.gm64",
+      "targetvc": "*",
+      "vercode": 5
+    }
+  ],
+  "pkgname": "com.dream.dale",
+  "vercode": 1948,
+  "vername": "1.0.50",
+  "publisher": "SayGames",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "采集",
+    "战斗",
+    "建设",
+    "低模"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/FTATSvER",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://d.apkpure.net/b/APK/com.dream.dale?versionCode\u003d1481",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/dreamdale-fairy-adventure/com.dream.dale/download",
+      "var": true
+    }
+  ]
+}
