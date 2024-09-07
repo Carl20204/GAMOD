@@ -1,5 +1,5 @@
 {
-  "time": 1725494800145,
+  "time": 1725494800146,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -493,7 +493,8 @@
     },
     {
       "label": "毁灭战士(DOOM)",
-      "time": 1708473600002,
+      "time": 1714608000000,
+	  "mtime": 1725062300000,
       "pkg": "com.bethsoft.ubu"
     },
     {
@@ -746,6 +747,12 @@
       "time": 1698192000000,
 	  "mtime": 1713398400000,
       "pkg": "com.halfbrick.colossatron"
+    },
+    {
+      "label": "海盗：死亡瘟疫",
+      "time": 1721347200000,
+	  "mtime": 1725321600000,
+      "pkg": "com.HomeNetGames.Pirates2"
     },
     {
       "label": "传说法师",
