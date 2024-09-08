@@ -1,5 +1,5 @@
 {
-  "time": 1725667200147,
+  "time": 1725753600149,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -646,7 +646,7 @@
     {
       "label": "我的梦幻小岛",
       "time": 1724284800000,
-	  "mtime": 1725321600004,
+	  "mtime": 1725321600007,
       "pkg": "com.dream.dale"
     },
     {
@@ -757,8 +757,20 @@
     {
       "label": "海盗：死亡瘟疫",
       "time": 1721347200000,
-	  "mtime": 1725321600000,
+	  "mtime": 1725321600003,
       "pkg": "com.HomeNetGames.Pirates2"
+    },
+    {
+      "label": "二战战机：狗斗",
+      "time": 1721433600000,
+	  "mtime": 1725321600004,
+      "pkg": "com.HomeNetGames.Warplanes"
+    },
+    {
+      "label": "一战战机：空中王牌",
+      "time": 1721433600000,
+	  "mtime": 1725321600000,
+      "pkg": "com.HomeNetGames.WW1"
     },
     {
       "label": "传说法师",
@@ -780,7 +792,7 @@
     {
       "label": "火星幸存者：火星归来",
       "time": 1725235200000,
-	  "mtime": 1725321600001,
+	  "mtime": 1725321600000,
       "pkg": "com.mars.leguas.a"
     },
     {
@@ -797,7 +809,7 @@
     {
       "label": "猴子塔防6",
       "time": 1723250713000,
-	  "mtime": 1725321600000,
+	  "mtime": 1725321600009,
       "pkg": "com.netflix.NGP.BloonsTDSix"
     },
     {
@@ -821,7 +833,7 @@
     {
       "label": "武士 零",
       "time": 1722384000000,
-	  "mtime": 1725321600002,
+	  "mtime": 1725321600000,
       "pkg": "com.netflix.NGP.KatanaZero"
     },
     {
@@ -929,7 +941,7 @@
     {
       "label": "吸血鬼幸存者",
       "time": 1724803200000,
-	  "mtime": 1725321600002,
+	  "mtime": 1725321600008,
       "pkg": "com.poncle.vampiresurvivors"
     },
     {
@@ -953,7 +965,7 @@
     {
       "label": "哥布林弹球",
       "time": 1724803200000,
-	  "mtime": 1725321600003,
+	  "mtime": 1725321600000,
       "pkg": "com.RedNexusGamesInc.Peglin"
     },
     {

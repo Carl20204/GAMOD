@@ -1,0 +1,59 @@
+{
+  "faqs": {
+    "本作和《二战战机：狗斗》有什么区别？": "就看你喜欢一战的老式飞机，还是二战的近代飞机，其它玩法方面大同小异。一战是三家阵营可选，二战有五家阵营可选"
+  },
+  "gms": 1,
+  "info": "一战螺旋桨战机空中狗斗，指挥僚机一起单挑或群殴。战场画质很高，小小的安装包却有高素质画面水准，值得一赞",
+  "label": "一战战机：空中王牌",
+  "time": 1721433600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活高级模式、移除广告、高级色彩编辑器",
+        "MOD自选菜单，可调节收益率，简化轰炸机，内购所有飞机等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.HomeNetGames.WW1.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.HomeNetGames.WW1",
+  "vercode": 153,
+  "vername": "1.5.3",
+  "publisher": "Home Net Games",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "空战",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/FTATSvER",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/SsBxSZB9",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/warplanes-ww1-sky-aces/com.HomeNetGames.WW1/download",
+      "var": true
+    }
+  ]
+}
