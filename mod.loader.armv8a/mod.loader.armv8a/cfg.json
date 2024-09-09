@@ -1,5 +1,5 @@
 {
-  "time": 1725840000150,
+  "time": 1725840100150,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -924,7 +924,7 @@
       "label": "小骨：英雄杀手",
       "time": 1724198400000,
 	  "mtime": 1725408000009,
-      "pkg": "com.playdigious.deadcells.mobile"
+      "pkg": "com.playdigious.skul"
     },
     {
       "label": "梦幻水族箱",
