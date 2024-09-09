@@ -1,0 +1,59 @@
+{
+  "faqs": {
+    "本作是银河恶魔城类游戏吗？": "本作更接近《死亡细胞》，以肉鸽随机战斗为主，并没有银河恶魔城招牌的地图探索与解密部分，无需攻略，只要手能跟上，就能通关。"
+  },
+  "gms": 1,
+  "info": "7.99$的付费游戏，网盘分享的安装包为移除付费检测的改包（纯净版，没有网站小广告），希望玩原版的可自行去谷歌商店付费下载。\u003cbr\u003e\u003cbr\u003e类银河恶魔城，韩国出的此类游戏很多，本作是其中的佼佼者，毕竟能被出品《死亡细胞/重生细胞》的playdigious看中，就代表了品质保证",
+  "label": "小骨：英雄杀手",
+  "time": 1724198400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "MOD自选菜单，可调节各种异常抗性，无伤，各种技能CD，各种货币使用折扣"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.playdigious.skul.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.playdigious.skul",
+  "vercode": 48,
+  "vername": "1.0.6",
+  "publisher": "playdigious",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "动作",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/f8USV6Yl",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/skul-the-hero-slayer/com.playdigious.skul",
+      "var": true
+    }
+  ]
+}

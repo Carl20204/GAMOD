@@ -1,5 +1,5 @@
 {
-  "time": 1725753600149,
+  "time": 1725840000150,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -424,7 +424,7 @@
     {
       "label": "泰拉瑞亚",
       "time": 1696204800000,
-	  "mtime": 1725408000009,
+	  "mtime": 1725408000099,
       "pkg": "com.and.games505.Terraria"
     },
     {
@@ -918,6 +918,12 @@
       "label": "死亡细胞：重返恶魔城",
       "time": 1702598400000,
 	  "mtime": 1715558400000,
+      "pkg": "com.playdigious.deadcells.mobile"
+    },
+    {
+      "label": "小骨：英雄杀手",
+      "time": 1724198400000,
+	  "mtime": 1725408000009,
       "pkg": "com.playdigious.deadcells.mobile"
     },
     {
