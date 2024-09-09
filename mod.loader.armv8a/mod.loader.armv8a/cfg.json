@@ -1,5 +1,5 @@
 {
-  "time": 1725840100150,
+  "time": 1725840200151,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -919,6 +919,12 @@
       "time": 1702598400000,
 	  "mtime": 1715558400000,
       "pkg": "com.playdigious.deadcells.mobile"
+    },
+    {
+      "label": "无尽地牢",
+      "time": 1680048000000,
+	  "mtime": 1725408000000,
+      "pkg": "com.playdigious.dungeonoftheendless"
     },
     {
       "label": "小骨：英雄杀手",

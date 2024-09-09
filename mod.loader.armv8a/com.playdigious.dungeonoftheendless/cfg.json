@@ -1,0 +1,63 @@
+{
+  "faqs": {
+    "游戏规则1": "开局后，英雄身边的水晶就是主基地，玩家操作英雄，开一扇扇门，检查房间，找到出现紧急出口标志的房间后，再派一个英雄回开局房间，点击水晶可以抱走运输，运到这间紧急出口房间就成功过关。",
+    "游戏规则2": "每间房间，可以建设数量不等的炮塔，点击左下角扳手图标，选择武器图标，开局只有一个最低级的炮塔可造，花费3齿轮。\u003cbr\u003e\u003cbr\u003e粮食、齿轮等资源，每回合自动增加，也可以建造生产水晶提高资源产量。"
+  },
+  "gms": 1,
+  "info": "1.99$的付费游戏，网盘分享的安装包为移除付费检测的改包（纯净版，没有网站小广告），希望玩原版的可自行去谷歌商店付费下载。\u003cbr\u003e\u003cbr\u003eSEGA品质保证，playdigious再次品质保证，肉鸽地下城类型，游戏是好游戏，但纯英文劝退普通玩家。\u003cbr\u003e\u003cbr\u003e强烈建议玩之前先看看基础的新手视频，了解玩法后再玩，明白玩法后，就算看不懂英文也非常好玩",
+  "label": "无尽地牢",
+  "time": 1680048000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "MOD自选菜单，可调节水晶无伤、英雄无伤、资源产出增加"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.playdigious.skul.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.playdigious.dungeonoftheendless",
+  "vercode": 31,
+  "vername": "1.3.13",
+  "publisher": "playdigious",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "英文",
+    "肉鸽",
+    "策略",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/f8USV6Yl",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/dungeon-of-the-endless-apogee/com.playdigious.dungeonoftheendless",
+      "var": true
+    }
+  ],
+  "videos": {
+    "https://www.douyin.com/user/self?modal_id\u003d7259745955082243386": "Steam喜加一"
+  }
+}
