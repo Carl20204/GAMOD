@@ -5,9 +5,9 @@
     "吐槽一下": "连战斗加速都要花钱买，拓维这是穷疯了。零冲玩家请回避。"
   },
   "gms": 1,
-  "info": "拓维运营，与EA运营的国际版差异巨大：植物养成与强化、植物与僵尸种类、小游戏玩法，除了核心塔防玩法外与前几个世界外，其它内容全都不一样\u003cbr\u003e\u003cbr\u003ePS：在逼肝骗氪方面，双方惊人的一致，没钱没时间的，千万别掉坑里。",
+  "info": "11周年庆，你的青春小鸟飞走了吗？",
   "label": "植物大战僵尸2",
-  "time": 1719273600008,
+  "time": 1726185600008,
   "mod": false,
   "mods": [
     {
@@ -19,14 +19,25 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.popcap.pvz2cthdbk.gm64",
-      "targetvc": "1530",
-      "vercode": 5
+      "targetvc": "1570",
+      "vercode": 6
     }
   ],
   "pkgname": "com.popcap.pvz2cthdbk",
-  "vercode": 1530,
-  "vername": "3.4.4",
+  "vercode": 1570,
+  "vername": "3.5.3",
   "publisher": "拓维",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
   "tags": [
     "中文",
     "实名制",
@@ -35,8 +46,8 @@
   ],
   "downloads": [
     {
-      "host": "拓维3.4.4官网直链",
-      "url": "https://pvz2apk-cdn.ditwan.cn/344/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B82%E9%AB%98%E6%B8%85%E7%89%88_baokai_3.4.4_1530_437_dj2.0-2.0.0.apk",
+      "host": "拓维3.5.3官网直链",
+      "url": "https://pvz2apk-cdn.ditwan.cn/3531570/baokai_3.5.3_1570_488_dj2.0-2.0.0.apk",
       "var": false
     },
     {
