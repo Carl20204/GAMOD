@@ -1,5 +1,5 @@
 {
-  "time": 1725840200151,
+  "time": 1726185600152,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -931,6 +931,12 @@
       "time": 1724198400000,
 	  "mtime": 1725408000009,
       "pkg": "com.playdigious.skul"
+    },
+    {
+      "label": "弓箭大师：终极版",
+      "time": 1715126400000,
+	  "mtime": 1725408000000,
+      "pkg": "com.playgendary.bowmastersremastered"
     },
     {
       "label": "梦幻水族箱",
