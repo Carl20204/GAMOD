@@ -1,5 +1,5 @@
 {
-  "time": 1726185700152,
+  "time": 1726185800152,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -975,6 +975,12 @@
       "pkg": "com.protostar.hopper"
     },
     {
+      "label": "成长城堡",
+      "time": 1725840000000,
+	  "mtime": 1725407000000,
+      "pkg": "com.raongames.growcastle"
+    },
+    {
       "label": "王国：八十年代",
       "time": 1712534400000,
 	  "mtime": 1714521600000,
@@ -1023,12 +1029,6 @@
       "label": "孤胆枪手2：传奇",
       "time": 1692921600000,
       "pkg": "com.sigmateam.alienshooter2"
-    },
-    {
-      "label": "成长城堡",
-      "time": 1724889600000,
-	  "mtime": 1725062300000,
-      "pkg": "com.raongames.growcastle"
     },
     {
       "label": "神枪手强尼",
