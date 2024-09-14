@@ -1,5 +1,5 @@
 {
-  "time": 1726185800152,
+  "time": 1726185800153,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -709,6 +709,12 @@
       "pkg": "com.frojo.pickle"
     },
     {
+      "label": "地牢求生2：巨像传说",
+      "time": 1724803200000,
+	  "mtime": 1725321600007,
+      "pkg": "com.frozenfrog.Dungeon2"
+    },
+    {
       "label": "荟萃花园",
       "time": 1724630400000,
 	  "mtime": 1724630400000,
@@ -923,19 +929,19 @@
     {
       "label": "无尽地牢",
       "time": 1680048000000,
-	  "mtime": 1725408000000,
+	  "mtime": 1725321600000,
       "pkg": "com.playdigious.dungeonoftheendless"
     },
     {
       "label": "小骨：英雄杀手",
       "time": 1724198400000,
-	  "mtime": 1725408000009,
+	  "mtime": 1725321600009,
       "pkg": "com.playdigious.skul"
     },
     {
       "label": "弓箭大师：终极版",
       "time": 1715126400000,
-	  "mtime": 1725408000000,
+	  "mtime": 1725321600000,
       "pkg": "com.playgendary.bowmastersremastered"
     },
     {
