@@ -1,0 +1,59 @@
+{
+  "faqs": {
+    "游戏速度好快！": "是的，游戏移植使用了古老的SDL引擎，在当前主流手机上，游戏运行速度是原版的2倍速！本游戏仅建议收藏怀旧，不建议刷成就。"
+  },
+  "gms": 1,
+  "info": "银河恶魔城 \u003d 银河战士 + 恶魔城，本作就是其中提到的恶魔城，不用介绍了。\u003cbr\u003e\u003cbr\u003e本作为官方PSP模拟器版本，缺点是没有汉化版，优点是官方增加了自动存档，触屏操作，不用搓招，快捷键点击发招，手机上玩舒服多了\u003cbr\u003e\u003cbr\u003ePS：网盘分享的是无小广告弹窗的免付费版本",
+  "label": "恶魔城：月下夜想曲",
+  "time": 1661126400008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单可调节角色各属性，全魔导器、全技能、全装备。"
+      ],
+      "name": "上帝模式",
+      "pkgname": "jp.konami.epjCastlevania2.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "jp.konami.epjCastlevania2",
+  "vercode": 51,
+  "vername": "1.0.2",
+  "publisher": "KONAMI",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "英文",
+    "ARPG",
+    "付费版",
+    "银河恶魔城"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/h2C2gW6I",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/castlevania-sotn/jp.konami.epjCastlevania2",
+      "var": true
+    }
+  ]
+}

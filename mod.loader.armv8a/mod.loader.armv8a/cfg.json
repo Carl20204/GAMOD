@@ -1,5 +1,5 @@
 {
-  "time": 1726185800153,
+  "time": 1726531200154,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1122,6 +1122,12 @@
       "time": 1721260800000,
 	  "mtime": 1721347200001,
       "pkg": "jp.co.ponos.battlecatstw"
+    },
+    {
+      "label": "恶魔城：月下夜想曲",
+      "time": 1661126400000,
+	  "mtime": 1725321600000,
+      "pkg": "jp.konami.epjCastlevania2"
     },
     {
       "label": "元素世界",
