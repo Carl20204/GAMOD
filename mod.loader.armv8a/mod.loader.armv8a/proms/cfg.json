@@ -1,0 +1,93 @@
+{
+  "ts": 1726704000000,
+  "pic": "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a/mod.loader.armv8a/proms/cover.png",
+  "desc": "经典推荐",
+  "tags": [
+    {
+      "title": "大神正在玩",
+      "items": [
+        {
+          "desc": "猜猜是哪位大神沉迷本作？<br><br>游戏内容超多，不开MOD玩十年说的就是你！",
+          "pkg": "com.dream.dale"
+        },{
+          "desc": "猜猜是哪位大神沉迷本作？<br><br>某大神先是在switch上玩，后来发现还是手机玩方便。",
+          "pkg": "com.humblebundle.wizardoflegend",
+          "video": "https://www.ixigua.com/7170246100111557134"
+        },{
+          "desc": "猜猜是哪位大神沉迷本作？<br><br>不建议普通玩家玩，游戏服务器不稳定，某大神天天挂着美国区的VPN翻墙玩，已经100级了，加好友找100级的玩家，可能就会加到大神马甲",
+          "pkg": "com.futureplay.mergematch"
+        },
+        {
+          "desc": "猜猜是哪位大神沉迷本作？<br><br>本作无中文，但大神英文很好不在乎！大神在排行榜上已经刷的很高了，猜猜排名第几的是大神马甲",
+          "pkg": "com.raongames.growcastle"
+        },
+        {
+          "desc": "猜猜是哪位大神沉迷本作？<br><br>本作无中文，但大神不在乎！<br>某大神没事就刷刷装备，烦心了就去割草",
+          "pkg": "com.sigmateam.alienshooter2"
+        }
+      ]
+    },{
+      "title": "推荐",
+      "items": [
+        {
+          "desc": "2024年版本<br>合规：网飞Netflix要求的免费无广告无内购<br>猴子塔防6，经典的塔防游戏。Netflix会员版本可以说是市面上最纯净的版本了。",
+          "pkg": "com.netflix.NGP.BloonsTDSix",
+          "video": "https://www.ixigua.com/7317303044289495588"
+        },
+        {
+          "desc": "2024年版本<br>合规：网飞Netflix要求的免费无广告无内购<br>主机游戏品质，超高难度，超赞画质，点击看视频",
+          "pkg": "com.netflix.NGP.DeathsDoor",
+          "video": "https://www.ixigua.com/7382439201012187698"
+        },
+        {
+          "desc": "2024年版本<br>合规：网飞Netflix要求的免费无广告无内购<br>比较小众，但看看视频，是不是你的菜？",
+          "pkg": "com.netflix.NGP.DustNeon",
+          "video": "https://www.ixigua.com/7279589231058813492"
+        },
+        {
+          "desc": "2024年版本<br><font color=\"#ff\">饥饿的鲨鱼</font>，育碧还是出过不少好游戏的，没玩过也该听过吧？<br>点进详情后可点击游戏图标查看进化、世界两作",
+          "pkg": "com.ubisoft.hungrysharkworld",
+          "video": "https://www.ixigua.com/6933275538878366216"
+        },
+        {
+          "desc": "2024年版本<font color=\"#ff\">开罗游戏</font>是很经典，也很好玩，但出的太多了，玩两三款经典的，或者自己喜欢的题材类型就可以了。<br><br>点进详情后可点击游戏图标查看所有支持的开罗游戏",
+          "pkg": "net.kairosoft.android.kingdom_en"
+        }
+      ]
+    },{
+      "title": "经典",
+      "items": [
+        {
+          "desc": "泰拉瑞亚，YYDS<br>喜欢沙盒创造类型，又和豆子一样晕3D的，强烈推荐本作，神一般的作品，海量的内容，玩十年没问题。",
+          "pkg": "com.and.games505.Terraria",
+          "video": "https://www.ixigua.com/7013636145783243272"
+        },
+        {
+          "desc": "2024年版本<br><font color=\"#ff\">无中文警告</font><br>植物大战僵尸就这个名字，不用任何介绍！<br><br>最经典的，原汁原味的一代，EA始终在维护，纯英文也不要怕，老玩家谁看戴夫的话啊！",
+          "pkg": "com.ea.game.pvzfree_row"
+        },
+        {
+          "desc": "2024年版本<br><font color=\"#ff\">无中文警告</font><br>植物大战僵尸2国际版！EA不愧为国际版腾讯，氪金力度上没得说。<br><br>与中国版对比的话，氪金力度还是小了，格局小了！",
+          "pkg": "com.ea.game.pvz2_row"
+        },
+        {
+          "desc": "2024年版本<br>植物大战僵尸2中国版！氪金力度没得说，当然游戏内容也没得说，在植物、地图、玩法上比EA的国际版内容多的多。",
+          "pkg": "com.popcap.pvz2cthdbk"
+        },
+        {
+          "desc": "<font color=\"#ff\">翻墙警告，首次玩需翻墙注册</font><br>halfbrick出品的《水果忍者》很无聊，但他家的《庞然巨物》可是贪吃蛇的经典延伸。喜欢贪吃蛇类型的话，必须要玩本作，不愧是创意、脑动大开之作",
+          "pkg": "com.halfbrick.colossatron"
+        },
+        {
+          "desc": "<font color=\"#ff\">无中文警告</font><br>手机上的飞行射击游戏，主机游戏品质，唯一的神作，迄今无敌手。<br><br>请不要升级谷歌市场最新版，仅仅替换了最新的谷歌验证，导致沙盒运行检测异常",
+          "pkg": "pl.idreams.SkyForceReloaded2016"
+        },
+        {
+          "desc": "2024年版本<br><font color=\"#ff\">无中文警告</font><br>孤胆枪手，看到这个名字，你回想起当年在网吧通宵的青春没？",
+          "pkg": "com.sigmateam.alienshooter2"
+        }
+      ]
+    }
+  ]
+
+}
