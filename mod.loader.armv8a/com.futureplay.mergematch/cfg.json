@@ -5,9 +5,9 @@
     "为啥日常活动没了？": "游戏升级后，旧版本虽然可以继续玩，但没有日常活动，只有升级到游戏最新版本才有全部的日常活动。"
   },
   "gms": 2,
-  "info": "三消游戏，从PopCap的限时玩法的钻石迷阵，到King的限制步数的糖果粉碎传奇，然后再到playrix的装饰主线的梦幻家园/花园，然后终于进化到了本作：\u003cbr\u003e荣获2023谷歌游戏大奖的合成花园，以合成玩法做故事主线的三消，很容易令人沉迷",
+  "info": "三消游戏，从PopCap的限时玩法的钻石迷阵，到King的限制步数的糖果粉碎传奇，然后再到playrix的装饰主线的梦幻家园/花园，然后终于进化到了本作：\u003cbr\u003e荣获2023谷歌游戏大奖的合成花园，以合成玩法做故事主线的三消，很容易令人沉迷\u003cbr\u003e4周年庆典，各种活动繁多",
   "label": "荟萃花园",
-  "time": 1724630400008,
+  "time": 1726704000008,
   "mod": true,
   "mods": [
     {
@@ -18,12 +18,12 @@
       "name": "上帝模式",
       "pkgname": "com.futureplay.mergematch.gm64",
       "targetvc": "*",
-      "vercode": 7
+      "vercode": 8
     }
   ],
   "pkgname": "com.futureplay.mergematch",
-  "vercode": 1389,
-  "vername": "1.31.0",
+  "vercode": 1399,
+  "vername": "1.32.0",
   "publisher": "Futureplay",
   "s1": [
     256,
