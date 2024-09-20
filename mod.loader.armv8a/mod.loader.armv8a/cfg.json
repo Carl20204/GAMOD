@@ -1,5 +1,5 @@
 {
-  "time": 1726790600154,
+  "time": 1726790600155,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1035,6 +1035,12 @@
       "label": "孤胆枪手2：传奇",
       "time": 1692921600000,
       "pkg": "com.sigmateam.alienshooter2"
+    },
+    {
+      "label": "空洞骑士",
+      "time": 1710806400000,
+	  "mtime": 1726790400005,
+      "pkg": "com.TeamCherry.HollowKnight"
     },
     {
       "label": "神枪手强尼",
