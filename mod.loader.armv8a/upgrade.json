@@ -1,16 +1,16 @@
 {
-  "vername": "2.2.9",
+  "vername": "2.3.0",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 229,
+  "vercode": 230,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "89456985E839CAAEBCFA3F82017F8077",
-  "size": 4167494,
+  "md5": "6ED5F3C485562A9A23918A18110DFFFA",
+  "size": 4176716,
   "logs": {
-    "en": "更多的活跃度，支持MOD中配置额外活跃度",
-    "zh": "更多的活跃度，支持MOD中配置额外活跃度"
+    "en": "修了一堆Bug，有闪退，有数据异常，老版本用户发现问题就赶紧升级吧",
+    "zh": "修了一堆Bug，有闪退，有数据异常，老版本用户发现问题就赶紧升级吧"
   },
   "i": false
 }
