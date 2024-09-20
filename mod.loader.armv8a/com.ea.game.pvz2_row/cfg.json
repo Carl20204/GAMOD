@@ -16,14 +16,25 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.ea.game.pvz2_row.gm64",
-      "targetvc": "883",
-      "vercode": 4
+      "targetvc": "889",
+      "vercode": 7
     }
   ],
   "pkgname": "com.ea.game.pvz2_row",
-  "vercode": 883,
-  "vername": "11.6.1",
+  "vercode": 889,
+  "vername": "11.7.1",
   "publisher": "EA（美国艺电）",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
   "tags": [
     "英文",
     "单机",
