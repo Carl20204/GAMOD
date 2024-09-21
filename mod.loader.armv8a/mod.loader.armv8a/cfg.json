@@ -1,5 +1,5 @@
 {
-  "time": 1726790900155,
+  "time": 1726791000155,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -982,7 +982,7 @@
     },
     {
       "label": "成长城堡",
-      "time": 1725840000004,
+      "time": 1725840000019,
 	  "mtime": 1726876800000,
       "pkg": "com.raongames.growcastle"
     },
