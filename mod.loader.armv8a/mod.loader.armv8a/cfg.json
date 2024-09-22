@@ -1,5 +1,5 @@
 {
-  "time": 1726791000155,
+  "time": 1726963200156,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1035,6 +1035,12 @@
       "label": "孤胆枪手2：传奇",
       "time": 1692921600000,
       "pkg": "com.sigmateam.alienshooter2"
+    },
+    {
+      "label": "孤胆枪手2：重制版",
+      "time": 1692921600000,
+	  "mtime": 1726963200000,
+      "pkg": "com.sigmateam.alienshooter2reloaded"
     },
     {
       "label": "空洞骑士",

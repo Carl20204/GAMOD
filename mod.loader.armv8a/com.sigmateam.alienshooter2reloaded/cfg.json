@@ -1,0 +1,53 @@
+{
+  "gms": 2,
+  "info": "孤胆枪手2手机付费版本(4.5刀)，基于PC版孤胆枪手2完全重制，没有【孤胆枪手2传奇】的手游氪金体系，怀旧体验当年PC版的话，必玩此版本。\u003cbr\u003e\u003cbr\u003e网盘分享的安装包，为MOD大神订制的纯净版，没有各种小广告……",
+  "label": "孤胆枪手2：重制版",
+  "time": 1692921600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "十几项独立可调节菜单，可有效防肝防氪，日常解压。",
+        "可自定义调节玩家生命、速度、幸运、枪械、僚机十几项参数。玩起来就一个爽字！"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.sigmateam.alienshooter2reloaded.gm64",
+      "targetvc": "15",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.sigmateam.alienshooter2reloaded",
+  "vercode": 15,
+  "vername": "1.1.2",
+  "publisher": "8Floor Games",
+  "s3": 0,
+  "tags": [
+    "英文",
+    "单机",
+    "动作",
+    "射击",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/RJURUs6b",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/fPBzg9Hw",
+      "var": false
+    },
+    {
+      "host": "apkpure下载页",
+      "url": "https://apkpure.net/cn/alien-shooter-2-reloaded/com.sigmateam.alienshooter2reloaded",
+      "var": true
+    }
+  ]
+}
