@@ -1,12 +1,8 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 1,
-  "info": "素质很高的肉鸽地牢类游戏，雷霆出品的游戏，基本都是肉鸽地牢类了",
+  "info": "素质很高的肉鸽地牢类游戏，雷霆代理出品的游戏，基本都是肉鸽地牢类中的小精品了\u003cbr\u003e\u003cbr\u003e本作不火，是因为难度太高了，很容易让人放弃\u003cbr\u003e推荐适当开启MOD功能，体验舒爽的拯救猫咪之旅",
   "label": "烛火地牢2：猫咪的诅咒",
-  "time": 1698192000018,
-  "mtime": 0,
+  "time": 1698192000028,
   "mod": true,
   "mods": [
     {
@@ -17,14 +13,24 @@
       "name": "上帝模式",
       "pkgname": "com.ChrisMcFarland.Tallowmere2.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.ChrisMcFarland.Tallowmere2",
   "vercode": 45,
   "vername": "0.4.0f",
   "publisher": "Chris McFarland",
-  "signmd5": "AB8927206C1D85C285F1690D361C1210",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
   "tags": [
     "中文",
     "肉鸽",
@@ -33,8 +39,13 @@
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/APK/com.ChrisMcFarland.Tallowmere2?versionCode\u003d45",
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/f8USV6Yl",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
       "var": false
     },
     {

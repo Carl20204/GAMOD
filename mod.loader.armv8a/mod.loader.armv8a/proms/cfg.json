@@ -1,5 +1,5 @@
 {
-  "ts": 1726963200000,
+  "ts": 1726963200001,
   "pic": "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a/mod.loader.armv8a/proms/cover.png",
   "desc": "经典推荐",
   "tags": [
@@ -53,7 +53,7 @@
           "video": "https://www.ixigua.com/6933275538878366216"
         },
         {
-          "desc": "肉鸽动作类型大爆发年代出品的精品，可惜难度太高人气不足。<br>配合MOD食用，手残党终于可以完整的体验游戏的设计理念与乐趣了",
+          "desc": "肉鸽动作类型大爆发年代出品的精品，可惜难度太高导致人气不足。<br>配合MOD食用，手残党终于可以完整的体验游戏的设计理念与乐趣了",
           "pkg": "com.ChrisMcFarland.Tallowmere2"
         },
         {
@@ -76,6 +76,10 @@
         {
           "desc": "<font color=\"#ff\">今年仍在维护</font><br><font color=\"#ff0000\">无中文警告</font><br>最经典的，原汁原味的一代，EA一直在维护，纯英文也不要怕，老玩家谁看戴夫的话啊！<br><font color=\"#ff\">全球独家MOD，几十种高端功能，重玩一样爽</font>",
           "pkg": "com.ea.game.pvzfree_row"
+        },
+        {
+          "desc": "超经典的，手机版【牧场物语】<br>移动端玩起来，比主机、掌机的方便性、便携性强百倍，手机里常备本作，确实值得",
+          "pkg": "com.chucklefish.stardewvalley"
         },
         {
           "desc": "<font color=\"#ff\">今年仍在维护</font><br><font color=\"#ff0000\">无中文警告</font><br>二代国际版！EA不愧为国际版腾讯，氪金力度上比一代强多了。<br><br>PS：与中国特供版二代对比的话，氪金力度还是小了，格局小了！<br><font color=\"#ff\">全球独家MOD，不肝不氪不卷，轻松回味青春</font>",

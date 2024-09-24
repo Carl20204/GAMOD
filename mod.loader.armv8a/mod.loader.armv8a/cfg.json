@@ -1,5 +1,5 @@
 {
-  "time": 1727136000157,
+  "time": 1727136100157,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -582,8 +582,8 @@
     },
     {
       "label": "烛火地牢2：猫咪的诅咒",
-      "time": 1698192000002,
-	  "mtime": 1711065600000,
+      "time": 1698192000020,
+	  "mtime": 1727136000000,
       "pkg": "com.ChrisMcFarland.Tallowmere2"
     },
     {
