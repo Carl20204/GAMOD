@@ -1,5 +1,5 @@
 {
-  "time": 1726963200156,
+  "time": 1727136000157,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -585,6 +585,12 @@
       "time": 1698192000002,
 	  "mtime": 1711065600000,
       "pkg": "com.ChrisMcFarland.Tallowmere2"
+    },
+    {
+      "label": "星露谷物语",
+      "time": 1698624000000,
+	  "mtime": 1727136000000,
+      "pkg": "com.chucklefish.stardewvalley"
     },
     {
       "label": "从细胞到奇点：进化永无止境",
