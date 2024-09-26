@@ -1,5 +1,5 @@
 {
-  "time": 1727308800159,
+  "time": 1727308900159,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1149,8 +1149,8 @@
     },
     {
       "label": "貓咪大戰爭",
-      "time": 1721260800000,
-	  "mtime": 1721347200001,
+      "time": 1725840000000,
+	  "mtime": 1726963200009,
       "pkg": "jp.co.ponos.battlecatstw"
     },
     {

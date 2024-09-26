@@ -1,50 +1,49 @@
 {
-  "gms": 1,
-  "info": "左右对攻，暴兵流对战塔防。\u003cbr\u003e本游戏的精髓，在于\u003cfont color\u003d\"#8e1b\"\u003e二周目开启的几十种超级难度\u003c/font\u003e玩法，此时762张猫卡的培养价值开始体现，策略性开始展露",
+  "time": 1725840000009,
   "label": "貓咪大戰爭",
-  "time": 1721260800008,
-  "mod": false,
+  "pkgname": "jp.co.ponos.battlecatstw",
+  "publisher": "PONOS",
+  "vername": "13.6.0",
+  "vercode": 1306000,
+  "gms":1,
+  "tags": ["中文","策略","塔防","恶搞"],
+  "info": "左右对攻，暴兵流塔防。<br>本游戏的精髓，在于<font color=\"#8e1b\">二周目开启的几十种超级难度</font>玩法，此时700多张各色卡牌的培养价值开始体现，策略性开始展露",
+  "faqs": {
+    "提示无法在谷歌商店购买怎么办？": "凉拌！中国区的手机就别想氪金了，请老老实实的肝。肝不动怎么办，MOD呗！"
+  },
+  "videos": {
+    "https://www.ixigua.com/7337151206600475176?logTag=8ffc3a92ab48b7772a90":"所有外星人 VS Aku Boss!",
+    "https://www.ixigua.com/7337151101592207899?logTag=c2c09c4c8715219d6fa2":"解锁了新的猫！！！"
+  },
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/UDCfR7Rl"
+    },{
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download"
+    }
+  ],
   "mods": [
     {
+      "name": "上帝模式",
       "descs": [
         "【护肝】各种强化，可以帮你快速度过一周目发育期",
         "【保肾】十连抽抽不停，白嫖的不香吗？"
       ],
-      "name": "上帝模式",
       "pkgname": "jp.co.ponos.battlecatstw.gm64",
-      "targetvc": "1305000",
-      "vercode": 4
+      "targetvc":"1306000",
+      "vercode": 5
     }
   ],
-  "pkgname": "jp.co.ponos.battlecatstw",
-  "vercode": 1305000,
-  "vername": "13.5.0",
-  "publisher": "PONOS",
-  "tags": [
-    "中文",
-    "塔防",
-    "对战塔防",
-    "恶搞"
-  ],
-  "downloads": [
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/AcAyQw9W",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/OHUROPi7",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download/13.5.0",
-      "var": false
-    }
-  ],
-  "videos": {
-    "https://www.ixigua.com/7337151206600475176?logTag\u003d8ffc3a92ab48b7772a90": "所有外星人 VS Aku Boss!",
-    "https://www.ixigua.com/7337151101592207899?logTag\u003dc2c09c4c8715219d6fa2": "解锁了新的猫！！！"
-  }
+  "s1": [512,1024,2048],
+  "s2": [2048, 6124,10904],
+  "s3": 4608,
+  "promotions": [
+    {"url": "https://ugame.9game.cn/game/share-235275-763544.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1316531.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1225582.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1318377.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-3047776.html"}
+  ]
 }
