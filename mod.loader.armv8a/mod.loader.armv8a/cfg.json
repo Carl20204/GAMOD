@@ -1,5 +1,5 @@
 {
-  "time": 1727136100157,
+  "time": 1727308800159,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -684,6 +684,18 @@
       "time": 1719619200000,
 	  "mtime": 1720509600000,
       "pkg": "com.ea.gp.pvzn3xt"
+    },
+    {
+      "label": "这是我的战争",
+      "time": 1694563200000,
+	  "mtime": 1727222400000,
+      "pkg": "com.elevenbitstudios.twommobile"
+    },
+    {
+      "label": "这是我的战争：父亲的承诺",
+      "time": 1698624000000,
+	  "mtime": 1727222400001,
+      "pkg": "com.elevenbitstudios.twomstoriesmobile"
     },
     {
       "label": "饥饿的鲨鱼：进化",
