@@ -1,49 +1,49 @@
 {
+  "time": 1727308800009,
+  "label": "僵尸炮艇：生存",
+  "pkgname": "com.flaregames.zgs",
+  "publisher": "Flaregames",
+  "vername": "1.7.13",
+  "vercode": 1007013,
+  "gms":1,
+  "tags": [ "中文", "射击", "塔防","建设"],
+  "info": "驾驶AC-130，空中炮艇，死亡天使，从空中打击丧尸<br><br>说实话，和俄乌战争中无人机视角下的高空打击很类似……",
   "faqs": {
     "进游戏卡住怎么回事？": "偶尔的进入游戏或基地画面会卡住无法点击，此时一般是卡在联网中，一般耐心等10～30秒左右就行"
   },
-  "gms": 1,
-  "info": "驾驶AC-130，空中炮艇，死亡天使，从空中打击丧尸\u003cbr\u003e\u003cbr\u003e说实话，和俄乌战争中无人机视角下的高空打击很类似……",
-  "label": "僵尸炮艇：生存",
-  "time": 1721692800008,
+  "videos": {
+    "https://www.ixigua.com/7358786922770891291" : "一个通过炮艇打丧尸的游戏有多爽《僵尸炮艇：生存》"
+  },
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://www.feijipan.com/console/files/55381247?title=%E5%A1%94%E9%98%B2&status=1"
+    },{
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/zombie-gunship-survival/com.flaregames.zgs/download"
+    }
+  ],
   "mod": true,
   "mods": [
     {
+      "name": "上帝模式",
       "descs": [
-        "\u003cfont color\u003d\"#ff0000\"\u003e部分机型特定关卡可能会闪退，可以禁用MOD，通过此关后再启用即可\u003c/font\u003e",
+        "<font color=\"#ff0000\">部分机型特定关卡可能会闪退，可以禁用MOD，通过此关后再启用即可</font>",
         "可选菜单，可免广告解锁、领取物资、调节机炮自由射击、地面部队无敌"
       ],
-      "name": "上帝模式",
       "pkgname": "com.flaregames.zgs.gm64",
-      "targetvc": "*",
-      "vercode": 3
+      "targetvc":"*",
+      "vercode": 4
     }
   ],
-  "pkgname": "com.flaregames.zgs",
-  "vercode": 1007009,
-  "vername": "1.7.9",
-  "publisher": "Flaregames",
-  "tags": [
-    "中文",
-    "射击",
-    "塔防",
-    "建设"
-  ],
-  "downloads": [
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/OHUROPi7",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/AcAyQw9W",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/zombie-gunship-survival/com.flaregames.zgs/download",
-      "var": false
-    }
+  "s1": [512,1024,2048],
+  "s2": [2048, 6124,10904],
+  "s3": 4608,
+  "promotions": [
+    {"url": "https://ugame.9game.cn/game/share-235275-6066.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-976614.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1088351.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1354168.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1225582.html"}
   ]
 }
