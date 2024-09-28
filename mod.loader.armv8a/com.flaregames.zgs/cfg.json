@@ -11,13 +11,11 @@
   "faqs": {
     "进游戏卡住怎么回事？": "偶尔的进入游戏或基地画面会卡住无法点击，此时一般是卡在联网中，一般耐心等10～30秒左右就行"
   },
-  "videos": {
-    "https://www.ixigua.com/7358786922770891291" : "一个通过炮艇打丧尸的游戏有多爽《僵尸炮艇：生存》"
-  },
+
   "downloads": [
     {
       "host": "网盘分享",
-      "url": "https://www.feijipan.com/console/files/55381247?title=%E5%A1%94%E9%98%B2&status=1"
+      "url": "https://share.feijipan.com/s/UDCfR7Rl"
     },{
       "host": "翻墙｜下载页",
       "url": "https://apkpure.net/cn/zombie-gunship-survival/com.flaregames.zgs/download"
@@ -35,15 +33,5 @@
       "targetvc":"*",
       "vercode": 4
     }
-  ],
-  "s1": [512,1024,2048],
-  "s2": [2048, 6124,10904],
-  "s3": 4608,
-  "promotions": [
-    {"url": "https://ugame.9game.cn/game/share-235275-6066.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-976614.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-1088351.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-1354168.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-1225582.html"}
   ]
 }
