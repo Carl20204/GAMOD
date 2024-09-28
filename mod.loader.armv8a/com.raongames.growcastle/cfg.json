@@ -5,7 +5,7 @@
   "gms": 1,
   "info": "卡通画风的放置塔防，内容庞大，超大的技能树，海量的道具体系，扩展养成元素巨多无比，不肝十年是别想玩透。",
   "label": "成长城堡",
-  "time": 1725840000008,
+  "time": 1727222400008,
   "mod": true,
   "mods": [
     {
@@ -15,12 +15,12 @@
       "name": "上帝模式",
       "pkgname": "com.raongames.growcastle.gm64",
       "targetvc": "*",
-      "vercode": 4
+      "vercode": 5
     }
   ],
   "pkgname": "com.raongames.growcastle",
-  "vercode": 415,
-  "vername": "1.40.8",
+  "vercode": 416,
+  "vername": "1.40.9",
   "publisher": "RAON GAMES",
   "s1": [
     512,
