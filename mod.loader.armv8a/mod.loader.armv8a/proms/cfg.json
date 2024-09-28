@@ -1,5 +1,5 @@
 {
-  "ts": 1726963200003,
+  "ts": 1726963200005,
   "pic": "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a/mod.loader.armv8a/proms/cover.png",
   "desc": "经典推荐",
   "tags": [
@@ -14,6 +14,9 @@
           "pkg": "com.humblebundle.wizardoflegend",
           "video": "https://www.ixigua.com/7170246100111557134"
         },{
+          "desc": "大神说自己没事就刷刷刷几下，纯解压开心。<br>你呢？",
+          "pkg": "com.flaregames.zgs"
+        },
           "desc": "<font color=\"#ff0000\">翻墙警告</font><br不建议普通玩家玩，游戏服务器不稳定，某大神天天挂着美国区的VPN翻墙玩，已经100级了，加好友找100级的玩家，可能就会加到大神马甲<br><br>大神为了打通关，天天盯着游戏更新，维护MOD",
           "pkg": "com.futureplay.mergematch"
         },

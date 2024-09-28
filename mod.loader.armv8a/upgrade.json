@@ -1,16 +1,16 @@
 {
-  "vername": "2.3.0",
+  "vername": "2.3.1",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 230,
+  "vercode": 231,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "6ED5F3C485562A9A23918A18110DFFFA",
-  "size": 4176716,
+  "md5": "283A46CD72C3DC94C87AEF4E2EB07E89",
+  "size": 4184205,
   "logs": {
-    "en": "修了一堆Bug，有闪退，有数据异常，老版本用户发现问题就赶紧升级吧",
-    "zh": "修了一堆Bug，有闪退，有数据异常，老版本用户发现问题就赶紧升级吧"
+    "en": "优化了许多地方，详情查看新版本安装时弹出的升级说明【建议升级】",
+    "zh": "优化了许多地方，详情查看新版本安装时弹出的升级说明【建议升级】"
   },
   "i": false
 }
