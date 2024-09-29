@@ -1,5 +1,5 @@
 {
-  "time": 1727395400159,
+  "time": 1727568000160,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1003,6 +1003,12 @@
       "time": 1727222400000,
 	  "mtime": 1726876800000,
       "pkg": "com.raongames.growcastle"
+    },
+    {
+      "label": "王国：两位君主",
+      "time": 1712534400000,
+	  "mtime": 1727568000000,
+      "pkg": "com.rawfury.kingdom2crowns"
     },
     {
       "label": "王国：八十年代",
