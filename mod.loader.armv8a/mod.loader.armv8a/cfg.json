@@ -1,5 +1,5 @@
 {
-  "time": 1727568000160,
+  "time": 1727654400161,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -955,6 +955,12 @@
       "time": 1724198400000,
 	  "mtime": 1725321600009,
       "pkg": "com.playdigious.skul"
+    },
+    {
+      "label": "怒之铁拳4",
+      "time": 1721606400000,
+	  "mtime": 1727654400000,
+      "pkg": "com.playdigious.sor4"
     },
     {
       "label": "弓箭大师：终极版",

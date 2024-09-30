@@ -1,0 +1,59 @@
+{
+  "faqs": {
+    "一直玩着好好的，某次游戏启动就突然开始始终黑屏了。": "此时手机版本与双开版本都会在启动100%加载完成后黑屏卡住，清除游戏数据、缓存也无效，其实只要重启手机就好了……"
+  },
+  "gms": 1,
+  "info": "8.99$的付费游戏，可以算当前为止街机动作类游戏的王者了，还有一部作品是【忍者神龟：斯莱德的复仇】，也是同期很棒的街机动作游戏\u003cbr\u003e\u003cbr\u003ePlaydigius代理发行的游戏素质都还不错，点击游戏图标，看看还支持哪些游戏，推荐没玩过的就玩一下",
+  "label": "怒之铁拳4",
+  "time": 1721606400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "MOD自选菜单，可调节满血、满怒、满星、透明无敌"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.playdigious.sor4.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.playdigious.sor4",
+  "vercode": 74,
+  "vername": "1.4",
+  "publisher": "playdigious",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 1000,
+  "tags": [
+    "中文",
+    "街机",
+    "动作",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/h2C2gW6I",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    },
+    {
+      "host": "详情页[翻墙]",
+      "url": "https://apkpure.net/cn/streets-of-rage-4/com.playdigious.sor4",
+      "var": true
+    }
+  ]
+}
