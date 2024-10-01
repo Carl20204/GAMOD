@@ -1,0 +1,60 @@
+{
+  "faqs": {
+    "进游戏是俄语？完全看不懂！": "初始为俄语版，开始菜单选中间项（竖排5个按钮选第3个）就是语言选择，第二排中间有繁体中文",
+    "墨魔豆无法启动游戏？": "请确认安装的是网盘分享版本，原版有谷歌加固验证，无法在墨魔豆里运行。"
+  },
+  "gms": 2,
+  "info": "曾在Steam上火爆一时，终于移植到手机了。\u003cbr\u003e\u003cbr\u003e超级随机超级肉鸽，玩的就是不确定，你不再来一圈？\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff\"\u003e网盘分享的版本为移除谷歌加固的无广告大神订制版，墨魔豆不支持原版双开，要使用MOD请下载网盘版本安装\u003c/font\u003e",
+  "label": "循环英雄",
+  "time": 1722470400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节玩家攻击威力，恢复增强，营地建设资源不减"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.playdigious.loophero.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.playdigious.loophero",
+  "vercode": 1000005,
+  "vername": "1.0.5",
+  "publisher": "Playdigious",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "策略",
+    "单机"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/f8USV6Yl",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/loop-hero/com.playdigious.loophero/download",
+      "var": false
+    }
+  ]
+}
