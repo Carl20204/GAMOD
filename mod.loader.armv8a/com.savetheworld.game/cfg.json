@@ -1,1 +1,61 @@
-{"archs":["arm64-v8a"],"faqs":{"为啥一直重复第一关？":"\u003cfont color\u003d\"#ff0000\"\u003e出现重复向导关的情形时，只要启动手机桌面的《我的小宇宙》，完成向导关后，再重新玩双开版本的，就可以正常过向导关了\u003c/font\u003e","为啥换地图时，我的背包会被清空？":"\u003cfont color\u003d\"#ff0000\"\u003e每次切换地图时会，游戏会做资源数值检测，发现异常时会清空该资源。请使用过检测MOD。\u003c/font\u003e"},"gms":1,"info":"SayGames出品的中量级+游戏，画面虽是低模休闲风格，但架不住内容超多。\u003cbr\u003e上百种可收集物资，几十颗可探索星球，养成内容繁多。请养好肝再来玩。\u003cbr\u003e卡关Bug请看帮助页","label":"我的小宇宙","time":1707350400005,"mod":true,"mods":[{"descs":["免数值检测。免广告白嫖奖励。","可选菜单功能，主要以提升各种采集收获为主，有效避免过度商业化导致的游戏收益率过低问题","必须花钱才能获得的皮肤与VIP，请安心白嫖。"],"name":"上帝模式","pkgname":"com.savetheworld.game.gm64","targetvc":"*","vercode":4}],"pkgname":"com.savetheworld.game","vercode":148,"vername":"2.8.0","publisher":"SayGames","signmd5":"63CCFBB562B14049C22E0BA31D2B13A2","tags":["中文","国际版","采集","建设","战斗"],"downloads":[{"host":"小飞机网盘","url":"https://share.feijipan.com/s/W1UhKB9O","var":false},{"host":"小飞机网盘","url":"https://share.feijipan.com/s/GeUieedJ","var":false},{"host":"小飞机网盘","url":"https://share.feijipan.com/s/rYUhigyB","var":false},{"host":"翻墙｜直链下载","url":"https://d.apkpure.net/b/APK/com.savetheworld.game?versionCode\u003d148","var":false},{"host":"apkpure[翻墙]","url":"https://m.apkpure.net/cn/my-little-universe/com.savetheworld.game/download","var":true}]}
+{
+  "faqs": {
+    "为啥一直重复第一关？": "\u003cfont color\u003d\"#ff0000\"\u003e出现重复向导关的情形时，只要启动手机桌面的《我的小宇宙》，完成向导关后，再重新玩双开版本的，就可以正常过向导关了\u003c/font\u003e",
+    "为啥换地图时，我的背包会被清空？": "\u003cfont color\u003d\"#ff0000\"\u003e每次切换地图时会，游戏会做资源数值检测，发现异常时会清空该资源。请使用过检测MOD。\u003c/font\u003e"
+  },
+  "gms": 1,
+  "info": "SayGames出品的休闲风格重量级游戏。\u003cbr\u003e上百种可收集物资，几十颗可探索星球，可建设自己的星球，养成内容繁多。请养好肝再来玩",
+  "label": "我的小宇宙",
+  "time": 1727740800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "免数值检测。免广告白嫖奖励",
+        "可选菜单功能，主要以提升各种采集收获为主，有效避免过度商业化导致的游戏收益率过低问题"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.savetheworld.game.gm64",
+      "targetvc": "*",
+      "vercode": 5
+    }
+  ],
+  "pkgname": "com.savetheworld.game",
+  "vercode": 172,
+  "vername": "2.13.0",
+  "publisher": "SayGames",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "采集",
+    "探索",
+    "战斗"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/FTATSvER",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/o9CW5yP3",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://m.apkpure.net/cn/my-little-universe/com.savetheworld.game/download",
+      "var": true
+    }
+  ]
+}
