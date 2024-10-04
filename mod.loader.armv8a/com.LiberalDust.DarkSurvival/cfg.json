@@ -1,0 +1,59 @@
+{
+  "faqs": {
+    "为啥无法切换英文？": "因为切换语言要重启游戏，MOD就锁定了中文"
+  },
+  "gms": 1,
+  "info": "幸存者类型，玩法都明白，玩的就是画风、世界观、技能组合设计、数值设计\u003cbr\u003e\u003cbr\u003e本作的游戏核心在于一切围绕技能Build，包括装备、英雄、皮肤，都是服务于技能的，每次升级随机出主打的技能，就OK了",
+  "label": "黑暗幸存者",
+  "time": 1725235200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动锁定中文，自动激活需内购的免广告、加速、经验提升三项功能",
+        "可选菜单功能，可调整战场经验、不死、加大奖励等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.LiberalDust.DarkSurvival.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.LiberalDust.DarkSurvival",
+  "vercode": 2461,
+  "vername": "2.4.6",
+  "publisher": "LiberalDust",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "幸存者"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/f8USV6Yl",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/dark-survival/com.LiberalDust.DarkSurvival/download",
+      "var": true
+    }
+  ]
+}

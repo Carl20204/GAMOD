@@ -1,5 +1,5 @@
 {
-  "time": 1727827300162,
+  "time": 1728000000163,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -812,6 +812,12 @@
       "time": 1710720000000,
 	  "mtime": 1711929600000,
       "pkg": "com.KonfaGames.DespotsGame"
+    },
+    {
+      "label": "黑暗幸存者",
+      "time": 1725235200000,
+	  "mtime": 1726963200010,
+      "pkg": "com.LiberalDust.DarkSurvival"
     },
     {
       "label": "火星幸存者：火星归来",
