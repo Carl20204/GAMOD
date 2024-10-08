@@ -1,5 +1,5 @@
 {
-  "time": 1728000000163,
+  "time": 1728345600164,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1090,6 +1090,12 @@
       "time": 1710806400003,
 	  "mtime": 1726790400005,
       "pkg": "com.TeamCherry.HollowKnight"
+    },
+    {
+      "label": "生存之地",
+      "time": 1691452800000,
+	  "mtime": 1728345600000,
+      "pkg": "com.the10tons.crimsonland"
     },
     {
       "label": "神枪手强尼",
