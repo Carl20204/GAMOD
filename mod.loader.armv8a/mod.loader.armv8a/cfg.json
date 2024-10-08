@@ -1,5 +1,5 @@
 {
-  "time": 1728345600164,
+  "time": 1728345600165,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1096,6 +1096,12 @@
       "time": 1691452800000,
 	  "mtime": 1728345600000,
       "pkg": "com.the10tons.crimsonland"
+    },
+    {
+      "label": "朋克大暴走",
+      "time": 1691452800000,
+	  "mtime": 1728345600001,
+      "pkg": "com.the10tons.neonchrome"
     },
     {
       "label": "神枪手强尼",
