@@ -1,5 +1,5 @@
 {
-  "time": 1728432000165,
+  "time": 1728954000165,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -565,8 +565,8 @@
     },
     {
       "label": "元气骑士",
-      "time": 1713830400000,
-	  "mtime": 1714435200002,
+      "time": 1728954000002,
+	  "mtime":  1728954000003,
       "pkg": "com.ChillyRoom.DungeonShooter"
     },
     {
