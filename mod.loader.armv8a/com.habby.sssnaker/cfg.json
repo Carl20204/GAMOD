@@ -1,56 +1,53 @@
 {
-  "faqs": {
-    "xapk安装不上怎么办？": "\u003cfont color\u003d\"#ff0000\"\u003e当前版本的xapk安装包，文件异常无法使用标准方法安装。\u003cbr\u003e\u003cbr\u003e大家可以在任一应用市场下载【MT管理器】，对此类异常xapk文件也能安装。\u003c/font\u003e"
-  },
-  "gms": 1,
-  "info": "\u003cfont color\u003d\"#ff0000\"\u003e贪吃蛇+肉鸽射击\u003c/font\u003e，这玩法组合新鲜吧",
+  "time": 1728554400008,
   "label": "蛇蛇贪吃",
-  "time": 1712534400008,
-  "mod": true,
-  "mods": [
-    {
-      "descs": [
-        "\u003cfont color\u003d\"#ff0000\"\u003e弱联网游戏，请不要过于强力刷榜，以免被封档\u003c/font\u003e",
-        "自动加载免广告功能，所有广告奖励该领就领！",
-        "MOD自选菜单，可调节减伤、增伤、攻速、技能、全皇冠等等，有效护肝防氪。！"
-      ],
-      "name": "上帝模式",
-      "pkgname": "com.habby.sssnaker.gm64",
-      "targetvc": "*",
-      "vercode": 6
-    }
-  ],
   "pkgname": "com.habby.sssnaker",
-  "vercode": 1712135380,
-  "vername": "1.2.7",
   "publisher": "Habby",
-  "signmd5": "38BBDDF2581D9D0BD890107FD772ED63",
-  "tags": [
-    "中文",
-    "国际版",
-    "肉鸽",
-    "射击"
-  ],
+  "vername": "1.13.9",
+  "vercode": 1728390774,
+  "gms":1,
+  "mod": true,
+  "signmd5":"38BBDDF2581D9D0BD890107FD772ED63",
+  "tags": ["中文","国际版","肉鸽","射击"],
+  "archs": ["arm64-v8a"],
+  "info": "<font color=\"#ff0000\">贪吃蛇+肉鸽射击</font>，这玩法组合新鲜吧",
+  "faqs": {
+    "xapk安装不上怎么办？": "<font color=\"#ff0000\">当前版本的xapk安装包，文件异常无法使用标准方法安装。<br><br>大家可以在任一应用市场下载【MT管理器】，对此类异常xapk文件也能安装。</font>"
+  },
   "downloads": [
     {
       "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/jQAbnNGS",
-      "var": false
-    },
-    {
+      "url": "https://share.feijipan.com/s/jQAbnNGS"
+    },{
       "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/N2UREA1Z",
-      "var": false
-    },
-    {
+      "url": "https://share.feijipan.com/s/N2UREA1Z"
+    },{
       "host": "apkpure直链下载[翻墙]",
-      "url": "https://d.apkpure.net/b/XAPK/com.habby.sssnaker?versionCode\u003d1712135380\u0026nc\u003darm64-v8a\u0026sv\u003d19",
-      "var": false
-    },
-    {
+      "url": "https://d.apkpure.net/b/XAPK/com.habby.sssnaker?versionCode=1712135380&nc=arm64-v8a&sv=19"
+    },{
+      "var": true,
       "host": "apkpure[翻墙]",
-      "url": "https://apkpure.net/cn/sssnaker/com.habby.sssnaker/download",
-      "var": true
+      "url": "https://apkpure.net/cn/sssnaker/com.habby.sssnaker/download"
     }
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "<font color=\"#ff0000\">弱联网游戏，请不要过于强力刷榜，以免被封档</font>",
+        "自动加载免广告功能，所有广告奖励该领就领！",
+        "MOD自选菜单，可调节减伤、增伤、攻速、技能、全皇冠等等，有效护肝防氪。！"
+      ],
+      "pkgname": "com.habby.sssnaker.gm64",
+      "targetvc":"*",
+      "vercode": 7
+    }
+  ],
+  "promotions": [
+    {"url": "https://ugame.9game.cn/game/share-235275-575274.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1088351.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-3068140.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1182503.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1170404.html"}
   ]
 }

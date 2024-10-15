@@ -1,5 +1,5 @@
 {
-  "time": 1728954000165,
+  "time": 1728950400165,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -762,8 +762,8 @@
     },
     {
       "label": "蛇蛇贪吃",
-      "time": 1712534400000,
-	  "mtime": 1713225600000,
+      "time": 1728554400002,
+	  "mtime": 1728554400003,
       "pkg": "com.habby.sssnaker"
     },
     {
