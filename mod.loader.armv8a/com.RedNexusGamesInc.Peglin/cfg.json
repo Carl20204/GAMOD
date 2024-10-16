@@ -1,61 +1,46 @@
 {
-  "gms": 2,
-  "info": "经过两年的打磨，于2024年8月，1.0正式版发布在switch和安卓平台了\u003cbr\u003e\u003cbr\u003e创意十足，没有商业化元素，没有玩家心理学陷阱，很纯粹的游戏体验。",
+  "time": 1727827200008,
   "label": "哥布林弹球",
-  "time": 1724803200008,
-  "mod": false,
+  "pkgname": "com.RedNexusGamesInc.Peglin",
+  "publisher": "Red Nexus Games",
+  "vername": "1.0.5",
+  "vercode": 58,
+  "gms":2,
+  "archs": ["arm64-v8a"],
+  "signmd5":"CFCB74306583BFCEBB9021BA7EF3EC06",
+  "tags": ["国际版","中文","肉鸽","弹球"],
+  "info": "弹珠+肉鸽，会不会被Habby看中，包装上养成要素后卖爆？<br><br>创意十足，没有商业化元素，没有玩家心理学陷阱，很纯粹的游戏体验。",
+  "downloads": [
+    {
+      "host": "小飞机网盘 游戏/MOD",
+      "url": "https://share.feijipan.com/s/mXCh5CTw"
+    },{
+      "var": true,
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/peglin-a-pachinko-roguelike/com.RedNexusGamesInc.Peglin/download"
+    }
+  ],
   "mods": [
     {
+      "name": "上帝模式",
       "descs": [
         "自动解锁完整版",
         "自选菜单可调节金币收获倍数，伤害免疫系数"
       ],
-      "name": "上帝模式",
       "pkgname": "com.RedNexusGamesInc.Peglin.gm64",
-      "targetvc": "*",
-      "vercode": 5
-    }
-  ],
-  "pkgname": "com.RedNexusGamesInc.Peglin",
-  "vercode": 57,
-  "vername": "1.0.1",
-  "publisher": "Red Nexus Games",
-  "s3": 0,
-  "tags": [
-    "中文",
-    "肉鸽",
-    "弹球",
-    "像素"
-  ],
-  "downloads": [
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/6yAfbtuL",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/NjBeEeu5",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/f8USV6Yl",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/m4UhKTCt",
-      "var": false
-    },
-    {
-      "host": "下载页[翻墙]",
-      "url": "https://apkpure.net/cn/peglin-a-pachinko-roguelike/com.RedNexusGamesInc.Peglin/download",
-      "var": true
+      "targetvc":"*",
+      "vercode": 6
     }
   ],
   "videos": {
-    "https://www.ixigua.com/7334581342572970522?logTag\u003d69d93870850e683ae920": "一款完美平衡的游戏，没有任何漏洞",
-    "https://www.ixigua.com/7334580651414258211?logTag\u003d9eba5aae169a893dcdfb": "每次刷新，弹球都会变得更强大!"
-  }
+    "https://www.ixigua.com/7334581342572970522?logTag=69d93870850e683ae920":"一款完美平衡的游戏，没有任何漏洞",
+    "https://www.ixigua.com/7334580651414258211?logTag=9eba5aae169a893dcdfb":"每次刷新，弹球都会变得更强大!"
+  },
+  "promotions": [
+    {"url": "https://ugame.9game.cn/game/share-235275-1182503.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1170034.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-3068140.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-3040427.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-575274.html"}
+  ]
 }

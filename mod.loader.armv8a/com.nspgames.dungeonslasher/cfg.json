@@ -1,48 +1,41 @@
 {
-  "gms": 2,
-  "info": "游戏启动需翻墙，请自备加速器或梯子，进入游戏后可断网单机玩。\u003cbr\u003e\u003cbr\u003e1。游戏难度巨高，一点没惯着小白玩家，手残党不用MOD是别想开心了\u003cbr\u003e2。最节省容量的像素风二次元，还有1G的大小，可见游戏干货之多\u003cbr\u003e3。设置中可手动配置中文\u003cbr\u003e",
+  "time": 1728950400009,
   "label": "地牢杀手",
-  "time": 1711584000008,
+  "pkgname": "com.nspgames.dungeonslasher",
+  "publisher": "96Percent",
+  "vername": "0.720.1",
+  "vercode": 172891124,
+  "gms":2,
+  "tags": ["中文","单机","肉鸽","动作","翻墙"],
   "mod": true,
+  "signmd5":"092305A7033F14CBB06ABCB668773227",
+  "info": "游戏启动需翻墙，请自备加速器或梯子，进入游戏后可断网单机玩。<br><br>1。游戏难度巨高，一点没惯着小白玩家，手残党不用MOD是别想开心了<br>2。最节省容量的像素风二次元，还有1G的大小，可见游戏干货之多<br>3。设置中可手动配置中文<br>",
+  "downloads": [
+    {
+      "host": "小飞机网盘 游戏/MOD",
+      "url": "https://share.feijipan.com/s/mXCh5CTw"
+    },{
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/dungeon-slasher-roguelike/com.nspgames.dungeonslasher/download"
+    }
+  ],
   "mods": [
     {
+      "name": "上帝模式",
       "descs": [
         "自动免广告，所有广告激励可白嫖",
         "可选菜单可调节免伤、无限跳、技能无CD、随意冲刺、无限钻石等"
       ],
-      "name": "上帝模式",
       "pkgname": "com.nspgames.dungeonslasher.gm64",
-      "targetvc": "*",
-      "vercode": 1
+      "targetvc":"*",
+      "vercode": 2
     }
   ],
-  "pkgname": "com.nspgames.dungeonslasher",
-  "vercode": 171159430,
-  "vername": "0.710.2",
-  "publisher": "96Percent",
-  "signmd5": "092305A7033F14CBB06ABCB668773227",
-  "tags": [
-    "中文",
-    "单机",
-    "肉鸽",
-    "动作",
-    "翻墙"
-  ],
-  "downloads": [
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/K1AbQBjG",
-      "var": false
-    },
-    {
-      "host": "翻墙|直链下载",
-      "url": "https://d.apkpure.net/b/APK/com.nspgames.dungeonslasher?versionCode\u003d171159430",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/cn/dungeon-slasher-roguelike/com.nspgames.dungeonslasher/download",
-      "var": false
-    }
+  "promotions": [
+    {"url": "https://ugame.9game.cn/game/share-235275-6066.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-976614.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1088351.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1354168.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1225582.html"}
   ]
 }
