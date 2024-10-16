@@ -1,5 +1,5 @@
 {
-  "time": 1728950500165,
+  "time": 1729036800165,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -904,8 +904,8 @@
     },
     {
       "label": "地牢杀手",
-      "time": 1711584000000,
-	  "mtime": 1711929600000,
+      "time": 1728950400002,
+	  "mtime": 1728950400003,
       "pkg": "com.nspgames.dungeonslasher"
     },
     {
@@ -1036,8 +1036,8 @@
     },
     {
       "label": "哥布林弹球",
-      "time": 1724803200000,
-	  "mtime": 1725321600000,
+      "time": 1727827200002,
+	  "mtime": 1727827200003,
       "pkg": "com.RedNexusGamesInc.Peglin"
     },
     {
