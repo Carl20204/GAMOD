@@ -1,5 +1,5 @@
 {
-  "time": 1729209800165,
+  "time": 1729209900165,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1135,8 +1135,8 @@
     },
     {
       "label": "狂野城堡：王国统治",
-      "time": 1719446400000,
-	  "mtime": 1721692800000,
+      "time": 1728000000000,
+	  "mtime": 1728000000000,
       "pkg": "com.wildsky.wildcastle"
     },
     {
