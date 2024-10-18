@@ -1,1 +1,111 @@
-{"archs":["arm64-v8a"],"faqs":{"游戏无法启动？":"\u003cfont color\u003d\"#ff0000\"\u003e有检测，需要配合对应MOD过检测才能正常启动。\u003c/font\u003e"},"gms":1,"info":"Habby的微创新\u003cb\u003e超强\u003c/b\u003e，你喜欢哪个呢？\u003cbr\u003e\u003cfont color\u003d\"#ff00\"\u003e弹壳特攻队\u003c/font\u003e \u003d 幸存者 + 肉鸽 + 养成\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e蛇蛇贪吃\u003c/font\u003e \u003d 贪吃蛇 + 肉鸽 + 养成\u003cbr\u003e\u003cfont color\u003d\"#ff\"\u003e酷猫跑酷\u003c/font\u003e \u003d 跑酷 + 肉鸽 + 养成\u003cbr\u003e\u003cfont color\u003d\"#ff00ff\"\u003e砰砰法师\u003c/font\u003e \u003d 弹珠台 + 肉鸽 + 养成","label":"砰砰法师","time":1706054400005,"mod":false,"mods":[{"descs":["\u003cfont color\u003d\"#ff0000\"\u003e本游戏弱联网，请谨慎使用，不要刷榜单，刷进度，防止被封存档。\u003cbr\u003eNoZuoNoDie\u003c/font\u003e","启用后自动过检测，自动免广告","菜单可选功能：强化各种特殊球的威力、触发几率等等。"],"name":"上帝模式","pkgname":"com.habby.punball.gm64","targetvc":"626","vercode":4}],"pkgname":"com.habby.punball","vercode":626,"vername":"4.6.1","publisher":"Habby","signmd5":"E2F9475AF07727B2CD53577B775942D0","tags":["中文","国际版","弹珠台","肉鸽","养成"],"downloads":[{"host":"apkpure直链下载【翻墙】","url":"https://d.apkpure.net/b/APK/com.habby.punball?versionCode\u003d626","var":false},{"host":"apkpure下载页[翻墙]","url":"https://apkpure.net/cn/punball/com.habby.punball/download/4.6.1","var":false},{"host":"小飞机网盘","url":"https://share.feijipan.com/s/2YUREp9W","var":false},{"host":"小飞机网盘","url":"https://share.feijipan.com/s/1nUREU0u","var":false}]}
+{
+  "time": 1727395200009,
+  "label": "砰砰法师",
+  "pkgname": "com.habby.punball",
+  "publisher": "Habby",
+  "vername": "5.3.0",
+  "vercode": 725,
+  "gms":1,
+  "tags": ["中文","国际版","弹珠台","肉鸽","养成"],
+  "archs": ["arm64-v8a"],
+  "info": "Habby的微创新<b>超强</b>，你喜欢哪个呢？<br><font color=\"#ff00\">弹壳特攻队</font> = 幸存者 + 肉鸽 + 养成<br><font color=\"#ff0000\">蛇蛇贪吃</font> = 贪吃蛇 + 肉鸽 + 养成<br><font color=\"#ff\">酷猫跑酷</font> = 跑酷 + 肉鸽 + 养成<br><font color=\"#ff00ff\">砰砰法师</font> = 弹珠台 + 肉鸽 + 养成",
+  "signmd5":"E2F9475AF07727B2CD53577B775942D0",
+  "faqs": {
+    "游戏无法启动？": "<font color=\"#ff0000\">有检测，需要配合对应MOD过检测才能正常启动。</font>"
+  },
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/mXCh5CTw"
+    },{
+      "host": "apkpure下载页[翻墙]",
+      "url": "https://apkpure.net/cn/punball/com.habby.punball"
+    }
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "<font color=\"#ff0000\">本游戏弱联网，请谨慎使用，不要刷榜单，刷进度，防止被封存档。<br>NoZuoNoDie</font>",
+        "启用后自动过检测，自动免广告",
+        "菜单可选功能：强化各种特殊球的威力、触发几率等等。"
+      ],
+      "pkgname": "com.habby.punball.gm64",
+      "targetvc":"626",
+      "vercode": 5
+    }
+  ],
+  "promotions": [
+    {
+      "desc": "斗罗大陆，唐家三少，经典IP，粉丝进。",
+      "url": "https://ugame.9game.cn/game/share-235275-1182503.html"
+    },{
+      "desc": "没事休闲两把，其实我更喜欢休闲类游戏。",
+      "url": "https://ugame.9game.cn/game/share-235275-1139312.html"
+    },{
+      "desc": "这才是我的情怀，是兄弟就来砍我！",
+      "url": "https://ugame.9game.cn/game/share-235275-3090744.html"
+    },{
+      "desc": "情怀，还是情怀。有情怀就进，没有就走。",
+      "url": "https://ugame.9game.cn/game/share-235275-1318377.html"
+    },{
+      "desc": "玩腻了单机，偶尔玩玩无脑页游还是挺放松的！",
+      "url": "https://ugame.9game.cn/game/share-235275-3066872.html",
+      "gifts": ["SGZL1201","SGZL1202","SGZL1203","SGZL1207","SGZL1208","SGZL1209"]
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-3047776.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-3040035.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-1226484.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-1021997.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-3074067.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-3070973.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-3037639.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-1226010.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-1170872.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-1145924.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-1083761.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-811431.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-773396.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-3071626.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-1121264.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-3087708.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-3066984.html"
+    },{
+      "desc": "凑数，凑活跃度用",
+      "url": "https://ugame.9game.cn/game/share-235275-808547.html"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "time": 1729036800165,
+  "time": 1729209600165,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -751,7 +751,8 @@
     },
     {
       "label": "砰砰法师：国际版",
-      "time": 1706054400000,
+      "time": 1727395200002,
+	  "mtime": 1727395200003,
       "pkg": "com.habby.punball"
     },
     {
@@ -1036,7 +1037,7 @@
     },
     {
       "label": "哥布林弹球",
-      "time": 1727827200002,
+      "time": 1727827200010,
 	  "mtime": 1727827200003,
       "pkg": "com.RedNexusGamesInc.Peglin"
     },
