@@ -16,7 +16,7 @@
       "descs": [
         "自动免广告。其它功能请谨慎使用，防止破坏游戏乐趣！"
       ],
-      "pkgname": "kairosoft.android.okashi_en.gm64",
+      "pkgname": "net.kairosoft.android.okashi_en.gm64",
       "targetvc":"*",
       "vercode": 1
     }
