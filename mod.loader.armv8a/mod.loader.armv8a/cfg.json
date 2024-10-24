@@ -1,5 +1,5 @@
 {
-  "time": 1729209800165,
+  "time": 1729728000166,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -754,6 +754,12 @@
       "time": 1727395200004,
 	  "mtime": 1727395200005,
       "pkg": "com.habby.punball"
+    },
+	{
+      "label": "创意蛋糕店",
+      "time": 1717977600002,
+	  "mtime": 1717977600003,
+      "pkg": "net.kairosoft.android.okashi_en"
     },
     {
       "label": "砰砰法师",
