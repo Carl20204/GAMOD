@@ -1,5 +1,5 @@
 {
-  "time": 1729730000166,
+  "time": 1729814400167,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -563,6 +563,12 @@
       "time": 1717977600003,
 	  "mtime": 1717977600004,
       "pkg": "net.kairosoft.android.okashi_en"
+    },
+	{
+      "label": "幸福公寓物语",
+      "time": 1729641600003,
+	  "mtime": 1729641600004,
+      "pkg": "net.kairosoft.android.apart_en"
     },
     {
       "label": "楼下的早餐店",
