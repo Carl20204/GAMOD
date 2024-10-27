@@ -1,5 +1,5 @@
 {
-  "time": 1729814400167,
+  "time": 1729987200170,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -766,6 +766,18 @@
       "time": 1727395200004,
 	  "mtime": 1727395200005,
       "pkg": "com.habby.punball"
+    },
+    {
+      "label": "王国保卫战",
+      "time": 1723420800000,
+	  "mtime": 1729987200000,
+      "pkg": "com.ironhidegames.android.kingdomrush"
+    },
+    {
+      "label": "王国保卫战：起源",
+      "time": 1722902400000,
+	  "mtime": 1729987200001,
+      "pkg": "com.ironhidegames.android.kingdomrushorigins"
     },
 	{
       "label": "创意蛋糕店",

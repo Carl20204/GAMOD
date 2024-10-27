@@ -4,35 +4,56 @@
   "desc": "经典推荐",
   "tags": [
     {
-      "title": "大神正在玩",
+      "title": "经典游戏",
       "items": [
         {
-          "desc": "大神最近刷街机动作游戏玩，发现市面上能找到的此游戏MOD都太弱了，和大神的快节奏爽玩的风格不匹配，于是搞了个专用的……",
-          "pkg": "com.playdigious.sor4"
-        },{
-          "desc": "大神怀旧玩王国系列，最后发现还是第二作：两位君主更好玩一些，但玩起来太肝了，节奏太慢，于是超级MOD出现了……",
-          "pkg": "com.rawfury.kingdom2crowns"
-        },{
-          "desc": "大神本来是做MOD随便玩玩，结果开着MOD全功能发现游戏越玩越上瘾，内容庞大，玩起来满满的正反馈，爽的一笔啊。<br><br>最开始MOD功能不多，但大神一边玩一边加功能，最后就出现了当前的超牛B的独家MOD",
-          "pkg": "com.dream.dale"
-        },{
-          "desc": "某大神先是看抖音直播发现此游戏好玩，然后发现手机版出了，于是手残的大神专用MOD就出现了。",
-          "pkg": "com.humblebundle.wizardoflegend",
-          "video": "https://www.ixigua.com/7170246100111557134"
-        },{
-          "desc": "大神说自己没事就刷刷刷几下，纯解压开心。<br>你呢？",
-          "pkg": "com.flaregames.zgs"
-        },{
-          "desc": "<font color=\"#ff0000\">翻墙警告</font><br不建议普通玩家玩，游戏服务器不稳定，某大神天天挂着美国区的VPN翻墙玩，已经100级了，加好友找100级的玩家，可能就会加到大神马甲<br><br>大神为了打通关，天天盯着游戏更新，维护MOD",
-          "pkg": "com.futureplay.mergematch"
+          "desc": "<font color=\"#ff\">最终版：1.4.4.9.5</font><br>喜欢沙盒创造类型，又和本人一样晕3D的，强烈推荐本作，神一般的作品，海量的内容，玩十年没问题。<br><font color=\"#ff\">全球独家MOD，不肝不卷轻松玩</font>",
+          "pkg": "com.and.games505.Terraria",
+          "video": "https://www.ixigua.com/7013636145783243272"
         },
         {
-          "desc": "<font color=\"#ff0000\">无中文警告</font><br>但大神英文很好不在乎！大神在排行榜上已经刷的很高了，猜猜排名第几的是大神马甲<br>为了刷榜，大神特意做了一堆MOD功能，有技术就是任性啊！",
-          "pkg": "com.raongames.growcastle"
+          "desc": "三大经典塔防系列：植物大战僵尸、王国保卫战、保卫萝卜。<br><br>某天大神看到谷歌市场本游戏更新了，想怀旧想重玩，却发现市面上只有大量钻石的存档改版，只得自力更生，出了一个全网独家的多功能MOD，就是为了让自己玩的爽！<br><br>其它版本，请进入游戏详情页后，点击游戏图像查看铁皮工作室更多游戏MOD",
+          "pkg": "com.ironhidegames.android.kingdomrushorigins"
         },
         {
-          "desc": "<font color=\"#ff0000\">无中文警告</font><br>某大神沉迷本作，没事就刷刷装备，烦心了就去割草。<br>为什么MOD功能那么多，那么赞？因为大神自己就是粉丝啊！",
+          "desc": "崩溃大陆不用介绍了吧？经典中的经典，生存RPG，中文翻译的也超级给力<br><font color=\"#ff\">全球独家MOD，十几种高端功能，主打就是不肝不卷无内耗，玩着开心最重要</font>",
+          "pkg": "com.bscotch.crashlands"
+        },
+        {
+          "desc": "三大经典塔防系列中的老大，可惜国际版无中文<br><br>本作是最经典的，原汁原味的一代，EA一直在维护，纯英文也不要怕，老玩家谁看戴夫的话啊！<br><font color=\"#ff\">全球独家MOD，几十种高端功能，重玩一样爽</font><br><br>进入游戏详情页后，点击游戏图标可查看二代游戏MOD",
+          "pkg": "com.ea.game.pvzfree_row"
+        },
+        {
+          "desc": "超经典的，手机版【牧场物语】<br>移动端玩起来，比主机、掌机的方便性、便携性强百倍，手机里常备本作，确实值得",
+          "pkg": "com.chucklefish.stardewvalley"
+        },
+        {
+          "desc": "【这是我的战争】在这个国际战争不断的时代，值得再次体验一番。<br><br>系列两部作品，可进入游戏详情页后点击游戏图标查看，【父亲的承诺】会更艰难一些。",
+          "pkg": "com.elevenbitstudios.twommobile"
+        },
+        {
+          "desc": "中国特供版，11周年纪念版！<br><br>氪金力度没得说，当然游戏内容也没得说，在植物、地图、玩法上比EA的国际版内容是多的多。",
+          "pkg": "com.popcap.pvz2cthdbk"
+        },
+        {
+          "desc": "<font color=\"#ff0000\">翻墙警告：注册账号时需翻墙</font><br>halfbrick出品的《水果忍者》很无聊，但他家的《庞然巨物》可是贪吃蛇的经典延伸。喜欢贪吃蛇类型的话，必须要玩本作，不愧是创意、脑动大开之作<br><font color=\"#ff\">全球独家MOD，十几种酷爽功能，玩起来嗨翻天</font>",
+          "pkg": "com.halfbrick.colossatron"
+        },
+        {
+          "desc": "<font color=\"#ff0000\">无中文警告</font><br>获得过谷歌大赏，品质超高的动作游戏，配合MOD玩起来好爽，有了无限跳，对手残党和搓玻璃苦手真是救星啊",
+          "pkg": "com.direlight.grimvalor"
+        },
+        {
+          "desc": "<font color=\"#ff0000\">无中文警告</font><br>手机上的飞行射击游戏，主机游戏品质，绝对的神作，迄今无敌手。<br><br>请下载安装网盘分享的版本，此版本与谷歌市场最新版差异仅仅是使用了不同的谷歌验证，游戏自身无任何变化【最新的谷歌验证MOD暂未免验证】<br><font color=\"#ff\">全球独家MOD，十多种功能，射击游戏不开MOD玩太不爽</font>",
+          "pkg": "pl.idreams.SkyForceReloaded2016"
+        },
+        {
+          "desc": "<font color=\"#ff0000\">无中文警告</font><br>孤胆枪手，看到这个名字，你是否回想起当年在网吧通宵的青春？<br><font color=\"#ff\">全球独家MOD，功能多多，扔掉贴吧的修改教程吧，差的太多了</font>",
           "pkg": "com.sigmateam.alienshooter2reloaded"
+        },
+        {
+          "desc": "<font color=\"#ff0000\">无中文警告</font><br>纯怀旧经典，部分高刷旗舰手机会导致游戏速度翻倍，建议用老手机玩",
+          "pkg": "jp.konami.epjCastlevania2"
         }
       ]
     },{
@@ -71,56 +92,35 @@
         }
       ]
     },{
-      "title": "经典怀旧MOD",
+      "title": "大神正在玩",
       "items": [
         {
-          "desc": "<font color=\"#ff\">最终版：1.4.4.9.5</font><br>喜欢沙盒创造类型，又和本人一样晕3D的，强烈推荐本作，神一般的作品，海量的内容，玩十年没问题。<br><font color=\"#ff\">全球独家MOD，不肝不卷轻松玩</font>",
-          "pkg": "com.and.games505.Terraria",
-          "video": "https://www.ixigua.com/7013636145783243272"
+          "desc": "大神最近刷街机动作游戏玩，发现市面上能找到的此游戏MOD都太弱了，和大神的快节奏爽玩的风格不匹配，于是搞了个专用的……",
+          "pkg": "com.playdigious.sor4"
+        },{
+          "desc": "大神怀旧玩王国系列，最后发现还是第二作：两位君主更好玩一些，但玩起来太肝了，节奏太慢，于是超级MOD出现了……",
+          "pkg": "com.rawfury.kingdom2crowns"
+        },{
+          "desc": "大神本来是做MOD随便玩玩，结果开着MOD全功能发现游戏越玩越上瘾，内容庞大，玩起来满满的正反馈，爽的一笔啊。<br><br>最开始MOD功能不多，但大神一边玩一边加功能，最后就出现了当前的超牛B的独家MOD",
+          "pkg": "com.dream.dale"
+        },{
+          "desc": "某大神先是看抖音直播发现此游戏好玩，然后发现手机版出了，于是手残的大神专用MOD就出现了。",
+          "pkg": "com.humblebundle.wizardoflegend",
+          "video": "https://www.ixigua.com/7170246100111557134"
+        },{
+          "desc": "大神说自己没事就刷刷刷几下，纯解压开心。<br>你呢？",
+          "pkg": "com.flaregames.zgs"
+        },{
+          "desc": "<font color=\"#ff0000\">翻墙警告</font><br不建议普通玩家玩，游戏服务器不稳定，某大神天天挂着美国区的VPN翻墙玩，已经100级了，加好友找100级的玩家，可能就会加到大神马甲<br><br>大神为了打通关，天天盯着游戏更新，维护MOD",
+          "pkg": "com.futureplay.mergematch"
         },
         {
-          "desc": "崩溃大陆不用介绍了吧？经典中的经典，生存RPG，中文翻译的也超级给力<br><font color=\"#ff\">全球独家MOD，十几种高端功能，主打就是不肝不卷无内耗，玩着开心最重要</font>",
-          "pkg": "com.bscotch.crashlands"
+          "desc": "<font color=\"#ff0000\">无中文警告</font><br>但大神英文很好不在乎！大神在排行榜上已经刷的很高了，猜猜排名第几的是大神马甲<br>为了刷榜，大神特意做了一堆MOD功能，有技术就是任性啊！",
+          "pkg": "com.raongames.growcastle"
         },
         {
-          "desc": "<font color=\"#ff\">今年仍在维护</font><br><font color=\"#ff0000\">无中文警告</font><br>最经典的，原汁原味的一代，EA一直在维护，纯英文也不要怕，老玩家谁看戴夫的话啊！<br><font color=\"#ff\">全球独家MOD，几十种高端功能，重玩一样爽</font>",
-          "pkg": "com.ea.game.pvzfree_row"
-        },
-        {
-          "desc": "超经典的，手机版【牧场物语】<br>移动端玩起来，比主机、掌机的方便性、便携性强百倍，手机里常备本作，确实值得",
-          "pkg": "com.chucklefish.stardewvalley"
-        },
-        {
-          "desc": "【这是我的战争】在这个国际战争不断的时代，值得再次体验一番。<br><br>系列两部作品，可进入游戏详情页后点击游戏图标查看，【父亲的承诺】会更艰难一些。",
-          "pkg": "com.elevenbitstudios.twommobile"
-        },
-        {
-          "desc": "<font color=\"#ff\">今年仍在维护</font><br><font color=\"#ff0000\">无中文警告</font><br>二代国际版！EA不愧为国际版腾讯，氪金力度上比一代强多了。<br><br>PS：与中国特供版二代对比的话，氪金力度还是小了，格局小了！<br><font color=\"#ff\">全球独家MOD，不肝不氪不卷，轻松回味青春</font>",
-          "pkg": "com.ea.game.pvz2_row"
-        },
-        {
-          "desc": "中国特供版，11周年纪念版！<br><br>氪金力度没得说，当然游戏内容也没得说，在植物、地图、玩法上比EA的国际版内容是多的多。",
-          "pkg": "com.popcap.pvz2cthdbk"
-        },
-        {
-          "desc": "<font color=\"#ff0000\">翻墙警告：注册账号时需翻墙</font><br>halfbrick出品的《水果忍者》很无聊，但他家的《庞然巨物》可是贪吃蛇的经典延伸。喜欢贪吃蛇类型的话，必须要玩本作，不愧是创意、脑动大开之作<br><font color=\"#ff\">全球独家MOD，十几种酷爽功能，玩起来嗨翻天</font>",
-          "pkg": "com.halfbrick.colossatron"
-        },
-        {
-          "desc": "<font color=\"#ff0000\">无中文警告</font><br>获得过谷歌大赏，品质超高的动作游戏，配合MOD玩起来好爽，有了无限跳，对手残党和搓玻璃苦手真是救星啊",
-          "pkg": "com.direlight.grimvalor"
-        },
-        {
-          "desc": "<font color=\"#ff0000\">无中文警告</font><br>手机上的飞行射击游戏，主机游戏品质，绝对的神作，迄今无敌手。<br><br>请下载安装网盘分享的版本，此版本与谷歌市场最新版差异仅仅是使用了不同的谷歌验证，游戏自身无任何变化【最新的谷歌验证MOD暂未免验证】<br><font color=\"#ff\">全球独家MOD，十多种功能，射击游戏不开MOD玩太不爽</font>",
-          "pkg": "pl.idreams.SkyForceReloaded2016"
-        },
-        {
-          "desc": "<font color=\"#ff0000\">无中文警告</font><br>孤胆枪手，看到这个名字，你是否回想起当年在网吧通宵的青春？<br><font color=\"#ff\">全球独家MOD，功能多多，扔掉贴吧的修改教程吧，差的太多了</font>",
+          "desc": "<font color=\"#ff0000\">无中文警告</font><br>某大神沉迷本作，没事就刷刷装备，烦心了就去割草。<br>为什么MOD功能那么多，那么赞？因为大神自己就是粉丝啊！",
           "pkg": "com.sigmateam.alienshooter2reloaded"
-        },
-        {
-          "desc": "<font color=\"#ff0000\">无中文警告</font><br>纯怀旧经典，安卓14及新款旗舰机运行可能会出现游戏速度翻倍现象，建议手头有3、5年前旗舰机的，安装本游戏做经典怀旧游戏机用",
-          "pkg": "jp.konami.epjCastlevania2"
         }
       ]
     }
