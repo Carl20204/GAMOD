@@ -1,5 +1,5 @@
 {
-  "time": 1729987200170,
+  "time": 1729987200171,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -774,9 +774,15 @@
       "pkg": "com.ironhidegames.android.kingdomrush"
     },
     {
+      "label": "王国保卫战：前线",
+      "time": 1723420800000,
+	  "mtime": 1729987200001,
+      "pkg": "com.ironhidegames.android.kingdomrushfrontiers"
+    },
+    {
       "label": "王国保卫战：起源",
       "time": 1722902400000,
-	  "mtime": 1729987200001,
+	  "mtime": 1729987200002,
       "pkg": "com.ironhidegames.android.kingdomrushorigins"
     },
 	{
