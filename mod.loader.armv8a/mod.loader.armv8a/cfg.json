@@ -1,5 +1,5 @@
 {
-  "time": 1729987200171,
+  "time": 1730073600172,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -768,19 +768,25 @@
       "pkg": "com.habby.punball"
     },
     {
-      "label": "王国保卫战",
+      "label": "王国保卫战1",
       "time": 1723420800000,
 	  "mtime": 1729987200000,
       "pkg": "com.ironhidegames.android.kingdomrush"
     },
     {
-      "label": "王国保卫战：前线",
+      "label": "王国保卫战5",
+      "time": 1729814400000,
+	  "mtime": 1730073600000,
+      "pkg": "com.ironhidegames.android.kingdomrush.alliance"
+    },
+    {
+      "label": "王国保卫战2：前线",
       "time": 1723420800000,
 	  "mtime": 1729987200001,
       "pkg": "com.ironhidegames.android.kingdomrushfrontiers"
     },
     {
-      "label": "王国保卫战：起源",
+      "label": "王国保卫战3：起源",
       "time": 1722902400000,
 	  "mtime": 1729987200002,
       "pkg": "com.ironhidegames.android.kingdomrushorigins"

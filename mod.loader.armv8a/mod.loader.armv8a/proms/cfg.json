@@ -1,5 +1,5 @@
 {
-  "ts": 1729987200000,
+  "ts": 1729987200001,
   "pic": "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a/mod.loader.armv8a/proms/cover.png",
   "desc": "经典推荐",
   "tags": [
@@ -63,6 +63,10 @@
           "desc": "<font color=\"#ff\">Netflix版免费无广告无内购</font><br>猴子（气球）塔防6，超经典的塔防游戏，巨多的猴子（塔类型），超多的地图，大量的英雄，全球玩家排行榜，喜欢塔防的必玩之作。<br><br>建议单机玩的时候开MOD，联机就注意点别太过分了。",
           "pkg": "com.netflix.NGP.BloonsTDSix",
           "video": "https://www.ixigua.com/7317303044289495588"
+        },
+        {
+          "desc": "喜欢塔防的，最新作的《王国保卫战》无论如何都要玩一下",
+          "pkg": "com.ironhidegames.android.kingdomrush.alliance"
         },
         {
           "desc": "国际版叫【死亡细胞】中国版叫【重生细胞】，致敬银河恶魔城，手机常备，常玩常新<br><font color=\"#ff\">手残党建议开MOD玩，毕竟游戏再好玩，打不过就是不好玩</font>",
