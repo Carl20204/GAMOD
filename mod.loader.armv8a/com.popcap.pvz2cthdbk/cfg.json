@@ -1,59 +1,47 @@
 {
+  "time": 1730332800009,
+  "label": "植物大战僵尸2",
+  "pkgname": "com.popcap.pvz2cthdbk",
+  "publisher": "拓维",
+  "vername": "3.5.5",
+  "vercode": 1600,
+  "gms":1,
+  "tags": ["中文","强制联网","实名制","塔防","收集"],
+  "archs": ["arm64-v8a"],
+  "info": "拓维运营，与EA运营的国际版差异巨大：植物养成与强化、植物与僵尸种类、小游戏玩法，除了核心塔防玩法外与前几个世界外，其它内容全都不一样。\nPS：在逼肝骗氪方面，双方惊人的一致，没钱没时间的，千万别掉坑里。",
   "faqs": {
     "游戏值得玩不？": "《植物大战僵尸》这个名字就代表了保底985/211的品质，虽然逼肝骗氪……",
     "中国版和国际版哪个好？": "国际版没有中文，常用英语词汇量不够的就算了。但国际版支持离线单机不用实名认证，纯粹的游戏乐趣方面比中国版舒服多了。",
     "吐槽一下": "连战斗加速都要花钱买，拓维这是穷疯了。零冲玩家请回避。"
   },
-  "gms": 1,
-  "info": "11周年庆，你的青春小鸟飞走了吗？",
-  "label": "植物大战僵尸2",
-  "time": 1726185600008,
-  "mod": false,
+  "downloads": [
+    {
+      "host": "拓维3.5.5直链",
+      "url": "http://pvz2apk-cdn.ditwan.cn/355/baokai_3.5.5_1600_30_dj2.0-2.0.0.apk"
+    },{
+      "host": "拓维官网",
+      "url": "http://game.talkweb.com.cn/"
+    }
+  ],
   "mods": [
     {
+      "name": "上帝模式",
       "descs": [
         "支持游戏9档变速，肝帝必备功能。",
         "支持全植物各项属性独立强化。",
         "无限大招、无限黄瓜，会极大破坏平衡，请谨慎使用",
         "全植物+满级，肝不动氪不动，又想体验全植物+终极形态时启用，请谨慎使用"
       ],
-      "name": "上帝模式",
       "pkgname": "com.popcap.pvz2cthdbk.gm64",
-      "targetvc": "1570",
-      "vercode": 6
+      "targetvc":"1600",
+      "vercode": 7
     }
   ],
-  "pkgname": "com.popcap.pvz2cthdbk",
-  "vercode": 1570,
-  "vername": "3.5.3",
-  "publisher": "拓维",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    6144,
-    10904
-  ],
-  "s3": 4608,
-  "tags": [
-    "中文",
-    "实名制",
-    "塔防",
-    "经典"
-  ],
-  "downloads": [
-    {
-      "host": "拓维3.5.3官网直链",
-      "url": "https://pvz2apk-cdn.ditwan.cn/3531570/baokai_3.5.3_1570_488_dj2.0-2.0.0.apk",
-      "var": false
-    },
-    {
-      "host": "拓维官网",
-      "url": "http://game.talkweb.com.cn/",
-      "var": false
-    }
+  "promotions": [
+    {"url": "https://ugame.9game.cn/game/share-235275-1182503.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1170034.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-3068140.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-3040427.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-575274.html"}
   ]
 }
