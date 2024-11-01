@@ -1,5 +1,5 @@
 {
-  "time": 1730332800173,
+  "time": 1730419200174,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -838,6 +838,12 @@
       "time": 1721433600000,
 	  "mtime": 1725321600000,
       "pkg": "com.HomeNetGames.WW1"
+    },
+    {
+      "label": "杀戮尖塔",
+      "time": 1712102400000,
+	  "mtime": 1730419200000,
+      "pkg": "com.humble.SlayTheSpire"
     },
     {
       "label": "传说法师",
