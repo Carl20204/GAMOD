@@ -1,5 +1,5 @@
 {
-  "ts": 1729987200002,
+  "ts": 1729987200003,
   "pic": "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a/mod.loader.armv8a/proms/cover.png",
   "desc": "经典推荐",
   "tags": [
@@ -95,32 +95,35 @@
         }
       ]
     },{
-      "title": "小众精品",
+      "title": "爆款小众",
       "items": [
         {
-          "desc": "虽然小众，但好玩啊……",
+          "desc": "怒之铁拳，老牌游戏了，口碑爆款，但还是属于小众类型……",
           "pkg": "com.playdigious.sor4"
         },{
-          "desc": "虽然小众，但好玩啊……",
+          "desc": "玩着太上头了，MOD大神搞出一堆功能，就是为了自己爽……",
+          "pkg": "com.wildsky.wildcastle"
+        },{
+          "desc": "王国系列游戏，玩法独特，口碑爆款，小众精品……",
           "pkg": "com.rawfury.kingdom2crowns"
         },{
-          "desc": "虽然小众，但好玩啊...",
+          "desc": "MOD大神推荐，为啥这游戏的MOD功能超多，因为大神自己要玩...",
           "pkg": "com.dream.dale"
         },{
-          "desc": "虽然小众，但好玩啊...",
+          "desc": "MOD大神从抖音上看主机平台游戏直播发现的好游戏，既然官方移植手机了，上MOD...",
           "pkg": "com.humblebundle.wizardoflegend",
           "video": "https://www.ixigua.com/7170246100111557134"
         },{
-          "desc": "虽然小众，但好玩啊...",
+          "desc": "杀戮尖塔口碑也是超火过的，但主机平台的爆款，手机上肯定是小众，哪有那么多硬核玩家...",
           "pkg": "com.humble.SlayTheSpire"
         },{
-          "desc": "虽然小众，但好玩啊...",
+          "desc": "游戏太硬核，不适合大众...",
           "pkg": "com.flaregames.zgs"
         },{
-          "desc": "虽然小众，但好玩啊...",
+          "desc": "MOD大神已经满级了...",
           "pkg": "com.futureplay.mergematch"
         },{
-          "desc": "虽然小众，但好玩啊...",
+          "desc": "20年前的网吧爆款，放在现在手机平台当然属于小众了...",
           "pkg": "com.sigmateam.alienshooter2reloaded"
         }
       ]

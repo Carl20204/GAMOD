@@ -5,23 +5,23 @@
   "gms": 2,
   "info": "成长城堡类型，【皇室战争】【部落冲突】画风，弱联网有全球玩家排行榜",
   "label": "狂野城堡：王国统治",
-  "time": 1728000000008,
+  "time": 1730764800008,
   "mod": true,
   "mods": [
     {
       "descs": [
         "自动激活免广告，跳过谷歌加固验证",
-        "可选菜单，可调节英雄技能CD、法力，金币收入等"
+        "可选菜单，可调节无伤、技能CD、法力，金币、代币、点金石、所有内购商品等等等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.wildsky.wildcastle.gm64",
-      "targetvc": "5374",
-      "vercode": 2
+      "targetvc": "5405",
+      "vercode": 3
     }
   ],
   "pkgname": "com.wildsky.wildcastle",
-  "vercode": 5374,
-  "vername": "1.59.8",
+  "vercode": 5405,
+  "vername": "1.61.9",
   "publisher": "Funovus",
   "s1": [
     512,
@@ -33,13 +33,12 @@
     6144,
     10904
   ],
-  "s3": 1024,
+  "s3": 2048,
   "tags": [
     "中文",
     "塔防",
     "放置",
     "成长",
-    "弱联网",
     "谷歌加固"
   ],
   "downloads": [
