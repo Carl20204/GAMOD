@@ -1,5 +1,5 @@
 {
-  "ts": 1729987200003,
+  "ts": 1729987200004,
   "pic": "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a/mod.loader.armv8a/proms/cover.png",
   "desc": "经典推荐",
   "tags": [
@@ -125,6 +125,9 @@
         },{
           "desc": "20年前的网吧爆款，放在现在手机平台当然属于小众了...",
           "pkg": "com.sigmateam.alienshooter2reloaded"
+        },{
+          "desc": "曾经因为犯忌讳被全中国封杀，现在呢？",
+          "pkg": "com.miniclip.plagueinc"
         }
       ]
     }
