@@ -1,0 +1,61 @@
+{
+  "faqs": {
+    "不带MOD无法启动？": "游戏使用了新版谷歌加固，每个版本需要对应版本MOD过验证。\u003cbr\u003e\u003cbr\u003e如果游戏升级，MOD没有更新，请在墨魔豆的QQ圈子里吱一声，有人会通知作者更新。",
+    "我想玩老版本，旧版本MOD哪里找？": "墨魔豆客户端只显示最新版的游戏与MOD，想找旧版本，可以自己到github中搜索GAMOD项目，找之前的MOD文件手动下载即可。"
+  },
+  "gms": 2,
+  "info": "可以说是改的最好的【王国保卫战】手游，国际化3D卡通画风、战斗快节奏、公会、锦标赛、养成、完美的商业化套路，完美适合亚洲玩家，公会与排行榜上，以韩国、日本、台湾玩家为主。",
+  "label": "荒野天空：塔防",
+  "time": 1730246400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，跳过谷歌加固验证",
+        "可选菜单，可调节无伤、技能CD、技能强化、金币强化等等，刷公会、锦标赛、排行榜必备"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.wildsky.td.gm64",
+      "targetvc": "13702",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.wildsky.td",
+  "vercode": 13702,
+  "vername": "1.137.2",
+  "publisher": "Funovus",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 1024,
+  "tags": [
+    "中文",
+    "塔防",
+    "成长",
+    "谷歌加固"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/wild-castle-tower-defense-td/com.wildsky.td/download",
+      "var": false
+    }
+  ]
+}
