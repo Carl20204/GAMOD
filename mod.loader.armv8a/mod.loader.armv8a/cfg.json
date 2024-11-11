@@ -1,5 +1,5 @@
 {
-  "time": 1731110400177,
+  "time": 1731283200177,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -543,8 +543,8 @@
     },
     {
       "label": "崩溃大陆",
-      "time": 1649635200000,
-	  "mtime": 1714435200000,
+      "time": 1730246400000,
+	  "mtime": 1731283200000,
       "pkg": "com.bscotch.crashlands"
     },
     {

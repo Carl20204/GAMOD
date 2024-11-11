@@ -1,8 +1,8 @@
 {
   "gms": 2,
-  "info": "超大开放世界，无厘头的对话剧情，500多种合成装备道具，有趣的战斗体系，优点太多说不完怎么办？",
+  "info": "超大开放世界，无厘头的对话剧情，500多种合成装备道具，有趣的战斗体系，优点太多说不完怎么办？\u003cbr\u003e\u003cbr\u003e网盘分享的安装包是大神订制的无小广告纯净原版",
   "label": "崩溃大陆",
-  "time": 1649635200008,
+  "time": 1730246400008,
   "mod": true,
   "mods": [
     {
@@ -12,30 +12,31 @@
       "name": "上帝模式",
       "pkgname": "com.bscotch.crashlands.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.bscotch.crashlands",
-  "vercode": 100000119,
-  "vername": "100.0.199",
+  "vercode": 100000153,
+  "vername": "100.0.153",
   "publisher": "Butterscotch Shenanigans",
+  "s3": 0,
   "tags": [
     "中文",
     "单机",
     "生存",
     "收集",
     "剧情",
-    "RPG"
+    "付费版"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/h2C2gW6I",
       "var": false
     },
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/PuURFwt8",
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/K1AbQBjG",
       "var": false
     },
     {
