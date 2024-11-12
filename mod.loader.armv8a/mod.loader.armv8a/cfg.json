@@ -1,5 +1,5 @@
 {
-  "time": 1731369900177,
+  "time": 1731370000177,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1073,8 +1073,8 @@
     },
     {
       "label": "植物大战僵尸2",
-      "time": 1730332800002,
-	  "mtime": 1730332800003,
+      "time": 1731369600003,
+	  "mtime": 1731369600004,
       "pkg": "com.popcap.pvz2cthdbk"
     },
     {

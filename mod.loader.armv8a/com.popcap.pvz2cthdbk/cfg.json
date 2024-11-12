@@ -1,10 +1,10 @@
 {
-  "time": 1730332800009,
+  "time": 1731369600009,
   "label": "植物大战僵尸2",
   "pkgname": "com.popcap.pvz2cthdbk",
   "publisher": "拓维",
-  "vername": "3.5.5",
-  "vercode": 1600,
+  "vername": "3.5.6",
+  "vercode": 1605,
   "gms":1,
   "tags": ["中文","强制联网","实名制","塔防","收集"],
   "archs": ["arm64-v8a"],
@@ -16,8 +16,8 @@
   },
   "downloads": [
     {
-      "host": "拓维3.5.5直链",
-      "url": "http://pvz2apk-cdn.ditwan.cn/355/baokai_3.5.5_1600_30_dj2.0-2.0.0.apk"
+      "host": "拓维3.5.6直链下载",
+      "url": "https://pvz2apk-cdn.ditwan.cn/356/baokai_3.5.6_1605_46_dj2.0-2.0.0.apk"
     },{
       "host": "拓维官网",
       "url": "http://game.talkweb.com.cn/"
@@ -33,7 +33,7 @@
         "全植物+满级，肝不动氪不动，又想体验全植物+终极形态时启用，请谨慎使用"
       ],
       "pkgname": "com.popcap.pvz2cthdbk.gm64",
-      "targetvc":"1600",
+      "targetvc":"1605",
       "vercode": 7
     }
   ],
