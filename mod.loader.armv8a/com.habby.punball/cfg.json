@@ -35,8 +35,8 @@
         "菜单可选功能：强化各种特殊球的威力、触发几率等等。"
       ],
       "pkgname": "com.habby.punball.gm64",
-      "targetvc":"626",
-      "vercode": 5
+      "targetvc":"*",
+      "vercode": 6
     }
   ],
   "promotions": [
