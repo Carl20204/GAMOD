@@ -1,5 +1,5 @@
 {
-  "time": 1731369700177,
+  "time": 1731369800177,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -775,8 +775,8 @@
     },
     {
       "label": "砰砰法师：国际版",
-      "time": 1730505600005,
-	  "mtime": 1730505600006,
+      "time": 1730505600006,
+	  "mtime": 1730505600007,
       "pkg": "com.habby.punball"
     },
     {
