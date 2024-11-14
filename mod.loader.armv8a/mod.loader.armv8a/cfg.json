@@ -1,5 +1,5 @@
 {
-  "time": 1731370000177,
+  "time": 1731542400178,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1204,6 +1204,12 @@
       "time": 1731024000000,
 	  "mtime": 1731024000001,
       "pkg": "com.wildsky.td"
+    },
+    {
+      "label": "合成战争：超级军团指挥官",
+      "time": 1730937600000,
+	  "mtime": 1731542400000,
+      "pkg": "com.wildsky.wildarmydraft"
     },
     {
       "label": "狂野城堡：王国统治",
