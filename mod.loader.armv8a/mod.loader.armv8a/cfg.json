@@ -1,5 +1,5 @@
 {
-  "time": 1731542400178,
+  "time": 1731628800179,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -938,6 +938,12 @@
       "time": 1709078400000,
 	  "mtime": 1715817600000,
       "pkg": "com.netflix.NGP.Moonlighter"
+    },
+    {
+      "label": "空中乱战",
+      "time": 1700784000000,
+	  "mtime": 1731628800000,
+      "pkg": "com.netflix.NGP.SkiesOfChaos"
     },
     {
       "label": "古墓丽影：重装上阵",
