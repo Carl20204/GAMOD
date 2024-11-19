@@ -6,7 +6,7 @@
   "gms": 2,
   "info": "可以说是改的最好的【王国保卫战】手游，国际化3D卡通画风、战斗快节奏、公会、锦标赛、养成、完美的商业化套路，完美适合亚洲玩家，公会与排行榜上，以韩国、日本、台湾玩家为主。",
   "label": "荒野天空：塔防",
-  "time": 1731024000008,
+  "time": 1731628800008,
   "mod": true,
   "mods": [
     {
@@ -16,13 +16,13 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.wildsky.td.gm64",
-      "targetvc": "13704",
-      "vercode": 2
+      "targetvc": "13803",
+      "vercode": 4
     }
   ],
   "pkgname": "com.wildsky.td",
-  "vercode": 13704,
-  "vername": "1.137.4",
+  "vercode": 13803,
+  "vername": "1.138.3",
   "publisher": "Funovus",
   "s1": [
     512,
