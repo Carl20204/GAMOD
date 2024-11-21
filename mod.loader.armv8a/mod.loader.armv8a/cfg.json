@@ -1,5 +1,5 @@
 {
-  "time": 1732147200180,
+  "time": 1732147300180,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -775,8 +775,8 @@
     },
     {
       "label": "卡皮巴拉 Go!",
-      "time": 1731974400000,
-	  "mtime": 1732147200000,
+      "time": 1732147200000,
+	  "mtime": 1732147200001,
       "pkg": "com.habby.capybara"
     },
     {
