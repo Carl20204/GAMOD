@@ -1,5 +1,5 @@
 {
-  "time": 1732147300180,
+  "time": 1732320000181,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -666,6 +666,12 @@
       "time": 1724284800000,
 	  "mtime": 1725321600007,
       "pkg": "com.dream.dale"
+    },
+    {
+      "label": "皇室三消",
+      "time": 1731542400000,
+	  "mtime": 1732320000000,
+      "pkg": "com.dreamgames.royalmatch"
     },
     {
       "label": "浪人：末代武士",

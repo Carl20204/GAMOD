@@ -1,0 +1,55 @@
+{
+  "gms": 2,
+  "info": "这种三消游戏，又没中文，为啥出它的MOD？?\u003cbr\u003e\u003cbr\u003e最近抖音上【跃动小子】的虚假广告看多了，就找了找广告来源，原来是本作内置的小游戏\u003cbr\u003e\u003cbr\u003e如果你也被这些假广告骗过，就来玩一下广告游戏吧，用MOD快速过主线，专心玩广告展示的小游戏即可",
+  "label": "皇室三消",
+  "time": 1731542400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，更多步数、道具"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.dreamgames.royalmatch.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.dreamgames.royalmatch",
+  "vercode": 25234,
+  "vername": "25234",
+  "publisher": "Dream Games, Ltd.",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "英文",
+    "休闲",
+    "三消"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.com/cn/royal-match/com.dreamgames.royalmatch",
+      "var": false
+    }
+  ]
+}
