@@ -1,5 +1,5 @@
 {
-  "time": 1732320000181,
+  "time": 1732579200182,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -986,6 +986,12 @@
       "time": 1728950400002,
 	  "mtime": 1728950400003,
       "pkg": "com.nspgames.dungeonslasher"
+    },
+    {
+      "label": "异星入侵\n围剿外星客",
+      "time": 1724976000000,
+	  "mtime": 1732579200000,
+      "pkg": "com.outplayentertainment.aliencreeps"
     },
     {
       "label": "弃船逃生",
