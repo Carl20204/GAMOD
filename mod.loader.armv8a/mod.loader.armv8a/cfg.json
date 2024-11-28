@@ -1,5 +1,5 @@
 {
-  "time": 1732752200182,
+  "time": 1732752300182,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -764,8 +764,8 @@
     },
     {
       "label": "荟萃花园",
-      "time": 1726704000000,
-	  "mtime": 1726704000000,
+      "time": 1732233600000,
+	  "mtime": 1732752000000,
       "pkg": "com.futureplay.mergematch"
     },
     {
