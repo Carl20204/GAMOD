@@ -1,8 +1,11 @@
 {
+  "faqs": {
+    "最近版本更新说明": "从2.7.2到2.8.1：连续调整法杖掉率，与STEAM版本同步\u003cbr\u003e2.6.8：修复失落世界问题，修复Boss战无法结束问题\u003cbr\u003e2.4.1：增加夏日礼包\u003cbr\u003e2.0.1：增加局域网连接"
+  },
   "gms": 2,
   "info": "肉鸽地牢射击，《元气骑士》是更换武器，本作则是N种元素+N套皮肤+N种法术排列组合的肉鸽乐趣。\u003cbr\u003e\u003cbr\u003e喜欢《元气骑士》此类的，一定要玩玩这款，强烈推荐的",
   "label": "元素世界",
-  "time": 1721088000008,
+  "time": 1724976000008,
   "mod": false,
   "mods": [
     {
@@ -13,14 +16,25 @@
       ],
       "name": "上帝模式",
       "pkgname": "julyhot.elementalworld.gm64",
-      "targetvc": "61",
-      "vercode": 4
+      "targetvc": "*",
+      "vercode": 5
     }
   ],
   "pkgname": "julyhot.elementalworld",
-  "vercode": 61,
-  "vername": "2.4.1",
+  "vercode": 67,
+  "vername": "2.8.1",
   "publisher": "SoulGlen Games",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
   "tags": [
     "中文",
     "肉鸽",
@@ -29,16 +43,16 @@
   "downloads": [
     {
       "host": "小飞机网盘分享",
-      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "url": "https://share.feijipan.com/s/f8USV6Yl",
       "var": false
     },
     {
       "host": "小飞机网盘分享",
-      "url": "https://share.feijipan.com/s/gJUSGXYM",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
       "var": false
     },
     {
-      "host": "apkpure[翻墙]",
+      "host": "下载页【翻墙】",
       "url": "https://apkpure.net/cn/elemental-world-adventure/julyhot.elementalworld/download",
       "var": true
     }

@@ -1,5 +1,5 @@
 {
-  "time": 1732752300182,
+  "time": 1732838400182,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1301,8 +1301,8 @@
     },
     {
       "label": "元素世界",
-      "time": 1721088000000,
-	  "mtime": 1721347200001,
+      "time": 1724976000000,
+	  "mtime": 1732838400000,
       "pkg": "julyhot.elementalworld"
     },
     {
