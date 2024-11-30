@@ -6,7 +6,7 @@
   "gms": 2,
   "info": "肉鸽地牢射击，《元气骑士》是更换武器，本作则是N种元素+N套皮肤+N种法术排列组合的肉鸽乐趣。\u003cbr\u003e\u003cbr\u003e喜欢《元气骑士》此类的，一定要玩玩这款，强烈推荐的",
   "label": "元素世界",
-  "time": 1724976000018,
+  "time": 1724976000028,
   "mod": false,
   "mods": [
     {
@@ -17,7 +17,7 @@
       ],
       "name": "上帝模式",
       "pkgname": "julyhot.elementalworld.gm64",
-      "targetvc": "*",
+      "targetvc": "67",
       "vercode": 6
     }
   ],
