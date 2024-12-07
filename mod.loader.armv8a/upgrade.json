@@ -6,8 +6,8 @@
   "vercode": 232,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "F95F72AF5BF552F4587D96819E4EE3F7",
-  "size": 4203572,
+  "md5": "CD35334D830C1C20A8DAB6C8300ECA7D",
+  "size": 4203560,
   "logs": {
     "en": "支持安卓15（测试机型红米K40），支持游戏搜索",
     "zh": "支持安卓15（测试机型红米K40），支持游戏搜索"
