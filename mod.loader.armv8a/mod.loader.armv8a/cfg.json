@@ -1,5 +1,5 @@
 {
-  "time": 1733097600182,
+  "time": 1733702400182,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -463,7 +463,7 @@
     {
       "label": "帝国守卫战",
       "time": 1720396800000,
-      "mtime": 1720509600000,
+      "mtime": 1733702400000,
       "pkg": "com.babeltimeus.legendstd"
     },
     {
