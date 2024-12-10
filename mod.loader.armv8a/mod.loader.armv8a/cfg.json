@@ -1,5 +1,5 @@
 {
-  "time": 17337888000182,
+  "time": 17337888100182,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -473,7 +473,8 @@
     },
     {
       "label": "疾病",
-      "time": 1708992000002,
+      "time": 1729641600000,
+      "mtime": 1733788800000,
       "pkg": "com.BeardyBird.Ailment"
     },
     {
