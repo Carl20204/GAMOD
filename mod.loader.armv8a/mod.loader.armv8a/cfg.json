@@ -1,5 +1,5 @@
 {
-  "time": 1733702500182,
+  "time": 17337888000182,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -478,7 +478,8 @@
     },
     {
       "label": "差不多英雄",
-      "time": 1708992000002,
+      "time": 1729123200000,
+      "mtime": 1733788800000,
       "pkg": "com.beesquare.almostahero"
     },
     {
