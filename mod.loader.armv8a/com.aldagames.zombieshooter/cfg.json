@@ -1,45 +1,65 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
+  "faqs": {
+    "游戏更新说明": "3.28.0（3.27.x，3.26.x） 更多的日常奖励、免费金币、赛季通行证\u003cbr\u003e\u003cbr\u003e3.25.x（3.24.x） 重构武器升级系统"
+  },
   "gms": 1,
-  "info": "一个好莱坞式的末世平民英雄的生存故事，剧情完整，战斗靠谱，值得玩。",
+  "info": "一个好莱坞式的末世平民英雄的生存故事，剧情完整（带语音），战斗靠谱，值得玩。\u003cbr\u003e\u003cbr\u003e安装包不到100M，主要是因为我的世界类型的低模3D画风超节省容量，玩起来可以参考经典游戏【3D像素射击】",
   "label": "行尸走肉2：僵尸射手",
-  "time": 1708905600008,
+  "time": 1733097600008,
   "mod": true,
   "mods": [
     {
       "descs": [
         "自动开启免广告，所有广告激励随意白嫖",
-        "可选菜单，各种武器强化玩起来更爽，无敌，。"
+        "可选菜单，各种武器强化玩起来更爽，无敌，免肝，免内购可以防氪。"
       ],
       "name": "上帝模式",
       "pkgname": "com.aldagames.zombieshooter.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.aldagames.zombieshooter",
-  "vercode": 114,
-  "vername": "3.13.0",
+  "vercode": 155,
+  "vername": "3.28.0",
   "publisher": "Alda Games",
-  "signmd5": "2A49A3D77808E221162BD707BBA13BFA",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "search": [
+    "丧尸",
+    "僵尸",
+    "步行僵尸",
+    "行尸走肉"
+  ],
   "tags": [
     "中文",
     "射击",
-    "僵尸",
     "生存",
     "剧情"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.aldagames.zombieshooter?versionCode\u003d114\u0026nc\u003darm64-v8a\u0026sv\u003d21",
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/RJURUs6b",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/SsBxSZB9",
       "var": false
     },
     {
       "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/the-walking-zombie-2-shooter/com.aldagames.zombieshooter/download",
+      "url": "https://apkpure.net/cn/the-walking-zombie-2-shooter/com.aldagames.zombieshooter",
       "var": false
     }
   ]

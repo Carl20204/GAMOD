@@ -1,5 +1,5 @@
 {
-  "time": 1733788900182,
+  "time": 1733789000182,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -407,7 +407,8 @@
     },
     {
       "label": "行尸走肉2：僵尸射手",
-      "time": 1708905600002,
+      "time": 1733097600000,
+      "mtime": 1733788800000,
       "pkg": "com.aldagames.zombieshooter"
     },
     {
