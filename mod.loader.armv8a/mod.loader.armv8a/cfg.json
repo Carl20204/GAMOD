@@ -1,5 +1,5 @@
 {
-  "time": 1733875200183,
+  "time": 1733875200184,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1313,6 +1313,12 @@
       "time": 1724976000020,
 	  "mtime": 1732838400001,
       "pkg": "julyhot.elementalworld"
+    },
+    {
+      "label": "火柴人联盟:竞技场",
+      "time": 1626393600000,
+	  "mtime": 1733075200000,
+      "pkg": "me.dreamsky.leagueofstickman"
     },
     {
       "label": "艾洛伊：防卫战争",
