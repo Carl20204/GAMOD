@@ -1,0 +1,58 @@
+{
+  "faqs": {
+    "切换中文": "游戏缺省英文，游戏加载完成进入首页后，右下角有个齿轮图标，点击【English】可以切换中文",
+    "游戏更新说明": "2024.11.25 v2.7.5 谷歌强制要求老游戏要么升级支持新系统，要么就下架，本游戏在10月、11月连续更新3次求生欲满满"
+  },
+  "gms": 2,
+  "info": "十几年前大火过一阵的手动弓箭塔防，之后此类玩法升级为【成长城堡】【狂野城堡】等放置数值塔防，现在回头看，就是一小品级游戏，但怀旧嘛不寒碜\u003cbr\u003e\u003cbr\u003e配合MOD功能，提高游戏节奏后玩还是挺有割草的感觉的",
+  "label": "猎魔勇士3",
+  "time": 1732492800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单：加速、免内购、金币、宝石、无CD等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.droidhen.defender3.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.droidhen.defender3",
+  "vercode": 153,
+  "vername": "2.7.5",
+  "publisher": "DroidHen",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "手动塔防"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/defender-iii/com.droidhen.defender3",
+      "var": true
+    }
+  ]
+}
