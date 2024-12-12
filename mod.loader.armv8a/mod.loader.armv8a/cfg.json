@@ -1,5 +1,5 @@
 {
-  "time": 1733961600184,
+  "time": 1733961700184,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1240,8 +1240,8 @@
     },
     {
       "label": "合成战争：超级军团指挥官",
-      "time": 1730937600000,
-	  "mtime": 1731542400000,
+      "time": 1733529600000,
+	  "mtime": 1733961600000,
       "pkg": "com.wildsky.wildarmydraft"
     },
     {
