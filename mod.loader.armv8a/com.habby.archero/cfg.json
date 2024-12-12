@@ -1,0 +1,62 @@
+{
+  "faqs": {
+    "游戏更新说明": "2024.12，v6.7.x，剧情模式增至94章，新皮肤、新武器、新宠物、新神器\u003cbr\u003e\u003cbr\u003e2024.11，v6.6.x，新系统、新技能、新皮肤等等",
+    "MOD说明": "MOD使用需节制，虽然是单机，但有弱联网功能，谨防删档！\u003cbr\u003e\u003cbr\u003e本MOD没有免广告，因为这是老MOD，相关代码也懒得找了，【技能】选项，部分技能也失效了，需要花时间查找，如果有需要的，可以到墨魔豆的QQ圈子里说一声，有人玩再补上",
+    "游戏更新建议": "中国区玩家，会翻墙，想下载安装谷歌商店原版游戏，但没有谷歌账号，建议使用如下谷歌商店替代品\u003cbr\u003e\u003cbr\u003e1。\u003ca href\u003dhttps://apkpure.net/cn\u003eapkpure.net\u003c/a\u003e 曾是全球最大的腾讯投资的谷歌商店替代品，优点是无需谷歌账号，通过网页直接下载安装包或旧版本安装包、缺点是部分游戏更新不太及时，或只更新32位/64位，出现遗漏。\u003cbr\u003e\u003cbr\u003e2。\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore\u003c/a\u003e，非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！"
+  },
+  "gms": 1,
+  "info": "Habby的弓箭传说、弹壳特攻队、蛇蛇贪吃、砰砰法师，都是很经典的，商业化非常成功的肉鸽游戏\u003cbr\u003e\u003cbr\u003e本作为商业化网游化的单机游戏，使用MOD需节制，以防被封",
+  "label": "弓箭传说：国际版",
+  "time": 1733184000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "免广告白嫖奖励"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.habby.archero.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.habby.archero",
+  "vercode": 1,
+  "vername": "6.7.2",
+  "publisher": "habby",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "休闲",
+    "肉鸽",
+    "射击",
+    "网游化单机"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/f8USV6Yl",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.com/cn/capybara-go/com.habby.capybara",
+      "var": false
+    }
+  ]
+}
