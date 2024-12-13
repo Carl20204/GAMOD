@@ -1,5 +1,5 @@
 {
-  "time": 1733961900185,
+  "time": 1734048000187,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1019,6 +1019,18 @@
       "time": 1724112000000,
 	  "mtime": 1730246400000,
       "pkg": "com.pid.elderand"
+    },
+    {
+      "label": "太空刑警2",
+      "time": 1693785600000,
+	  "mtime": 1734048000000,
+      "pkg": "com.pixelbite.sm2"
+    },
+    {
+      "label": "太空刑警3",
+      "time": 1616198400000,
+	  "mtime": 1734048000000,
+      "pkg": "com.pixelbite.sm3"
     },
     {
       "label": "培养地牢英雄",
