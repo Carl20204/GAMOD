@@ -1,0 +1,62 @@
+{
+  "faqs": {
+    "多语言更换说明": "进入游戏首页后，右上角【齿轮】图标，然后是选项列表里倒数第三个【聊天】图标，点击可切换简体中文、繁体中文等多国语言",
+    "桌面游戏说明": "从apkpure下载的谷歌原版安装包，启动卡在数据下载页面，MOD做了修复，只要带着MOD启动一下游戏，之后桌面版也可以正常玩不卡下载页面了"
+  },
+  "gms": 1,
+  "info": "10年前的游戏了，放在现在，画质看着还是很好，体验也很舒服，没有逼肝逼氪，单纯的游戏\u003cbr\u003e\u003cbr\u003e喜欢类似的，广告推荐一款【朋克大暴走】，同学做的MOD，墨魔豆里直接搜【暴走】就能找到",
+  "label": "异形工厂",
+  "time": 1616198400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活完整版",
+        "可选菜单：满血、无限开火、秒杀、积分收益大幅增加"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.pixelbite.mutant.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.pixelbite.mutant",
+  "vercode": 161,
+  "vername": "1.6.1",
+  "publisher": "Pixelbite",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "动作",
+    "射击",
+    "怀旧",
+    "经典"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/h2C2gW6I",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/K1AbQBjG",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/xenowerk/com.pixelbite.mutant",
+      "var": true
+    }
+  ]
+}
