@@ -1,0 +1,51 @@
+{
+  "faqs": {
+    "游戏更新建议": "中国区玩家，会翻墙，想下载安装谷歌商店原版游戏，但没有谷歌账号，没有谷歌服务，建议使用如下谷歌商店替代品\u003cbr\u003e\u003cbr\u003e1。\u003ca href\u003dhttps://apkpure.net/cn\u003eapkpure.net\u003c/a\u003e 曾是全球最大的腾讯投资的谷歌商店替代品，优点是无需谷歌账号，通过网页直接下载安装包或旧版本安装包、缺点是部分游戏更新不太及时，或只更新32位/64位，出现遗漏。\u003cbr\u003e\u003cbr\u003e2。\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore\u003c/a\u003e，非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！",
+    "MOD更新说明": "本游戏MOD为通用型，游戏升级无需换MOD，建议直接用AuroraStore或apkpure更新游戏即可。\u003cbr\u003e\u003cbr\u003e如果游戏升级出现MOD失效或异常，可以到墨魔豆的QQ圈子里说一声，有群友会通知到作者更新"
+  },
+  "gms": 2,
+  "info": "幸存者类型游戏，【吸血鬼幸存者】玩腻了，【弹壳特攻队】太商业化了，【土豆兄弟】内容不够，剔除这三款最流行的，剩下的就看谁家换皮更好看，填充的玩法多了。\u003cbr\u003e\u003cbr\u003e本作画面还行，看图标就知道是东亚二次元画风，纯3D建模非像素风。但缺点是中文翻译不全，部分文本还是英文",
+  "label": "幸存者传奇",
+  "time": 1733529600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告",
+        "可选菜单可调节技能CD、减伤、速度等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.abi.legendofsurvivors.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.abi.legendofsurvivors",
+  "vercode": 145,
+  "vername": "1.1.12",
+  "publisher": "ABI Games Studio",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "动作",
+    "肉鸽",
+    "幸存者"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/gJUSGXYM",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/legend-of-survivors/com.abi.legendofsurvivors",
+      "var": false
+    }
+  ]
+}

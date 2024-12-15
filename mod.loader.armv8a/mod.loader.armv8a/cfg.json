@@ -1,5 +1,5 @@
 {
-  "time": 1734048000188,
+  "time": 1734048000189,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -383,6 +383,12 @@
       "label": "弓箭猎手",
       "time": 1708905600002,
       "pkg": "co.imba.archero"
+    },
+    {
+      "label": "幸存者传奇",
+      "time": 1733529600000,
+	  "mtime": 1733788800000,
+      "pkg": "com.abi.legendofsurvivors"
     },
     {
       "label": "糖果灾难",
