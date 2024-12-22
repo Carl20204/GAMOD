@@ -1,5 +1,5 @@
 {
-  "time": 1734048000189,
+  "time": 1734825600190,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1127,6 +1127,12 @@
       "time": 1719964800000,
 	  "mtime": 1720483200000,
       "pkg": "com.playrix.gardenscapes"
+    },
+    {
+      "label": "小丑牌",
+      "time": 1732838400000,
+	  "mtime": 1734825600000,
+      "pkg": "com.playstack.balatro.android"
     },
     {
       "label": "吸血鬼幸存者",
