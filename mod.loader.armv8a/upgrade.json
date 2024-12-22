@@ -1,13 +1,13 @@
 {
-  "vername": "2.3.2",
+  "vername": "2.3.2(b)",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
   "vercode": 232,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "CD35334D830C1C20A8DAB6C8300ECA7D",
-  "size": 4203560,
+  "md5": "6D121B6FF713228840B385683BBFA7E9",
+  "size": 4203732,
   "logs": {
     "en": "支持安卓15（测试机型红米K40），支持游戏搜索",
     "zh": "支持安卓15（测试机型红米K40），支持游戏搜索"
