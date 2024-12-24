@@ -1,5 +1,5 @@
 {
-  "time": 1734825600190,
+  "time": 1734998400193,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1175,6 +1175,24 @@
       "time": 1727827200010,
 	  "mtime": 1727827200003,
       "pkg": "com.RedNexusGamesInc.Peglin"
+    },
+    {
+      "label": "60秒！避难所",
+      "time": 1724112000000,
+	  "mtime": 1734912000000,
+      "pkg": "com.robotgentleman.game60seconds"
+    },
+    {
+      "label": "60秒！重新裂变",
+      "time": 1724112000000,
+	  "mtime": 1734912000001,
+      "pkg": "com.RobotGentleman.game60SecondsReatomized"
+    },
+    {
+      "label": "60秒差距",
+      "time": 1724112000000,
+	  "mtime": 1734912000002,
+      "pkg": "com.RobotGentleman.sixtyParsecs.mobile"
     },
     {
       "label": "我的小小宇宙",

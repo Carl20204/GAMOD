@@ -1,0 +1,60 @@
+{
+  "faqs": {
+    "游戏更新建议": "中国区玩家，会翻墙，但没有谷歌账号，建议使用如下谷歌商店替代品\u003cbr\u003e\u003cbr\u003e1。\u003ca href\u003dhttps://apkpure.net/cn\u003eapkpure.net\u003c/a\u003e 曾是全球最大的腾讯投资的谷歌商店替代品，优点是无需谷歌账号，通过网页直接下载安装包或旧版本安装包、缺点是部分游戏更新不太及时，或只更新32位/64位，出现遗漏。\u003cbr\u003e\u003cbr\u003e2。\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore\u003c/a\u003e，非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！",
+    "MOD更新说明": "本游戏MOD为通用型，游戏升级无需换MOD，建议直接用AuroraStore或apkpure更新游戏即可。\u003cbr\u003e\u003cbr\u003e如果游戏升级出现MOD失效或异常，可以到墨魔豆的QQ圈子里说一声，有群友会通知到作者更新"
+  },
+  "gms": 1,
+  "info": "60秒系列的太空版本，比避难所/重新裂变两作复杂多了，喜欢休闲轻松的，建议玩重新裂变，喜欢高复杂度的玩本作\u003cbr\u003e\u003cbr\u003e网盘分享的是大神订制的无广告版本，推荐使用",
+  "label": "60秒差距",
+  "time": 1724112000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单可调节角色状态、物品等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.RobotGentleman.sixtyParsecs.mobile.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.RobotGentleman.sixtyParsecs.mobile",
+  "vercode": 2113,
+  "vername": "1.3.1.2113",
+  "publisher": "Robot Gentleman",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "生存",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/mgEMpWd5",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/z9EMpdYU",
+      "var": false
+    },
+    {
+      "host": "翻墙|游戏下载页",
+      "url": "https://apkpure.net/cn/60-parsecs/com.RobotGentleman.sixtyParsecs.mobile",
+      "var": true
+    }
+  ]
+}
