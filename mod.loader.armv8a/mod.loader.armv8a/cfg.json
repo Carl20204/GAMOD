@@ -1,5 +1,5 @@
 {
-  "time": 1734998400193,
+  "time": 1735430400194,
   "pkgname": "mod.loader.armv8a",
   "promotions": [
     {
@@ -1256,6 +1256,12 @@
       "time": 1691452800000,
 	  "mtime": 1728345600001,
       "pkg": "com.the10tons.neonchrome"
+    },
+    {
+      "label": "渎神",
+      "time": 1734307200000,
+	  "mtime": 1735430400000,
+      "pkg": "com.thegamekitchen.blasphemousmobile"
     },
     {
       "label": "神枪手强尼",
