@@ -1,16 +1,16 @@
 {
-  "vername": "2.3.2(b)",
+  "vername": "2.3.3",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 232,
+  "vercode": 233,
   "min_sdk_version": 24,
   "target_sdk_version": 26,
-  "md5": "6D121B6FF713228840B385683BBFA7E9",
-  "size": 4203732,
+  "md5": "BA2FC3C01E4CF05B183F2C1FEEF19D3D",
+  "size": 4184540,
   "logs": {
-    "en": "支持安卓15（测试机型红米K40），支持游戏搜索",
-    "zh": "支持安卓15（测试机型红米K40），支持游戏搜索"
+    "en": "完善了游戏的备份/还原功能，换设备与卸载重装可以不丢游戏进度了",
+    "zh": "完善了游戏的备份/还原功能，换设备与卸载重装可以不丢游戏进度了"
   },
   "i": false
 }
