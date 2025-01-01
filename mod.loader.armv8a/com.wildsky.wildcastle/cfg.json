@@ -6,7 +6,7 @@
   "gms": 2,
   "info": "成长城堡类型塔防，【部落冲突】类型的国际化卡通3D画风，有全球玩家排行榜，以日本、韩国、台湾玩家为主。",
   "label": "狂野城堡：王国统治",
-  "time": 1733184000008,
+  "time": 1735603200008,
   "mod": true,
   "mods": [
     {
@@ -16,13 +16,13 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.wildsky.wildcastle.gm64",
-      "targetvc": "5418",
-      "vercode": 5
+      "targetvc": "5440",
+      "vercode": 6
     }
   ],
   "pkgname": "com.wildsky.wildcastle",
-  "vercode": 5418,
-  "vername": "1.63.4",
+  "vercode": 5440,
+  "vername": "1.66.4",
   "publisher": "Funovus",
   "s1": [
     512,
