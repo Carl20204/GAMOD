@@ -5,7 +5,7 @@
   "gms": 2,
   "info": "\u003cfont color\u003d\"#ff0000\"\u003e200种植物，每种植物10+200级\u003c/font\u003e，喜欢新鲜的，喜好收集养成的狂喜……",
   "label": "植物大战僵尸2：国际版",
-  "time": 1732579200008,
+  "time": 1737158400008,
   "mod": true,
   "mods": [
     {
@@ -17,13 +17,13 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.ea.game.pvz2_na.gm64",
-      "targetvc": "900",
-      "vercode": 8
+      "targetvc": "906",
+      "vercode": 9
     }
   ],
   "pkgname": "com.ea.game.pvz2_na",
-  "vercode": 900,
-  "vername": "11.9.1",
+  "vercode": 906,
+  "vername": "12.0.1",
   "publisher": "EA（美国艺电）",
   "s1": [
     256,
@@ -54,7 +54,7 @@
     },
     {
       "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/downloading",
+      "url": "https://apkpure.net/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na",
       "var": true
     }
   ]

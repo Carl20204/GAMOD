@@ -1,8 +1,8 @@
 {
   "gms": 1,
-  "info": "\u003cfont color\u003d\"#ff0000\"\u003e经典中的经典\u003c/font\u003e，建议手机常驻。\u003cbr\u003e\u003cbr\u003e赞一下EA，2024年了，还在持续做优化更新的维护。",
+  "info": "\u003cfont color\u003d\"#ff0000\"\u003e经典中的经典\u003c/font\u003e，建议手机常驻。\u003cbr\u003e\u003cbr\u003e赞一下，2025年了，EA还在持续进行更新维护。",
   "label": "植物大战僵尸：国际版",
-  "time": 1733875200008,
+  "time": 1737158400008,
   "mod": false,
   "mods": [
     {
@@ -12,13 +12,13 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.ea.game.pvzfree_row.gm64",
-      "targetvc": "365",
-      "vercode": 13
+      "targetvc": "366",
+      "vercode": 14
     }
   ],
   "pkgname": "com.ea.game.pvzfree_row",
-  "vercode": 365,
-  "vername": "3.8.0",
+  "vercode": 366,
+  "vername": "3.8.1",
   "publisher": "EA（美国艺电）",
   "s1": [
     256,
