@@ -1,0 +1,38 @@
+{
+  "gms": 1,
+  "label": "黑暗地牢",
+  "time": 1724803200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "别刷排行榜太狠了。"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.redzaam.dsd.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.redzaam.dsd",
+  "vercode": 147,
+  "vername": "1.47",
+  "publisher": "Stepa Mobile Games",
+  "s3": 0,
+  "tags": [
+    "英文",
+    "地牢"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.com/cn/darkside-dungeon-roguelike-rpg/com.redzaam.dsd/download",
+      "var": true
+    },
+    {
+      "host": "网盘下载",
+      "url": "https://share.feijipan.com/s/mXCh5CTw",
+      "var": false
+    }
+  ]
+}
