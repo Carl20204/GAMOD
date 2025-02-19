@@ -1,16 +1,16 @@
 {
-  "vername": "2.3.3",
+  "vername": "2.3.4",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 233,
+  "vercode": 234,
   "min_sdk_version": 24,
-  "target_sdk_version": 26,
-  "md5": "BA2FC3C01E4CF05B183F2C1FEEF19D3D",
-  "size": 4184540,
+  "target_sdk_version": 29,
+  "md5": "96FABB0A73DA78A058AFA0683F7B081C",
+  "size": 4168699,
   "logs": {
-    "en": "完善了游戏的备份/还原功能，换设备与卸载重装可以不丢游戏进度了",
-    "zh": "完善了游戏的备份/还原功能，换设备与卸载重装可以不丢游戏进度了"
+    "en": "安卓15兼容性修复：基于2025年2月中旬发布的红米K40的LineageOS（安卓15）可完美运行",
+    "zh": "安卓15兼容性修复：基于2025年2月中旬发布的红米K40的LineageOS（安卓15）可完美运行"
   },
   "i": false
 }
