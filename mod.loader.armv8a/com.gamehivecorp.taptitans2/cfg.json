@@ -1,0 +1,61 @@
+{
+  "faqs": {
+    "游戏更新建议": "MOD为通用版本，自己到应用市场更新游戏，无需更换MOD。\u003cbr\u003e\u003cbr\u003e中国区玩家，会翻墙的，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e，非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，又快又全！"
+  },
+  "gms": 2,
+  "info": "点击放置类的鼻祖，2025年版本，快来加入公会刷爆全球玩家吧",
+  "label": "点杀泰坦2：国际版",
+  "time": 1738972800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活VIP免广告功能",
+        "可选菜单，可调节游戏速度、自动点击、技能无消耗、免费升级"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.gamehivecorp.taptitans2.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.gamehivecorp.taptitans2",
+  "vercode": 707010,
+  "vername": "7.7.1",
+  "publisher": "Game Hive Corporation",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 1024,
+  "tags": [
+    "中文",
+    "弱联网",
+    "休闲",
+    "放置",
+    "点击"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/tap-titans-2-clicker-idle-rpg/com.gamehivecorp.taptitans2/download",
+      "var": true
+    }
+  ]
+}
