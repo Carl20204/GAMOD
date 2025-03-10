@@ -1,8 +1,12 @@
 {
+  "faqs": {
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！",
+    "MOD更新说明": "本MOD基于游戏在2025年3月更新的7.8.1版本，如果游戏更新，MOD没有更新的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理"
+  },
   "gms": 1,
   "info": "\u003cfont color\u003d\"#ff0000\"\u003e《梦幻家园》《梦幻花园》\u003c/font\u003e，每月固定更新全新的赛季+合成+探险活动。永远不缺新鲜内容",
   "label": "梦幻家园",
-  "time": 1720137600008,
+  "time": 1741219200008,
   "mod": true,
   "mods": [
     {
@@ -11,14 +15,15 @@
       ],
       "name": "休闲模式",
       "pkgname": "com.playrix.homescapes.gm64",
-      "targetvc": "150007202",
-      "vercode": 8
+      "targetvc": "150007801",
+      "vercode": 10
     }
   ],
   "pkgname": "com.playrix.homescapes",
-  "vercode": 150007202,
-  "vername": "7.2.2",
+  "vercode": 150007801,
+  "vername": "7.8.1",
   "publisher": "Playrix",
+  "s3": 0,
   "tags": [
     "中文",
     "休闲",
@@ -28,13 +33,13 @@
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
+      "host": "网盘分享",
       "url": "https://share.feijipan.com/s/jQAbnNGS",
       "var": false
     },
     {
       "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/homescapes-android/com.playrix.homescapes/download",
+      "url": "https://apkpure.net/cn/homescapes-android/com.playrix.homescapes/",
       "var": false
     }
   ]

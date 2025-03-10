@@ -1,5 +1,5 @@
 {
-  "time": 1741478400198,
+  "time": 1741564800199,
   "pkgname": "mod.loader.armv8a",
   "search": ["泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","崩溃大陆","小丑牌","幸存者","塔防"],
   "promotions": [
@@ -1131,21 +1131,27 @@
     },
     {
       "label": "梦幻水族箱",
-      "time": 1720137600000,
-	  "mtime": 1720483200000,
+      "time": 1741478400000,
+	  "mtime": 1741564800000,
       "pkg": "com.playrix.fishdomdd.gplay"
     },
     {
       "label": "梦幻家园",
-      "time": 1720137600000,
-	  "mtime": 1720483200000,
+      "time": 1741219200000,
+	  "mtime": 1741564800000,
       "pkg": "com.playrix.homescapes"
     },
     {
       "label": "梦幻花园",
-      "time": 1719964800000,
-	  "mtime": 1720483200000,
+      "time": 1741219200000,
+	  "mtime": 1741564800000,
       "pkg": "com.playrix.gardenscapes"
+    },
+    {
+      "label": "奇屋寻踪",
+      "time": 1741478400000,
+	  "mtime": 1741564800000,
+      "pkg": "com.playrix.manormatters"
     },
     {
       "label": "小丑牌",

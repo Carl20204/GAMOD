@@ -1,8 +1,12 @@
 {
+  "faqs": {
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！",
+    "MOD更新说明": "本MOD基于游戏在2025年3月更新的8.7.5.0版本，如果游戏更新，MOD没有更新的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理"
+  },
   "gms": 1,
   "info": "自己动手装饰特色鱼缸，和Playrix自家的「梦幻家园」「梦幻花园」的装饰主线不太一样",
   "label": "梦幻水族箱",
-  "time": 1720137600008,
+  "time": 1741478400008,
   "mod": true,
   "mods": [
     {
@@ -11,14 +15,25 @@
       ],
       "name": "休闲模式",
       "pkgname": "com.playrix.fishdomdd.gplay.gm64",
-      "targetvc": "933082300",
-      "vercode": 3
+      "targetvc": "1002581208",
+      "vercode": 5
     }
   ],
   "pkgname": "com.playrix.fishdomdd.gplay",
-  "vercode": 933082300,
-  "vername": "8.2.3.0",
+  "vercode": 1002581208,
+  "vername": "8.7.5.0",
   "publisher": "Playrix",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
   "tags": [
     "中文",
     "休闲",
@@ -28,14 +43,14 @@
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
+      "host": "网盘分享",
       "url": "https://share.feijipan.com/s/jQAbnNGS",
       "var": false
     },
     {
       "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/fishdom/com.playrix.fishdomdd.gplay/download",
-      "var": false
+      "url": "https://apkpure.net/cn/fishdom/com.playrix.fishdomdd.gplay",
+      "var": true
     }
   ]
 }
