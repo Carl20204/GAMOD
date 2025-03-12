@@ -1,0 +1,59 @@
+{
+  "faqs": {
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！",
+    "MOD更新说明": "本MOD基于游戏在2025年3月更新的2.22.0版本，理论上也支持后续版本，请自行去应用商店更新游戏，无需升级MOD。\u003cbr\u003e\u003cbr\u003e未来如果出现游戏更新，使用当前版本MOD功能失效的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理"
+  },
+  "gms": 2,
+  "info": "【地铁跑酷】原版人马出品，融合了跑酷和动作元素。\u003cbr\u003e\u003cbr\u003e游戏内中文翻译的不全，但不影响玩",
+  "label": "刀锋酷跑",
+  "time": 1741132800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可自由开关调整：无伤、磁铁、金币收益率、金币消费折扣、精华收益率、精华消费折扣"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.sybogames.brim.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.sybogames.brim",
+  "vercode": 14972,
+  "vername": "2.22.0",
+  "publisher": "SYBO Games",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "search": [
+    "地铁跑酷",
+    "布瑞姆之刃",
+    "边缘之刃”"
+  ],
+  "tags": [
+    "中文",
+    "国际版",
+    "跑酷"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://apkpure.net/cn/blades-of-brim/com.sybogames.brim/download",
+      "var": false
+    }
+  ]
+}
