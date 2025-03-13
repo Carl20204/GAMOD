@@ -1,5 +1,5 @@
 {
-  "time": 1741737600200,
+  "time": 1741824000201,
   "pkgname": "mod.loader.armv8a",
   "search": ["泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","崩溃大陆","小丑牌","幸存者","塔防"],
   "promotions": [
@@ -919,6 +919,12 @@
       "time": 1677888000000,
 	  "mtime": 1740009600000,
       "pkg": "com.jinthreestudio.brokenuniverse"
+    },
+    {
+      "label": "地铁跑酷：国际版",
+      "time": 1741564800000,
+	  "mtime": 1741824000000,
+      "pkg": "com.kiloo.subwaysurf"
     },
     {
       "label": "暴君的游戏",
