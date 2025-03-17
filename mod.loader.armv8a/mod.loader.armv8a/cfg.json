@@ -1,5 +1,5 @@
 {
-  "time": 1741910400202,
+  "time": 1742169600203,
   "pkgname": "mod.loader.armv8a",
   "search": ["泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","崩溃大陆","小丑牌","幸存者","塔防"],
   "promotions": [
@@ -596,6 +596,12 @@
       "time": 1728518400000,
 	  "mtime":  1728954000003,
       "pkg": "com.ChillyRoom.DungeonShooter"
+    },
+    {
+      "label": "深渊之影：国际版",
+      "time": 1737072000000,
+	  "mtime":  1742169600000,
+      "pkg": "com.chillyroom.sotd.gp"
     },
     {
       "label": "异星指令",
