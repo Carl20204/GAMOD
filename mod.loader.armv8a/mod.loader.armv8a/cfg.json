@@ -1,5 +1,5 @@
 {
-  "time": 1742947300207,
+  "time": 1742947300208,
   "pkgname": "mod.loader.armv8a",
   "search": ["泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","崩溃大陆","小丑牌","幸存者","塔防"],
   "promotions": [
@@ -914,6 +914,12 @@
       "time": 1704672000000,
 	  "mtime": 1715644800000,
       "pkg": "com.humblebundle.wizardoflegend"
+    },
+    {
+      "label": "放置魔法学院",
+      "time": 1741392000000,
+	  "mtime": 1742947200000,
+      "pkg": "com.IdleMagicSchool.jlyt"
     },
     {
       "label": "疯狂大兵",
