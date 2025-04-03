@@ -1,7 +1,7 @@
 {
-  "time": 1743120000212,
+  "time": 1743120000215,
   "pkgname": "mod.loader.armv8a",
-  "search": ["泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","崩溃大陆","小丑牌","幸存者","塔防"],
+  "search": ["泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","崩溃大陆","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
     {
       "pkg": "com.miaoa.ygdhk.aligames",
@@ -1260,6 +1260,24 @@
       "time": 1712534400000,
 	  "mtime": 1714521600000,
       "pkg": "com.rawfury.kingdom80s"
+    },
+    {
+      "label": "疯狂外星人",
+      "time": 1741910400000,
+	  "mtime": 1743120000001,
+      "pkg": "com.rebeltwins.aliensdrivemecrazy"
+    },
+    {
+      "label": "曲奇必死",
+      "time": 1737676800000,
+	  "mtime": 1743120000002,
+      "pkg": "com.rebeltwins.cookiesmustdie"
+    },
+    {
+      "label": "龙之丘2",
+      "time": 1721433600000,
+	  "mtime": 1743120000000,
+      "pkg": "com.rebeltwins.dragonhills2"
     },
     {
       "label": "哥布林弹球",
