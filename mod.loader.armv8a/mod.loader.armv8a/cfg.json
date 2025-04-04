@@ -1,5 +1,5 @@
 {
-  "time": 1743120000215,
+  "time": 1743724800216,
   "pkgname": "mod.loader.armv8a",
   "search": ["泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","崩溃大陆","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
@@ -1266,6 +1266,12 @@
       "time": 1741910400000,
 	  "mtime": 1743120000001,
       "pkg": "com.rebeltwins.aliensdrivemecrazy"
+    },
+    {
+      "label": "城堡大师",
+      "time": 1721865600000,
+	  "mtime": 1743120000003,
+      "pkg": "com.rebeltwins.castlemastertd"
     },
     {
       "label": "曲奇必死",
