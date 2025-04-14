@@ -1,41 +1,46 @@
 {
-  "time": 1728950400009,
+  "faqs": {
+    "游戏需要翻墙": "重要的事说三遍！\u003cbr\u003e\u003cbr\u003e游戏需要翻墙\u003cbr\u003e游戏需要翻墙\u003cbr\u003e游戏需要翻墙\u003cbr\u003e",
+    "游戏更新建议": "如果网盘分享里没有最新安装包，建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
+    "MOD发布说明": "基于游戏在谷歌商店2025年4月更新的0.733.0版本开发，理论上为通用版，游戏升级可以继续使用无需更新MOD。\u003cbr\u003e\u003cbr\u003e如果出现游戏更新后MOD功能失效或闪退，可以到墨魔豆的QQ圈子里吱一声，作者看到会修复"
+  },
+  "gms": 2,
+  "info": "游戏启动需翻墙，请自备加速器或梯子，进入游戏后可断网单机玩。\u003cbr\u003e\u003cbr\u003e1。游戏难度巨高，一点没惯着小白玩家，手残党不用MOD是别想开心了\u003cbr\u003e2。最节省容量的像素风二次元，还有1G的大小，可见游戏干货之多\u003cbr\u003e3。设置中可手动配置中文\u003cbr\u003e",
   "label": "地牢杀手",
-  "pkgname": "com.nspgames.dungeonslasher",
-  "publisher": "96Percent",
-  "vername": "0.720.1",
-  "vercode": 172891124,
-  "gms":2,
-  "tags": ["中文","单机","肉鸽","动作","翻墙"],
+  "time": 1744156800008,
   "mod": true,
-  "signmd5":"092305A7033F14CBB06ABCB668773227",
-  "info": "游戏启动需翻墙，请自备加速器或梯子，进入游戏后可断网单机玩。<br><br>1。游戏难度巨高，一点没惯着小白玩家，手残党不用MOD是别想开心了<br>2。最节省容量的像素风二次元，还有1G的大小，可见游戏干货之多<br>3。设置中可手动配置中文<br>",
-  "downloads": [
-    {
-      "host": "小飞机网盘 游戏/MOD",
-      "url": "https://share.feijipan.com/s/mXCh5CTw"
-    },{
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/cn/dungeon-slasher-roguelike/com.nspgames.dungeonslasher/download"
-    }
-  ],
   "mods": [
     {
-      "name": "上帝模式",
       "descs": [
         "自动免广告，所有广告激励可白嫖",
         "可选菜单可调节免伤、无限跳、技能无CD、随意冲刺、无限钻石等"
       ],
+      "name": "上帝模式",
       "pkgname": "com.nspgames.dungeonslasher.gm64",
-      "targetvc":"*",
-      "vercode": 2
+      "targetvc": "*",
+      "vercode": 4
     }
   ],
-  "promotions": [
-    {"url": "https://ugame.9game.cn/game/share-235275-6066.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-976614.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-1088351.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-1354168.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-1225582.html"}
+  "pkgname": "com.nspgames.dungeonslasher",
+  "vercode": 174426587,
+  "vername": "0.733.0",
+  "publisher": "96Percent",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/K1AbQBjG",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/dungeon-slasher-roguelike/com.nspgames.dungeonslasher",
+      "var": true
+    }
   ]
 }
