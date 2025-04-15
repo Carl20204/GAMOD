@@ -1,0 +1,43 @@
+{
+  "gms": 2,
+  "info": "【崩溃大陆】的续集来了",
+  "label": "崩溃大陆",
+  "time": 1744329600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，快速跑图、增伤、减伤、闪现、收获多多等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bscotch.crashlands2.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.bscotch.crashlands2",
+  "vercode": 100001378,
+  "vername": "100.1.378",
+  "publisher": "Butterscotch Shenanigans",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "单机",
+    "生存",
+    "收集",
+    "剧情",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/K1AbQBjG",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链页",
+      "url": "https://apkpure.net/cn/crashlands-2/com.bscotch.crashlands2",
+      "var": false
+    }
+  ]
+}
