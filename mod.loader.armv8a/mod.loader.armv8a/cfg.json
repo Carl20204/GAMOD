@@ -1,5 +1,5 @@
 {
-  "time": 1745452800220,
+  "time": 1745798400220,
   "pkgname": "mod.loader.armv8a",
   "search": ["泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","崩溃大陆","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
@@ -845,39 +845,9 @@
     },
     {
       "label": "砰砰法师：国际版",
-      "time": 1730505600007,
-	  "mtime": 1730505600008,
+      "time": 1740441600000,
+	  "mtime": 1745798400000,
       "pkg": "com.habby.punball"
-    },
-    {
-      "label": "王国保卫战1",
-      "time": 1723420800000,
-	  "mtime": 1729987200000,
-      "pkg": "com.ironhidegames.android.kingdomrush"
-    },
-    {
-      "label": "王国保卫战5",
-      "time": 1729814400000,
-	  "mtime": 1730073600000,
-      "pkg": "com.ironhidegames.android.kingdomrush.alliance"
-    },
-    {
-      "label": "王国保卫战2：前线",
-      "time": 1723420800000,
-	  "mtime": 1729987200001,
-      "pkg": "com.ironhidegames.android.kingdomrushfrontiers"
-    },
-    {
-      "label": "王国保卫战3：起源",
-      "time": 1722902400000,
-	  "mtime": 1729987200002,
-      "pkg": "com.ironhidegames.android.kingdomrushorigins"
-    },
-	{
-      "label": "创意蛋糕店",
-      "time": 1717977600003,
-	  "mtime": 1717977600004,
-      "pkg": "net.kairosoft.android.okashi_en"
     },
     {
       "label": "砰砰法师",
@@ -932,6 +902,30 @@
       "time": 1704672000000,
 	  "mtime": 1715644800000,
       "pkg": "com.humblebundle.wizardoflegend"
+    },
+    {
+      "label": "王国保卫战1",
+      "time": 1723420800000,
+	  "mtime": 1729987200000,
+      "pkg": "com.ironhidegames.android.kingdomrush"
+    },
+    {
+      "label": "王国保卫战5",
+      "time": 1729814400000,
+	  "mtime": 1730073600000,
+      "pkg": "com.ironhidegames.android.kingdomrush.alliance"
+    },
+    {
+      "label": "王国保卫战2：前线",
+      "time": 1723420800000,
+	  "mtime": 1729987200001,
+      "pkg": "com.ironhidegames.android.kingdomrushfrontiers"
+    },
+    {
+      "label": "王国保卫战3：起源",
+      "time": 1722902400000,
+	  "mtime": 1729987200002,
+      "pkg": "com.ironhidegames.android.kingdomrushorigins"
     },
     {
       "label": "放置魔法学院",
@@ -1563,6 +1557,12 @@
       "label": "开罗拉面店全国篇",
       "time": 1706745600000,
       "pkg": "net.kairosoft.android.noodle2_en"
+    },
+	{
+      "label": "创意蛋糕店",
+      "time": 1717977600003,
+	  "mtime": 1717977600004,
+      "pkg": "net.kairosoft.android.okashi_en"
     },
     {
       "label": "冲刺！赛车物语2",
