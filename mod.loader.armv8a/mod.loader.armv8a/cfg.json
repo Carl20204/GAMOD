@@ -1,5 +1,5 @@
 {
-  "time": 1745798500220,
+  "time": 1745798600220,
   "pkgname": "mod.loader.armv8a",
   "search": ["泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","崩溃大陆","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
@@ -7,6 +7,51 @@
       "pkg": "com.miaoa.ygdhk.aligames",
       "title": "勇敢的哈克",
       "url": "https://ugame.9game.cn/game/share-235275-3045370.html"
+    },
+    {
+      "pkg": "com.yhhy.neon.aligames",
+      "title": "霓虹深渊：无限",
+      "url": "https://ugame.9game.cn/game/share-235275-1170413.html"
+    },
+    {
+      "pkg": "com.shengqugames.qyn.aligames",
+      "title": "庆余年",
+      "url": "https://ugame.9game.cn/game/share-235275-826618.html"
+    },
+    {
+      "pkg": "com.gaea.shanhai.aligames",
+      "title": "山海异闻录",
+      "url": "https://ugame.9game.cn/game/share-235275-828393.html"
+    },
+    {
+      "pkg": "com.habby.cncapy.aligames",
+      "title": "冒险者日记",
+      "url": "https://ugame.9game.cn/game/share-235275-3116033.html"
+    },
+    {
+      "pkg": "com.yy.nbalqsj.aligames",
+      "title": "NBA篮球世界",
+      "url": "https://ugame.9game.cn/game/share-235275-3115387.html"
+    },
+    {
+      "pkg": "com.gzjk.hhsy.aligames",
+      "title": "辉煌岁月",
+      "url": "https://ugame.9game.cn/game/share-235275-3118778.html"
+    },
+    {
+      "pkg": "com.cycs.aligames",
+      "title": "苍月传说",
+      "url": "https://ugame.9game.cn/game/share-235275-3117397.html"
+    },
+    {
+      "pkg": "com.jg.ynjg.aligames",
+      "title": "一念剑歌",
+      "url": "https://ugame.9game.cn/game/share-235275-3113247.html"
+    },
+    {
+      "pkg": "com.xq.archeroii.aligames",
+      "title": "弓箭传说2",
+      "url": "https://ugame.9game.cn/game/share-235275-3115341.html"
     },
     {
       "pkg": "com.jinke.ezzzfx.aligames",
@@ -77,11 +122,6 @@
       "pkg": "com.habby.cnarchero.aligames",
       "title": "弓箭传说",
       "url": "https://ugame.9game.cn/game/share-235275-1154801.html"
-    },
-    {
-      "pkg": "com.habby.punballcn.aligames",
-      "title": "砰砰法师",
-      "url": "https://ugame.9game.cn/game/share-235275-3041409.html"
     },
     {
       "pkg": "com.tanwan.yscq.aligames",
