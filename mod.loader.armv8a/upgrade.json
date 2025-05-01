@@ -1,16 +1,16 @@
 {
-  "vername": "2.3.4",
+  "vername": "2.3.5",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 234,
+  "vercode": 235,
   "min_sdk_version": 24,
   "target_sdk_version": 29,
-  "md5": "96FABB0A73DA78A058AFA0683F7B081C",
-  "size": 4168699,
+  "md5": "4AEA1A1E31E3E53159285D481EA059BE",
+  "size": 4165699,
   "logs": {
-    "en": "安卓15兼容性修复：基于2025年2月中旬发布的红米K40的LineageOS（安卓15）可完美运行",
-    "zh": "安卓15兼容性修复：基于2025年2月中旬发布的红米K40的LineageOS（安卓15）可完美运行"
+    "en": "更新GitHub代理，支持多开模式（进设置页），小把手新增屏幕常亮开关",
+    "zh": "更新GitHub代理，支持多开模式（进设置页），小把手新增屏幕常亮开关"
   },
   "i": false
 }
