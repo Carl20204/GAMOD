@@ -1,29 +1,30 @@
 {
   "faqs": {
-    "启动卡在加载25%了": "每次游戏更新一周内，属于非强制更新，此时游戏会断掉国内ip，要么翻墙，要么升级为最新版也可以继续玩\u003cbr\u003e\u003cbr\u003e既然能翻墙了，就赶紧更新吧，很快就会进入强制更新阶段的",
-    "为什么有时启动游戏会闪退？": "出现游戏启动闪退现象后，只要启动一次桌面版本（进游戏直接退出就行），此时墨魔豆里面的游戏就可以正常玩了。",
-    "为啥日常活动没了？": "游戏升级后，旧版本虽然可以继续玩，但没有日常活动，只有升级到游戏最新版本才有全部的日常活动。\u003cbr\u003e\u003cbr\u003eMOD为全版本通用，不管去翻墙下载页下载安装，还是去谷歌商店直接升级游戏，都不影响MOD继续使用"
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e不会翻墙，到墨魔豆的QQ圈子里要也行\u003c/font\u003e",
+    "常见游戏异常": "\u003cfont color\u003d\"#ff0000\"\u003e出现游戏启动闪退，空间不足等问题，只要启动一次桌面版本（进游戏直接退出就行），然后回到墨魔豆就可以正常玩了\u003c/font\u003e\u003cbr\u003e\u003cbr\u003e启动卡在加载25%，或者日常活动没了，一般是网络不好连不上服务器，或者游戏更新了，升级一下游戏就好"
   },
   "gms": 2,
   "info": "三消游戏，从PopCap的限时玩法的钻石迷阵，到King的限制步数的糖果粉碎传奇，然后再到playrix的装饰主线的梦幻家园/花园，然后终于进化到了本作：\u003cbr\u003e荣获2023谷歌游戏大奖的合成花园，以合成玩法做故事主线的三消，很容易令人沉迷\u003cbr\u003e4周年庆典，各种活动繁多",
   "label": "荟萃花园",
-  "time": 1732233600008,
+  "time": 1747094400008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，可调节木材、金币、宝石的消费折扣",
-        "开启免内购选项，可体验有钱人的乐趣，但也会急速消耗游戏乐趣"
+        "本MOD为通用版本，游戏更新升级无需更换MOD，如果出现功能失效，可以在墨魔豆的QQ圈子里留言",
+        "【折扣】可选择金币、宝石、木材的消费折扣",
+        "【免内购】有钱人的快乐谁懂啊！",
+        "【礼物】好友礼物大爆，用于快速收集社交专用物品"
       ],
       "name": "上帝模式",
       "pkgname": "com.futureplay.mergematch.gm64",
       "targetvc": "*",
-      "vercode": 9
+      "vercode": 11
     }
   ],
   "pkgname": "com.futureplay.mergematch",
-  "vercode": 1418,
-  "vername": "1.34.2",
+  "vercode": 1457,
+  "vername": "1.39.2",
   "publisher": "Futureplay",
   "s1": [
     256,
@@ -44,18 +45,23 @@
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
       "url": "https://share.feijipan.com/s/jQAbnNGS",
       "var": false
     },
     {
-      "host": "小飞机网盘",
+      "host": "网盘分享",
       "url": "https://share.feijipan.com/s/5XAUtqbj",
       "var": false
     },
     {
-      "host": "下载页|翻墙",
-      "url": "https://apkpure.net/cn/merge-gardens/com.futureplay.mergematch/download",
+      "host": "翻墙",
+      "url": "https://apkpure.net/cn/merge-gardens/com.futureplay.mergematch",
       "var": true
     }
   ]
