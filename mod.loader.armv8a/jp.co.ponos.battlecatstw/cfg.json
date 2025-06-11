@@ -5,7 +5,7 @@
   "gms": 1,
   "info": "左右对攻，暴兵流对战塔防。\u003cbr\u003e本游戏的精髓，在于\u003cfont color\u003d\"#8e1b\"\u003e二周目开启的几十种超级难度\u003c/font\u003e玩法，此时798张猫卡的培养价值开始体现，策略性开始展露",
   "label": "貓咪大戰爭",
-  "time": 1744848000008,
+  "time": 1749600000008,
   "mod": false,
   "mods": [
     {
@@ -18,13 +18,13 @@
       ],
       "name": "上帝模式",
       "pkgname": "jp.co.ponos.battlecatstw.gm64",
-      "targetvc": "1403000",
-      "vercode": 9
+      "targetvc": "1404000",
+      "vercode": 10
     }
   ],
   "pkgname": "jp.co.ponos.battlecatstw",
-  "vercode": 1403000,
-  "vername": "14.3.0",
+  "vercode": 1404000,
+  "vername": "14.4.0",
   "publisher": "PONOS",
   "s3": 0,
   "tags": [
@@ -36,7 +36,7 @@
   "downloads": [
     {
       "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     },
     {
