@@ -1,5 +1,5 @@
 {
-  "time": 1751414400227,
+  "time": 1751414400228,
   "pkgname": "mod.loader.armv8a",
   "search": ["崩溃大陆","泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
@@ -933,9 +933,15 @@
       "pkg": "com.halfbrick.colossatron"
     },
     {
+      "label": "枪之荣耀3：英雄",
+      "time": 1741305600000,
+	  "mtime": 1749859100000,
+      "pkg": "com.hg.gunsandglory3free"
+    },
+    {
       "label": "枪之荣耀4：僵尸",
       "time": 1741219200000,
-	  "mtime": 1749859100000,
+	  "mtime": 1749859100001,
       "pkg": "com.hg.gunsandglory4free"
     },
     {
