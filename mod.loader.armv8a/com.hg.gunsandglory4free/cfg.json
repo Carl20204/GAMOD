@@ -1,0 +1,53 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+  },
+  "gms": 1,
+  "info": "4名美少女和1条狗对抗邪恶僵尸的故事！\u003cbr\u003e\u003cbr\u003e末日降临，无尽的僵尸来袭，越来越多的死者从坟墓里被唤醒！准备战斗不死族！你是抵抗致命病毒的最后防线！也是人类最后的希望！\u003cbr\u003e\u003cbr\u003e✔ 令人血脉贲张的枪之荣耀防御战\u003cbr\u003e\u003cbr\u003e✔ 4个火爆的美少女对抗邪恶的僵尸瘟疫\u003cbr\u003e\u003cbr\u003e✔ 杀伤力惊人的武器和技能\u003cbr\u003e\u003cbr\u003e✔ 辣椒升级，战斗升温\u003cbr\u003e\u003cbr\u003e✔ 聋哑僵尸、肥胖僵尸、饿鬼僵尸！\u003cbr\u003e\u003cbr\u003e✔ 在街区、海滩、森林进行的激烈战斗！\u003cbr\u003e\u003cbr\u003e✔ 无数的僵尸，成堆的武器，还有数不尽的荣耀",
+  "label": "枪之荣耀4：僵尸",
+  "time": 1741219200008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】本MOD为通用版本，理论上支持游戏全版本。出现游戏升级MOD功能失效的话，可以在墨魔豆的QQ圈子里吱一声。",
+        "【可选菜单】游戏速度，手动加钱、加辣椒、加糖果、加病毒抗体"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.hg.gunsandglory4free.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.hg.gunsandglory4free",
+  "vercode": 20,
+  "vername": "1.1.11",
+  "publisher": "HandyGames",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 536,
+  "tags": [
+    "中文",
+    "塔防"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "下载页[翻墙]",
+      "url": "https://apkpure.net/cn/guns-n-glory-zombies/com.hg.gunsandglory4free",
+      "var": true
+    }
+  ]
+}

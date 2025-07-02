@@ -1,0 +1,61 @@
+{
+  "faqs": {
+    "卡关了，哪里有攻略？": "问DeepSeek，百度Ai，腾讯元宝都可以，攻略到处都有，AI帮你解密",
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+  },
+  "gms": 1,
+  "info": "- 探索世界\u003cbr\u003e\u003cbr\u003e探索各种类型的区域。每个区域都有独特的氛围和故事。解决谜题并找到提示，揭开长期未公开的秘密和奥秘。\u003cbr\u003e\u003cbr\u003e- 拼图\u003cbr\u003e\u003cbr\u003e从大家耳熟能详的经典谜题，到独具特色的谜题，各种类型的谜题等着你来探索。\u003cbr\u003e\u003cbr\u003e- 生物\u003cbr\u003e\u003cbr\u003e伟大者的力量已经被粉碎，许多恶毒的对手热衷于收集伟大者力量的碎片。战胜这些可怕的敌人来拯救世界。\u003cbr\u003e\u003cbr\u003e- 收藏品\u003cbr\u003e\u003cbr\u003e* 帽子和面具\u003cbr\u003e\u003cbr\u003e戴上你的探险家帽子，去寻找各种超棒的帽子和面具！用这些物品给奥古宝宝打扮，其中一些可能还附加了一些特殊技能。\u003cbr\u003e\u003cbr\u003e* 图纸\u003cbr\u003e\u003cbr\u003e那里有许多地标。绘制奇特的物体和风景来发现新的土地，你也可能会在其中找到提示。\u003cbr\u003e\u003cbr\u003e* 朋友\u003cbr\u003e\u003cbr\u003e在你的旅途中结识朋友，帮助那些需要帮助的人。他们可能会用他们独特的技能或天赋帮助你。你在这个世界上并不孤单！",
+  "label": "奥咕和秘密森林",
+  "time": 1737072000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】本MOD为通用版本，理论上支持本游戏所有版本。如果出现游戏升级，MOD功能失效，可以到墨魔豆的QQ圈子里吱一声。",
+        "【可选菜单】可自选无伤、金币收益率、消耗品多倍收益、杂物多陪收益等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.SinkHoleStudio.OguForest.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.SinkHoleStudio.OguForest",
+  "vercode": 170,
+  "vername": "1.170",
+  "publisher": "Sinkhole Studio Inc",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 536,
+  "search": [
+    "塞尔达",
+    "奥古",
+    "秘密森林"
+  ],
+  "tags": [
+    "中文",
+    "动作",
+    "解密",
+    "塞尔达"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/ogu-and-the-secret-forest/com.SinkHoleStudio.OguForest",
+      "var": false
+    }
+  ]
+}
