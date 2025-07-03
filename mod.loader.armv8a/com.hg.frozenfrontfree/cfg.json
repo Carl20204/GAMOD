@@ -1,0 +1,54 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+  },
+  "gms": 1,
+  "info": "领导壮大中的德国军队东进或投身苏维埃保卫祖国俄罗斯。在FROZENFRONT中化身一位聪颖的指挥官，正确选择战争策略，获得更高的军衔。\u003cbr\u003e\u003cbr\u003e✔ 不断的全新任务，源源的梦幻奖励\u003cbr\u003e\u003cbr\u003e✔ 二战题材的回合制策略游戏\u003cbr\u003e\u003cbr\u003e✔ 激动人心的战役和充满挑战的任务\u003cbr\u003e\u003cbr\u003e✔ 白热化的多人战斗\u003cbr\u003e\u003cbr\u003e✔ 经典的德国 和苏联部队\u003cbr\u003e\u003cbr\u003e✔ 战斗中可修理，伪装，构筑各种部队和建筑物\u003cbr\u003e\u003cbr\u003e✔ 双方拥有步兵，炮兵，坦克和空军\u003cbr\u003e\u003cbr\u003e✔ 六角网格可一览无余\u003cbr\u003e\u003cbr\u003e✔ 细腻的画面和极为真实的声效",
+  "label": "1941冰封前线",
+  "time": 1715731200008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】本MOD为通用版本，理论上支持游戏全版本。出现游戏升级MOD功能失效的话，可以在墨魔豆的QQ圈子里吱一声。",
+        "【可选菜单】游戏速度、无限移动、无限攻击、手动加钱"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.hg.frozenfrontfree.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.hg.frozenfrontfree",
+  "vercode": 78,
+  "vername": "1.12.10",
+  "publisher": "HandyGames",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 536,
+  "tags": [
+    "中文",
+    "战棋",
+    "策略"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "下载页[翻墙]",
+      "url": "https://apkpure.net/cn/guns-n-glory-zombies/com.hg.gunsandglory4free",
+      "var": true
+    }
+  ]
+}

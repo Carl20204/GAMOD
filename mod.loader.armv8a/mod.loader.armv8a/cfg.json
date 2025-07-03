@@ -1,5 +1,5 @@
 {
-  "time": 1751414400228,
+  "time": 1751500800232,
   "pkgname": "mod.loader.armv8a",
   "search": ["崩溃大陆","泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
@@ -933,6 +933,24 @@
       "pkg": "com.halfbrick.colossatron"
     },
     {
+      "label": "1944燃烧的桥梁",
+      "time": 1731888000000,
+	  "mtime": 1749859100006,
+      "pkg": "com.hg.burningbridgesfree"
+    },
+    {
+      "label": "1943死亡沙漠",
+      "time": 1724716800000,
+	  "mtime": 1749859100004,
+      "pkg": "com.hg.deadlydesertfree"
+    },
+    {
+      "label": "1941冰封前线",
+      "time": 1715731200000,
+	  "mtime": 1749859100000,
+      "pkg": "com.hg.frozenfrontfree"
+    },
+    {
       "label": "枪之荣耀3：英雄",
       "time": 1741305600000,
 	  "mtime": 1749859100000,
@@ -943,6 +961,12 @@
       "time": 1741219200000,
 	  "mtime": 1749859100001,
       "pkg": "com.hg.gunsandglory4free"
+    },
+    {
+      "label": "1942太平洋前线",
+      "time": 1718928000000,
+	  "mtime": 1749859100002,
+      "pkg": "com.hg.pacificfrontfree"
     },
     {
       "label": "海盗：加勒比海亨特",
