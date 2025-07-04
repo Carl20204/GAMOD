@@ -7,7 +7,7 @@
   "gms": 1,
   "info": "\u003cfont color\u003d\"#ff0000\"\u003e《梦幻家园》《梦幻花园》\u003c/font\u003e，每月固定更新全新的赛季+合成+探险活动。永远不缺新鲜内容",
   "label": "梦幻花园",
-  "time": 1748822400008,
+  "time": 1750636800008,
   "mod": true,
   "mods": [
     {
@@ -19,13 +19,13 @@
       ],
       "name": "休闲模式",
       "pkgname": "com.playrix.gardenscapes.gm64",
-      "targetvc": "108800",
-      "vercode": 12
+      "targetvc": "108850",
+      "vercode": 13
     }
   ],
   "pkgname": "com.playrix.gardenscapes",
-  "vercode": 108800,
-  "vername": "8.8.0",
+  "vercode": 108850,
+  "vername": "8.8.5",
   "publisher": "Playrix",
   "s1": [
     512,
