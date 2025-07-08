@@ -1,5 +1,5 @@
 {
-  "time": 1751846400235,
+  "time": 1751846500235,
   "pkgname": "mod.loader.armv8a",
   "search": ["崩溃大陆","泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
@@ -399,6 +399,11 @@
       "url": "https://ugame.9game.cn/game/share-235275-976614.html"
     }
   ],
+  "groups": {
+    "9": "推荐",
+    "6": "热门",
+    "3": "经典"
+  },
   "supports": [
     {
       "time": 1708090415002,
@@ -470,6 +475,7 @@
       "pkg": "com.amanotes.beathopper"
     },
     {
+      "group": 3,
       "label": "泰拉瑞亚",
       "time": 1696204800000,
 	  "mtime": 1725408000099,
@@ -503,10 +509,11 @@
       "pkg": "com.aubjective.jobmania"
     },
     {
-      "label": "骷髅女孩",
-      "time": 1711411200000,
-	  "mtime": 1712275200000,
-      "pkg": "com.autumn.skullgirls"
+		"group": 3,
+		"label": "骷髅女孩",
+		"time": 1711411200000,
+		"mtime": 1712275200000,
+		"pkg": "com.autumn.skullgirls"
     },
     {
       "label": "帝国守卫战",
@@ -592,12 +599,14 @@
 	  "pkg": "com.brotato.shooting.survivors.action.roguelike"
     },
     {
-      "label": "崩溃大陆",
-      "time": 1730246400010,
-	  "mtime": 1744848000000,
-      "pkg": "com.bscotch.crashlands"
+		"group": 3,
+		"label": "崩溃大陆",
+		"time": 1730246400010,
+		"mtime": 1744848000000,
+		"pkg": "com.bscotch.crashlands"
     },
     {
+		"group": 9,
       "label": "崩溃大陆2",
       "time": 1744329600000,
 	  "mtime": 1744675200219,
@@ -662,10 +671,11 @@
       "pkg": "com.chillyroom.zhmr.aligames"
     },
     {
+		"group": 6,
       "label": "战魂铭人：国际版",
       "time": 1748304000000,
 	  "mtime": 1750550400000,
-      "pkg": "com.chillyroom.zhmr.aligames"
+      "pkg": "com.chillyroom.zhmr.gp"
     },
     {
       "label": "烛火地牢2：猫咪的诅咒",
@@ -674,6 +684,7 @@
       "pkg": "com.ChrisMcFarland.Tallowmere2"
     },
     {
+		"group": 3,
       "label": "星露谷物语",
       "time": 1698624000000,
 	  "mtime": 1727136000000,
@@ -773,12 +784,14 @@
       "pkg": "com.ea.game.pvz2_na"
     },
     {
+		"group": 3,
       "label": "植物大战僵尸2：美版",
       "time": 1747958400000,
       "mtime": 1747958400001,
       "pkg": "com.ea.game.pvz2_row"
     },
     {
+		"group": 3,
       "label": "植物大战僵尸：国际版",
       "time": 1737158400000,
 	  "mtime": 1739145600000,
@@ -791,6 +804,7 @@
       "pkg": "com.ea.gp.pvzn3xt"
     },
     {
+		"group": 3,
       "label": "这是我的战争",
       "time": 1694563200000,
 	  "mtime": 1727222400000,
@@ -927,6 +941,7 @@
       "pkg": "com.habby.sssnaker"
     },
     {
+		"group": 3,
       "label": "庞然巨物",
       "time": 1734048000000,
 	  "mtime": 1751673600000,
@@ -939,6 +954,7 @@
       "pkg": "com.halfbrick.danthemanplus"
     },
     {
+		"group": 3,
       "label": "水果忍者：经典版",
       "time": 1749513600000,
 	  "mtime": 1751673600000,
@@ -981,6 +997,7 @@
       "pkg": "com.hg.pacificfrontfree"
     },
     {
+		"group": 3,
       "label": "家园7",
       "time": 1711843200000,
 	  "mtime": 1749859100009,
@@ -1011,6 +1028,7 @@
       "pkg": "com.HomeNetGames.WW1"
     },
     {
+		"group": 3,
       "label": "杀戮尖塔",
       "time": 1712102400000,
 	  "mtime": 1730419200000,
@@ -1029,6 +1047,7 @@
       "pkg": "com.hyperdotstudios.swampattack2"
     },
     {
+		"group": 3,
       "label": "王国保卫战1",
       "time": 1723420800000,
 	  "mtime": 1729987200000,
@@ -1082,6 +1101,7 @@
       "pkg": "com.jinthreestudio.brokenuniverse"
     },
     {
+		"group": 3,
       "label": "地铁跑酷：国际版",
       "time": 1750723200000,
 	  "mtime": 1750896000000,
@@ -1094,6 +1114,7 @@
       "pkg": "com.KonfaGames.DespotsGame"
     },
     {
+		"group": 9,
       "label": "植物大战僵尸：融合版",
       "time": 1749859200000,
 	  "mtime": 1749859200000,
@@ -1291,6 +1312,7 @@
       "pkg": "com.pixelstar.PixelFBlade"
     },
     {
+		"group": 3,
       "label": "死亡细胞：重返恶魔城",
       "time": 1702598400000,
 	  "mtime": 1715558400000,
@@ -1315,6 +1337,7 @@
       "pkg": "com.playdigious.skul"
     },
     {
+		"group": 3,
       "label": "怒之铁拳4",
       "time": 1721606400000,
 	  "mtime": 1727654400000,
@@ -1333,12 +1356,14 @@
       "pkg": "com.playrix.fishdomdd.gplay"
     },
     {
+		"group": 3,
       "label": "梦幻花园",
       "time": 1750636800000,
 	  "mtime": 1751323000000,
       "pkg": "com.playrix.gardenscapes"
     },
     {
+		"group": 3,
       "label": "梦幻家园",
       "time": 1750636800000,
 	  "mtime": 1751312000000,
@@ -1357,12 +1382,14 @@
       "pkg": "com.playrix.township"
     },
     {
+		"group": 3,
       "label": "小丑牌",
       "time": 1732838400000,
 	  "mtime": 1734825600000,
       "pkg": "com.playstack.balatro.android"
     },
     {
+		"group": 3,
       "label": "吸血鬼幸存者",
       "time": 1744329600000,
 	  "mtime": 1744675200000,
@@ -1387,6 +1414,7 @@
       "pkg": "com.raongames.growcastle"
     },
     {
+		"group": 3,
       "label": "王国：两位君主",
       "time": 1712534400000,
 	  "mtime": 1727568000000,
@@ -1411,6 +1439,7 @@
       "pkg": "com.rebeltwins.castlemastertd"
     },
     {
+		"group": 3,
       "label": "曲奇必死",
       "time": 1737676800000,
 	  "mtime": 1743120000002,
@@ -1441,6 +1470,7 @@
       "pkg": "com.robotgentleman.game60seconds"
     },
     {
+		"group": 3,
       "label": "60秒！重新裂变",
       "time": 1724112000000,
 	  "mtime": 1734912000001,
@@ -1492,6 +1522,7 @@
       "pkg": "com.sigmateam.alienshooter2"
     },
     {
+		"group": 3,
       "label": "孤胆枪手2：重制版",
       "time": 1692921600000,
 	  "mtime": 1726963200000,
@@ -1563,6 +1594,7 @@
       "pkg": "com.trefle.dashero"
     },
     {
+		"group": 3,
       "label": "饥饿的鲨鱼：世界",
       "time": 1724025600000,
 	  "mtime": 1725062400010,
@@ -1639,12 +1671,14 @@
       "pkg": "games.alternativa.projectv.test"
     },
     {
+		"group": 9,
       "label": "貓咪大戰爭",
       "time": 1751328000000,
 	  "mtime": 1751328000000,
       "pkg": "jp.co.ponos.battlecatstw"
     },
     {
+		"group": 3,
       "label": "恶魔城：月下夜想曲",
       "time": 1661126400000,
 	  "mtime": 1725321600000,
@@ -1732,6 +1766,7 @@
       "pkg": "pl.idreams.skyforcehd"
     },
     {
+		"group": 3,
       "label": "傲气雄鹰：重装上阵",
       "time": 1721692800000,
 	  "mtime": 1728432000001,
