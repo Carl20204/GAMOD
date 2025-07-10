@@ -1,27 +1,28 @@
 {
   "faqs": {
-    "墨魔豆启动游戏后提示无法存档？": "游戏有模拟器检测，请使用MOD过检测才能正常存档。"
+    "墨魔豆启动游戏后提示无法存档？": "游戏有模拟器检测，请使用MOD过检测才能正常存档。",
+    "不要点击游戏中的奖励广告！": "育碧Bug太多，点击广告会卡死\n育碧Bug太多，点击广告会卡死\n育碧Bug太多，点击广告会卡死"
   },
-  "gms": 2,
+  "gms": 1,
   "info": "大鱼吃小鱼的经典之作，UBI出品，还有人没玩过吗？",
   "label": "饥饿的鲨鱼：世界",
-  "time": 1724025600008,
+  "time": 1751328000008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免广告，所有广告激励可以直接白嫖",
-        "可选菜单，可调节减伤、金币、宝石、珍珠收益、爆发槽无限、强化特效开关"
+        "【通用版】基于2025年7月谷歌商店更新的游戏版本开发，如果出现游戏升级MOD功能失效问题，可以去墨魔豆的QQ圈子里吱一声",
+        "【可选菜单】手动调节减伤幅度、金币、宝石、珍珠收益、爆发槽无限、强化特效开关"
       ],
       "name": "上帝模式",
       "pkgname": "com.ubisoft.hungrysharkworld.gm64",
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.ubisoft.hungrysharkworld",
-  "vercode": 316,
-  "vername": "6.1.6",
+  "vercode": 691,
+  "vername": "6.9.0",
   "publisher": "Ubisoft Entertainment",
   "s1": [
     256,
@@ -37,13 +38,12 @@
   "tags": [
     "中文",
     "休闲",
-    "探索",
-    "动作"
+    "探索"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "host": "下载页|翻墙",
-      "url": "https://apkpure.net/cn/hungry-shark-world/com.ubisoft.hungrysharkworld/download",
+      "url": "https://apkpure.net/cn/hungry-shark-world/com.ubisoft.hungrysharkworld",
       "var": true
     }
   ]
