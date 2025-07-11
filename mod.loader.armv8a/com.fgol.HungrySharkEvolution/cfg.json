@@ -1,27 +1,28 @@
 {
   "faqs": {
-    "进入游戏是英文？": "启动游戏后，点击左上角设置按钮，弹出的九宫格选左下语言按钮，点击后选择中文可以切换到繁体中文模式。"
+    "游戏更新建议": "部分热心网友的网盘分享，可能更新不及时，可以去墨魔豆的QQ圈子里问一下\u003cbr\u003e\u003cbr\u003e没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e不会翻墙，到墨魔豆的QQ圈子里要也行\u003c/font\u003e",
+    "进入游戏是英文？": "如果首次启动游戏没有带MOD，游戏可能会以英文模式为主。\u003cbr\u003e\u003cbr\u003e启动游戏后，点击左上角设置按钮，弹出的九宫格选左下语言按钮，点击后选择中文可以切换到繁体中文模式。"
   },
-  "gms": 2,
-  "info": "UBI出品的大鱼吃小鱼的经典第一作，已经十周年了，虽然画质比之后的版本《饥饿的鲨鱼：世界》差一些，但情怀无价",
-  "label": "饥饿的鲨鱼：进化",
-  "time": 1723593600008,
+  "gms": 1,
+  "info": "UBI出品的大鱼吃小鱼的经典第一作，已经十周年了，虽然画质比之后的版本《饥饿的鲨鱼：世界》差一些，但情怀无价\u003cbr\u003e\u003cbr\u003e每次版本更新，都会有新活动，常玩常新",
+  "label": "饥饿鲨：进化",
+  "time": 1751328000008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免广告，所有广告激励可以直接白嫖",
-        "可选菜单，可调节减伤、金币、宝石收益、爆发槽无限、强化特效开关"
+        "【自动激活】免广告，所有广告激励可以直接白嫖。\u003cbr\u003e国内有时连接不上海外广告商，导致激励广告无效",
+        "【可选菜单】可调节减伤、金币、宝石收益、爆发槽无限、强化特效开关"
       ],
       "name": "上帝模式",
       "pkgname": "com.fgol.HungrySharkEvolution.gm64",
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.fgol.HungrySharkEvolution",
-  "vercode": 10300,
-  "vername": "11.7.5",
+  "vercode": 10520,
+  "vername": "12.8.6",
   "publisher": "Ubisoft Entertainment",
   "s1": [
     256,
@@ -37,23 +38,17 @@
   "tags": [
     "中文",
     "休闲",
-    "探索",
-    "动作"
+    "探索"
   ],
   "downloads": [
     {
       "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/5XAUtqbj",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     },
     {
       "host": "下载页|翻墙",
-      "url": "https://apkpure.net/cn/hungry-shark-evolution/com.fgol.HungrySharkEvolution/download",
+      "url": "https://apkpure.net/cn/hungry-shark-evolution/com.fgol.HungrySharkEvolution/",
       "var": true
     }
   ]
