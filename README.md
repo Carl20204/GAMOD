@@ -33,6 +33,11 @@ README
 
 * 完成后即可启动游戏
 
+## 认准官方账号
+
+* B战账号：墨魔豆Official 主页链接：https://b23.tv/CuzcdiA
+
+* 抖音账号：墨魔豆Official 主页链接：https://v.douyin.com/wlfGR5iT1jg/ 
 
 ****
 
