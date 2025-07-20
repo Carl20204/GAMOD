@@ -1,5 +1,5 @@
 {
-  "time": 1752883200239,
+  "time": 1752969600239,
   "pkgname": "mod.loader.armv8a",
   "search": ["崩溃大陆","泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
@@ -1429,30 +1429,26 @@
       "time": 1724112000000,
 	  "mtime": 1734912000001,
       "pkg": "com.RobotGentleman.game60SecondsReatomized"
-    },
-    {
-      "label": "60秒差距",
-      "time": 1724112000000,
-	  "mtime": 1734912000002,
-      "pkg": "com.RobotGentleman.sixtyParsecs.mobile"
-    },
-    {
-      "label": "愤怒的小鸟：泡泡大战",
-      "time": 1751932800000,
-	  "mtime": 1752710400000,
-      "pkg": "com.rovio.ABstellapop"
-    },
-    {
-      "label": "愤怒的小鸟：梦幻爆破",
-      "time": 1752624000000,
-	  "mtime": 1752710400000,
-      "pkg": "com.rovio.dream"
-    },
-    {
-      "label": "我的小小宇宙",
-      "time": 1742860800000,
-      "mtime": 1743033600000,
-      "pkg": "com.savetheworld.game"
+    },{
+		"label": "60秒差距",
+		"time": 1724112000000,
+		"mtime": 1734912000002,
+		"pkg": "com.RobotGentleman.sixtyParsecs.mobile"
+    },{
+		"label": "愤怒的小鸟：泡泡大战",
+		"time": 1751932800000,
+		"mtime": 1752710400000,
+		"pkg": "com.rovio.ABstellapop"
+    },{
+		"label": "愤怒的小鸟：梦幻爆破",
+		"time": 1752624000000,
+		"mtime": 1752710400000,
+		"pkg": "com.rovio.dream"
+    },{
+		"label": "我的小宇宙",
+		"time": 1749772800000,
+		"mtime": 1752969600000,
+		"pkg": "com.savetheworld.game"
     },
     {
       "label": "暗影战争",
