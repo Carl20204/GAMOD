@@ -1,5 +1,5 @@
 {
-  "time": 1752969600240,
+  "time": 1753056000241,
   "pkgname": "mod.loader.armv8a",
   "search": ["崩溃大陆","泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
@@ -769,29 +769,30 @@
       "time": 1698624000000,
 	  "mtime": 1727222400001,
       "pkg": "com.elevenbitstudios.twomstoriesmobile"
-    },
-    {
-      "label": "阿尼玛：灵魂",
-      "time": 1730160000000,
-	  "mtime": 1750896000000,
-      "pkg": "com.ExiliumGames.Anima"
-    },
-    {
-      "label": "饥饿鲨：进化",
-      "time": 1751328000000,
-	  "mtime": 1752105600000,
-      "pkg": "com.fgol.HungrySharkEvolution"
-    },
-    {
-      "label": "无尽漫游",
-      "time": 1743552000000,
-	  "mtime": 1748217600000,
-      "pkg": "com.FirstPickStudios.EndlessWander"
-    },
-    {
-      "label": "黎明前20分钟",
-      "time": 1707091200005,
-      "pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp"
+    },{
+		"label": "阿尼玛：灵魂",
+		"time": 1730160000000,
+		"mtime": 1750896000000,
+		"pkg": "com.ExiliumGames.Anima"
+    },{
+		"label": "僵尸前线4",
+		"time": 1751587200000,
+		"mtime": 1753056000000,
+		"pkg": "com.feelingtouch.zfsniper"
+    },{
+		"label": "饥饿鲨：进化",
+		"time": 1751328000000,
+		"mtime": 1752105600000,
+		"pkg": "com.fgol.HungrySharkEvolution"
+    },{
+		"label": "无尽漫游",
+		"time": 1743552000000,
+		"mtime": 1748217600000,
+		"pkg": "com.FirstPickStudios.EndlessWander"
+    },{
+		"label": "黎明前20分钟",
+		"time": 1707091200005,
+		"pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp"
     },
     {
       "label": "僵尸炮艇：生存",
