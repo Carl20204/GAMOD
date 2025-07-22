@@ -1,5 +1,5 @@
 {
-  "time": 1753056000241,
+  "time": 1753142400242,
   "pkgname": "mod.loader.armv8a",
   "search": ["崩溃大陆","泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
@@ -864,24 +864,26 @@
       "label": "火柴人联盟2",
       "time": 1698278400002,
       "pkg": "com.games.hcr2.acing.aligames"
-    },
-    {
-      "label": "塔防传奇5",
-      "time": 1745107200000,
-	  "mtime": 1752969600000,
-      "pkg": "com.Gcenter.DefenseLegend.TowerDefense.TD.survivor.V5"
-    },
-    {
-      "label": "弓箭传说：国际版",
-      "time": 1733184000000,
-	  "mtime": 1733961600000,
-      "pkg": "com.habby.archero"
-    },
-    {
-      "label": "卡皮巴拉 Go!",
-      "time": 1732147200000,
-	  "mtime": 1732147200001,
-      "pkg": "com.habby.capybara"
+    },{
+		"label": "塔防传奇5",
+		"time": 1745107200000,
+		"mtime": 1752969600000,
+		"pkg": "com.Gcenter.DefenseLegend.TowerDefense.TD.survivor.V5"
+    },{
+		"label": "科幻幸存者",
+		"time": 1752796800000,
+		"mtime": 1753142400000,
+		"pkg": "com.Gcenter.SciFi.Survivor.io.Firenow"
+    },{
+		"label": "弓箭传说：国际版",
+		"time": 1733184000000,
+		"mtime": 1733961600000,
+		"pkg": "com.habby.archero"
+    },{
+		"label": "卡皮巴拉 Go!",
+		"time": 1732147200000,
+		"mtime": 1732147200001,
+		"pkg": "com.habby.capybara"
     },
     {
       "label": "砰砰法师：国际版",
