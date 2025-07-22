@@ -1,5 +1,5 @@
 {
-  "time": 1753142400242,
+  "time": 1753142400243,
   "pkgname": "mod.loader.armv8a",
   "search": ["崩溃大陆","泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
@@ -869,6 +869,11 @@
 		"time": 1745107200000,
 		"mtime": 1752969600000,
 		"pkg": "com.Gcenter.DefenseLegend.TowerDefense.TD.survivor.V5"
+    },{
+		"label": "塔防传奇4",
+		"time": 1752624000000,
+		"mtime": 1752969500000,
+		"pkg": "com.Gcenter.DefenselegendX.TowerDefense.TD"
     },{
 		"label": "科幻幸存者",
 		"time": 1752796800000,
