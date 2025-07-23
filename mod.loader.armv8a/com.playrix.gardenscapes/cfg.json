@@ -7,25 +7,25 @@
   "gms": 1,
   "info": "\u003cfont color\u003d\"#ff0000\"\u003e《梦幻家园》《梦幻花园》\u003c/font\u003e，每月固定更新全新的赛季+合成+探险活动。永远不缺新鲜内容",
   "label": "梦幻花园",
-  "time": 1750636800008,
+  "time": 1752624000008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "基于游戏在2025年6月更新的8.8.0版本，如果游戏更新，MOD没有更新的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理",
+        "基于游戏在2025年6月更新的8.8.5版本，如果游戏更新，MOD没有更新的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理",
         "【金币】自定义调节三消胜利后的金币收获xN",
         "【星星】自定义调节建设花园时星星不减",
         "【道具】自定义调节全道具保底3个，主打行云流水的爽，不用来回购买"
       ],
       "name": "休闲模式",
       "pkgname": "com.playrix.gardenscapes.gm64",
-      "targetvc": "108850",
-      "vercode": 13
+      "targetvc": "108910",
+      "vercode": 14
     }
   ],
   "pkgname": "com.playrix.gardenscapes",
-  "vercode": 108850,
-  "vername": "8.8.5",
+  "vercode": 108910,
+  "vername": "8.9.1",
   "publisher": "Playrix",
   "s1": [
     512,
