@@ -1,5 +1,5 @@
 {
-  "time": 1753315200243,
+  "time": 1753315300243,
   "pkgname": "mod.loader.armv8a",
   "search": ["崩溃大陆","泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
@@ -1397,44 +1397,38 @@
       "time": 1721865600000,
 	  "mtime": 1743120000003,
       "pkg": "com.rebeltwins.castlemastertd"
-    },
-    {
+    },{
 		"group": 3,
-      "label": "曲奇必死",
-      "time": 1737676800000,
-	  "mtime": 1743120000002,
-      "pkg": "com.rebeltwins.cookiesmustdie"
-    },
-    {
-      "label": "龙之丘2",
-      "time": 1721433600000,
-	  "mtime": 1743120000000,
-      "pkg": "com.rebeltwins.dragonhills2"
-    },
-    {
-      "label": "哥布林弹球",
-      "time": 1748390400000,
-	  "mtime": 1750809600000,
-      "pkg": "com.RedNexusGamesInc.Peglin"
-    },
-    {
-      "label": "黑暗地牢",
-      "time": 1724803200000,
-	  "mtime": 1739404800000,
-      "pkg": "com.redzaam.dsd"
-    },
-    {
-      "label": "60秒！避难所",
-      "time": 1724112000000,
-	  "mtime": 1734912000000,
-      "pkg": "com.robotgentleman.game60seconds"
-    },
-    {
+		"label": "曲奇必死",
+		"time": 1737676800000,
+		"mtime": 1743120000002,
+		"pkg": "com.rebeltwins.cookiesmustdie"
+    },{ 
+		"label": "龙之丘2",
+		"time": 1721433600001,
+		"mtime": 1743120000001,
+		"pkg": "com.rebeltwins.dragonhills2"
+    },{
+		"label": "哥布林弹球",
+		"time": 1748390400000,
+		"mtime": 1750809600000,
+		"pkg": "com.RedNexusGamesInc.Peglin"
+    },{
+		"label": "黑暗地牢",
+		"time": 1724803200000,
+		"mtime": 1739404800000,
+		"pkg": "com.redzaam.dsd"
+    },{
+		"label": "60秒！避难所",
+		"time": 1724112000000,
+		"mtime": 1734912000000,
+		"pkg": "com.robotgentleman.game60seconds"
+    },{
 		"group": 3,
-      "label": "60秒！重新裂变",
-      "time": 1724112000000,
-	  "mtime": 1734912000001,
-      "pkg": "com.RobotGentleman.game60SecondsReatomized"
+		"label": "60秒！重新裂变",
+		"time": 1724112000000,
+		"mtime": 1734912000001,
+		"pkg": "com.RobotGentleman.game60SecondsReatomized"
     },{
 		"label": "60秒差距",
 		"time": 1724112000000,
@@ -1455,99 +1449,84 @@
 		"time": 1749772800000,
 		"mtime": 1752969600000,
 		"pkg": "com.savetheworld.game"
-    },
-    {
-      "label": "暗影战争",
-      "time": 1724284800000,
-	  "mtime": 1725062400010,
-      "pkg": "com.shadow.war.legend.slime.idle.rpg.survival.game"
-    },
-    {
-      "label": "迷宫传奇2",
-      "time": 1698302418000,
-	  "mtime": 1725321600000,
-      "pkg": "com.ShinobiGames.InfiniteW"
-    },
-    {
-      "label": "孤单枪手：丧尸",
-      "time": 1692662400000,
-      "pkg": "com.sigmateam.zombieshooter.free"
-    },
-    {
-      "label": "孤胆枪手：世界",
-      "time": 1709856000000,
-	  "mtime": 1713916800000,
-      "pkg": "com.sigmateam.alienshootermobile.free"
-    },
-    {
-      "label": "孤胆枪手：塔防",
-      "time": 1692748800000,
-      "pkg": "com.sigmateam.alienshooter.towerdefence"
-    },
-    {
-      "label": "孤胆枪手2：传奇",
-      "time": 1692921600000,
-      "pkg": "com.sigmateam.alienshooter2"
-    },
-    {
+    },{
+		"label": "暗影战争",
+		"time": 1724284800000,
+		"mtime": 1725062400010,
+		"pkg": "com.shadow.war.legend.slime.idle.rpg.survival.game"
+    },{
+		"label": "迷宫传奇2",
+		"time": 1698302418000,
+		"mtime": 1725321600000,
+		"pkg": "com.ShinobiGames.InfiniteW"
+    },{
+		"label": "孤单枪手：丧尸",
+		"time": 1692662400000,
+		"pkg": "com.sigmateam.zombieshooter.free"
+    },{
+		"label": "孤胆枪手：世界",
+		"time": 1709856000000,
+		"mtime": 1713916800000,
+		"pkg": "com.sigmateam.alienshootermobile.free"
+    },{
+		"label": "孤胆枪手：塔防",
+		"time": 1692748800000,
+		"pkg": "com.sigmateam.alienshooter.towerdefence"
+    },{
+		"label": "孤胆枪手2：传奇",
+		"time": 1692921600000,
+		"pkg": "com.sigmateam.alienshooter2"
+    },{
 		"group": 3,
-      "label": "孤胆枪手2：重制版",
-      "time": 1692921600000,
-	  "mtime": 1726963200000,
-      "pkg": "com.sigmateam.alienshooter2reloaded"
-    },
-    {
-      "label": "奥咕和秘密森林",
-      "time": 1737072000000,
-	  "mtime": 1749859100000,
-      "pkg": "com.SinkHoleStudio.OguForest"
-    },
-    {
-      "label": "刀锋酷跑",
-      "time": 1741132800000,
-	  "mtime": 1741564800000,
-      "pkg": "com.sybogames.brim"
-    },
-    {
-      "label": "空洞骑士",
-      "time": 1710806400003,
-	  "mtime": 1726790400005,
-      "pkg": "com.TeamCherry.HollowKnight"
-    },
-    {
-      "label": "生存之地",
-      "time": 1691452800000,
-	  "mtime": 1728345600000,
-      "pkg": "com.the10tons.crimsonland"
-    },
-    {
-      "label": "末日后53天",
-      "time": 1740700800000,
-	  "mtime": 1741910400000,
-      "pkg": "com.the10tons.dysmantle"
-    },
-    {
-      "label": "朋克大暴走",
-      "time": 1691452800000,
-	  "mtime": 1728345600001,
-      "pkg": "com.the10tons.neonchrome"
-    },
-    {
-      "label": "渎神",
-      "time": 1734307200000,
-	  "mtime": 1735430400000,
-      "pkg": "com.thegamekitchen.blasphemousmobile"
-    },
-    {
-      "label": "神枪手强尼",
-      "time": 1702598400000,
-      "pkg": "com.time.trigger"
-    },
-    {
-      "label": "火车大亨",
-      "time": 1724803200000,
-	  "mtime": 1725062400000,
-      "pkg": "com.tinytitanstudios.TrainChu"
+		"label": "孤胆枪手2：重制版",
+		"time": 1692921600000,
+		"mtime": 1726963200000,
+		"pkg": "com.sigmateam.alienshooter2reloaded"
+    },{
+		"label": "奥咕和秘密森林",
+		"time": 1737072000000,
+		"mtime": 1749859100000,
+		"pkg": "com.SinkHoleStudio.OguForest"
+    },{
+		"label": "刀锋酷跑",
+		"time": 1741132800000,
+		"mtime": 1741564800000,
+		"pkg": "com.sybogames.brim"
+    },{
+		"label": "空洞骑士",
+		"time": 1710806400003,
+		"mtime": 1726790400005,
+		"pkg": "com.TeamCherry.HollowKnight"
+    },{
+		"label": "生存之地",
+		"time": 1691452800000,
+		"mtime": 1728345600000,
+		"pkg": "com.the10tons.crimsonland"
+    },{
+		"label": "末日后53天",
+		"time": 1740700800000,
+		"mtime": 1741910400000,
+		"pkg": "com.the10tons.dysmantle"
+    },{
+		"label": "朋克大暴走",
+		"time": 1691452800000,
+		"mtime": 1728345600001,
+		"pkg": "com.the10tons.neonchrome"
+    },{
+		"label": "渎神",
+		"time": 1734307200000,
+		"mtime": 1735430400000,
+		"pkg": "com.thegamekitchen.blasphemousmobile"
+    },{
+		"label": "神枪手强尼",
+		"time": 1731369600000,
+		"mtime": 1735430400000,
+		"pkg": "com.time.trigger"
+    },{
+		"label": "火车大亨",
+		"time": 1724803200000,
+		"mtime": 1725062400000,
+		"pkg": "com.tinytitanstudios.TrainChu"
     },
     {
       "label": "点击巫师2",
