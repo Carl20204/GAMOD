@@ -1,0 +1,45 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+  },
+  "gms": 1,
+  "info": "🥷 无声潜行，一击致命\u003cbr\u003e\u003cbr\u003e想避开世间的纷扰，安安静静地待上五分钟？如果你想要的是那种悄无声息、诡秘隐蔽的安静，那就来试试《潜行大师》😎 吧。这是一款以无声潜行、一击致命为主题的手游，一切诡诈、阴险、狡猾、鬼鬼祟祟的手段都是它歌颂的对象。",
+  "label": "潜行大师",
+  "time": 1752192000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】适合游戏全部版本，如果出现游戏升级功能失效情况，可以到墨魔豆的QQ圈子里吱一声",
+        "【自动激活】免广告，所有广告奖励可以直接白嫖。",
+        "【可选菜单】调整收益，随机卡牌"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.stealthgame.master.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.stealthgame.master",
+  "vercode": 187,
+  "vername": "1.12.27",
+  "publisher": "SayGames",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "休闲",
+    "潜行"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "[翻墙]下载页",
+      "url": "https://apkpure.net/cn/stealth-master-assassin-ninja/com.stealthgame.master",
+      "var": true
+    }
+  ]
+}
