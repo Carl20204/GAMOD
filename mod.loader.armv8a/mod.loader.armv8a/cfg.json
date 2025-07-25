@@ -1,5 +1,5 @@
 {
-  "time": 1753401700244,
+  "time": 1753401800244,
   "pkgname": "mod.loader.armv8a",
   "search": ["崩溃大陆","泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
@@ -1625,15 +1625,18 @@
       "time": 1710460800000,
 	  "mtime": 1711411200000,
       "pkg": "games.alternativa.projectv.test"
-    },
-    {
+    },{
+		"label": "貓咪大戰爭日文版",
+		"time": 1751500800000,
+		"mtime": 1753401600000,
+		"pkg": "jp.co.ponos.battlecats"
+    },{
 		"group": 9,
-      "label": "貓咪大戰爭",
-      "time": 1751328000000,
-	  "mtime": 1751328000000,
-      "pkg": "jp.co.ponos.battlecatstw"
-    },
-    {
+		"label": "貓咪大戰爭",
+		"time": 1751328000000,
+		"mtime": 1751328000000,
+		"pkg": "jp.co.ponos.battlecatstw"
+    },{
 		"group": 3,
       "label": "恶魔城：月下夜想曲",
       "time": 1661126400000,
