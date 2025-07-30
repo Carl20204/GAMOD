@@ -1,0 +1,60 @@
+{
+  "gms": 2,
+  "info": "手机上的\u003cfont color\u003d\"#ff0000\"\u003e格斗RPG\u003c/font\u003e，最好的就是《暗影格斗》和《骷髅女孩》了。\u003cbr\u003e持续运营十二年的游戏，是你的青春吗？",
+  "label": "骷髅女孩",
+  "time": 1711411200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "各可选功能，建议仅用于故事模式或练习模式使用"
+      ],
+      "name": "上帝是个女孩",
+      "pkgname": "com.autumn.skullgirls.gm64",
+      "targetvc": "*",
+      "vercode": 4
+    }
+  ],
+  "pkgname": "com.autumn.skullgirls",
+  "vercode": 103,
+  "vername": "6.2.0",
+  "publisher": "Autumn Games, LLC",
+  "signmd5": "09A488D8BB67F36FACAEAF58B8B83CD0",
+  "tags": [
+    "中文",
+    "国际版",
+    "格斗",
+    "RPG"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/b8URFjcw",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/PuURFwt8",
+      "var": false
+    },
+    {
+      "host": "下载页[翻墙]",
+      "url": "https://apkpure.net/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download",
+      "var": true
+    },
+    {
+      "host": "直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/XAPK/com.autumn.skullgirls?versionCode\u003d103\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    }
+  ],
+  "videos": {
+    "https://www.ixigua.com/7330926763301995035?logTag\u003da01ec9f0eab34d26cf52": "全大招演示",
+    "https://www.ixigua.com/7332081493776269876?logTag\u003dba17eb2de94741bc7eac": "EVO 2022总决赛"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "gms": 2,
+  "info": "相比Switch/Steam版本，还是用手机玩方便，碎片时间随时玩",
+  "label": "迷宫传奇2",
+  "time": 1698302418008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "激动免广告",
+        "自定义菜单，可调节无敌、多重武器、无限MP、物品掉落、加速升级等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ShinobiGames.InfiniteW.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.ShinobiGames.InfiniteW",
+  "vercode": 74,
+  "vername": "1.0.21",
+  "publisher": "シノビゲームズ",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "动作",
+    "地牢"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/f8USV6Yl",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/labyrinth-legend-ii/com.ShinobiGames.InfiniteW/download",
+      "var": false
+    }
+  ]
+}

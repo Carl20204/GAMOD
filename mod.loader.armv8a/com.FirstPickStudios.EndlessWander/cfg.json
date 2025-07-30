@@ -1,0 +1,46 @@
+{
+  "faqs": {
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e不会翻墙，到墨魔豆的QQ圈子里要也行\u003c/font\u003e"
+  },
+  "gms": 2,
+  "info": "具有挑战性的行动战斗：\u003cbr\u003e体验激烈的实时动作战斗，考验您的技能。简单而灵活的触摸控制与智能自动瞄准相结合，使你的战斗体验更加舒适。\u003cbr\u003e\u003cbr\u003e令人惊叹的像素艺术视觉效果：\u003cbr\u003e探索各种精美的手工像素艺术环境和角色。沉浸在独创配乐中，随着时间和游戏玩法无缝变化，以匹配心情。\u003cbr\u003e\u003cbr\u003e离线游戏\u003cbr\u003e无需网络连接！随时离线玩，或使用云存储在所有设备上保持进度。\u003cbr\u003e\u003cbr\u003eEndless Wander 的全新、独特和移动优先的体验，是游戏的灵魂。无论您是肉鸽游戏初学者，还是之前在无数像素地牢中战斗过，Endless Wander 都经过精心制作，可提供卓越的肉鸽体验。",
+  "label": "无尽漫游",
+  "time": 1743552000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "本MOD为通用版本，游戏更新升级无需更换MOD，如果出现功能失效，可以在墨魔豆的QQ圈子里留言",
+        "【免广告】自动激活，所有广告奖励可白嫖",
+        "【自选菜单】可调节减伤、增伤、无CD、解锁全角色、收获增加、消费打折等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.FirstPickStudios.EndlessWander.gm64",
+      "targetvc": "*",
+      "vercode": 3
+    }
+  ],
+  "pkgname": "com.FirstPickStudios.EndlessWander",
+  "vercode": 315,
+  "vername": "2.3.3",
+  "publisher": "First Pick Studios",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "单机",
+    "肉鸽",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    }
+  ]
+}

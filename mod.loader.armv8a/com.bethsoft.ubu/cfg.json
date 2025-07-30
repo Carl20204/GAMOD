@@ -1,0 +1,44 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "你玩的是DOOM+弓箭传说吗？不，是情怀、情怀、情怀。配音、终结技，到处都有真人快打的影子\u003cbr\u003e\u003cbr\u003e由【辐射避难所】开发组出品\u003cbr\u003e\u003cbr\u003e无中文，学过英日韩的建议玩玩",
+  "label": "毁灭战士(DOOM)",
+  "time": 1708473600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节减伤、增伤、移速、各种能力等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bethsoft.ubu.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.bethsoft.ubu",
+  "vercode": 79566,
+  "vername": "1.11.0",
+  "publisher": "Bethesda Softworks LLC",
+  "signmd5": "8FAE1795403876AB165A49F69BFA1F10",
+  "tags": [
+    "英文",
+    "休闲",
+    "射击",
+    "肉鸽"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/APK/com.bethsoft.ubu?versionCode\u003d79566",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/mighty-doom/com.bethsoft.ubu/download",
+      "var": false
+    }
+  ]
+}

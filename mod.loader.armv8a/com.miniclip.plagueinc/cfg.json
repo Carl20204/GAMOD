@@ -1,0 +1,51 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "新的解药模式扩展包来了，化身各国政府，消灭肆虐全球的瘟疫吧",
+  "label": "瘟疫公司",
+  "time": 1707264000008,
+  "mtime": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动解锁全部扩展包",
+        "自选菜单可调节DNA出现频率"
+      ],
+      "name": "完整版",
+      "pkgname": "com.miniclip.plagueinc.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.miniclip.plagueinc",
+  "vercode": 1537,
+  "vername": "1.19.17",
+  "publisher": "Ndemic Creations",
+  "signmd5": "A790B002E89C475C17C6D2FB6472EF6F",
+  "tags": [
+    "中文",
+    "单机",
+    "模拟",
+    "经营"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机云盘",
+      "url": "https://share.feijipan.com/s/FTATSvER",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/plague-inc/com.miniclip.plagueinc/download",
+      "var": false
+    },
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/APK/com.miniclip.plagueinc?versionCode\u003d1537\u0026nc\u003darm64-v8a\u0026sv\u003d19",
+      "var": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "faqs": {
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e不会翻墙，到墨魔豆的QQ圈子里要也行\u003c/font\u003e"
+  },
+  "gms": 1,
+  "info": "梦幻水族箱夏季更新！\u003cbr\u003e童话大冒险！\u003cbr\u003e- 拯救被龙困住的公主，寻找回家的路，在新的探险中成为真正的英雄！\u003cbr\u003e- 在新赛季中获得增强道具，加速道具，无限爱心和独特的宠物！\u003cbr\u003e- 开启寻宝之旅！尘封的牧场，神秘的旧地图，隐藏的黄金传说等着你揭晓！\u003cbr\u003e其他亮点\u003cbr\u003e新款水族箱：购物世界。\u003cbr\u003e新鱼：皇冠松鼠鱼和条纹射水鱼。\u003cbr\u003e希望这次的更新能给你带来欢声笑语！\u003cbr\u003e祝你尽享海洋乐趣！",
+  "label": "梦幻水族箱",
+  "time": 1747094400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【专用版】仅兼容25年6月谷歌商店更新的9.0.2.0版本\u003cbr\u003e游戏更新MOD未更新的话，可到墨魔豆的QQ圈子里吱一声，作者看到会处理",
+        "【步数】可选菜单，可调节三消开局步数",
+        "【蓄力】可选菜单，可调节闪电蓄力档次",
+        "【金币】可选菜单，可调节装饰品的售卖价格，缺金币就卖",
+        "【内购】可选菜单，宝石内购0元购，仅建议内测人员使用"
+      ],
+      "name": "休闲模式",
+      "pkgname": "com.playrix.fishdomdd.gplay.gm64",
+      "targetvc": "1002814070",
+      "vercode": 7
+    }
+  ],
+  "pkgname": "com.playrix.fishdomdd.gplay",
+  "vercode": 1002814070,
+  "vername": "9.0.2.0",
+  "publisher": "Playrix",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "休闲",
+    "三消"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/fishdom/com.playrix.fishdomdd.gplay",
+      "var": true
+    }
+  ]
+}

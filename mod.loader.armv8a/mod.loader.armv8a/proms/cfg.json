@@ -1,0 +1,136 @@
+{
+  "ts": 1729987200004,
+  "pic": "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a/mod.loader.armv8a/proms/cover.png",
+  "desc": "经典推荐",
+  "tags": [
+    {
+      "title": "经典游戏",
+      "items": [
+        {
+          "desc": "<font color=\"#ff\">最终版：1.4.4.9.5</font><br>喜欢沙盒创造类型，又和本人一样晕3D的，强烈推荐本作，神一般的作品，海量的内容，玩十年没问题。<br><font color=\"#ff\">全球独家MOD，不肝不卷轻松玩</font>",
+          "pkg": "com.and.games505.Terraria",
+          "video": "https://www.ixigua.com/7013636145783243272"
+        },
+        {
+          "desc": "三大经典塔防系列：植物大战僵尸、王国保卫战、保卫萝卜。<br><br>某天大神看到谷歌市场本游戏更新了，想怀旧想重玩，却发现市面上只有大量钻石的存档改版，只得自力更生，出了一个全网独家的多功能MOD，就是为了让自己玩的爽！<br><br>其它版本，请进入游戏详情页后，点击游戏图像查看铁皮工作室更多游戏MOD",
+          "pkg": "com.ironhidegames.android.kingdomrushorigins"
+        },
+        {
+          "desc": "崩溃大陆不用介绍了吧？经典中的经典，生存RPG，中文翻译的也超级给力<br><font color=\"#ff\">全球独家MOD，十几种高端功能，主打就是不肝不卷无内耗，玩着开心最重要</font>",
+          "pkg": "com.bscotch.crashlands"
+        },
+        {
+          "desc": "三大经典塔防系列中的老大，可惜国际版无中文<br><br>本作是最经典的，原汁原味的一代，EA一直在维护，纯英文也不要怕，老玩家谁看戴夫的话啊！<br><font color=\"#ff\">全球独家MOD，几十种高端功能，重玩一样爽</font><br><br>进入游戏详情页后，点击游戏图标可查看二代游戏MOD",
+          "pkg": "com.ea.game.pvzfree_row"
+        },
+        {
+          "desc": "超经典的，手机版【牧场物语】<br>移动端玩起来，比主机、掌机的方便性、便携性强百倍，手机里常备本作，确实值得",
+          "pkg": "com.chucklefish.stardewvalley"
+        },
+        {
+          "desc": "【这是我的战争】在这个国际战争不断的时代，值得再次体验一番。<br><br>系列两部作品，可进入游戏详情页后点击游戏图标查看，【父亲的承诺】会更艰难一些。",
+          "pkg": "com.elevenbitstudios.twommobile"
+        },
+        {
+          "desc": "中国特供版，11周年纪念版！<br><br>氪金力度没得说，当然游戏内容也没得说，在植物、地图、玩法上比EA的国际版内容是多的多。",
+          "pkg": "com.popcap.pvz2cthdbk"
+        },
+        {
+          "desc": "<font color=\"#ff0000\">翻墙警告：注册账号时需翻墙</font><br>halfbrick出品的《水果忍者》很无聊，但他家的《庞然巨物》可是贪吃蛇的经典延伸。喜欢贪吃蛇类型的话，必须要玩本作，不愧是创意、脑动大开之作<br><font color=\"#ff\">全球独家MOD，十几种酷爽功能，玩起来嗨翻天</font>",
+          "pkg": "com.halfbrick.colossatron"
+        },
+        {
+          "desc": "<font color=\"#ff0000\">无中文警告</font><br>获得过谷歌大赏，品质超高的动作游戏，配合MOD玩起来好爽，有了无限跳，对手残党和搓玻璃苦手真是救星啊",
+          "pkg": "com.direlight.grimvalor"
+        },
+        {
+          "desc": "<font color=\"#ff0000\">无中文警告</font><br>手机上的飞行射击游戏，主机游戏品质，绝对的神作，迄今无敌手。<br><br>请下载安装网盘分享的版本，此版本与谷歌市场最新版差异仅仅是使用了不同的谷歌验证，游戏自身无任何变化【最新的谷歌验证MOD暂未免验证】<br><font color=\"#ff\">全球独家MOD，十多种功能，射击游戏不开MOD玩太不爽</font>",
+          "pkg": "pl.idreams.SkyForceReloaded2016"
+        },
+        {
+          "desc": "<font color=\"#ff0000\">无中文警告</font><br>孤胆枪手，看到这个名字，你是否回想起当年在网吧通宵的青春？<br><font color=\"#ff\">全球独家MOD，功能多多，扔掉贴吧的修改教程吧，差的太多了</font>",
+          "pkg": "com.sigmateam.alienshooter2reloaded"
+        },
+        {
+          "desc": "<font color=\"#ff0000\">无中文警告</font><br>纯怀旧经典，部分高刷旗舰手机会导致游戏速度翻倍，建议用老手机玩",
+          "pkg": "jp.konami.epjCastlevania2"
+        }
+      ]
+    },{
+      "title": "墨魔豆推荐",
+      "items": [
+        {
+          "desc": "<font color=\"#ff\">Netflix版免费无广告无内购</font><br>猴子（气球）塔防6，超经典的塔防游戏，巨多的猴子（塔类型），超多的地图，大量的英雄，全球玩家排行榜，喜欢塔防的必玩之作。<br><br>建议单机玩的时候开MOD，联机就注意点别太过分了。",
+          "pkg": "com.netflix.NGP.BloonsTDSix",
+          "video": "https://www.ixigua.com/7317303044289495588"
+        },{
+          "desc": "喜欢塔防的，最新作的《王国保卫战》无论如何都要玩一下",
+          "pkg": "com.ironhidegames.android.kingdomrush.alliance"
+        },{
+          "desc": "国际版叫【死亡细胞】中国版叫【重生细胞】，致敬银河恶魔城，手机常备，常玩常新<br><font color=\"#ff\">手残党建议开MOD玩，毕竟游戏再好玩，打不过就是不好玩</font>",
+          "pkg": "com.playdigious.deadcells.mobile"
+        },{
+          "desc": "王国系列为啥不开放MOD制作？因为他们自己要出换皮版本再卖一次！<br><br>虽说本作是换皮做，但官方换皮质量还是很高的，就是内容太少了，不够玩的",
+          "pkg": "com.rawfury.kingdom80s"
+        },{
+          "desc": "<font color=\"#ff\">Netflix版免费无广告无内购</font><br>主机游戏品质，高难度，高画质，深度剧情，腻歪了常见的氪金手游的话，来试试本作吧。<br><br>手残党可以开MOD弱化战斗难度，但剧情解密还是要靠玩家头脑",
+          "pkg": "com.netflix.NGP.DeathsDoor",
+          "video": "https://www.ixigua.com/7382439201012187698"
+        },{
+          "desc": "<font color=\"#ff\">今年仍在维护</font><br>多年的老游戏了，育碧还在更新维护中。<br>饥饿的鲨鱼出品过进化、世界两作，进入游戏详情可以点游戏图标查看，<font color=\"#ff\">个人觉得【世界】比【进化】好玩，开MOD后就更好玩了</font>",
+          "pkg": "com.ubisoft.hungrysharkworld",
+          "video": "https://www.ixigua.com/6933275538878366216"
+        },{
+          "desc": "肉鸽动作类型大爆发年代出品的精品，可惜难度太高导致人气不足。<br>配合MOD食用，手残党终于可以完整的体验游戏的设计理念与乐趣了",
+          "pkg": "com.ChrisMcFarland.Tallowmere2"
+        },{
+          "desc": "银河恶魔城类型游戏，画风没有【空洞骑士】唯美，但用像素风展现克苏鲁式的血腥暴力，还是很赞的",
+          "pkg": "com.pid.elderand"
+        },{
+          "desc": "银河恶魔城类型游戏，画面超级唯美",
+          "pkg": "com.TeamCherry.HollowKnight"
+        },{
+          "desc": "<font color=\"#ff\">今年仍在更新</font><br>开罗出品的游戏是很经典，也很好玩，但出的太多了。<br>建议玩两三款经典的，或者自己喜欢的题材类型就可以了。<br><br>点进详情后可点击游戏图标查看所有MOD支持的开罗游戏，<font color=\"#ff\">开着MOD玩可以体验到不卷无内耗的感受</font>",
+          "pkg": "net.kairosoft.android.kingdom_en"
+        }
+      ]
+    },{
+      "title": "爆款小众",
+      "items": [
+        {
+          "desc": "怒之铁拳，老牌游戏了，口碑爆款，但还是属于小众类型……",
+          "pkg": "com.playdigious.sor4"
+        },{
+          "desc": "玩着太上头了，MOD大神搞出一堆功能，就是为了自己爽……",
+          "pkg": "com.wildsky.wildcastle"
+        },{
+          "desc": "王国系列游戏，玩法独特，口碑爆款，小众精品……",
+          "pkg": "com.rawfury.kingdom2crowns"
+        },{
+          "desc": "MOD大神推荐，为啥这游戏的MOD功能超多，因为大神自己要玩...",
+          "pkg": "com.dream.dale"
+        },{
+          "desc": "MOD大神从抖音上看主机平台游戏直播发现的好游戏，既然官方移植手机了，上MOD...",
+          "pkg": "com.humblebundle.wizardoflegend",
+          "video": "https://www.ixigua.com/7170246100111557134"
+        },{
+          "desc": "杀戮尖塔口碑也是超火过的，但主机平台的爆款，手机上肯定是小众，哪有那么多硬核玩家...",
+          "pkg": "com.humble.SlayTheSpire"
+        },{
+          "desc": "游戏太硬核，不适合大众...",
+          "pkg": "com.flaregames.zgs"
+        },{
+          "desc": "MOD大神已经满级了...",
+          "pkg": "com.futureplay.mergematch"
+        },{
+          "desc": "20年前的网吧爆款，放在现在手机平台当然属于小众了...",
+          "pkg": "com.sigmateam.alienshooter2reloaded"
+        },{
+          "desc": "曾经因为犯忌讳被全中国封杀，现在呢？",
+          "pkg": "com.miniclip.plagueinc"
+        }
+      ]
+    }
+  ]
+
+}

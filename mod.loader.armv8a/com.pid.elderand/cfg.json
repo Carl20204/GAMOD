@@ -1,0 +1,57 @@
+{
+  "gms": 1,
+  "info": "登录PC时的译名，还有古神之地、先民圣所等名字，你喜欢哪个呢？\u003cbr\u003e标准银河恶魔城玩法，有剧情有地图探索，之前登录steam、switch等主机平台时，相关视频一大堆，就不多说了\u003cbr\u003e网盘分享为大神订制的无广告纯净版",
+  "label": "秘堡埃德兰",
+  "time": 1724112000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单可调节满HP、满MP、满SP、道具使用不减、无限跳、无敌等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.pid.elderand.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.pid.elderand",
+  "vercode": 48,
+  "vername": "1.3.20",
+  "publisher": "Plug in Digital",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "动作",
+    "银河恶魔城",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/PuURFwt8",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/RoC10pGf",
+      "var": false
+    },
+    {
+      "host": "翻墙|游戏下载页",
+      "url": "https://apkpure.net/cn/elderand/com.pid.elderand",
+      "var": false
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "faqs": {
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！",
+    "游戏启动后一直加载进不去？": "断一下网，然后选择访客模式即可。\u003cbr\u003e\u003cbr\u003eMOD锁定了访客模式，每次进入游戏试玩时长都有2小时，不会叠加，放心玩"
+  },
+  "gms": 1,
+  "info": "超级经典的游戏，多年后的「蛇蛇贪吃」模仿了其创意做了创新，但说实话，还是「庞然巨物」好玩！\u003cbr\u003e\u003cbr\u003e掌管巨型机械蛇，在努力创造有史以来最可怕的武器的同时，轻松地摧毁城市。\u003cbr\u003e\u003cbr\u003e您的目标很简单：摧毁一切！\u003cbr\u003e\u003cbr\u003e释放“贪吃巨蛇”的力量。Match 3 英雄游戏和贪吃蛇游戏的独特组合，让您通过合并彩色能量块制造出更新、更强大的武器，从而创造出毁灭性的机器。其中包含了数千种潜在的组合，而取胜的关键在于掌握构造“贪吃巨蛇”的技巧，打败难以对付的“大佬”。",
+  "label": "庞然巨物",
+  "time": 1734048000018,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【专用版】本MOD基于谷歌商店2024年12月发布的游戏版本，如果出现游戏更新MOD未更新，可到墨魔豆的QQ圈子里吱一声",
+        "【可选菜单】游戏加速、武器强化、蛇体强化、棱镜强化等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.halfbrick.colossatron.gm64",
+      "targetvc": "760327",
+      "vercode": 3
+    }
+  ],
+  "pkgname": "com.halfbrick.colossatron",
+  "vercode": 760327,
+  "vername": "2.6.8.760327",
+  "publisher": "Halfbrick Studios",
+  "s3": 0,
+  "search": [
+    "贪吃蛇"
+  ],
+  "tags": [
+    "中文",
+    "合并",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "下载页｜翻墙",
+      "url": "https://apkpure.net/cn/colossatron/com.halfbrick.colossatron",
+      "var": false
+    }
+  ]
+}

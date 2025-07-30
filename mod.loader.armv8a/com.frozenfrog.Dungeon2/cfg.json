@@ -1,0 +1,57 @@
+{
+  "gms": 1,
+  "info": "Roguelike玩法加英雄培养和装备收集的爆肝之旅",
+  "label": "地牢求生2：巨像传说",
+  "time": 1724803200008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单：可调节游戏速度，调节玩家与敌人的各项属性"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.frozenfrog.Dungeon2.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.frozenfrog.Dungeon2",
+  "vercode": 2020403,
+  "vername": "2.2.4.3",
+  "publisher": "Frozen Frog",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 536,
+  "tags": [
+    "中文",
+    "单机",
+    "地牢",
+    "剧情",
+    "肉鸽"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/f8USV6Yl",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "下载页[翻墙]",
+      "url": "https://apkpure.net/cn/dungeon-survival-2/com.frozenfrog.Dungeon2/download",
+      "var": true
+    }
+  ]
+}

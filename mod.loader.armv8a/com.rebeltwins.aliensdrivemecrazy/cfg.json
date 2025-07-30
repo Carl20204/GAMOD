@@ -1,0 +1,56 @@
+{
+  "faqs": {
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！",
+    "MOD更新说明": "本MOD基于游戏在谷歌商店2025年3月更新的3.2.3版本，理论上也支持后续版本，请自行去应用商店更新游戏，无需升级MOD。\u003cbr\u003e\u003cbr\u003e未来如果出现游戏更新，使用当前版本MOD功能失效的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理"
+  },
+  "gms": 1,
+  "info": "欧洲波兰经常出创意之作，Rebel Twins出品的【龙之丘】【老爸曾是小偷】【曲奇必死】，加上本作，各个都是特色十足，没玩过就太遗憾了",
+  "label": "疯狂外星人",
+  "time": 1741910400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "已自动激活免广告，所有激励广告点击白送",
+        "自选开关，可手动加金币、加钞票、装置特效、满血、快速射击等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.rebeltwins.aliensdrivemecrazy.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.rebeltwins.aliensdrivemecrazy",
+  "vercode": 42,
+  "vername": "3.2.3",
+  "publisher": "Rebel Twins",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 1024,
+  "tags": [
+    "中文",
+    "国际版",
+    "搞笑",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/RoC10pGf",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/cookies-must-die/com.rebeltwins.aliensdrivemecrazy",
+      "var": false
+    }
+  ]
+}

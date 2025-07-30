@@ -1,0 +1,49 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
+    "MOD发布说明": "基于游戏在谷歌商店2025年4月更新的2.7.7版本开发，理论上为通用版，游戏升级可以继续使用无需更新MOD。\u003cbr\u003e\u003cbr\u003e如果出现游戏更新后MOD功能失效或闪退，可以到墨魔豆的QQ圈子里吱一声，作者看到会修复"
+  },
+  "gms": 2,
+  "info": "肉鸽塔防，比较少见的玩法。玩家要一边操作英雄，要一边部署防御塔。\u003cbr\u003e2D平面像素风的【兽人必须死】",
+  "label": "幽暗地域防线",
+  "time": 1743984000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告",
+        "可选菜单可调节各种奖励数量，玩家移动速度、攻击速度等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.FreeDust.UnderDark.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.FreeDust.UnderDark",
+  "vercode": 2771,
+  "vername": "2.7.7",
+  "publisher": "LiberalDust",
+  "s3": 0,
+  "search": [
+    "黑暗之下",
+    "幽暗地域防线"
+  ],
+  "tags": [
+    "中文",
+    "肉鸽",
+    "塔防"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/lastcampdefense-underdark/com.FreeDust.UnderDark",
+      "var": true
+    }
+  ]
+}

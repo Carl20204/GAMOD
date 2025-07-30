@@ -1,0 +1,55 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+  },
+  "gms": 1,
+  "info": "从不起眼的桃源小村到中世纪大都市 - 营建自己的梦幻城市！\u003cbr\u003e\u003cbr\u003e✔ 中世纪的各种城市建设方式\u003cbr\u003e\u003cbr\u003e✔ 聪明的居民忙碌于日常事务\u003cbr\u003e\u003cbr\u003e✔ 复杂经济模拟，深度生产链\u003cbr\u003e\u003cbr\u003e✔ 数十种不同的城镇和生产建筑物\u003cbr\u003e\u003cbr\u003e✔ 军事功能可选，可训练士兵，智斗强盗\u003cbr\u003e\u003cbr\u003e✔ 季节、天气，都有意义，都有效果\u003cbr\u003e\u003cbr\u003e✔ 火灾、疫病、干旱及更多毁灭性灾难\u003cbr\u003e\u003cbr\u003e✔ 丰富多样的情景和挑战任务\u003cbr\u003e\u003cbr\u003e✔ 无限制的沙盒游戏模式",
+  "label": "家园7",
+  "time": 1711843200008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】本MOD为通用版本，理论上支持游戏全版本。出现游戏升级MOD功能失效的话，可以在墨魔豆的QQ圈子里吱一声。",
+        "【自动激活】内购选项免广告、经验双倍、5x快进已购买",
+        "【可选菜单】游戏速度、资源收益倍率】声望消耗折扣"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.hg.townsmen7free.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.hg.townsmen7free",
+  "vercode": 98,
+  "vername": "1.14.9",
+  "publisher": "HandyGames",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 536,
+  "tags": [
+    "中文",
+    "战棋",
+    "策略"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "下载页[翻墙]",
+      "url": "https://apkpure.net/cn/townsmen/com.hg.townsmen7free",
+      "var": true
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "豆浆油条，满足顾客与狗子的早餐需求……",
+  "label": "楼下的早餐店",
+  "time": 1708992000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可激活各种强化道具效果"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ccyiyo.story.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.ccyiyo.story",
+  "vercode": 291,
+  "vername": "2.9.1",
+  "publisher": "YiYo Studios",
+  "signmd5": "F8DC59B856C33FE8B3163EF04A87F5F8",
+  "tags": [
+    "中文",
+    "模拟经营",
+    "做饭",
+    "休闲"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.ccyiyo.story?versionCode\u003d291\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/breakfast-story-cooking-game/com.ccyiyo.story/download",
+      "var": false
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "faqs": {
+    "为什么不带MOD启动游戏闪退？": "\u003cfont color\u003d\"#ff0000\"\u003e游戏启用了Google加固，必须使用MOD才可跳过沙盒检测。\u003c/font\u003e"
+  },
+  "gms": 2,
+  "info": "\u003cfont color\u003d\"#ff0000\"\u003e幸存者肉鸽射击\u003c/font\u003e，看游戏图标就能感受到很别致的画风，喜欢幸存者，但玩腻了元祖《吸血鬼幸存者》，氪金王者《弹壳特攻队》这两种类型的，建议试试本游戏，给你不一样的感受。",
+  "label": "土豆兄弟",
+  "time": 1718323200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "免广告",
+        "MOD自选菜单，可调节经验与材料的收益率！可全商品随心购！"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.brotato.shooting.survivors.action.roguelike.gm64",
+      "targetvc": "*",
+      "vercode": 5
+    }
+  ],
+  "pkgname": "com.brotato.shooting.survivors.action.roguelike",
+  "vercode": 1030391,
+  "vername": "1.3.391",
+  "publisher": "Erabit Studios",
+  "tags": [
+    "中文",
+    "肉鸽",
+    "射击",
+    "幸存者"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/gJUSGXYM",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/ylUSGcws",
+      "var": false
+    },
+    {
+      "host": "apkpure下载页[翻墙]",
+      "url": "https://apkpure.net/cn/brotato/com.brotato.shooting.survivors.action.roguelike/download",
+      "var": false
+    }
+  ],
+  "videos": {
+    "https://www.douyin.com/user/self?modal_id\u003d7326875856108883252\u0026showTab\u003dpost": "近防炮大杀四方",
+    "https://www.ixigua.com/7331641742107935259?logTag\u003d5cba37026b960699999f": "我变成了一个大杀四方的土豆"
+  }
+}

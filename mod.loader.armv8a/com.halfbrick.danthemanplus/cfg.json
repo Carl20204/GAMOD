@@ -1,0 +1,45 @@
+{
+  "faqs": {
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！",
+    "游戏启动后一直加载进不去？": "断一下网，然后选择访客模式即可。\u003cbr\u003e\u003cbr\u003eMOD锁定了访客模式，每次进入游戏试玩时长都有2小时，不会叠加，放心玩"
+  },
+  "gms": 2,
+  "info": "● 冒险模式：跟随丹尼在新阶段的冒险\u003cbr\u003e\u003cbr\u003e● 无尽生存：通过在这个无尽生存游戏模式中战斗来达到排行榜的顶部。\u003cbr\u003e\u003cbr\u003e● 冒险模式：在各种史诗挑战和不同类型的游戏中考验自己。解锁独特的皮肤和奖品！\u003cbr\u003e\u003cbr\u003e升级你的角色\u003cbr\u003e\u003cbr\u003e升级你最喜欢的角色，使它们变得更强大，解锁新的能力和更长的连击，让你的敌人难以对付！\u003cbr\u003e\u003cbr\u003e创建你自己的英雄\u003cbr\u003e\u003cbr\u003e使用各种史诗皮肤和服装自定义你的角色，在战斗中获得额外的优势。以你想要的方式玩你的角色！\u003cbr\u003e\u003cbr\u003e复古像素艺术动作\u003cbr\u003e\u003cbr\u003e复古像素艺术图形带回了充满动作、平台和大量战斗的老式街机游戏的精髓。你准备好了吗？",
+  "label": "英雄丹：经典版",
+  "time": 1748390400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】本MOD基于谷歌商店2025年5月发布的游戏版本开发，如果出现游戏更新MOD未更新，可到墨魔豆的QQ圈子里吱一声",
+        "【可选菜单】更多金币、弹药无限等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.halfbrick.danthemanplus.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.halfbrick.danthemanplus",
+  "vercode": 11482002,
+  "vername": "1.14.82",
+  "publisher": "Halfbrick Studios",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "街机",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "下载页｜翻墙",
+      "url": "https://apkpure.net/cn/dan-the-man-classic/com.halfbrick.danthemanplus",
+      "var": false
+    }
+  ]
+}

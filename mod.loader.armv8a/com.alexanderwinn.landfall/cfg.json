@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "在火星上建设太空基地。\u003cbr\u003e模拟城市类型，喜欢建设的进",
+  "label": "飞跃星球",
+  "time": 1674777600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节资源，调节火箭，调节建筑。实在玩累了，就稍微开个功能算了"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.alexanderwinn.landfall.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.alexanderwinn.landfall",
+  "vercode": 174,
+  "vername": "2.92",
+  "publisher": "Tilting Point",
+  "signmd5": "DFCDACD495B86412AA2581C5269CAE45",
+  "tags": [
+    "中文",
+    "单机",
+    "模拟经营",
+    "建设",
+    "经典"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.alexanderwinn.landfall?versionCode\u003d174\u0026nc\u003d\u0026sv\u003d26",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/terragenesis-landfall/com.alexanderwinn.landfall/download",
+      "var": false
+    }
+  ]
+}

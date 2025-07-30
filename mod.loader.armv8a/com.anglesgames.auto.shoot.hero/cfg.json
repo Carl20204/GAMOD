@@ -1,0 +1,47 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "faqs": {
+    "卡在启动加载了怎么办？": "游戏启动会查询facebook，中国区玩家，建议断网进游戏，或者翻墙也行"
+  },
+  "gms": 1,
+  "info": "2D平台射击游戏，玩法参考【魂斗罗】【合金弹头】，添加了【弓箭传说】【弹壳特攻队】类似的强化养成系统。\u003cbr\u003e游戏启动读条时会查询facebook，国内玩家要么断网要么翻墙，都可以正常玩。",
+  "label": "射击英雄",
+  "time": 1709251200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，各种白嫖的激励足够用了",
+        "可选菜单，可调节收获更多的金币、宝石、皮肤、战场强化等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.anglesgames.auto.shoot.hero.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.anglesgames.auto.shoot.hero",
+  "vercode": 10410301,
+  "vername": "1.0.41.03.01",
+  "publisher": "Bombus Studio",
+  "signmd5": "EB02A0A5F2480D500202973EC98F4130",
+  "tags": [
+    "英文",
+    "射击",
+    "平台跳跃"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.anglesgames.auto.shoot.hero?versionCode\u003d10410301\u0026nc\u003darm64-v8a\u0026sv\u003d23",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/auto-hero-auto-shooting-game/com.anglesgames.auto.shoot.hero/download",
+      "var": false
+    }
+  ]
+}

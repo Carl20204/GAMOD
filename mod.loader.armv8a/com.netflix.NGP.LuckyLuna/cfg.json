@@ -1,0 +1,52 @@
+{
+  "faqs": {
+    "为啥点桌面图标启动游戏会黑屏卡住？": "分享的下载链接为官方原版，需要手机安装Netflix客户端，并购买了网飞会员的用户才能玩。",
+    "没有Netflix，没有网飞会员怎么玩？": "MOD有免网飞账号功能，用墨魔豆带着MOD启动游戏就行了"
+  },
+  "gms": 1,
+  "info": "精致的画面，治愈的剧情，值得体验一次。\u003cbr\u003e\u003cbr\u003e网飞会员游戏，对标的是任天堂switch主机游戏，所以喜欢社交网游类的慎入",
+  "label": "幸运的露娜",
+  "time": 1701216000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免网飞会员验证",
+        "可选菜单可激活无敌、飞行、磁铁、加珍珠等功能"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.netflix.NGP.LuckyLuna.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.netflix.NGP.LuckyLuna",
+  "vercode": 49,
+  "vername": "1.0.28",
+  "publisher": "Netflix",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "单机",
+    "动作",
+    "解密",
+    "像素"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/UOAmQ8kx",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/g4C1zjdY",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/lucky-luna/com.netflix.NGP.LuckyLuna/download",
+      "var": true
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "faqs": {
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！",
+    "游戏启动后一直加载进不去？": "国内玩家，断一下网，然后选择访客模式即可。\u003cbr\u003e\u003cbr\u003eMOD锁定了访客模式，每次进入游戏试玩时长都有2小时，不会叠加，放心玩"
+  },
+  "gms": 1,
+  "info": "夏日狂欢活动！\u003cbr\u003e6月20日至6月26日\u003cbr\u003e赢取水之刃和海滨道场！\u003cbr\u003e\u003cbr\u003e独立日活动！\u003cbr\u003e6月27日至7月6日\u003cbr\u003e赢取荣耀之刃和星条道场！",
+  "label": "水果忍者：经典版",
+  "time": 1749513600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】本MOD基于谷歌商店2025年6月发布的游戏版本，如果出现游戏更新MOD功能失效，可到墨魔豆的QQ圈子里吱一声",
+        "【可选菜单】游戏变速、杨桃收益提高、炸弹无害化、石榴连切简化"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.halfbrick.fruitninja.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.halfbrick.fruitninja",
+  "vercode": 79572300,
+  "vername": "3.26.0",
+  "publisher": "Halfbrick Studios",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "休闲",
+    "点击"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}

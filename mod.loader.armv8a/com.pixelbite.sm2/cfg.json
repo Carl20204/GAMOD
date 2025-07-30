@@ -1,0 +1,61 @@
+{
+  "faqs": {
+    "更换中文说明": "进入游戏后，按系统返回键（等同画面右上的【暂停】图标），进入主菜单界面，再点击右下第三个【齿轮】图标，然后是选项列表里倒数第三个【聊天】图标，点击可切换繁体中文"
+  },
+  "gms": 1,
+  "info": "太空刑警1、2、3，可以说是手机上最经典的战术潜行类游戏了\u003cbr\u003e\u003cbr\u003e当然，开MOD后当作无双割草类游戏玩也可以。",
+  "label": "太空刑警2",
+  "time": 1693785600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活完整版",
+        "可选菜单：无敌、无限弹药、秒杀、开门等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.pixelbite.sm2.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.pixelbite.sm2",
+  "vercode": 184,
+  "vername": "1.8.4",
+  "publisher": "Pixelbite",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "动作",
+    "潜行",
+    "怀旧",
+    "经典"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/h2C2gW6I",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/K1AbQBjG",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/space-marshals-2/com.pixelbite.sm2",
+      "var": true
+    }
+  ]
+}

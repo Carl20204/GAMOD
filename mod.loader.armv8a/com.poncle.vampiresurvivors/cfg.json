@@ -1,0 +1,67 @@
+{
+  "faqs": {
+    "中文怎么调？": "启动游戏后，停留在首页时，点击右上角的【齿轮】图标，点击第一行的language会列出所有支持语言，选择简体中文即可。",
+    "游戏更新建议": "中国区玩家，会翻墙，但没有谷歌账号，建议使用如下谷歌商店替代品\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore\u003c/a\u003e，非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！",
+    "MOD说明": "MOD是通用版本，理论上游戏更新不影响MOD使用，建议中国区玩家使用Aurora应用商店自己升级游戏"
+  },
+  "gms": 2,
+  "info": "作为《恶魔城月下夜想曲》的同人作品，带火了\"幸存者\"玩法。\u003cbr\u003e\u003cbr\u003e为什么1.13版本安装包有1.8G？高分辨率画面，新的中文字库字体清晰，画面更酷炫的超多新关卡，新的关卡机制……",
+  "label": "吸血鬼幸存者",
+  "time": 1744329600008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "启用后自动激活免广告",
+        "可选菜单可调节金币、钻石、经验的收益，可以少肝少氪一些。",
+        "可根据需要调整伤害、技能、速度等等，只要自己喜欢就好。"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.poncle.vampiresurvivors.gm64",
+      "targetvc": "*",
+      "vercode": 6
+    }
+  ],
+  "pkgname": "com.poncle.vampiresurvivors",
+  "vercode": 31511752,
+  "vername": "1.13.103",
+  "publisher": "Poncle",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "射击",
+    "幸存者"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/K1AbQBjG",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "下载页[翻墙]",
+      "url": "https://apkpure.net/cn/vampire-survivors/com.poncle.vampiresurvivors",
+      "var": true
+    }
+  ],
+  "videos": {
+    "https://www.ixigua.com/7121192346422772261?logTag\u003d58e4fc214c1c31ebde5b": "不想踩坑，想知道游戏合不合口味，来看看我吧",
+    "https://www.ixigua.com/7121192346422772261?logTag\u003d0f3f9137e723064e333a": "超精彩游戏合集"
+  }
+}

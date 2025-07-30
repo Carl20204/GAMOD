@@ -1,0 +1,48 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "faqs": {
+    "启动游戏会闪退？": "游戏有启动检测，请使用MOD过检测来正常游戏。"
+  },
+  "gms": 2,
+  "info": "全球联网的钓鱼游戏，服务器需翻墙，请用加速器/VPN\u003cbr\u003e\u003cbr\u003e手动才能更改中文，进入游戏后右下设置里切换",
+  "label": "深海垂钓",
+  "time": 1710460800008,
+  "mtime": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "免启动检测，使沙盒正常启动游戏",
+        "可选菜单可简化钓鱼难度"
+      ],
+      "name": "上帝模式",
+      "pkgname": "pl.idreams.cotd.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "pl.idreams.cotd",
+  "vercode": 414,
+  "vername": "2.11",
+  "publisher": "Infinite Dreams",
+  "signmd5": "A0E1EA11ED335283F4E1378232B93106",
+  "tags": [
+    "中文",
+    "钓鱼",
+    "翻墙"
+  ],
+  "downloads": [
+    {
+      "host": "apkpure[翻墙]直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/pl.idreams.cotd?versionCode\u003d414",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]下载页",
+      "url": "https://apkpure.net/cn/creatures-of-the-deep-fishing/pl.idreams.cotd/download",
+      "var": false
+    }
+  ]
+}

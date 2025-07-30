@@ -1,0 +1,51 @@
+{
+  "gms": 2,
+  "info": "UP主蓝飘飘fiy自制的一个改版，玩家可以自由融合来创建新的植物，在植物大战僵尸融合版里有很多植物可以融合，而且融合后的样式不会感觉到怪异",
+  "label": "植物大战僵尸：融合版",
+  "time": 1749859200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "基本功能都已完善"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.LanPiaoPiao.PlantsVsZombiesRH.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.LanPiaoPiao.PlantsVsZombiesRH",
+  "vercode": 1,
+  "vername": "2.6.1",
+  "publisher": "LanPaioPiao",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "休闲",
+    "塔防",
+    "合成"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "游戏作者网盘",
+      "url": "https://pan.quark.cn/s/b4f997c7d16c",
+      "var": false
+    }
+  ]
+}

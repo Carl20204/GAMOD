@@ -1,0 +1,55 @@
+{
+  "time": 1715126400019,
+  "label": "弓箭大师：终极版",
+  "pkgname": "com.playgendary.bowmastersremastered",
+  "publisher": "Playgendary Limited",
+  "vername": "1.1.1",
+  "vercode": 948,
+  "gms":1,
+  "mod": true,
+  "tags": ["中文","对战","休闲","血腥","搞笑"],
+  "info": "搞笑+血腥类型的休闲游戏，在不同地形上，双方按照愤怒的小鸟物理方式对射，搞死对手<br><br>游戏风格可以理解为卡通版《真人快打》18+，强烈建议未成年人止步",
+
+  "videos": {
+    "https://www.douyin.com/user/self?modal_id=7150847830586854696":"游戏演示"
+  },
+  "faqs": {
+    "卡在启动界面上？": "游戏会在启动时连接外网服务器，断网启动游戏，或者卡住后断一下网就能立刻进入游戏",
+    "好血腥，但抖音视频一点不血腥啊？": "游戏里点设置，可以关掉血腥模式。<br>PS：游戏缺省是开启了血腥模式"
+  },
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/5XAUtqbj"
+    },{
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/jQAbnNGS"
+    },{
+      "var": true,
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/ultimate-bowmasters/com.playgendary.bowmastersremastered/download"
+    }
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "MOD自动激活免广告",
+        "自选菜单，可调节无伤、全角色解锁、金币、宝石等"
+      ],
+      "pkgname": "com.playgendary.bowmastersremastered.gm64",
+      "targetvc":"*",
+      "vercode": 1
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 6144, 10904],
+  "s3": 4608,
+  "promotions": [
+    {"url": "https://ugame.9game.cn/game/share-235275-575274.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1088351.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-3068140.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1182503.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1170404.html"}
+  ]
+}

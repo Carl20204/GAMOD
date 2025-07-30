@@ -1,0 +1,47 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "很纯粹标准的平台跳跃街机动作类型，关卡设计很用心，各种陷阱，各种跳跃技巧，有超级马里奥风格的关卡解密要素",
+  "label": "苹果骑士2",
+  "time": 1702684800008,
+  "mtime": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "免广告，广告奖励白嫖就是了",
+        "可选菜单可调节金币、皇冠收益率，消费折扣率，无限跳让手残党也能爽快玩，实在打不过最后再开无敌"
+      ],
+      "name": "上帝模式",
+      "pkgname": "online.limitless.appleknight.dungeons.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "online.limitless.appleknight.dungeons",
+  "vercode": 12000,
+  "vername": "1.2.0",
+  "publisher": "Limitless, LLC",
+  "signmd5": "92FBFB1D66CFD74405C501C70BD2A2C4",
+  "tags": [
+    "中文",
+    "动作",
+    "街机",
+    "单机",
+    "ACT"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/online.limitless.appleknight.dungeons?versionCode\u003d12000\u0026nc\u003darm64-v8a\u0026sv\u003d24",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/apple-knight-2-hack-and-slash/online.limitless.appleknight.dungeons/download",
+      "var": false
+    }
+  ]
+}

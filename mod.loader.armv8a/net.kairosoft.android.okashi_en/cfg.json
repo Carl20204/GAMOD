@@ -1,0 +1,41 @@
+{
+  "time": 1717977600009,
+  "label": "创意蛋糕店",
+  "pkgname": "net.kairosoft.android.okashi_en",
+  "publisher": "Kairosoft",
+  "vername": "2.2.5",
+  "vercode": 33,
+  "signmd5":"9D60707A73290B53F7CFBAD50554C9EB",
+  "gms":1,
+  "archs": ["arm64-v8a"],
+  "tags": [ "中文", "国际版", "模拟经营"],
+  "info": "开罗出品的模拟经营游戏之一，经营你的蛋糕店。",
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "自动免广告。其它功能请谨慎使用，防止破坏游戏乐趣！"
+      ],
+      "pkgname": "net.kairosoft.android.okashi_en.gm64",
+      "targetvc":"*",
+      "vercode": 1
+    }
+  ],
+  "downloads": [
+    {
+      "var" : true,
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/bonbon-cakery/net.kairosoft.android.okashi_en"
+    },{
+      "host": "小飞机网盘 游戏/MOD",
+      "url": "https://share.feijipan.com/s/mXCh5CTw"
+    }
+  ],
+  "promotions": [
+    {"url": "https://ugame.9game.cn/game/share-235275-976614.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1354168.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1337176.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-3039902.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1222983.html"}
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "gms": 1,
+  "info": "● 拳拳到肉箭箭穿心的爽快打击感；\u003cbr\u003e\u003cbr\u003e● 多种角色，多种战斗风格。近战格斗，远程射击，魔法控场？总有一款适合你；\u003cbr\u003e\u003cbr\u003e● 丰富的怪物和关卡，从凶猛铁骑到蠢萌小怪，打到手软；\u003cbr\u003e\u003cbr\u003e● 海量独特的异能道具，组合最适合你的战斗风格；\u003cbr\u003e\u003cbr\u003e● 随机关卡、隐藏房间、秘密商店、隐藏boss等各色地牢元素等你来探索；\u003cbr\u003e\u003cbr\u003e● 辅助索敌，不怕手残，前所未有的顺畅动作游戏体验；\u003cbr\u003e\u003cbr\u003e● 独特的像素3D风格和全程逐帧手绘的细腻动画。",
+  "label": "战魂铭人：国际版",
+  "time": 1752710400008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【全解锁】所有上锁的，都可以解锁",
+        "【无限制】角色技能有限制的，都可以无限制",
+        "【随便打】技能无CD、满血、满盾随意开关"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.chillyroom.zhmr.gp.gm64",
+      "targetvc": "*",
+      "vercode": 8
+    }
+  ],
+  "pkgname": "com.chillyroom.zhmr.gp",
+  "vercode": 20600,
+  "vername": "2.11.0",
+  "publisher": "凉屋（ChillyRoom）",
+  "s3": 0,
+  "tags": [
+    "国际版",
+    "中文",
+    "肉鸽",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/otherworld-legends/com.chillyroom.zhmr.gp",
+      "var": true
+    }
+  ]
+}

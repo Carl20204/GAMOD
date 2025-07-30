@@ -1,0 +1,46 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "偶像养成类的模拟经营游戏，像素风二次元，可以当作【开罗】类型游戏来玩",
+  "label": "偶像制作人",
+  "time": 1710115200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动设置为繁体中文",
+        "可选菜单，可调节各项资金收益率与消费折扣"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.buildupstudio.idolproducer.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.buildupstudio.idolproducer",
+  "vercode": 133,
+  "vername": "2.02",
+  "publisher": "Buildup Studio",
+  "signmd5": "2C0126CF4CB3773D1AC826A7D29F4F19",
+  "tags": [
+    "中文",
+    "休闲",
+    "模拟经营",
+    "二次元",
+    "像素风"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.buildupstudio.idolproducer?versionCode\u003d133\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/k-pop-idol-producer/com.buildupstudio.idolproducer/download",
+      "var": false
+    }
+  ]
+}

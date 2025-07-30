@@ -1,0 +1,54 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "开罗出品的模拟经营游戏之一，建设你的游戏厅",
+  "label": "游戏厅物语：加强版",
+  "time": 1701043200008,
+  "mtime": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "自动激活完整版。\u003cbr\u003e其它功能请谨慎使用，防止破坏游戏乐趣！"
+      ],
+      "name": "上帝模式",
+      "pkgname": "net.kairosoft.android.gamecenterdx.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "net.kairosoft.android.gamecenterdx",
+  "vercode": 15,
+  "vername": "1.1.5",
+  "publisher": "Kairosoft",
+  "signmd5": "9D60707A73290B53F7CFBAD50554C9EB",
+  "tags": [
+    "中文",
+    "国际版",
+    "模拟经营"
+  ],
+  "downloads": [
+    {
+      "host": "apkpure直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/APK/net.kairosoft.android.gamecenterdx?versionCode\u003d15",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/pocket-arcade-story-dx/net.kairosoft.android.gamecenterdx/download/1.1.5",
+      "var": true
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/EmURed86",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/fOURoItL",
+      "var": false
+    }
+  ]
+}

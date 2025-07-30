@@ -1,0 +1,1467 @@
+{
+  "version": 6,
+  "eabi": "armv8a",
+  "lastUpdate": 1696221886350,
+  "author": "Carl20204",
+  "Packages": [
+    {
+      "pkgname": "com.time.trigger",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.time.trigger/icon.png",
+      "labels": {
+        "en": "Johnny Trigger",
+        "zh": "神枪手强尼"
+      },
+      "versions": [
+        {
+          "vercode": 287,
+          "vername": "1.12.32",
+          "urls": [
+            "https://apkpure.com/cn/johnny-trigger-action-shooter/com.time.trigger/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.time.trigger.gm64",
+              "vercode": 1,
+              "lastUpdate": 1701663899392,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.time.trigger/vc_full/com.time.trigger.gm64.v1.mod",
+              "labels": {
+                "en": "GodForTimeTrigger",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Save_Money_Save_Life",
+                "zh": "适当使用防肝防氪（+免广告）"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.savetheworld.game",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.savetheworld.game/icon.png",
+      "labels": {
+        "en": "My Universe",
+        "zh": "我的小小宇宙"
+      },
+      "versions": [
+        {
+          "vercode": 141,
+          "vername": "2.4.0",
+          "urls": [
+            "https://apkpure.com/cn/my-little-universe/com.savetheworld.game/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.savetheworld.game.gm64",
+              "vercode": 1,
+              "lastUpdate": 1701661382970,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.savetheworld.game/vc_full/com.savetheworld.game.gm64.v1.mod",
+              "labels": {
+                "en": "GodForLittleUniverse",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Save_Money_Save_Life",
+                "zh": "适当使用防肝防氪（+免广告）"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.brotato.shooting.survivors.action.roguelike",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.brotato.shooting.survivors.action.roguelike/icon.png",
+      "labels": {
+        "en": "Brotato",
+        "zh": "土豆兄弟"
+      },
+      "versions": [
+        {
+          "vercode": 1030210,
+          "vername": "1.3.210",
+          "urls": [
+            "https://apkpure.com/cn/brotato/com.brotato.shooting.survivors.action.roguelike/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.brotato.shooting.survivors.action.roguelike.gm64",
+              "vercode": 1,
+              "lastUpdate": 1701600017561,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.brotato.shooting.survivors.action.roguelike/vc1030210/com.brotato.shooting.survivors.action.roguelike.gm64.v1.mod",
+              "labels": {
+                "en": "GodForBrotato",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Save_Money_Save_Life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.dream.dale",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.dream.dale/icon.png",
+      "labels": {
+        "en": "Dreamdale",
+        "zh": "我的梦幻小岛"
+      },
+      "versions": [
+        {
+          "vercode": 1304,
+          "vername": "1.0.34",
+          "urls": [
+            "https://apkpure.com/cn/dreamdale-fairy-adventure/com.dream.dale/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.dream.dale.gm64",
+              "vercode": 1,
+              "lastUpdate": 1701448913738,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.dream.dale/vc_full/com.dream.dale.gm64.v1.mod",
+              "labels": {
+                "en": "GodForDreamDale",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Save_Money_Save_Life",
+                "zh": "适当使用防肝防氪（+免广告）"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.ChillyRoom.DungeonShooter",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ChillyRoom.DungeonShooter/icon.png",
+      "labels": {
+        "en": "Soul Knight",
+        "zh": "元气骑士"
+      },
+      "versions": [
+        {
+          "vercode": 50500,
+          "vername": "5.5.0",
+          "urls": [
+            "https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download",
+            "http://www.chillyroom.com/zh"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ChillyRoom.DungeonShooter.godmod",
+              "vercode": 2,
+              "lastUpdate": 1701432828131,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ChillyRoom.DungeonShooter/vc_full/com.ChillyRoom.DungeonShooter.godmod.v2.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 50453,
+          "vername": "5.4.5",
+          "urls": [
+            "https://apkpure.com/cn/soul-knight/com.ChillyRoom.DungeonShooter/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ChillyRoom.DungeonShooter.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697090922812,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ChillyRoom.DungeonShooter/vc_full/com.ChillyRoom.DungeonShooter.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.mobirate.DeadAheadTactics",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.mobirate.DeadAheadTactics/icon.png",
+      "labels": {
+        "en": "Dead Ahead Zombie Warfare",
+        "zh": "死亡突围：僵尸战争"
+      },
+      "versions": [
+        {
+          "vercode": 397,
+          "vername": "3.9.3",
+          "urls": [
+            "https://apkpure.com/cn/dead-ahead-zombie-warfare/com.mobirate.DeadAheadTactics/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.gameassist.plugin.DeadAheadTactics.gm64",
+              "vercode": 1,
+              "lastUpdate": 1701407719214,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.mobirate.DeadAheadTactics/vc397/com.gameassist.plugin.DeadAheadTactics.gm64.v1.mod",
+              "labels": {
+                "en": "GodForDeadAhead",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "pl.idreams.skyforcehd",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/pl.idreams.skyforcehd/icon.png",
+      "labels": {
+        "en": "Sky Force",
+        "zh": "傲气雄鹰2014"
+      },
+      "versions": [
+        {
+          "vercode": 80,
+          "vername": "1.46",
+          "urls": [
+            "https://apkpure.com/cn/sky-force-2014/pl.idreams.skyforcehd/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "pl.idreams.skyforcehd.gm64",
+              "vercode": 1,
+              "lastUpdate": 1701352793455,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/pl.idreams.skyforcehd/vc80/pl.idreams.skyforcehd.gm64.v1.mod",
+              "labels": {
+                "en": "GodForSkyForce2014",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.playrix.manormatters",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/icon.png",
+      "labels": {
+        "en": "manor-matters",
+        "zh": "奇屋寻踪"
+      },
+      "versions": [
+        {
+          "vercode": 1000455,
+          "vername": "4.5.5",
+          "urls": [
+            "https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.manormatters.godmod",
+              "vercode": 3,
+              "lastUpdate": 1700472292081,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/vc1000455/com.playrix.manormatters.godmod.v3.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "三消王者"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 1000450,
+          "vername": "4.5.0",
+          "urls": [
+            "https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.manormatters.godmod",
+              "vercode": 2,
+              "lastUpdate": 1699238524683,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/vc1000450/com.playrix.manormatters.godmod.v2.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "三消王者"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 1000440,
+          "vername": "4.4.0",
+          "urls": [
+            "https://apkpure.com/cn/manor-matters/com.playrix.manormatters/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.manormatters.godmod",
+              "vercode": 1,
+              "lastUpdate": 1698553066982,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.manormatters/vc1000440/com.playrix.manormatters.godmod.v1.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "三消王者"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.habby.punball",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.punball/icon.png",
+      "labels": {
+        "en": "PunBall",
+        "zh": "砰砰法师"
+      },
+      "versions": [
+        {
+          "vercode": 588,
+          "vername": "4.3.2",
+          "urls": [
+            "https://apkpure.com/cn/punball/com.habby.punball/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.habby.punball.gm64",
+              "vercode": 1,
+              "lastUpdate": 1700468007930,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.punball/vc_full/com.habby.punball.gm64.v1.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪（+免广告）"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.playrix.gardenscapes",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/icon.png",
+      "labels": {
+        "en": "Gardenscapes",
+        "zh": "梦幻花园"
+      },
+      "versions": [
+        {
+          "vercode": 107460,
+          "vername": "7.4.6",
+          "urls": [
+            "https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.gardenscapes.godmod",
+              "vercode": 3,
+              "lastUpdate": 1700046205636,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/vc107460/com.playrix.gardenscapes.godmod.v3.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 107420,
+          "vername": "7.4.2",
+          "urls": [
+            "https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.gardenscapes.godmod",
+              "vercode": 2,
+              "lastUpdate": 1698408156356,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/vc107420/com.playrix.gardenscapes.godmod.v2.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 107350,
+          "vername": "7.3.5",
+          "urls": [
+            "https://apkpure.com/cn/gardenscapes/com.playrix.gardenscapes/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.gardenscapes.godmod",
+              "vercode": 1,
+              "lastUpdate": 1696667945734,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.gardenscapes/vc107350/com.playrix.gardenscapes.godmod.v1.mod",
+              "labels": {
+                "en": "RICHMODE",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.playrix.homescapes",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.homescapes/icon.png",
+      "labels": {
+        "en": "HomeScapes",
+        "zh": "梦幻家园"
+      },
+      "versions": [
+        {
+          "vercode": 150006601,
+          "vername": "6.6.1",
+          "urls": [
+            "https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.homescapes.gm",
+              "vercode": 3,
+              "lastUpdate": 1700042445331,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.homescapes/vc150006601/com.playrix.homescapes.gm.v3.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 150006506,
+          "vername": "6.5.6",
+          "urls": [
+            "https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.homescapes.gm",
+              "vercode": 2,
+              "lastUpdate": 1698414143796,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.homescapes/vc150006506/com.playrix.homescapes.gm.v2.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 150006502,
+          "vername": "6.5.2",
+          "urls": [
+            "https://apkpure.com/cn/homescapes-android/com.playrix.homescapes/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.homescapes.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697376033952,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.homescapes/vc150006502/com.playrix.homescapes.godmod.v1.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.habby.sssnaker",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.sssnaker/icon.png",
+      "labels": {
+        "en": "SSSnaker",
+        "zh": "蛇蛇贪吃"
+      },
+      "versions": [
+        {
+          "vercode": 1698328169,
+          "vername": "1.1.8",
+          "urls": [
+            "https://apkpure.com/cn/sssnaker/com.habby.sssnaker/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.habby.sssnaker.gm64",
+              "vercode": 2,
+              "lastUpdate": 1700358088557,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.sssnaker/vc_full/com.habby.sssnaker.gm64.v2.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "So Cool So Awesome",
+                "zh": "适当使用防肝防氪（+免广告）"
+              }
+            },
+            {
+              "pkgname": "com.habby.sssnaker.gm64",
+              "vercode": 1,
+              "lastUpdate": 1700018828676,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.sssnaker/vc_full/com.habby.sssnaker.gm64.v1.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪（+免广告）"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "net.kairosoft.android.kingdom_en",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/net.kairosoft.android.kingdom_en/icon.png",
+      "labels": {
+        "en": "王都创世物语",
+        "zh": "王都创世物语"
+      },
+      "versions": [
+        {
+          "vercode": 243,
+          "vername": "2.4.3",
+          "urls": [
+            "https://apkpure.com/cn/kingdom-adventurers/net.kairosoft.android.kingdom_en/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "net.kairosoft.android.kingdom_en.gm64",
+              "vercode": 1,
+              "lastUpdate": 1699949766384,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/net.kairosoft.android.kingdom_en/vc_full/net.kairosoft.android.kingdom_en.gm64.v1.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "jp.co.ponos.battlecatstw",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/jp.co.ponos.battlecatstw/icon.png",
+      "labels": {
+        "en": "BattleCats",
+        "zh": "貓咪大戰爭"
+      },
+      "versions": [
+        {
+          "vercode": 1207000,
+          "vername": "12.7.0",
+          "urls": [
+            "https://apkpure.com/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "jp.co.ponos.battlecatstw.godmod",
+              "vercode": 2,
+              "lastUpdate": 1699938627231,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/jp.co.ponos.battlecatstw/vc1207000/jp.co.ponos.battlecatstw.godmod.v2.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 1206010,
+          "vername": "12.6.1",
+          "urls": [
+            "https://apkpure.com/cn/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/jp.co.ponos.battlecatstw/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "jp.co.ponos.battlecatstw.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697351829427,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/jp.co.ponos.battlecatstw/vc1206010/jp.co.ponos.battlecatstw.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.chillyroom.zhmr.aligames",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.zhmr.aligames/icon.png",
+      "labels": {
+        "en": "Otherworld Legends",
+        "zh": "战魂铭人"
+      },
+      "versions": [
+        {
+          "vercode": 20002,
+          "vername": "2.0.1",
+          "urls": [
+            "https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=235275&pack.id=48812704"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.chillyroom.zhmr.aligames.gm64",
+              "vercode": 1,
+              "lastUpdate": 1699890251969,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.zhmr.aligames/vc_full/com.chillyroom.zhmr.aligames.gm64.v1.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.Shooter.ModernWarships",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.Shooter.ModernWarships/icon.png",
+      "labels": {
+        "en": "ModernWarships",
+        "zh": "现代战舰"
+      },
+      "versions": [
+        {
+          "vercode": 12051516,
+          "vername": "0.73.1.12051516",
+          "urls": [
+            "https://apkpure.com/cn/modern-warships-naval-battles/com.Shooter.ModernWarships/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.Shooter.ModernWarships.godmod64",
+              "vercode": 1,
+              "lastUpdate": 1699873767171,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.Shooter.ModernWarships/vc_full/com.Shooter.ModernWarships.godmod64.v1.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "解压模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪（建议离线模式玩）"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.ShinobiGames.InfiniteW",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ShinobiGames.InfiniteW/icon.png",
+      "labels": {
+        "en": "Labyrinth Legend II",
+        "zh": "迷宫传说II"
+      },
+      "versions": [
+        {
+          "vercode": 74,
+          "vername": "1.0.21",
+          "urls": [
+            "https://apkpure.com/cn/labyrinth-legend-ii/com.ShinobiGames.InfiniteW/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ShinobiGames.InfiniteW.godmod64",
+              "vercode": 1,
+              "lastUpdate": 1699587500371,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ShinobiGames.InfiniteW/vc_full/com.ShinobiGames.InfiniteW.godmod64.v1.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.playrix.mysterymatters",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.mysterymatters/icon.png",
+      "labels": {
+        "en": "MysteryMatters",
+        "zh": "悬疑庄园"
+      },
+      "versions": [
+        {
+          "vercode": 10001600,
+          "vername": "1.6.0",
+          "urls": [
+            "https://apkpure.com/cn/mystery-matters/com.playrix.mysterymatters/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.playrix.mysterymatters.godmod",
+              "vercode": 1,
+              "lastUpdate": 1699462352436,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.playrix.mysterymatters/vc10001600/com.playrix.mysterymatters.godmod.v1.mod",
+              "labels": {
+                "en": "Free Boosters",
+                "zh": "免费道具"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "julyhot.elementalworld",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/julyhot.elementalworld/icon.png",
+      "labels": {
+        "en": "Elemental World",
+        "zh": "元素世界"
+      },
+      "versions": [
+        {
+          "vercode": 56,
+          "vername": "2.0.0",
+          "urls": [
+            "https://apkpure.com/cn/elemental-world-adventure/julyhot.elementalworld"
+          ],
+          "mods": [
+            {
+              "pkgname": "julyhot.elementalworld.gm",
+              "vercode": 1,
+              "lastUpdate": 1699235436234,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/julyhot.elementalworld/vc_full/julyhot.elementalworld.gm.v1.mod",
+              "labels": {
+                "en": "GodMode",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.habby.archero",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.archero/icon.png",
+      "labels": {
+        "en": "ArchHero",
+        "zh": "弓箭传说"
+      },
+      "versions": [
+        {
+          "vercode": 1390,
+          "vername": "5.3.3",
+          "urls": [
+            "https://apkpure.com/cn/archero/com.habby.archero/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.habby.archero.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697614301485,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.habby.archero/vc_full/com.habby.archero.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.chillyroom.zhmr.gp",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.zhmr.gp/icon.png",
+      "labels": {
+        "en": "Otherworld Legends",
+        "zh": "战魂铭人【GP版】"
+      },
+      "versions": [
+        {
+          "vercode": 20455,
+          "vername": "1.18.5",
+          "urls": [
+            "https://apkpure.com/cn/otherworld-legends/com.chillyroom.zhmr.gp/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.chillyroom.zhmr.gp.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697161911116,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.zhmr.gp/vc_full/com.chillyroom.zhmr.gp.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.chillyroom.xenocmd",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.xenocmd/icon.png",
+      "labels": {
+        "en": "xenocmd",
+        "zh": "异星指令"
+      },
+      "versions": [
+        {
+          "vercode": 34,
+          "vername": "1.3.10",
+          "urls": [
+            "https://apkpure.com/cn/xeno-command/com.chillyroom.xenocmd/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.chillyroom.xenocmd.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697200258282,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.chillyroom.xenocmd/vc_full/com.chillyroom.xenocmd.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.autumn.skullgirls",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.autumn.skullgirls/icon.png",
+      "labels": {
+        "en": "Skullgirls",
+        "zh": "骷髅女孩"
+      },
+      "versions": [
+        {
+          "vercode": 97,
+          "vername": "6.0.1",
+          "urls": [
+            "https://apkpure.com/cn/skullgirls-fighting-rpg/com.autumn.skullgirls/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.autumn.skullgirls.godmod",
+              "vercode": 1,
+              "lastUpdate": 1696822341600,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.autumn.skullgirls/vc_full/com.autumn.skullgirls.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.RedNexusGamesInc.Peglin",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.RedNexusGamesInc.Peglin/icon.png",
+      "labels": {
+        "en": "Peglin",
+        "zh": "哥布林弹球"
+      },
+      "versions": [
+        {
+          "vercode": 31,
+          "vername": "0.9.34",
+          "urls": [
+            "https://apkpure.com/cn/peglin-a-pachinko-roguelike/com.RedNexusGamesInc.Peglin/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.RedNexusGamesInc.Peglin.gm",
+              "vercode": 1,
+              "lastUpdate": 1698333919934,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.RedNexusGamesInc.Peglin/vc_full/com.RedNexusGamesInc.Peglin.gm.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "超级模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.xigmaGames.thebonfire2",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.xigmaGames.thebonfire2/icon.png",
+      "labels": {
+        "en": "TheBonfire2",
+        "zh": "篝火2·未知海岸"
+      },
+      "versions": [
+        {
+          "vercode": 450,
+          "vername": "189.0.4",
+          "urls": [
+            "https://apkpure.com/cn/the-bonfire-2-uncharted-shores/com.xigmaGames.thebonfire2/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.xigmaGames.thebonfire2.gm",
+              "vercode": 1,
+              "lastUpdate": 1698228665403,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.xigmaGames.thebonfire2/vc_full/com.xigmaGames.thebonfire2.gm.v1.mod",
+              "labels": {
+                "en": "GOD MOD",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.xigmagames.thebonfireFL",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.xigmagames.thebonfireFL/icon.png",
+      "labels": {
+        "en": "The Bonfire",
+        "zh": "篝火1·被遗忘的土地"
+      },
+      "versions": [
+        {
+          "vercode": 99,
+          "vername": "2.9",
+          "urls": [
+            "https://apkpure.com/cn/the-bonfire-forsaken-lands/com.xigmagames.thebonfireFL/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.xigmagames.thebonfireFL.gm",
+              "vercode": 1,
+              "lastUpdate": 1698246266048,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.xigmagames.thebonfireFL/vc_full/com.xigmagames.thebonfireFL.gm.v1.mod",
+              "labels": {
+                "en": "GOD MOD",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.popcap.pvz2cthdbk",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.popcap.pvz2cthdbk/icon.png",
+      "labels": {
+        "en": "PVZ2(CN)",
+        "zh": "植物大战僵尸2"
+      },
+      "versions": [
+        {
+          "vercode": 1440,
+          "vername": "3.2.6",
+          "urls": [
+            "http://game.talkweb.com.cn/"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.popcap.pvz2cthdbk.gm",
+              "vercode": 2,
+              "lastUpdate": 1701340802127,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.popcap.pvz2cthdbk/vc1440/com.popcap.pvz2cthdbk.gm.v2.mod",
+              "labels": {
+                "en": "GodMod",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 1420,
+          "vername": "3.2.0",
+          "urls": [
+            "http://game.talkweb.com.cn/"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.popcap.pvz2cthdbk.gm",
+              "vercode": 1,
+              "lastUpdate": 1697186837153,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.popcap.pvz2cthdbk/vc1420/com.popcap.pvz2cthdbk.gm.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "pkgname": "com.ea.game.pvz2_na",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvz2_na/icon.png",
+      "labels": {
+        "en": "PlantsVsZombies 2",
+        "zh": "植物大战僵尸\n2【国际版】"
+      },
+      "versions": [
+        {
+          "vercode": 834,
+          "vername": "11.0.1",
+          "urls": [
+            "https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ea.game.pvz2_na.gm",
+              "vercode": 3,
+              "lastUpdate": 1701335431058,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvz2_na/vc834/com.ea.game.pvz2_na.gm.v3.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        },
+        {
+          "vercode": 826,
+          "vername": "10.9.1",
+          "urls": [
+            "https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ea.game.pvz2_na.gm",
+              "vercode": 2,
+              "lastUpdate": 1697621596402,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvz2_na/vc826/com.ea.game.pvz2_na.gm.v2.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        },
+    
+        {
+          "vercode": 820,
+          "vername": "10.8.1",
+          "urls": [
+            "https://apkpure.com/cn/plants-vs-zombies%E2%84%A2-2/com.ea.game.pvz2_na/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ea.game.pvz2_na.gm",
+              "vercode": 1,
+              "lastUpdate": 1696612571157,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvz2_na/vc820/com.ea.game.pvz2_na.gm.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.ea.game.pvzfree_row",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvzfree_row/icon.png",
+      "labels": {
+        "en": "Plants vs. Zombies FREE",
+        "zh": "植物大战僵尸【国际版】"
+      },
+      "versions": [
+        {
+          "vercode": 163,
+          "vername": "3.4.3",
+          "urls": [
+            "https://apkpure.com/cn/plants-vs-zombies/com.ea.game.pvzfree_row/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.ea.game.pvzfree_row.gm64",
+              "vercode": 3,
+              "lastUpdate": 1698389635528,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.ea.game.pvzfree_row/vc163/com.ea.game.pvzfree_row.gm64.v3.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "pkgname": "com.poncle.vampiresurvivors",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.poncle.vampiresurvivors/icon.png",
+      "labels": {
+        "en": "Vampire Survivors",
+        "zh": "吸血鬼幸存者"
+      },
+      "versions": [
+        {
+          "vercode": 82,
+          "vername": "1.6.108",
+          "urls": [
+            "https://apkpure.com/cn/vampire-survivors/com.poncle.vampiresurvivors/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.poncle.vampiresurvivors.godmod",
+              "vercode": 1,
+              "lastUpdate": 1696773554094,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.poncle.vampiresurvivors/vc_full/com.poncle.vampiresurvivors.godmod.v1.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.mars.leguas.a",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.mars.leguas.a/icon.png",
+      "labels": {
+        "en": "Mars Survivors",
+        "zh": "火星幸存者\n火星归来"
+      },
+      "versions": [
+        {
+          "vercode": 140,
+          "vername": "1.4.0",
+          "urls": [
+            "https://apkpure.com/cn/mars-survivors/com.mars.leguas.a/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.mars.leguas.a.godmod",
+              "vercode": 3,
+              "lastUpdate": 1696168245321,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.mars.leguas.a/vc_full/com.mars.leguas.a.godmod.v3.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.king.candycrushjellysaga",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.king.candycrushjellysaga/icon.png",
+      "labels": {
+        "en": "Candy Crush Jelly Saga",
+        "zh": "果冻传奇"
+      },
+      "versions": [
+        {
+          "vercode": 301303004,
+          "vername": "3.13.3",
+          "urls": [
+            "https://apkpure.com/cn/candy-crush-jelly-saga/com.king.candycrushjellysaga/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.king.candycrushjellysaga.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697385974428,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.king.candycrushjellysaga/vc301303004/com.king.candycrushjellysaga.godmod.v1.mod",
+              "labels": {
+                "en": "RichMode",
+                "zh": "土豪模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.king.candycrushsaga",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.king.candycrushsaga/icon.png",
+      "labels": {
+        "en": "Candy Crush Saga",
+        "zh": "糖果粉碎传奇"
+      },
+      "versions": [
+        {
+          "vercode": 12621011,
+          "vername": "1.262.1.1",
+          "urls": [
+            "https://apkpure.com/cn/candy-crush-saga/com.king.candycrushsaga"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.king.candycrushsaga.godmod",
+              "vercode": 1,
+              "lastUpdate": 1697358492667,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.king.candycrushsaga/vc12621011/com.king.candycrushsaga.godmod.v1.mod",
+              "labels": {
+                "en": "GodMode",
+                "zh": "无限道具"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "pkgname": "pl.idreams.SkyForceReloaded2016",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/pl.idreams.SkyForceReloaded2016/icon.png",
+      "labels": {
+        "en": "Sky Force Reloaded",
+        "zh": "傲气雄鹰\n重装上阵"
+      },
+      "versions": [
+        {
+          "vercode": 300222,
+          "vername": "2.01",
+          "urls": [
+            "https://apkpure.com/cn/sky-force-reloaded/pl.idreams.SkyForceReloaded2016/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "pl.idreams.SkyForceReloaded2016.gm",
+              "vercode": 2,
+              "lastUpdate": 1696221886351,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/pl.idreams.SkyForceReloaded2016/vc300222/pl.idreams.SkyForceReloaded2016.gm.v2.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "com.halfbrick.colossatroncc",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.halfbrick.colossatroncc/icon.png",
+      "labels": {
+        "en": "Colossatron Cosmic Crisis",
+        "zh": "庞然巨物：宇宙危机"
+      },
+      "versions": [
+        {
+          "vercode": 677359,
+          "vername": "1.0.3",
+          "urls": [
+            "https://apkpure.com/cn/colossatron-cosmic-crisis/com.halfbrick.colossatroncc/download"
+          ],
+          "mods": [
+            {
+              "pkgname": "com.halfbrick.colossatroncc.gm64",
+              "vercode": 1,
+              "lastUpdate": 1701483462390,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/com.halfbrick.colossatroncc/vc_full/com.halfbrick.colossatroncc.gm64.v1.mod",
+              "labels": {
+                "en": "GodForColossatronCC",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Save_Money_Save_Life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pkgname": "jp.konami.epjCastlevania2",
+      "icon": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/jp.konami.epjCastlevania2/icon.png",
+      "labels": {
+        "en": "CastleVaniaSotN",
+        "zh": "恶魔城\n月下夜想曲"
+      },
+      "versions": [
+        {
+          "vercode": 51,
+          "vername": "1.0.2",
+          "urls": [
+			      "https://apkaward.com/castlevania-symphony-of-the-night",
+            "https://dl25160.apkawards.com/MoD/dl25/jp.konami.epjCastlevania2/jp.konami.epjCastlevania2_1.0.2-APK_Award.apk",
+            "https://dl25160.apkawards.com/MoD/dl25/jp.konami.epjCastlevania2/jp.konami.epjCastlevania2.zip"
+          ],
+          "mods": [
+            {
+              "pkgname": "jp.konami.epjCastlevania2.godmod",
+              "vercode": 2,
+              "lastUpdate": 1696165136924,
+              "url": "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a/jp.konami.epjCastlevania2/vc_full/jp.konami.epjCastlevania2.godmod.v2.mod",
+              "labels": {
+                "en": "GODMODE",
+                "zh": "上帝模式"
+              },
+              "descs": {
+                "en": "Proper use, save ur money and life",
+                "zh": "适当使用防肝防氪"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

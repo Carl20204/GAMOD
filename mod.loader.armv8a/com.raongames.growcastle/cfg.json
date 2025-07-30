@@ -1,0 +1,63 @@
+{
+  "faqs": {
+    "买金球缺红钻怎么办？": "开MOD装备功能的6档，打龙巢地牢掉落E级装备，可兑换为红钻"
+  },
+  "gms": 1,
+  "info": "卡通画风的放置塔防，内容庞大，超大的技能树，海量的道具体系，扩展养成元素巨多无比，不肝十年是别想玩透。",
+  "label": "成长城堡",
+  "time": 1727222400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节金币、钻石、不死、无CD、满蓝等等？"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.raongames.growcastle.gm64",
+      "targetvc": "*",
+      "vercode": 5
+    }
+  ],
+  "pkgname": "com.raongames.growcastle",
+  "vercode": 416,
+  "vername": "1.40.9",
+  "publisher": "RAON GAMES",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "英文",
+    "塔防",
+    "放置",
+    "卡通"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/grow-castle-tower-defense/com.raongames.growcastle/download",
+      "var": true
+    }
+  ],
+  "videos": {
+    "https://www.ixigua.com/6935027562196238856?logTag\u003d12cee428ad236cd4fc23": "如果在游戏里砸3000$ 能够变得多强",
+    "https://www.ixigua.com/6932667751324779016?logTag\u003d9bb661065af081ba3504": "建设城堡! 招兵买马! 抵御敌人进攻!"
+  }
+}

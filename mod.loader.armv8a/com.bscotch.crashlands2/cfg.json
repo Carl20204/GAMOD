@@ -1,0 +1,58 @@
+{
+  "faqs": {
+    "游戏更新建议": "游戏为付费版，网盘分享里是热心网友提供的安装包",
+    "MOD发布说明": "基于游戏版本100.1.378开发，理论上为通用版，游戏升级可以继续使用无需更新MOD。\u003cbr\u003e\u003cbr\u003e如果出现游戏更新后MOD功能失效或闪退，可以到墨魔豆的QQ圈子里吱一声，作者看到会修复",
+    "MOD更新说明": "修复了v1版本减伤效果作用在玩家投掷物上的bug，新增了快速研究心得的功能\u003cbr\u003e\u003cbr\u003ePS：本来想出个和1代一样的全物品自由添加，结果游戏引擎改动太大不好做，如果以后真有需求再说吧"
+  },
+  "gms": 2,
+  "info": "【崩溃大陆】的续集来了",
+  "label": "崩溃大陆2",
+  "time": 1744329600018,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，快速跑图、增伤、减伤、闪现、收获多多等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bscotch.crashlands2.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.bscotch.crashlands2",
+  "vercode": 100001378,
+  "vername": "100.1.378",
+  "publisher": "Butterscotch Shenanigans",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "单机",
+    "生存",
+    "收集",
+    "剧情",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/K1AbQBjG",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链页",
+      "url": "https://apkpure.net/cn/crashlands-2/com.bscotch.crashlands2",
+      "var": false
+    }
+  ]
+}

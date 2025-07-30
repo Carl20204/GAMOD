@@ -1,0 +1,44 @@
+{
+  "gms": 2,
+  "info": "【点击泰坦】+【幸存者】的结合，相当于幸存者玩法的放置养成，纯英文，超多内容超大词汇量，四六级不过关的话不建议",
+  "label": "点击巫师2",
+  "time": 1713052800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节各项收入，也可调节无敌、加速等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.topcog.tapwizard2.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.topcog.tapwizard2",
+  "vercode": 300,
+  "vername": "7.3.3",
+  "publisher": "TopCog",
+  "tags": [
+    "英文",
+    "放置",
+    "肉鸽"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/iQBzg6lM",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/fPBzg9Hw",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/tap-wizard-2-idle-magic-game/com.topcog.tapwizard2/download",
+      "var": false
+    }
+  ]
+}

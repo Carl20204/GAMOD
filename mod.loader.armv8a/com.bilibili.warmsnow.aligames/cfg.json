@@ -1,0 +1,34 @@
+{
+  "gms": 1,
+  "label": "暖雪",
+  "time": 1719541629008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "懂得都懂"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bilibili.warmsnow.aligames.gm64",
+      "targetvc": "*",
+      "vercode": 4
+    }
+  ],
+  "pkgname": "com.bilibili.warmsnow.aligames",
+  "vercode": 56,
+  "vername": "3.1.1",
+  "publisher": "bilibili",
+  "tags": [
+    "中文",
+    "实名制",
+    "肉鸽",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "九游",
+      "url": "https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId\u003d235275\u0026pack.id\u003d48553418",
+      "var": false
+    }
+  ]
+}

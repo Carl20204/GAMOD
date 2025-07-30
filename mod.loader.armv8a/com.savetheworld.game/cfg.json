@@ -1,0 +1,64 @@
+{
+  "faqs": {
+    "游戏无法存档？": "桌面版本游戏被系统屏蔽会导致无法存档，建议启动手机桌面的原版（停在开始界面就行），放到后台，然后玩墨魔豆的带MOD版本即可",
+    "换地图背包物资会清空？": "\u003cfont color\u003d\"#ff0000\"\u003e每次切换大地图星球时，游戏会做数值检测，资源太多会被清空数据，请务必加载MOD游玩过检测\u003c/font\u003e",
+    "游戏更新建议": "如果网盘分享里没有最新安装包，建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+  },
+  "gms": 2,
+  "info": "SayGames出品的休闲风格重量级游戏。\u003cbr\u003e上百种可收集物资，几十颗可探索星球，可建设自己的星球，养成内容繁多。请养好肝再来玩",
+  "label": "我的小宇宙",
+  "time": 1749772800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】基于游戏在谷歌商店2025年6月更新的版本开发，理论上支持之后的所有版本更新，如果出现游戏升级功能失效的话，可以在墨魔豆的QQ圈子里吱一声",
+        "【自动激活】免检测，激励广告可白嫖",
+        "【可选菜单】提升资源收益率，宠物时长，无鲨鱼随意游泳",
+        "【免内购、全资源】此两项功能谨慎使用，极大破坏游戏乐趣\u003cbr\u003e\u003cbr\u003e部分商品免内购有概率崩溃，仅建议测试员使用"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.savetheworld.game.gm64",
+      "targetvc": "*",
+      "vercode": 8
+    }
+  ],
+  "pkgname": "com.savetheworld.game",
+  "vercode": 196,
+  "vername": "2.16.4",
+  "publisher": "SayGames",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "策略",
+    "采集",
+    "探索"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/o9CW5yP3",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://m.apkpure.net/cn/my-little-universe/com.savetheworld.game/download",
+      "var": true
+    }
+  ]
+}

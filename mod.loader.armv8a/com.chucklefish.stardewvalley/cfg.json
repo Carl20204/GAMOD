@@ -1,0 +1,56 @@
+{
+  "gms": 1,
+  "info": "虽说其借鉴的主机游戏【牧场物语】素质更牛B，但在移动端，本作却比牧场物语火百倍，还是因为手机玩起来比主机、掌机都方便百倍的原因",
+  "label": "星露谷物语",
+  "time": 1698624000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节游戏时间、玩家状态、移动速度、钓鱼、物品等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.chucklefish.stardewvalley.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.chucklefish.stardewvalley",
+  "vercode": 170,
+  "vername": "1.5.6.52",
+  "publisher": "ConcernedApe",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "模拟",
+    "经验",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/FTATSvER",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/o9CW5yP3",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/stardew-valley/com.chucklefish.stardewvalley",
+      "var": true
+    }
+  ]
+}

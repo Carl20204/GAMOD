@@ -1,0 +1,29 @@
+{
+  "gms": 1,
+  "label": "火柴人联盟2",
+  "time": 1698278400008,
+  "mtime": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节玩家与敌人的移动速度，技能CD，怒气等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.games.hcr2.acing.aligames.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.games.hcr2.acing.aligames",
+  "vercode": 9100,
+  "vername": "1.8.8",
+  "signmd5": "7B1A92EAD48C3F489002428DEF69DFE7",
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId\u003d235275\u0026pack.id\u003d49262673",
+      "var": false
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
+    "常见游戏异常": "\u003cfont color\u003d\"#ff0000\"\u003e出现游戏启动闪退，空间不足等问题，只要启动一次桌面版本的游戏，直接退出或保险起见放在后台都行，然后回到墨魔豆就可以正常玩MOD版本了\u003c/font\u003e\u003cbr\u003e\u003cbr\u003e启动卡在加载25%，或者日常活动没了，一般是网络不好连不上服务器，或者游戏更新了，升级一下游戏就好"
+  },
+  "gms": 2,
+  "info": "三消游戏，从PopCap的限时玩法的钻石迷阵，到King的限制步数的糖果粉碎传奇，然后再到playrix的装饰主线的梦幻家园/花园，然后终于进化到了本作：\u003cbr\u003e荣获2023谷歌游戏大奖的合成花园，以合成玩法做故事主线的三消，很容易令人沉迷",
+  "label": "荟萃花园",
+  "time": 1751500800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】游戏更新升级无需更换MOD，如果出现功能失效，可以在墨魔豆的QQ圈子里留言",
+        "【折扣】可选择金币、宝石、木材的消费折扣",
+        "【礼物】好友礼物大爆，用于快速收集社交专用物品",
+        "【免内购】有钱人的快乐谁懂啊！"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.futureplay.mergematch.gm64",
+      "targetvc": "*",
+      "vercode": 12
+    }
+  ],
+  "pkgname": "com.futureplay.mergematch",
+  "vercode": 1470,
+  "vername": "1.41.0",
+  "publisher": "Futureplay",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "休闲",
+    "三消",
+    "合成"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "翻墙",
+      "url": "https://apkpure.net/cn/merge-gardens/com.futureplay.mergematch",
+      "var": true
+    }
+  ]
+}

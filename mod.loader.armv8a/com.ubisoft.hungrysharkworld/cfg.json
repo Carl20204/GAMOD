@@ -1,0 +1,59 @@
+{
+  "faqs": {
+    "提示无法存档？": "正常启动手机桌面版本，停留在游戏开始界面后切换到墨魔豆带MOD启动游戏即可正常玩了"
+  },
+  "gms": 1,
+  "info": "大鱼吃小鱼的经典之作，UBI出品，还有人没玩过吗？\u003cbr\u003e\u003cbr\u003e游戏升级到7.0了，优化了大量祖传的Bug，玩起来舒服多了",
+  "label": "饥饿的鲨鱼：世界",
+  "time": 1752537600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】基于2025年7月谷歌商店更新的游戏版本开发，如果出现游戏升级MOD功能失效问题，可以去墨魔豆的QQ圈子里吱一声",
+        "【可选菜单】手动调节减伤幅度、金币、宝石、珍珠收益、爆发槽无限、强化特效开关"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ubisoft.hungrysharkworld.gm64",
+      "targetvc": "*",
+      "vercode": 5
+    }
+  ],
+  "pkgname": "com.ubisoft.hungrysharkworld",
+  "vercode": 703,
+  "vername": "7.0.3",
+  "publisher": "Ubisoft Entertainment",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "休闲",
+    "探索"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/hungry-shark-world/com.ubisoft.hungrysharkworld",
+      "var": true
+    }
+  ]
+}

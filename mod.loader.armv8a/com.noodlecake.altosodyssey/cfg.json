@@ -1,0 +1,50 @@
+{
+  "gms": 2,
+  "info": "相当于前作「阿尔托的冒险」的沙漠皮肤版，比起前作当然更养眼一些",
+  "label": "阿尔托的奥德赛",
+  "time": 1702512000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动免广告，激励广告可白嫖",
+        "可选菜单可调节各项道具功能，增强速度等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.noodlecake.altosodyssey.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.noodlecake.altosodyssey",
+  "vercode": 92,
+  "vername": "1.0.27",
+  "publisher": "Noodlecake",
+  "signmd5": "B55C477AF305DEAF7C905258D5FCB695",
+  "tags": [
+    "中文",
+    "单机",
+    "跑酷",
+    "休闲",
+    "禅",
+    "艺术",
+    "经典"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.noodlecake.altosodyssey?versionCode\u003d92\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/alto-s-odyssey/com.noodlecake.altosodyssey/download",
+      "var": false
+    }
+  ]
+}

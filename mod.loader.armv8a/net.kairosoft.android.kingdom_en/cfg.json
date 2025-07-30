@@ -1,0 +1,58 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "开罗出品的模拟经营游戏之一，也是其中最经典的之一",
+  "label": "王都创世物语",
+  "time": 1706832000008,
+  "mtime": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "自动免广告。其它功能请谨慎使用，防止破坏游戏乐趣！"
+      ],
+      "name": "上帝模式",
+      "pkgname": "net.kairosoft.android.kingdom_en.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "net.kairosoft.android.kingdom_en",
+  "vercode": 247,
+  "vername": "2.4.7",
+  "publisher": "Kairosoft",
+  "signmd5": "9D60707A73290B53F7CFBAD50554C9EB",
+  "tags": [
+    "中文",
+    "国际版",
+    "模拟经营"
+  ],
+  "downloads": [
+    {
+      "host": "apkpure直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/APK/net.kairosoft.android.kingdom_en?versionCode\u003d247",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/kingdom-adventurers/net.kairosoft.android.kingdom_en/download",
+      "var": true
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/fOURoItL",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/EmURed86",
+      "var": false
+    }
+  ],
+  "videos": {
+    "https://www.ixigua.com/7332349649954538038?logTag\u003d402fe6a1f065b004eef5": "游戏攻略第1部分",
+    "https://www.ixigua.com/7332349909297234467?logTag\u003d2615aad4d2249de705cd": "游戏攻略第2部分"
+  }
+}

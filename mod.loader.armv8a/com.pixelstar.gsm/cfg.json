@@ -1,0 +1,45 @@
+{
+  "gms": 2,
+  "info": "数值养成放置类型，养成与收集要素繁多，不用MOD玩肝疼",
+  "label": "养剑大师",
+  "time": 1715299200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告",
+        "可选菜单可调节物品CD、技能CD、战利品收益率等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.pixelstar.gsm.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.pixelstar.gsm",
+  "vercode": 2024050902,
+  "vername": "2.1.3",
+  "publisher": "pixelstar",
+  "tags": [
+    "中文",
+    "休闲",
+    "放置"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/iQBzg6lM",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/fPBzg9Hw",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/grow-swordmaster/com.pixelstar.gsm/download",
+      "var": false
+    }
+  ]
+}

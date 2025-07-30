@@ -1,0 +1,50 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "左右对战类塔防，例如「猫咪大战争」「成长城堡」「合金弹头：进攻/防御」\u003cbr\u003e\u003cbr\u003e本作画风为日韩系，偏二次元，最唯美的画面是在十连抽的时候……",
+  "label": "艾洛伊：防卫战争",
+  "time": 1698278400008,
+  "mtime": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动免广告，所有广告激励可白嫖",
+        "可选菜单可调节召唤同伴的各项属性"
+      ],
+      "name": "上帝模式",
+      "pkgname": "net.ekgames.elroi.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "net.ekgames.elroi",
+  "vercode": 120000,
+  "vername": "1.20.00",
+  "publisher": "Ninetap",
+  "signmd5": "E811BBBBC046807DBD7D6A95D66A9AC7",
+  "tags": [
+    "中文",
+    "塔防",
+    "对战"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/net.ekgames.elroi?versionCode\u003d120000\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/elroi-defense-war/net.ekgames.elroi/download",
+      "var": false
+    }
+  ]
+}

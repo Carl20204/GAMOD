@@ -1,0 +1,58 @@
+{
+  "faqs": {
+    "为啥日常活动没了？": "游戏升级后，旧版本虽然可以继续玩，但没有日常活动，只有升级到游戏最新版本才有全部的日常活动。"
+  },
+  "gms": 1,
+  "info": "【王国保卫战】模式的塔防，终于有一个不是中世纪剑与魔法题材的了，科幻+现代战争题材，玩起来激烈火爆多了。",
+  "label": "异星入侵\n围剿外星客",
+  "time": 1724976000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节各种收益率、消费打折、战场强化等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.outplayentertainment.aliencreeps.gm64",
+      "targetvc": "1724082938",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.outplayentertainment.aliencreeps",
+  "vercode": 1724082938,
+  "vername": "2.32.7",
+  "publisher": "Outplay Entertainment Ltd",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "塔防",
+    "单机"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.com/cn/alien-creeps-td/com.outplayentertainment.aliencreeps/download",
+      "var": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "lastUpdate": 1697447940375,
+  "vername": "9.9.9",
+  "urls": [
+    "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a.apk",
+    "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a.apk"
+  ],
+  "vercode": 9999999,
+  "min_sdk_version": 21,
+  "target_sdk_version": 26,
+  "size": 2975111,
+  "logs": {
+    "en": "Test upgrade function online",
+    "zh": "用于测试在线升级功能"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "faqs": {
+    "为啥一进游戏就自动退到后台？": "无法启动游戏说明数据包缺失，请注意下载的安装包是否大于300M",
+    "我玩起来装备槽都是锁定状态，怎么回事？": "这是首次启动游戏同步失败的状态。解决方法是先清空墨魔豆的本游戏数据，然后启动一次手机桌面的孤胆枪手游戏，正常游戏后退出，然后返回墨魔豆启动游戏，等首次同步失败，要求登录时选取消玩单机模式，一般就OK了。",
+    "用MOD怎么无限开箱啊？": "玩家等级6后开启商店，可以用能量单元1：1兑换大量开箱代币，然后十连抽拿到大量同位素粉末继续在商店1：1兑换开箱代币，代币会越用越多"
+  },
+  "gms": 2,
+  "info": "虽然是一代，但还在优化，24年发布的版本，又优化了许多细节，玩起来比23年8月版本舒服太多了。\u003cbr\u003e\u003cbr\u003e强烈建议手机保留本作和《孤胆枪手2传奇》，就和《植物大战僵尸1/2》同时保留一样，各有各的好玩之处",
+  "label": "孤胆枪手：世界",
+  "time": 1709856000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "独立可调节菜单十几项功能，有效防肝防氪，日常解压。",
+        "可自定义调节玩家的生命、速度、幸运，武器的射速、装弹、范围、僚机射速、威力等。玩起来就一个爽字。",
+        "商店1能量兑换1抽奖券，十连抽又可以抽出几百能量，代币越抽越多……"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.sigmateam.alienshootermobile.free.gm64",
+      "targetvc": "1198",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.sigmateam.alienshootermobile.free",
+  "vercode": 1198,
+  "vername": "5.11.1",
+  "publisher": "8Floor Games",
+  "signmd5": "4EE28995A6A6B19D30BDE87B175D1B2F",
+  "tags": [
+    "英文",
+    "单机",
+    "动作射击",
+    "经典"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/RJURUs6b",
+      "var": false
+    },
+    {
+      "host": "下载页[翻墙]",
+      "url": "https://apkpure.net/cn/alien-shooter-world/com.sigmateam.alienshootermobile.free/download/5.11.1",
+      "var": false
+    }
+  ],
+  "videos": {
+    "https://www.ixigua.com/6892411186273321475?logTag\u003dc1c4f11e5f1ecfd660a1": "隐藏多年的0号武器，这才是真正的异形克星",
+    "https://www.ixigua.com/6890555417177358856?logTag\u003db349b1d5101e48d253af": "异形智商进化，打造全副武装，九死一生"
+  }
+}

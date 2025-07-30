@@ -1,0 +1,63 @@
+{
+  "faqs": {
+    "游戏更新说明": "2024.11到12月，3次版本更新：神奇火鸡活动\u003cbr\u003e\u003cbr\u003e2024.10到11月，5次版本更新：死神活动",
+    "游戏更新建议": "中国区玩家，会翻墙，想下载安装谷歌商店原版游戏，但没有谷歌账号，建议使用如下谷歌商店替代品\u003cbr\u003e\u003cbr\u003e1。\u003ca href\u003dhttps://apkpure.net/cn\u003eapkpure.net\u003c/a\u003e 曾是全球最大的腾讯投资的谷歌商店替代品，优点是无需谷歌账号，通过网页直接下载安装包或旧版本安装包、缺点是部分游戏更新不太及时，或只更新32位/64位，出现遗漏。\u003cbr\u003e\u003cbr\u003e2。\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore\u003c/a\u003e，非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！",
+    "谷歌加固是什么？": "基于2024年谷歌I/O大会发布的最新谷歌验证，上架谷歌商店的应用与游戏，与GMS之间增加了超强校验，使用谷歌加固，才能使用谷歌多种服务，没有GMS的系统，无法运行这些应用与游戏。\u003cbr\u003e\u003cbr\u003e因为2024谷歌加固的特殊性，对于此类强制绑定GMS的游戏，每个游戏版本，都需要对应的过验证MOD，才能在无GMS手机上运行\u003cbr\u003e\u003cbr\u003e如果游戏升级，MOD没有更新，请在墨魔豆的QQ圈子里吱一声，有人会通知作者更新。"
+  },
+  "gms": 2,
+  "info": "合成类型也是大火的休闲品类，Funovus不出意料的也有对应商业版，",
+  "label": "合成战争：超级军团指挥官",
+  "time": 1733529600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，跳过谷歌加固验证",
+        "可选菜单，所有内购、战场硬币获取等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.wildsky.wildarmydraft.gm64",
+      "targetvc": "1182",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.wildsky.wildarmydraft",
+  "vercode": 1182,
+  "vername": "1.39.5",
+  "publisher": "Funovus",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 2048,
+  "tags": [
+    "中文",
+    "合并",
+    "合成",
+    "休闲",
+    "谷歌加固"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/merge-war-super-legion-master/com.wildsky.wildarmydraft",
+      "var": false
+    }
+  ]
+}

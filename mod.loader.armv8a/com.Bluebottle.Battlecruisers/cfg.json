@@ -1,0 +1,46 @@
+{
+  "gms": 1,
+  "info": "超有创意的对战式塔防游戏，双方巡洋舰左右对战，通过在舰体上附加建造不同的组件，进行有效攻防",
+  "label": "战巡大作战",
+  "time": 1720483200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "已自动激活付费高级版",
+        "可选菜单，可调节无伤、开局无人机数量"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.Bluebottle.Battlecruisers.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.Bluebottle.Battlecruisers",
+  "vercode": 620046,
+  "vername": "6.2.46",
+  "publisher": "Mecha Weka",
+  "tags": [
+    "中文",
+    "塔防",
+    "对战塔防",
+    "单机"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/battlecruisers/com.Bluebottle.Battlecruisers/download",
+      "var": false
+    }
+  ]
+}

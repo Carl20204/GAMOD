@@ -1,0 +1,40 @@
+{
+  "gms": 1,
+  "info": "\u003cfont color\u003d\"#ff0000\"\u003e杀戮尖塔\u003c/font\u003e类型的爬塔玩法，不过一款卡牌游戏1.5G，可见卡牌、敌人种类之多，美术资源需求之多。",
+  "label": "因狄斯的谎言",
+  "time": 1715817600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自选菜单，可调节减伤、增伤、金币、出牌能量等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.yokagame.ProjectS.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.yokagame.ProjectS",
+  "vercode": 474,
+  "vername": "1.8.6",
+  "publisher": "Erabit Studios",
+  "tags": [
+    "中文",
+    "肉鸽",
+    "卡牌",
+    "DBG"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/indies-lies/com.yokagame.ProjectS/download",
+      "var": false
+    }
+  ]
+}

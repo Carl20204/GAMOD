@@ -1,0 +1,59 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+  },
+  "gms": 1,
+  "info": "点击、匹配、引爆——在这款轻松的益智游戏中畅玩数千个妙趣横生的关卡，释放压力的同时让你爱不释手！用你最爱的怒鸟伙伴触发连环反应，解锁奇妙机关、打破层层障碍。快来探索这个充满欢笑与挑战的古怪卡通幻想世界吧！",
+  "label": "愤怒的小鸟：梦幻爆破",
+  "time": 1752624000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】基于2025年7月谷歌商店更新的游戏版本开发，如果出现游戏升级MOD功能失效问题，可以去墨魔豆的QQ圈子里吱一声",
+        "【自动激活】免广告，所有激励广告白嫖",
+        "【可选菜单】可锁定关卡前强化道具以及关卡中强化道具的数量"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.rovio.dream.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.rovio.dream",
+  "vercode": 62526,
+  "vername": "1.88.0",
+  "publisher": "Rovio Entertainment Oy",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "search": [
+    "愤怒的小鸟",
+    "怒鸟"
+  ],
+  "tags": [
+    "中文",
+    "休闲",
+    "消除"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/angry-birds-dream-blast/com.rovio.dream",
+      "var": true
+    }
+  ]
+}

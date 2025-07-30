@@ -1,0 +1,47 @@
+{
+  "gms": 2,
+  "info": "「土豆兄弟」类型的幸存者射击游戏，核心玩法虽是土豆兄弟，但外围则是弹壳特攻队类型的的装备与养成体系",
+  "label": "泡菜皮特",
+  "time": 1709683200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告",
+        "可选菜单，可配置各项收益率，战场难度等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.frojo.pickle.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.frojo.pickle",
+  "vercode": 132,
+  "vername": "2.10.4",
+  "publisher": "Frojo Apps",
+  "signmd5": "9C6E6545C7A22C416DD2477897B0C035",
+  "tags": [
+    "中文",
+    "单机",
+    "肉鸽",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/gJUSGXYM",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.frojo.pickle?versionCode\u003d132\u0026nc\u003darm64-v8a\u0026sv\u003d24",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/pickle-pete-survivor/com.frojo.pickle/download",
+      "var": false
+    }
+  ]
+}

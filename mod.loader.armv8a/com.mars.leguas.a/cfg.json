@@ -1,0 +1,63 @@
+{
+  "faqs": {
+    "什么是幸存者类型游戏？": "当前市面上有三大类幸存者模式：\u003cbr\u003e1。《月下夜想曲》的同人作品《吸血鬼幸存者》算是开拓者，以纯战场肉鸽，收集隐藏要素，没有或极少的场外养成为主。特点就是非常肝但不费钱。\u003cbr\u003e2。《弹壳特攻队》类型，强商业化模式，海量的场外氪金养成要素，腾讯+网易的合体。\u003cbr\u003e3。《土豆兄弟》《泡菜皮特》类型，战场玩法变动较大，肝度与氪度介于前两者之间。"
+  },
+  "gms": 2,
+  "info": "标准的《吸血鬼幸存者》模式，只肝不氪。\u003cbr\u003e\u003cbr\u003e基本没有战场外的氪金养成，纯粹的战场肉鸽玩法。比《吸血鬼幸存者》的画风更舒服，建议一玩。",
+  "label": "火星幸存者：火星归来",
+  "time": 1725235200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "启用后自动激活免广告与VIP功能",
+        "可选菜单可调节玩家各能力与枪械的强化功能，调节金钱、经验的收益，加速击杀统计方便快速解锁隐藏要素"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.mars.leguas.a.gm64",
+      "targetvc": "*",
+      "vercode": 5
+    }
+  ],
+  "pkgname": "com.mars.leguas.a",
+  "vercode": 2002,
+  "vername": "2.0.2",
+  "publisher": "LEGUAS INTREPIDAS",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "幸存者",
+    "肉鸽",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/gJUSGXYM",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/mars-survivors/com.mars.leguas.a/download",
+      "var": true
+    }
+  ],
+  "videos": {
+    "https://www.ixigua.com/7330912581441782298?logTag\u003de0c3d1ec0a06f266b947": "游戏玩法展示"
+  }
+}

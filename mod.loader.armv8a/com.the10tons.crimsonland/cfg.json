@@ -1,0 +1,61 @@
+{
+  "faqs": {
+    "搓玻璃双摇杆射击很难对准怎么办？": "游戏设置里，操作选项可以开启自动瞄准射击，这样只要单手操作移动就行了"
+  },
+  "gms": 2,
+  "info": "十几年前，网吧里玩着【血腥大地】的你还在不？\u003cbr\u003e\u003cbr\u003e算是幸存者玩法的鼻祖了，现在官方移植到手机上，还有中文版，当年在网吧玩过的精神小伙们，还不回味一下？\u003cbr\u003e网盘分享的是大神订制自用的付费破解纯净版，无小广告，无硬修改",
+  "label": "生存之地",
+  "time": 1691452800008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "菜单可调节移动速度、弹药无限、不死、切换武器、经验提升等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.the10tons.crimsonland.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.the10tons.crimsonland",
+  "vercode": 1428,
+  "vername": "1.4.2.8",
+  "publisher": "the10tons",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "射击",
+    "割草",
+    "幸存者",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/f8USV6Yl",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/crimsonland/com.the10tons.crimsonland",
+      "var": true
+    }
+  ]
+}

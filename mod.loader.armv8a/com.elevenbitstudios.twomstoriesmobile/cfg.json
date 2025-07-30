@@ -1,0 +1,59 @@
+{
+  "gms": 1,
+  "info": "一位父亲，在战争中拯救女儿的的故事\u003cbr\u003e\u003cbr\u003e网盘分享的版本，为大神订制版，国内手机也能正常玩",
+  "label": "这是我的战争：父亲的承诺",
+  "time": 1698624000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活完整版，所有DLC解锁",
+        "可选菜单，自定义调节时间、物资、背包、移动速度等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.elevenbitstudios.twomstoriesmobile.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.elevenbitstudios.twomstoriesmobile",
+  "vercode": 291,
+  "vername": "1.0.4",
+  "publisher": "11 bit studios",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "单机",
+    "生存",
+    "收集",
+    "剧情",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/h2C2gW6I",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/K1AbQBjG",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链页",
+      "url": "https://apkpure.net/cn/this-war-of-mine/com.elevenbitstudios.twomstoriesmobile",
+      "var": false
+    }
+  ]
+}

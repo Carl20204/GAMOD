@@ -1,0 +1,41 @@
+{
+  "gms": 2,
+  "info": "休闲版的狙击手，没有乱七八糟的养成培养之类的，纯粹的狙击、射击，小游戏启动快碎片时间没事打俩把就挺好的",
+  "label": "西部狙击手",
+  "time": 1721347200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "无广告",
+        "可选菜单，可无敌、加钱、子弹无限、快速瞄准等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "wild.west.sniper.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "wild.west.sniper",
+  "vercode": 198,
+  "vername": "2.8.5",
+  "publisher": "CASUAL AZUR GAMES",
+  "tags": [
+    "英文",
+    "休闲",
+    "狙击",
+    "FPS"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/western-sniper-wild-west-fps/wild.west.sniper/download",
+      "var": false
+    }
+  ]
+}

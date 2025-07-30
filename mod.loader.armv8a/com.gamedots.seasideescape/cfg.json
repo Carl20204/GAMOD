@@ -1,0 +1,56 @@
+{
+  "faqs": {
+    "MOD使用说明": "首次启动游戏，如果游戏提示数据错误，请禁用MOD启动游戏，让游戏进行一次完整初始化后，再启用MOD就可以正常用了\u003cbr\u003e\u003cbr\u003e请注意，开关功能时有一定的闪退概率，请不要频繁开关功能",
+    "游戏更新建议": "如果网盘分享里没有最新安装包，建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
+    "MOD发布说明": "基于游戏在谷歌商店2025年3月更新的1.67.0版本开发，理论上为通用版，游戏升级可以继续使用无需更新MOD。\u003cbr\u003e\u003cbr\u003e如果出现游戏更新后MOD功能失效或闪退，可以到墨魔豆的QQ圈子里吱一声，作者看到会修复"
+  },
+  "gms": 1,
+  "info": "市面上生命力最强的休闲游戏，分别为\u003cbr\u003e三消类【糖果粉碎传奇】【梦幻花园】【开心消消乐】\u003cbr\u003e三合一类型【荟萃花园】\u003cbr\u003e然后就是本作的二合一类型\u003cbr\u003e\u003cbr\u003e本作适合女性向游戏，有轻度休闲娱乐需求的女性亲戚或朋友的，可以推荐给她们玩",
+  "label": "漫游小镇",
+  "time": 1742428800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节体力免费、加速免费、泡泡免费、泡泡几率"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.gamedots.seasideescape.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.gamedots.seasideescape",
+  "vercode": 138,
+  "vername": "1.67.0",
+  "publisher": "Microfun Limited",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "休闲",
+    "合成",
+    "二合一"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/seaside-escape-merge-story/com.gamedots.seasideescape",
+      "var": true
+    }
+  ]
+}

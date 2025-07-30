@@ -1,0 +1,56 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
+    "MOD发布说明": "基于游戏在谷歌商店2025年3月更新的3.82.0版本开发，理论上为通用版，游戏升级可以继续使用无需更新MOD。\u003cbr\u003e\u003cbr\u003e如果出现游戏更新后MOD功能失效或闪退，可以到墨魔豆的QQ圈子里吱一声，作者看到会修复",
+    "MOD使用说明": "改变商店商品价格的功能，游戏会在一定时间后检测到数据异常，重启游戏即可，不影响存档进度数据"
+  },
+  "gms": 1,
+  "info": "与自家的【合成神奇岛】，互为换皮之作，玩任意一款就可以。\u003cbr\u003e\u003cbr\u003e两者画风不同，本作为童话风格，色彩艳丽，剧情和内容都主打的幻想主题。【合成神奇岛】则是现代都市风格，看你喜欢哪一种风格了。",
+  "label": "童话融合记",
+  "time": 1742774400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节更多宝石、体力、加速免费、气球免费、商品低价等N多项功能"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.mergegames.myth.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.mergegames.myth",
+  "vercode": 348,
+  "vername": "3.82.0",
+  "publisher": "Microfun Limited",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "休闲",
+    "合成",
+    "三合一"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/seaside-escape-merge-story/com.mergegames.myth",
+      "var": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "物种战争系列第一作，本作为2D左右对攻塔防模式\u003cbr\u003e与【猫咪大战争】等游戏不同的地方，潘少校相当于其它此类游戏要保护的塔，但你要亲自操作其上前线杀敌\u003cbr\u003e战场上雇佣士兵的资金，不是每局独立核算，而是全局统一核算。",
+  "label": "物种战争：DELTA",
+  "time": 1704326400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有激励广告可白嫖",
+        "可选菜单，可自由调节伤害减少，伤害增加，无限子弹，怒气加速"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.dawinstone.b2b.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.dawinstone.b2b",
+  "vercode": 166,
+  "vername": "1.6.1",
+  "publisher": "DAWINSTONE GAMES",
+  "signmd5": "E06A1D781865ADD4B24A6E274C9A899B",
+  "tags": [
+    "中文",
+    "离线",
+    "塔防",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.dawinstone.b2b?versionCode\u003d166\u0026nc\u003darm64-v8a\u0026sv\u003d19",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/bad-2-bad-delta/com.dawinstone.b2b/download",
+      "var": false
+    }
+  ]
+}

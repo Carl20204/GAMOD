@@ -1,0 +1,47 @@
+{
+  "gms": 2,
+  "info": "丰富的搭配，多变的策略，随机的组合，构成了本作这款steam移植的好评肉鸽策略游戏",
+  "label": "暴君的游戏",
+  "time": 1710720000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活完整版+DLC",
+        "可选菜单，可调节代币收益与献祭效果"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.KonfaGames.DespotsGame.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.KonfaGames.DespotsGame",
+  "vercode": 87,
+  "vername": "1.9.7",
+  "publisher": "tinyBuild",
+  "signmd5": "4526BD802F3D0A41D0E5C087E4396426",
+  "tags": [
+    "中文",
+    "单机",
+    "肉鸽",
+    "策略"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "var": false
+    },
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.KonfaGames.DespotsGame?versionCode\u003d87",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/despot-s-game/com.KonfaGames.DespotsGame/download",
+      "var": false
+    }
+  ]
+}

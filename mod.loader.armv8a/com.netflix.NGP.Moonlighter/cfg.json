@@ -1,0 +1,51 @@
+{
+  "faqs": {
+    "为啥点桌面图标启动游戏会黑屏卡住？": "分享的下载链接为官方原版，需要手机安装Netflix客户端，并购买了网飞会员的用户才能玩。",
+    "没有Netflix，也没有网飞会员怎么玩": "MOD有免网飞账号功能，用墨魔豆带着MOD启动游戏就行了"
+  },
+  "gms": 2,
+  "info": "战斗虽然是肉鸽地牢，但确实是按完整剧情路线发展的RPG模式",
+  "label": "夜勤人",
+  "time": 1709078400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免网飞会员验证",
+        "可选菜单可调节灵魂收益率，无敌、各项属性额外增幅等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.netflix.NGP.Moonlighter.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.netflix.NGP.Moonlighter",
+  "vercode": 87,
+  "vername": "1.13.57",
+  "publisher": "Netflix",
+  "tags": [
+    "中文",
+    "单机",
+    "剧情",
+    "肉鸽",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/UOAmQ8kx",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/APK/com.netflix.NGP.Moonlighter?versionCode\u003d87\u0026nc\u003darm64-v8a\u0026sv\u003d26",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/netflix-moonlighter-android/com.netflix.NGP.Moonlighter/download",
+      "var": false
+    }
+  ]
+}

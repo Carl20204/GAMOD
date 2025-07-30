@@ -1,0 +1,49 @@
+{
+  "gms": 2,
+  "info": "动作放置类，没空就放置，有空就动手，东西方结合的二次元画风。\u003cbr\u003e中文需进入游戏后进设置选项手动更改，部分机翻品质令人无语",
+  "label": "英雄冒险",
+  "time": 1681516800008,
+  "mtime": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动免广告，所有广告激励可白嫖",
+        "可选菜单可调节各项收益率、折扣率、战斗难易度"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.z1.projectx.idle.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.z1.projectx.idle",
+  "vercode": 41,
+  "vername": "41",
+  "publisher": "Z.One",
+  "signmd5": "39D9E86F474AB40E9E6E16D90FC71DE8",
+  "tags": [
+    "中文",
+    "单机",
+    "放置",
+    "动作",
+    "RPG"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.z1.projectx.idle?versionCode\u003d366\u0026nc\u003darm64-v8a\u0026sv\u003d19",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/final-destiny/com.z1.projectx.idle/download",
+      "var": false
+    }
+  ]
+}

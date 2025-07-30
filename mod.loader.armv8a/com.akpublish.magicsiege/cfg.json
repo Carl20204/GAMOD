@@ -1,0 +1,44 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "点击射击式防御塔防，玩法很古老了，喜欢怀旧的进。",
+  "label": "魔法围城",
+  "time": 1701734400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动开启免广告，所有广告激励随意白嫖",
+        "可选菜单，无CD、满法力、更多的金币等等。"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.akpublish.magicsiege.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.akpublish.magicsiege",
+  "vercode": 312,
+  "vername": "1.95.312",
+  "publisher": "AKPublish pty",
+  "signmd5": "C5251D3D6A434337F055CF81A2D30D81",
+  "tags": [
+    "中文",
+    "防御",
+    "塔防"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.akpublish.magicsiege?versionCode\u003d312\u0026nc\u003darm64-v8a\u0026sv\u003d21",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/magic-siege/com.akpublish.magicsiege/download",
+      "var": false
+    }
+  ]
+}

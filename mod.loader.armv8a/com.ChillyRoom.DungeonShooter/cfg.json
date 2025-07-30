@@ -1,0 +1,46 @@
+{
+  "time": 1728518400008,
+  "label": "元气骑士",
+  "pkgname": "com.ChillyRoom.DungeonShooter",
+  "publisher": "凉屋（ChillyRoom）",
+  "vername": "6.6.1",
+  "vercode": 60612,
+  "gms":2,
+  "tags": ["中文", "中国版", "肉鸽", "射击" ],
+  "archs": [ "arm64-v8a" ],
+  "info": "<font color=\"#ff0000\">谁的童年，谁的情怀</font>，6年多的持续更新，海量的内容，相比同类型游戏诚意满满。",
+  "signmd5":"EC8FA0DAA69E8FFB4109B4FA6401F121",
+  "faqs": {
+    "选国际版还是中国版？": "最大区别就是：国际版无需实名制（电子邮箱注册），中国版有实名制",
+    "我是成年人，两个都要！": "不好意思，因为本游戏国际版与中国版使用了相同包名，导致你只能二选一，手机上只能存在一款版本。"
+  },
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/mXCh5CTw"
+    },{
+      "var": true,
+      "host": "下载页[翻墙]",
+      "url": "https://apkpure.net/cn/soul-knight/com.ChillyRoom.DungeonShooter/download"
+    }
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "自选菜单以防肝防氪强化解压为主",
+        "强化武器，无敌，无CD，加速，商场等等功能，对游戏本身破坏性较大，请谨慎使用按需启用。"
+      ],
+      "pkgname": "com.ChillyRoom.DungeonShooter.gm64",
+      "targetvc":"*",
+      "vercode": 8
+    }
+  ],
+  "promotions": [
+    {"url": "https://ugame.9game.cn/game/share-235275-6066.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-1222983.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-539038.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-976614.html"},
+    {"url": "https://ugame.9game.cn/game/share-235275-575274.html"}
+  ]
+}

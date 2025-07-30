@@ -1,0 +1,60 @@
+{
+  "faqs": {
+    "游戏更新说明": "最后一版更新在2021年，不用多说了，开MOD割草刷图怀旧吧。\u003cbr\u003e\u003cbr\u003e推荐玩法是全选项强化开，然后开4到6档加速"
+  },
+  "gms": 2,
+  "info": "曾经火爆的游戏，停更3年了，看看隔壁EA的植物大战僵尸1，每年还都更新2到4个版本，对忠实老玩家不放弃不抛弃，国内游戏不赚钱就立刻断更\u003cbr\u003e\u003cbr\u003e既然怀旧，打开MOD，游戏加速开到3倍左右，开无CD，无伤，然后割草刷图，这就是怀旧！",
+  "label": "火柴人联盟:竞技场",
+  "time": 1626393600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单：加速、金币、宝石、无CD、无伤等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "me.dreamsky.leagueofstickman.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "me.dreamsky.leagueofstickman",
+  "vercode": 616,
+  "vername": "6.1.6",
+  "publisher": "DreamSky",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "动作",
+    "街机",
+    "怀旧",
+    "火柴人"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/PuURFwt8",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/RoC10pGf",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/league-of-stickman-free-shado/me.dreamsky.leagueofstickman",
+      "var": true
+    }
+  ]
+}

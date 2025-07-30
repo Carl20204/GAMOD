@@ -1,0 +1,55 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "\u003cfont color\u003d\"#ff0000\"\u003e凉屋出的即时战略\u003c/font\u003e，建议和《钢铁陆战队》对比着玩。",
+  "label": "异星指令",
+  "time": 1705536000008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "自选菜单以防肝防氪强化解压为主",
+        "强化英雄，无CD，无伤，全解锁，建议通关一次后再启用，体验不同的感受"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.chillyroom.xenocmd.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.chillyroom.xenocmd",
+  "vercode": 37,
+  "vername": "1.3.13",
+  "publisher": "凉屋（ChillyRoom）",
+  "signmd5": "3248250BB82C5DFE1D0608F9FD6942CA",
+  "tags": [
+    "中文",
+    "国际版",
+    "RTS",
+    "策略"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/y5ULu8OH",
+      "var": false
+    },
+    {
+      "host": "apkpure下载页[翻墙]",
+      "url": "https://apkpure.net/cn/xeno-command/com.chillyroom.xenocmd/download",
+      "var": true
+    },
+    {
+      "host": "apkpure直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/XAPK/com.chillyroom.xenocmd?versionCode\u003d37\u0026nc\u003darm64-v8a\u0026sv\u003d22",
+      "var": false
+    }
+  ]
+}

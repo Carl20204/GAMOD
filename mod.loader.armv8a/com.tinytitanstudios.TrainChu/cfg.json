@@ -1,0 +1,56 @@
+{
+  "gms": 2,
+  "info": "与大家熟悉的开罗出品的像素风模拟经营游戏类比，本游戏的玩法是在美国运营火车赚大钱\u003cbr\u003e\u003cbr\u003e喜欢此类游戏但不喜欢像素风的，可以试试《我的邮轮》，一样的模拟经营，但画质强多了",
+  "label": "火车大亨",
+  "time": 1724803200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调增伤、减伤、金币、宝石"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.tinytitanstudios.TrainChu.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.tinytitanstudios.TrainChu",
+  "vercode": 303209,
+  "vername": "2.10.20",
+  "publisher": "Trophy Games - Tiny Rails Train Cargo Simulator",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "模拟",
+    "经营",
+    "像素"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/FTATSvER",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/o9CW5yP3",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/tiny-rails-train-tycoon-2024/com.tinytitanstudios.TrainChu/download",
+      "var": true
+    }
+  ]
+}

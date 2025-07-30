@@ -1,0 +1,40 @@
+{
+  "gms": 2,
+  "info": "DBG爱好者推荐\u003cbr\u003e肉鸽卡牌无尽爬塔，角色养成、卡牌、职业系统。规则极多，可组合出各种Build玩法。",
+  "label": "使命法则 - 永恒地牢",
+  "time": 1720569600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节战斗减伤、增伤、AP消耗"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.aubjective.jobmania.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.aubjective.jobmania",
+  "vercode": 582,
+  "vername": "2.24.3",
+  "publisher": "Aubjective Technology",
+  "tags": [
+    "中文",
+    "单机",
+    "肉鸽",
+    "DBG"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/jobmania-eternal-dungeon/com.aubjective.jobmania/download",
+      "var": false
+    }
+  ]
+}

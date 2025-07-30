@@ -1,0 +1,56 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
+    "MOD发布说明": "基于游戏在谷歌商店2025年3月更新的2.65.0版本开发，理论上为通用版，游戏升级可以继续使用无需更新MOD。\u003cbr\u003e\u003cbr\u003e如果出现游戏更新后MOD功能失效或闪退，可以到墨魔豆的QQ圈子里吱一声，作者看到会修复",
+    "MOD使用说明": "改变商店商品价格的功能，游戏会在一定时间后检测到数据异常，重启游戏即可，不影响存档进度数据"
+  },
+  "gms": 1,
+  "info": "三合一类型的合成游戏，【荟萃花园】获得过谷歌大奖，本作以及【童话融合记】则是同一公司画风不同玩法相同的作品，此三款作品在墨魔豆里搜都有，推荐玩任意一款都行",
+  "label": "合成神奇岛",
+  "time": 1742515200018,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节体力免费、加速免费、气球免费、商品低价等十项功能"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.mf.town.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.mf.town",
+  "vercode": 138,
+  "vername": "2.65.0",
+  "publisher": "Microfun Limited",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "休闲",
+    "合成",
+    "三合一"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/seaside-escape-merge-story/com.mf.town",
+      "var": true
+    }
+  ]
+}

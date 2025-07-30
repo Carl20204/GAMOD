@@ -1,0 +1,65 @@
+{
+  "faqs": {
+    "游戏更新建议": "中国区玩家，会翻墙，想下载安装谷歌商店原版游戏，但没有谷歌账号，建议使用如下谷歌商店替代品\u003cbr\u003e\u003cbr\u003e1。\u003ca href\u003dhttps://apkpure.net/cn\u003eapkpure.net\u003c/a\u003e 曾是全球最大的腾讯投资的谷歌商店替代品，优点是无需谷歌账号，通过网页直接下载安装包或旧版本安装包、缺点是部分游戏更新不太及时，或只更新32位/64位，出现遗漏。\u003cbr\u003e\u003cbr\u003e2。\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore\u003c/a\u003e，非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！",
+    "MOD说明【必看】": "开启无限跳，可能的Bug如下\u003cbr\u003e\u003cbr\u003e1。满屏幕乱转，很容易卡进墙壁，卡住后玩家会自动死亡\u003cbr\u003e\u003cbr\u003e2.每张地图上下左右四边界都有“死线”，碰之必死，别跳的太欢\u003cbr\u003e\u003cbr\u003e3。无限跳状态下千万别用【下+跳】穿薄地板，会掉到地板死线的"
+  },
+  "gms": 1,
+  "info": "银河恶魔城类型的佳作，steam、switch上都是好作品，但在手机上，用搓玻璃来实现手柄的精细化动作操作可是天坑\u003cbr\u003e\u003cbr\u003e本作难度巨高，手残党谨慎入坑，作者开着所有MOD功能，玩了一周完成度才70%，简直离大谱！",
+  "label": "渎神",
+  "time": 1734307200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节无伤、无限冲、无限跳、无限钱、技能强化"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.thegamekitchen.blasphemousmobile.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.thegamekitchen.blasphemousmobile",
+  "vercode": 20,
+  "vername": "1.2",
+  "publisher": "The Game Kitchen",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 1024,
+  "search": [
+    "神之亵渎",
+    "恶魔城",
+    "银河战士",
+    "银河恶魔城"
+  ],
+  "tags": [
+    "中文",
+    "动作",
+    "银河恶魔城"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/PuURFwt8",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/RoC10pGf",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/blasphemous/com.thegamekitchen.blasphemousmobile",
+      "var": false
+    }
+  ]
+}

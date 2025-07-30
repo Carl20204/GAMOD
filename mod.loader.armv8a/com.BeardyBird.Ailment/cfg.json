@@ -1,0 +1,60 @@
+{
+  "faqs": {
+    "多语言问题": "MOD会强制更换中文，游戏中手动改为其它语言后，下次游戏还会是中文模式进入",
+    "游戏更新说明": "3.4.3 算是在GooglePlay强制要求下更新的吧，要适配安卓的升级。\u003cbr\u003e作为纯单机游戏，本作早已固定，就当作怀旧游戏，没事的时候回味一下就好"
+  },
+  "gms": 2,
+  "info": "荣获2019 GooglePlay最佳独立游戏，以现在的眼光看，只能算硬核小品游戏，但游戏中注入的故事剧情还是值得一看的",
+  "label": "疾病",
+  "time": 1729641600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节武器射速、弹药、减伤、增伤等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.BeardyBird.Ailment.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.BeardyBird.Ailment",
+  "vercode": 470,
+  "vername": "3.4.3",
+  "publisher": "Creauctopus",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 2048,
+  "tags": [
+    "中文",
+    "单机",
+    "射击",
+    "冒险"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/RJURUs6b",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/ailment-dead-space-standoff/com.BeardyBird.Ailment",
+      "var": true
+    }
+  ]
+}

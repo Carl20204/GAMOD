@@ -1,0 +1,66 @@
+{
+  "faqs": {
+    "游戏说明": "游戏使用了谷歌加固，启动游戏会稍微慢一些，启动游戏请多等3、5秒\u003cbr\u003e\u003cbr\u003e因为谷歌加固，游戏每次升级都需要对应版本MOD过验证\u003cbr\u003e\u003cbr\u003e如果游戏升级，MOD没有更新，请在墨魔豆的QQ圈子里吱一声，有人会通知作者更新。",
+    "MOD说明": "本MOD基于游戏在谷歌市场2025年3月更新的1.70.2版本，为此版本专用MOD，版本不符合的游戏，请在QQ圈子里吱一声，通知作者更新",
+    "更新建议": "网盘分享没有当前版本的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！"
+  },
+  "gms": 2,
+  "info": "成长城堡类型塔防，【部落冲突】类型的国际化卡通3D画风，有全球玩家排行榜，以日本、韩国、台湾玩家为主。",
+  "label": "狂野城堡塔防：王国统治",
+  "time": 1742428800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，跳过谷歌加固验证",
+        "可选菜单，可调节无伤、技能CD、法力，金币、代币、点金石、所有内购商品等等等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.wildsky.wildcastle.gm64",
+      "targetvc": "5489",
+      "vercode": 7
+    }
+  ],
+  "pkgname": "com.wildsky.wildcastle",
+  "vercode": 5489,
+  "vername": "1.70.2",
+  "publisher": "Funovus",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 2048,
+  "search": [
+    "猫咪大战争",
+    "狂野",
+    "成长"
+  ],
+  "tags": [
+    "中文",
+    "塔防",
+    "放置"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/wild-castle-tower-defense-td/com.wildsky.wildcastle",
+      "var": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "gms": 2,
+  "info": "克苏鲁题材的美式策略游戏，玩法复杂烧脑，适合硬核玩家",
+  "label": "弃船逃生",
+  "time": 1710115200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活完整版，含所有DLC",
+        "可选菜单可调节战斗方式、各项收益率与折扣率等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.pid.abandonship.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.pid.abandonship",
+  "vercode": 801,
+  "vername": "1.0.801",
+  "publisher": "Plug in Digital",
+  "signmd5": "8B209D6D8438BA39261D478164333B7B",
+  "tags": [
+    "中文",
+    "克苏鲁",
+    "肉鸽",
+    "策略",
+    "RPG"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘下载",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.pid.abandonship?versionCode\u003d801",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/abandon-ship/com.pid.abandonship/download",
+      "var": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "开罗出品的模拟经营游戏之一，经营你的拉面店。",
+  "label": "开罗拉面店全国篇",
+  "time": 1706745600008,
+  "mtime": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "自动免广告。其它功能请谨慎使用，防止破坏游戏乐趣！"
+      ],
+      "name": "上帝模式",
+      "pkgname": "net.kairosoft.android.noodle2_en.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "net.kairosoft.android.noodle2_en",
+  "vercode": 60,
+  "vername": "1.5.9",
+  "publisher": "Kairosoft",
+  "signmd5": "9D60707A73290B53F7CFBAD50554C9EB",
+  "tags": [
+    "中文",
+    "国际版",
+    "模拟经营"
+  ],
+  "downloads": [
+    {
+      "host": "apkpure直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/APK/net.kairosoft.android.noodle2_en?versionCode\u003d60",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/the-ramen-sensei-2/net.kairosoft.android.noodle2_en/download",
+      "var": true
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/fOURoItL",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/EmURed86",
+      "var": false
+    }
+  ]
+}

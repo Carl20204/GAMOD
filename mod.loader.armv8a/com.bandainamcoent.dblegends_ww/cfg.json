@@ -1,0 +1,43 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "龙珠粉丝进。百代自家出的正版龙珠，精美的动画，所有的Z战士集结，高度还原漫画的战斗打击……",
+  "label": "龙珠激战传说",
+  "time": 1709251200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节战斗时免伤几率、满气、重击等，减少战斗难度"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bandainamcoent.dblegends_ww.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.bandainamcoent.dblegends_ww",
+  "vercode": 320,
+  "vername": "5.0.1",
+  "publisher": "Bandai Namco Entertainment",
+  "signmd5": "A469A88D48F69D1903D999699B711E0C",
+  "tags": [
+    "中文",
+    "卡牌",
+    "龙珠Z"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.bandainamcoent.dblegends_ww?versionCode\u003d320\u0026nc\u003darm64-v8a\u0026sv\u003d23",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/dragon-ball-legends/com.bandainamcoent.dblegends_ww/download",
+      "var": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "《弓箭传说》的平替，几乎一比一完美复制了弓箭传说，但是战斗节奏与难度会更高",
+  "label": "弓箭猎手",
+  "time": 1708905600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有广告奖励白嫖就行",
+        "可选菜单，按自己喜好调节减伤、飞行、加速等等，"
+      ],
+      "name": "上帝模式",
+      "pkgname": "co.imba.archero.gm64",
+      "targetvc": "339",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "co.imba.archero",
+  "vercode": 339,
+  "vername": "0.22.339",
+  "publisher": "Imba Global",
+  "signmd5": "04DA9DB0583C6328BF7D90C4919AE9F2",
+  "tags": [
+    "中文",
+    "肉鸽",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/co.imba.archero?versionCode\u003d339\u0026nc\u003darm64-v8a\u0026sv\u003d24",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/archer-hunter-adventure-game/co.imba.archero/download",
+      "var": true
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "gms": 2,
+  "info": "非常有创意的塔防，以陷阱为核心，而非传统的炮塔模式",
+  "label": "糖果灾难",
+  "time": 1708992000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有广告奖励白嫖就行",
+        "可选菜单，可按喜好调整全部陷阱的各项指标"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.acegames.candy.disaster.tdbattles.gp.gm64",
+      "targetvc": "85",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.acegames.candy.disaster.tdbattles.gp",
+  "vercode": 85,
+  "vername": "3.4.9",
+  "publisher": "Erabit Studios",
+  "tags": [
+    "中文",
+    "塔防",
+    "弱联网"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/candy-disaster-td/com.acegames.candy.disaster.tdbattles.gp/download",
+      "var": false
+    }
+  ]
+}

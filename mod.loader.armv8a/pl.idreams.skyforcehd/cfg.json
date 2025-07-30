@@ -1,0 +1,65 @@
+{
+  "faqs": {
+    "启动游戏会闪退？": "谷歌原版有谷歌服务验证，请使用MOD过检测来正常游戏。\u003cbr\u003e\u003cbr\u003ev4版本MOD支持的游戏是1.48(101)版本，如果你安装的1.48(98)版本，请使用旧版MOD，或升级游戏",
+    "与《傲气雄鹰重装上阵》比，有什么区别？": "《傲气雄鹰2014》有中文，但没有驾驶员、机体收集系统，只有少少几张卡片收集。\u003cbr\u003e《傲气雄鹰Reloaded》只有英文，但收集体系完整：强化卡牌、机体、驾驶员都能收集，可以看作2014版本的再次重制版。"
+  },
+  "gms": 2,
+  "info": "本作为2004年版本《傲气雄鹰》的十周年重制版。\u003cbr\u003e\u003cbr\u003e新入坑玩家建议玩之后的二次重制版《傲气雄鹰重装上阵》，收集元素更多些更耐玩些。\u003cbr\u003e单纯喜欢玩街机射击类型游戏的话，还是强烈建议必玩本作的。",
+  "label": "傲气雄鹰2014",
+  "time": 1721952000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单可调节各种火力、救援、磁石、激光等",
+        "\u003cfont color\u003d\"#ff\"\u003e备注：首次游戏的新手关为必死关，请不要开无敌，否则会卡关，只能重玩。"
+      ],
+      "name": "上帝模式",
+      "pkgname": "pl.idreams.skyforcehd.gm64",
+      "targetvc": "*",
+      "vercode": 4
+    }
+  ],
+  "pkgname": "pl.idreams.skyforcehd",
+  "vercode": 101,
+  "vername": "1.48",
+  "publisher": "Infinite Dreams",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "单机",
+    "街机",
+    "飞行射击"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/h2C2gW6I",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    },
+    {
+      "host": "[翻墙]下载页",
+      "url": "https://apkpure.net/cn/sky-force-2014/pl.idreams.skyforcehd/download",
+      "var": false
+    }
+  ],
+  "videos": {
+    "https://www.ixigua.com/6694044904852554243?logTag\u003decc4fe0665c175afa505": "回忆童年谁才是征服蓝天的人！",
+    "https://www.ixigua.com/6850738765661635084?logTag\u003d64f8d58b80e51e9e8a32": "认真你就输了"
+  }
+}

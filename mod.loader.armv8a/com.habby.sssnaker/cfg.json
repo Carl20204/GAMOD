@@ -1,0 +1,53 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
+    "MOD发布说明": "基于游戏在谷歌商店2025年4月24日更新的1.27.9版本开发，理论上为通用版，游戏升级可以继续使用无需更新MOD。\u003cbr\u003e\u003cbr\u003e如果出现游戏更新后MOD功能失效或闪退，可以到墨魔豆的QQ圈子里吱一声，作者看到会修复",
+    "\u003cfont color\u003d\"#ff0000\"\u003eMOD使用说明\u003c/font\u003e": "仅建议刷每日挑战等日常活动，PVP、排行榜活动、及其它战力与等级不符的行为都有封号可能"
+  },
+  "gms": 1,
+  "info": "\u003cfont color\u003d\"#ff0000\"\u003e贪吃蛇+肉鸽射击\u003c/font\u003e，这玩法组合新鲜吧",
+  "label": "蛇蛇贪吃",
+  "time": 1745452800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "\u003cfont color\u003d\"#ff0000\"\u003e弱联网游戏，请不要过于强力刷榜，以免被封档\u003c/font\u003e",
+        "自动加载免广告功能，所有广告奖励该领就领！",
+        "MOD自选菜单，可调节减伤、增伤、攻速、技能、全皇冠等等，有效护肝防氪。！"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.habby.sssnaker.gm64",
+      "targetvc": "*",
+      "vercode": 7
+    }
+  ],
+  "pkgname": "com.habby.sssnaker",
+  "vercode": 1745321231,
+  "vername": "1.27.9",
+  "publisher": "Habby",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "国际版",
+    "肉鸽",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/N2UREA1Z",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/sssnaker/com.habby.sssnaker",
+      "var": true
+    }
+  ]
+}

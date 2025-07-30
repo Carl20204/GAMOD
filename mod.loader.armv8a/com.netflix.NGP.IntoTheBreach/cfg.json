@@ -1,0 +1,49 @@
+{
+  "faqs": {
+    "没有网飞Netflix账号怎么玩": "MOD有免网飞账号功能，没有安装Netflix，没有账号，不会翻墙的，务必使用MOD运行游戏",
+    "进游戏为什么是英文的": "网飞会员版游戏的中文化是做的最好的，如果进游戏是英文，可以手动点击Option --\u003eSelect Language，选择繁体中文或简体中文"
+  },
+  "gms": 2,
+  "info": "在8x8格的地图上，各种地形，机甲、虫族、友军、护卫要素巨多，而高难度模式，也给硬核玩家更爽的烧脑体验",
+  "label": "陷阵之志",
+  "time": 1698796800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单可调节增伤、减伤、声望获取、建筑无伤"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.netflix.NGP.IntoTheBreach.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.netflix.NGP.IntoTheBreach",
+  "vercode": 65,
+  "vername": "1.2.92",
+  "publisher": "Netflix",
+  "tags": [
+    "中文",
+    "单机",
+    "策略",
+    "战旗"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/UOAmQ8kx",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.netflix.NGP.IntoTheBreach?versionCode\u003d65\u0026nc\u003darm64-v8a\u0026sv\u003d26",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/into-the-breach/com.netflix.NGP.IntoTheBreach/download",
+      "var": false
+    }
+  ]
+}

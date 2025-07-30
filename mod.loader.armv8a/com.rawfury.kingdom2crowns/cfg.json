@@ -1,0 +1,59 @@
+{
+  "faqs": {
+    "为什么杀毒软件报毒？": "建议安装网盘分享的大神订制版本，很多破解站提供的安装包，含小广告弹窗，可能会被杀毒软件报毒。"
+  },
+  "gms": 1,
+  "info": "打不过就撒币的游戏,相比前作【王国：新大陆】和下一作【王国：八十年代】，本作反而更好玩一些，内容最丰富，兵种与建筑种类多，关卡也多，各个岛屿来回打策略性也高",
+  "label": "王国：两位君主",
+  "time": 1712534400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调整各兵种移动速度，加金币、自动建造、耐力无限，高速移动等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.rawfury.kingdom2crowns.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.rawfury.kingdom2crowns",
+  "vercode": 17786,
+  "vername": "1.1.21",
+  "publisher": "rawfury",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 2304,
+  "tags": [
+    "中文",
+    "策略",
+    "剧情",
+    "模拟经营"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/h2C2gW6I",
+      "var": false
+    },
+    {
+      "host": "详情页【翻墙】",
+      "url": "https://apkpure.net/cn/kingdom-two-crowns/com.rawfury.kingdom2crowns",
+      "var": true
+    }
+  ]
+}

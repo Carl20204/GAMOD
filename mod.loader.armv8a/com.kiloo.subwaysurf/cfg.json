@@ -1,0 +1,59 @@
+{
+  "faqs": {
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！",
+    "为什么不是中文": "部分国际站点例如apkpure下载的安装包为英文版，建议使用极光应用商店或谷歌市场直接下载安装，会基于你的手机语言下载到中文国际版。\u003cbr\u003e\u003cbr\u003ePS：网盘分享里的一定是中文国际版版"
+  },
+  "gms": 2,
+  "info": "- 在华盛顿特区的街道上庆祝夏日！\u003cbr\u003e- 在季度挑战中解锁街头艺术家Asher，花费活动金币获得他的泼洒套装，并收藏大胆套餐认识Rochelle Rebelle；\u003cbr\u003e- 享受仲夏季度收集赛的节庆奖励，包括仲夏滑板和花后Cleo等；\u003cbr\u003e- 敬请期待美国独立日、环法自行车赛、加拿大日等特别活动！",
+  "label": "地铁跑酷：国际版",
+  "time": 1750723200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】当前版本基于游戏2025年6月底发布的版本，但理论上适用于全部游戏版本，如果游戏更新MOD功能失效，可以到墨魔豆的QQ圈子里吱一声",
+        "【强化】可自定义延长各种能力的持续时间",
+        "【免内购】零元购，买买买"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.kiloo.subwaysurf.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.kiloo.subwaysurf",
+  "vercode": 82745,
+  "vername": "3.48.2",
+  "publisher": "SYBO Games",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "search": [
+    "地铁跑酷"
+  ],
+  "tags": [
+    "中文",
+    "国际版",
+    "跑酷"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "翻墙",
+      "url": "https://apkpure.net/cn/subway-surfers-1/com.kiloo.subwaysurf",
+      "var": true
+    }
+  ]
+}

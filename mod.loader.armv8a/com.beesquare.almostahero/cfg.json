@@ -1,0 +1,61 @@
+{
+  "faqs": {
+    "游戏更新说明": "5.8.4 作为最终版本，增加了对最新系统的支持。\u003cbr\u003e内容方面，作为单机游戏，也没有可以补充的了，足够丰富，足够玩上一年了（前提是不用MOD）"
+  },
+  "gms": 2,
+  "info": "非常精致的放置休闲游戏，喜欢《点击泰坦》《猛蟹战争》此类游戏的，一定要玩",
+  "label": "差不多英雄",
+  "time": 1729123200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有广告激励白嫖",
+        "可选菜单，可调节各种收获，防肝防氪"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.beesquare.almostahero.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.beesquare.almostahero",
+  "vercode": 50804000,
+  "vername": "5.8.4",
+  "publisher": "Deca_Games",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "单机",
+    "放置",
+    "休闲",
+    "冒险"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/almost-a-hero-%E2%80%94-idle-rpg/com.beesquare.almostahero",
+      "var": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "gms": 1,
+  "info": "肉鸽+弹珠",
+  "label": "砰砰法师",
+  "time": 1719964800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单可调节各种特殊球"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.habby.punballcn.aligames.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.habby.punballcn.aligames",
+  "vercode": 291,
+  "vername": "2.10.1",
+  "publisher": "habby",
+  "tags": [
+    "中文",
+    "肉鸽",
+    "弹球"
+  ],
+  "downloads": [
+    {
+      "host": "阿里游戏",
+      "url": "https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId\u003d235275\u0026pack.id\u003d49507251",
+      "var": false
+    }
+  ]
+}

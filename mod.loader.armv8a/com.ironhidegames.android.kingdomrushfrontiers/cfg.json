@@ -1,0 +1,58 @@
+{
+  "faqs": {
+    "部分MOD功能只有激活没有关闭？": "MOD对游戏数据做的调整，只在单次游戏有效，重启游戏就会还原为原版效果，无需担心破坏原版设计"
+  },
+  "gms": 2,
+  "info": "经典的王国保卫战1、2、3，本作是第二作，可以看作是一代的DLC，英雄有了技能面板，而第三作起源则是增加了英雄主动技能",
+  "label": "王国保卫战：前线",
+  "time": 1723420800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可手动加金币、钻石、调整6项升级的强化效果"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ironhidegames.android.kingdomrushfrontiers.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.ironhidegames.android.kingdomrushfrontiers",
+  "vercode": 1920006200,
+  "vername": "6.2.00",
+  "publisher": "Ironhide Games",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 1024,
+  "tags": [
+    "中文",
+    "单机",
+    "塔防"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/kingdom-rush-frontiers-td/com.ironhidegames.android.kingdomrushfrontiers/download",
+      "var": true
+    }
+  ]
+}

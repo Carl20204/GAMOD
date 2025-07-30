@@ -1,0 +1,60 @@
+{
+  "faqs": {
+    "游戏更新建议": "因为谷歌最新加固方案的缘故，付费版游戏原版无法在墨魔豆沙盒中运行，希望搭配MOD的玩家，建议在\u003ca href\u003dhttps://pdalife.com\u003ePDALIFE\u003c/a\u003e或者\u003ca href\u003dhttps://androidoyun.club\u003eandroidoyun\u003c/a\u003e下载破解包，不用翻墙。",
+    "MOD更新说明": "本MOD基于PDALIFE在2025年3月更新的1.4.0.46版本破解包，支持之前的旧版本，理论上也支持后续未来的版本，请自行更新游戏，无需更换MOD。\u003cbr\u003e\u003cbr\u003e未来如果出现游戏更新，使用当前版本MOD功能失效的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理"
+  },
+  "gms": 2,
+  "info": "末日生存游戏，说白了就是打怪、拆家、捡破烂，然后收集一堆垃圾造东西。\u003cbr\u003e本作和【地球末日】不一样的地方，就是没有建设家园环节，更侧重剧情与战斗。\u003cbr\u003e\u003cbr\u003e中国区由taptap代理，国际版为谷歌商店付费版，PDALIFE提供了最新版本破解包。破解包运行同样需要谷歌服务，无谷歌服务手机，请务必配合墨魔豆的虚拟谷歌服务与MOD一起运行",
+  "label": "末日后53天",
+  "time": 1740700800008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "自定义选项，可调节伤害、速度、减伤、大容量背包等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.the10tons.dysmantle.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.the10tons.dysmantle",
+  "vercode": 14046,
+  "vername": "1.4.0.46",
+  "publisher": "the10tons",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "生存",
+    "动作",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "PDALIFE（英文网页）",
+      "url": "https://pdalife.com/dysmantle-android-a45214.html",
+      "var": false
+    },
+    {
+      "host": "oyun（英文网页）",
+      "url": "https://androidoyun.club/2025/03/dysmantle-v1-4-0-46-mod-apk-dlc-kilitleri-acik.html",
+      "var": false
+    },
+    {
+      "host": "谷歌市场页（翻墙）",
+      "url": "https://play.google.com/store/apps/details?id\u003dcom.the10tons.dysmantle",
+      "var": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "label": "亚特兰蒂斯入侵者",
+  "time": 1708646400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "别刷排行榜太狠了。"
+      ],
+      "name": "上帝模式",
+      "pkgname": "atlantis.invaders.subnautica.space.shooter.gm64",
+      "targetvc": "700408",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "atlantis.invaders.subnautica.space.shooter",
+  "vercode": 700408,
+  "vername": "7.04.08",
+  "publisher": "Spirit Bomb",
+  "signmd5": "7D11EED0C09F0557CB649A33890CAA72",
+  "tags": [
+    "中文",
+    "飞行射击"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/atlantis.invaders.subnautica.space.shooter?versionCode\u003d700408",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/atlantis-alien-space-shooter/atlantis.invaders.subnautica.space.shooter/download/",
+      "var": true
+    }
+  ]
+}

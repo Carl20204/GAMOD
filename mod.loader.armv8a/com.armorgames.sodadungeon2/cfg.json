@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "放置类精品游戏，战斗体系设计复杂，一层一层的深入地牢。",
+  "label": "苏打地牢2",
+  "time": 1666483200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节金币、精华等的收益率，可调节战斗技能CD、法力等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.armorgames.sodadungeon2.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.armorgames.sodadungeon2",
+  "vercode": 129,
+  "vername": "1.2.2",
+  "publisher": "Armor Games Studios Inc",
+  "signmd5": "3807C19F3789CA0E3BE9306CB86760E6",
+  "tags": [
+    "中文",
+    "单机",
+    "放置",
+    "休闲",
+    "冒险"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.armorgames.sodadungeon2?versionCode\u003d129\u0026nc\u003darm64-v8a\u0026sv\u003d21",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/soda-dungeon-2/com.armorgames.sodadungeon2/download",
+      "var": false
+    }
+  ]
+}

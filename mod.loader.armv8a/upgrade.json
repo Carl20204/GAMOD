@@ -1,0 +1,16 @@
+{
+  "vername": "2.3.6",
+  "urls": [
+    "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
+  ],
+  "vercode": 236,
+  "min_sdk_version": 24,
+  "target_sdk_version": 29,
+  "md5": "5AA254FEFAEA320B809B5E6F19FB564D",
+  "size": 4200835,
+  "logs": {
+    "en": "UI优化；针对红米/小米澎湃OS无法打开相册选取二维码授权文件做的兼容性处理",
+    "zh": "UI优化；针对红米/小米澎湃OS无法打开相册选取二维码授权文件做的兼容性处理"
+  },
+  "i": false
+}

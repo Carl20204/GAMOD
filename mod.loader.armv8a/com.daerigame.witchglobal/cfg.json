@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "操纵可爱的小魔女，带着宠物骑士们去刷刷刷吧",
+  "label": "女巫骑士",
+  "time": 1710288000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有激励广告可白嫖",
+        "可选菜单，可自由打怪爆率，技能CD、伤害增强、减轻等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.daerigame.witchglobal.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.daerigame.witchglobal",
+  "vercode": 105,
+  "vername": "4.1.1",
+  "publisher": "DAERI SOFT Inc",
+  "signmd5": "75F31EA637411DB781C03401EFD98339",
+  "tags": [
+    "中文",
+    "放置",
+    "开放世界",
+    "角色扮演"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.daerigame.witchglobal?versionCode\u003d105\u0026nc\u003darm64-v8a\u0026sv\u003d21",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/the-witch-s-knight/com.daerigame.witchglobal/download",
+      "var": false
+    }
+  ]
+}

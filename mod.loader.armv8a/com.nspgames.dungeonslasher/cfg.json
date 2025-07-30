@@ -1,0 +1,51 @@
+{
+  "faqs": {
+    "游戏需要翻墙": "重要的事说三遍！\u003cbr\u003e\u003cbr\u003e游戏需要翻墙\u003cbr\u003e游戏需要翻墙\u003cbr\u003e游戏需要翻墙\u003cbr\u003e\u003cbr\u003e进入游戏后，右上角的游戏设置中可以更换简体中文",
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+  },
+  "gms": 2,
+  "info": "成为一名战士，使用众多技能和神器拯救世界。\u003cbr\u003e游戏启动需翻墙，请自备加速器或梯子，进入游戏后可关闭梯子。\u003cbr\u003e1。游戏难度巨高，一点没惯着小白玩家，手残党不用MOD是别想开心了\u003cbr\u003e2。设置中可手动配置中文",
+  "label": "地牢杀手",
+  "time": 1753401600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【专用版】仅支持游戏于2025年7月在谷歌商店更新的版本。\u003cbr\u003e因游戏启用了谷歌加固，所以从本版本起，MOD无法全版本通吃了",
+        "【自动激活】免广告，所有广告激励可白嫖",
+        "【可选菜单】可调节免伤、无限跳、技能无CD、随意冲刺、无限代币等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.nspgames.dungeonslasher.gm64",
+      "targetvc": "175334163",
+      "vercode": 5
+    }
+  ],
+  "pkgname": "com.nspgames.dungeonslasher",
+  "vercode": 175334163,
+  "vername": "0.741.0",
+  "publisher": "96Percent",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/RoC10pGf",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/dungeon-slasher-roguelike/com.nspgames.dungeonslasher",
+      "var": true
+    }
+  ]
+}

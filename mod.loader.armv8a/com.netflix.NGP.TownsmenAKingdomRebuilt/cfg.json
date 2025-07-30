@@ -1,0 +1,48 @@
+{
+  "faqs": {
+    "没有网飞Netflix账号怎么玩": "MOD有免网飞账号功能，没有安装Netflix，没有账号，不会翻墙的，务必使用MOD运行游戏"
+  },
+  "gms": 2,
+  "info": "模拟城市，模拟建设，模拟经营",
+  "label": "家园：重建王国",
+  "time": 1698710400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单可调节收入、声望消耗等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.netflix.NGP.TownsmenAKingdomRebuilt.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.netflix.NGP.TownsmenAKingdomRebuilt",
+  "vercode": 81,
+  "vername": "3.0.0",
+  "publisher": "Netflix",
+  "tags": [
+    "中文",
+    "单机",
+    "模拟",
+    "建设"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/UOAmQ8kx",
+      "var": false
+    },
+    {
+      "host": "翻墙|直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.netflix.NGP.TownsmenAKingdomRebuilt?versionCode\u003d81\u0026nc\u003darm64-v8a\u0026sv\u003d26",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/townsmen-%E2%80%93-a-kingdom-rebuilt/com.netflix.NGP.TownsmenAKingdomRebuilt/download",
+      "var": false
+    }
+  ]
+}

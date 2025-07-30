@@ -1,0 +1,63 @@
+{
+  "faqs": {
+    "游戏更新建议": "中国区玩家，会翻墙，想下载安装谷歌商店原版游戏，但没有谷歌账号，建议使用如下谷歌商店替代品\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore\u003c/a\u003e，非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！",
+    "中文说明": "apkpure下载的版本为英文版，网盘分享的是中文版，自己去谷歌市场或Aurora市场下载的话，请将手机系统语言更换为繁体中文，才能下载到中文版。"
+  },
+  "gms": 1,
+  "info": "【苍白的死神】这个名字应该更有名一些，十年经典，2024年底，还在更新，支持高清、最新版安卓等等\u003cbr\u003e\u003cbr\u003e网盘分享的是中文原版，谷歌市场、aurora市场下载需要切换手机繁体中文才能下载安装中文版",
+  "label": "死神",
+  "time": 1735344000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单：战斗强化、付费解锁等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "net.hexage.reaper.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "net.hexage.reaper",
+  "vercode": 12000201,
+  "vername": "2.0.2",
+  "publisher": "HEXAGE",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "search": [
+    "苍白的死神"
+  ],
+  "tags": [
+    "中文",
+    "肉鸽",
+    "动作",
+    "经典"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/PuURFwt8",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/fPBzg9Hw",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/reaper/net.hexage.reaper",
+      "var": true
+    }
+  ]
+}

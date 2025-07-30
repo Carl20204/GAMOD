@@ -1,0 +1,53 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+  },
+  "gms": 1,
+  "info": "特点:\u003cbr\u003e\u003cbr\u003e✔ 奇妙的精灵、矮人角色扮演游戏\u003cbr\u003e\u003cbr\u003e✔ 帮助你的英雄与半兽人作战\u003cbr\u003e\u003cbr\u003e✔ 使用并升级强大的战斗技能\u003cbr\u003e\u003cbr\u003e✔ 体验绝妙的森林沼泽、雪山之旅\u003cbr\u003e\u003cbr\u003e✔ 直面邪恶的龙族和致命的陷阱\u003cbr\u003e\u003cbr\u003e✔ 升级装备，保卫城堡\u003cbr\u003e\u003cbr\u003e✔ 收集挑战成就，超越好友得分",
+  "label": "枪之荣耀3：英雄",
+  "time": 1741305600008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】本MOD为通用版本，理论上支持游戏全版本。出现游戏升级MOD功能失效的话，可以在墨魔豆的QQ圈子里吱一声。",
+        "【可选菜单】游戏速度、减伤、技能CD加速、手动加钱"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.hg.gunsandglory3free.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.hg.gunsandglory3free",
+  "vercode": 19,
+  "vername": "1.2.8",
+  "publisher": "HandyGames",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 536,
+  "tags": [
+    "中文",
+    "塔防"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "下载页[翻墙]",
+      "url": "https://apkpure.net/cn/guns-n-glory-zombies/com.hg.gunsandglory4free",
+      "var": true
+    }
+  ]
+}

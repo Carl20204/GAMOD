@@ -1,0 +1,46 @@
+{
+  "gms": 2,
+  "info": "像素风3D动作游戏，但核心是以收集养成为主，因为这才是pixelstar的风格啊\u003cbr\u003e\u003cbr\u003e喜欢养成的可以开自动战斗，喜欢战斗的手操也不错",
+  "label": "像素刀片M",
+  "time": 1716940800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告",
+        "可选菜单可调节技能CD、加钱、加宝石、加钥匙等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.pixelstar.PixelFBlade.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.pixelstar.PixelFBlade",
+  "vercode": 2024052901,
+  "vername": "9.5.0",
+  "publisher": "pixelstar",
+  "tags": [
+    "中文",
+    "动作",
+    "收集",
+    "养成"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/iQBzg6lM",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/fPBzg9Hw",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/pixel-blade-m/com.pixelstar.PixelFBlade/download",
+      "var": false
+    }
+  ]
+}

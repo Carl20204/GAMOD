@@ -1,0 +1,58 @@
+{
+  "faqs": {
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！",
+    "MOD更新说明": "本MOD基于游戏在谷歌商店2024年7月更新的1.0.24版本，理论上也支持后续版本，请自行去应用商店更新游戏，无需升级MOD。\u003cbr\u003e\u003cbr\u003e未来如果出现游戏更新，使用当前版本MOD功能失效的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理"
+  },
+  "gms": 1,
+  "info": "波兰出蠢驴，创意之作不少。本作为欧式卡通画风，俄罗斯方块模式的防御塔搭建，策略性创意满满\u003cbr\u003e\u003cbr\u003e游戏最大的问题就是创意太超前，玩起来有些累，太费脑",
+  "label": "城堡大师",
+  "time": 1721865600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "已自动激活免广告，所有激励广告点击白送",
+        "自选开关，可开启无限领取宝箱、更多金币、宝石等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.rebeltwins.castlemastertd.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.rebeltwins.castlemastertd",
+  "vercode": 19,
+  "vername": "1.0.24",
+  "publisher": "Rebel Twins",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "search": [
+    "城主"
+  ],
+  "tags": [
+    "中文",
+    "国际版",
+    "塔防"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
+      "var": false
+    },
+    {
+      "host": "翻墙",
+      "url": "https://apkpure.net/cn/castle-master-td/com.rebeltwins.castlemastertd",
+      "var": false
+    }
+  ]
+}

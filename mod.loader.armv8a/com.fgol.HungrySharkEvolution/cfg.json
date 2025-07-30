@@ -1,0 +1,55 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
+    "进入游戏是英文？": "如果首次启动游戏没有带MOD，游戏可能会以英文模式为主。\u003cbr\u003e\u003cbr\u003e启动游戏后，点击左上角设置按钮，弹出的九宫格选左下语言按钮，点击后选择中文可以切换到繁体中文模式。"
+  },
+  "gms": 1,
+  "info": "UBI出品的大鱼吃小鱼的经典第一作，已经十周年了，虽然画质比之后的版本《饥饿的鲨鱼：世界》差一些，但情怀无价\u003cbr\u003e\u003cbr\u003e最新版本12.9.0的更新日志\u003cbr\u003e《饥饿鲨：进化》迎来鲨鱼周\u003cbr\u003e又到一年中的这个时节啦！鲨鱼周回归《饥饿鲨：进化》，带来超多限时专属内容。解锁鲨鱼周品牌装备，内含软呢帽，隐身眼镜，还有首次亮相的新宠物——海豹。",
+  "label": "饥饿鲨：进化",
+  "time": 1752537600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免广告，所有广告激励可以直接白嫖。\u003cbr\u003e国内有时连接不上海外广告商，导致激励广告无效",
+        "【可选菜单】可调节减伤、金币、宝石收益、爆发槽无限、强化特效开关"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.fgol.HungrySharkEvolution.gm64",
+      "targetvc": "*",
+      "vercode": 5
+    }
+  ],
+  "pkgname": "com.fgol.HungrySharkEvolution",
+  "vercode": 10535,
+  "vername": "12.9.0",
+  "publisher": "Ubisoft Entertainment",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "休闲",
+    "探索"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/hungry-shark-evolution/com.fgol.HungrySharkEvolution/",
+      "var": true
+    }
+  ]
+}

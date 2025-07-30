@@ -1,0 +1,40 @@
+{
+  "gms": 2,
+  "info": "狙击手玩法，要的就是枪枪爆头\u003cbr\u003eVNG发行的打丧尸游戏太多了……算是丧尸游戏专业户了",
+  "label": "丧尸狙击手",
+  "time": 1721088000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "\u003cfont color\u003d\"#ff0000\"\u003e请不要在PVP竞技场大开杀戒\u003c/font\u003e",
+        "可选菜单，可调节现金、黄金、勋章的收益率与消费折扣率，可调节高速射击、装弹、复装"
+      ],
+      "name": "上帝模式",
+      "pkgname": "sniper.gun.zombie.shooting.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "sniper.gun.zombie.shooting",
+  "vercode": 160109263,
+  "vername": "1.60.10",
+  "publisher": "VNGGames Studios",
+  "tags": [
+    "中文",
+    "狙击",
+    "FPS"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/SsBxSZB9",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/sniper-zombies-offline-games/sniper.gun.zombie.shooting/download",
+      "var": false
+    }
+  ]
+}

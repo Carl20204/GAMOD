@@ -1,0 +1,58 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
+    "游戏卡住？": "游戏启动或在一局开始/结束时偶尔会卡住，这是联网登录问题，断一下网就可以跳过了。提示登录时，选【NO】即可。"
+  },
+  "gms": 1,
+  "info": "建议玩【塔防传奇5】，点击【GCenter】标签，查看GCenter出品的所有游戏可以找到5。\u003cbr\u003e\u003cbr\u003e4代是半成品，5相当于完整版。",
+  "label": "塔防传奇4",
+  "time": 1752624000008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】基于游戏在谷歌商店2025年7月版本开发，理论上兼容之后的游戏版本，如果出现游戏升级功能失效现象，可在墨魔豆的QQ圈子里吱一声",
+        "【自动激活】免广告，所有广告奖励可以直接白嫖。",
+        "【可选菜单】手动调节各代币与战场金钱的收益率、消费折扣，解锁全部英雄、炮塔"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.Gcenter.DefenselegendX.TowerDefense.TD.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.Gcenter.DefenselegendX.TowerDefense.TD",
+  "vercode": 168,
+  "vername": "1.0.111",
+  "publisher": "GCenter",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "search": [
+    "王国保卫战"
+  ],
+  "tags": [
+    "英文",
+    "塔防"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/defense-legend-4-sci-fi-td/com.Gcenter.DefenselegendX.TowerDefense.TD/",
+      "var": true
+    }
+  ]
+}

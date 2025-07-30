@@ -1,0 +1,61 @@
+{
+  "faqs": {
+    "没有网飞Netflix账号怎么玩": "MOD有免网飞账号功能，没有安装Netflix，没有网飞会员账号，不会翻墙的，务必使用MOD运行游戏"
+  },
+  "gms": 2,
+  "info": "脆皮玩家一碰就死的动作+潜行游戏，核心是利用子弹时间抓机会。",
+  "label": "武士 零",
+  "time": 1722384000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免网飞会员验证",
+        "可选菜单可调节子弹时间"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.netflix.NGP.KatanaZero.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.netflix.NGP.KatanaZero",
+  "vercode": 1000056,
+  "vername": "1.0.56",
+  "publisher": "Netflix",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "单机",
+    "动作",
+    "子弹时间",
+    "像素"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/UOAmQ8kx",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/g4C1zjdY",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/katana-zero-netflix/com.netflix.NGP.KatanaZero/download",
+      "var": true
+    }
+  ]
+}

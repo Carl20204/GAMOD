@@ -1,0 +1,60 @@
+{
+  "faqs": {
+    "进游戏是英文？": "游戏需手动该为中文，一进入游戏，点击主菜单第二个选项，可以看到【中文】按钮，点击即可。",
+    "本作和《海盗：加勒比海亨特》有什么区别？": "本作是二代，加勒比海亨特是一代，两者在海战方面的差异不大。\u003cbr\u003e\u003cbr\u003e部分小细节上，包括UI，本作会更完善一些。"
+  },
+  "gms": 1,
+  "info": "中世纪海战游戏，玩家作为加勒比海盗，率领船队，四处打劫、交易赚钱建设据点、升级船只。\u003cbr\u003e\u003cbr\u003e游戏安装包虽小，但海水的画质很高，剔除简陋的据点建设与剧情过场，单论海战还是值得一玩的",
+  "label": "海盗：死亡瘟疫",
+  "time": 1721347200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动加载免广告",
+        "MOD自选菜单，可调节减伤、增伤、收益率，折扣，装弹速度"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.HomeNetGames.Pirates2.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.HomeNetGames.Pirates2",
+  "vercode": 304,
+  "vername": "3.0.4",
+  "publisher": "Home Net Games",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "海战",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/FTATSvER",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/SsBxSZB9",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/the-pirate-plague-of-the-dead/com.HomeNetGames.Pirates2/download",
+      "var": true
+    }
+  ]
+}

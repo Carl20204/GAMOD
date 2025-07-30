@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "【元素世界】【元气骑士】类型的肉鸽动作射击游戏，画面保持了DAWINSTONE作品的一贯的日韩风。\u003cbr\u003e缺点就是内容较少，比如武器防具加起来只有1百多种，可选角色只有7个。",
+  "label": "牛奶可乐：苏打之王",
+  "time": 1705968000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有激励广告可白嫖",
+        "可选菜单，可自由调节移速、射速、弹药、技能、全武器道具随意更换等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.dawinstone.milkacola.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.dawinstone.milkacola",
+  "vercode": 71,
+  "vername": "1.2.0",
+  "publisher": "DAWINSTONE GAMES",
+  "signmd5": "B2615F0DCAFFD88F391F7D70040AE601",
+  "tags": [
+    "中文",
+    "离线",
+    "肉鸽",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/APK/com.dawinstone.milkacola?versionCode\u003d71",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/milicola-the-lord-of-soda/com.dawinstone.milkacola/download",
+      "var": false
+    }
+  ]
+}

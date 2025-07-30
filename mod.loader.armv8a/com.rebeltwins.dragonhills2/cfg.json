@@ -1,0 +1,59 @@
+{
+  "faqs": {
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！",
+    "游戏启动卡住？": "2025年6月底更新的1.2.17版本有大Bug，大陆手机系统无法游戏。建议使用网盘分享的1.2.16版本（游戏内容无任何变化）"
+  },
+  "gms": 1,
+  "info": "波兰小国Rebel Twins出品的休闲创意之作，强烈推荐之后出品的《曲奇必死》《疯狂外星人》，创意更足，体验更强",
+  "label": "龙之丘2",
+  "time": 1751328000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】本MOD理论上也支持游戏所有版本，如果出现游戏更新功能失效的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理",
+        "【自选开关】可手动调节金币爆率、无伤满血等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.rebeltwins.dragonhills2.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.rebeltwins.dragonhills2",
+  "vercode": 32,
+  "vername": "1.2.16",
+  "publisher": "Rebel Twins",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 1024,
+  "tags": [
+    "中文",
+    "休闲"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/RoC10pGf",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/cn/cookies-must-die/com.rebeltwins.dragonhills2",
+      "var": false
+    }
+  ]
+}

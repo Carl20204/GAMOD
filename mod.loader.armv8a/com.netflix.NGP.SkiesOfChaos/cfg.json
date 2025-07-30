@@ -1,0 +1,49 @@
+{
+  "faqs": {
+    "没有网飞Netflix账号怎么玩": "MOD有免网飞账号功能，没有安装Netflix，没有账号，不会翻墙的，务必使用MOD运行游戏",
+    "进游戏为啥是英文？": "跳过开场关卡，进入主界面后，设置里找language选项，可选择简体或繁体中文"
+  },
+  "gms": 2,
+  "info": "手机上的飞行射击游戏，如果说3D写实的王者是《傲气雄鹰》系列，那本作就是2D卡通的王者了\u003cbr\u003e\u003cbr\u003e作者很早前就玩过，最近重玩，发现网上没有最新版的，可以玩的安装包，就更新个MOD支持最新版吧",
+  "label": "空中乱战",
+  "time": 1700784000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单可调节收获、无伤、增伤等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.netflix.NGP.SkiesOfChaos.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.netflix.NGP.SkiesOfChaos",
+  "vercode": 1003007,
+  "vername": "1.3.7",
+  "publisher": "Netflix",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "单机",
+    "飞行射击"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/g4C1zjdY",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/UOAmQ8kx",
+      "var": false
+    },
+    {
+      "host": "翻墙|下载页",
+      "url": "https://apkpure.net/skies-of-chaos/com.netflix.NGP.SkiesOfChaos/download",
+      "var": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "faqs": {
+    "游戏如何操作？检查、对话怎么触发？": "游戏操作以手柄操作模式为主，触屏以模拟手柄为核心\u003cbr\u003e1。出现对话/检查时，需使用虚拟摇杆的上键\u003cbr\u003e2。出现是/否的选项，虚拟摇杆左右选择，A键（跳跃）确认，B键（聚集）取消\u003cbr\u003e3。查看地图时，虚拟摇杆移动地图，A键（跳跃）放大，B键（聚集）缩小\u003cbr\u003e4.物品菜单,使用虚拟摇杆选择具体内容，LT键【超级冲刺】切换物品、地图、护符大类，A键【跳跃】确认，B键【施法】关闭菜单"
+  },
+  "gms": 2,
+  "info": "精美的画面，主机游戏品质，完美的银河恶魔城体验\u003cbr\u003e手残党建议适当开启MOD功能\u003cbr\u003e\u003cbr\u003e网盘分享的版本为完美版，无小广告弹窗，修复了早期版本各种移植Bug，例如无法打开物品菜单等",
+  "label": "空洞骑士",
+  "time": 1710806400008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "菜单可调节移动速度、HP、MP、虫币、无限跳、各种解锁等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.TeamCherry.HollowKnight.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.TeamCherry.HollowKnight",
+  "vercode": 11833,
+  "vername": "1.5.78.11833",
+  "publisher": "TeamCherry",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "动作",
+    "银河恶魔城"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/f8USV6Yl",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/NjBeEeu5",
+      "var": false
+    }
+  ]
+}

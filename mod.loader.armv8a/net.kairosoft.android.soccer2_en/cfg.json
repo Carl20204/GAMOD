@@ -1,0 +1,54 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "开罗出品的模拟经营游戏之一，建设你的球队",
+  "label": "冠军足球2",
+  "time": 1695254400008,
+  "mtime": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "自动启用完整版。其它功能请谨慎使用，防止破坏游戏乐趣！"
+      ],
+      "name": "上帝模式",
+      "pkgname": "net.kairosoft.android.soccer2_en.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "net.kairosoft.android.soccer2_en",
+  "vercode": 222,
+  "vername": "2.2.2",
+  "publisher": "Kairosoft",
+  "signmd5": "9D60707A73290B53F7CFBAD50554C9EB",
+  "tags": [
+    "中文",
+    "国际版",
+    "模拟经营"
+  ],
+  "downloads": [
+    {
+      "host": "apkpure直链下载[翻墙]",
+      "url": "https://d.apkpure.net/b/APK/net.kairosoft.android.soccer2_en?versionCode\u003d222\u0026nc\u003darm64-v8a%2Carmeabi-v7a\u0026sv\u003d22",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/pocket-league-story-2/net.kairosoft.android.soccer2_en/download",
+      "var": true
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/EmURed86",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/fOURoItL",
+      "var": false
+    }
+  ]
+}

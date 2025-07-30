@@ -1,0 +1,60 @@
+{
+  "faqs": {
+    "与原版的【循环英雄】比，好玩不？": "本作相对【循环英雄】，玩法简化了许多，但画面强多了\u003cbr\u003e\u003cbr\u003e本作增加了许多商业化养成套路，反正用MOD免氪也就无所谓了。\u003cbr\u003e\u003cbr\u003e如果喜欢这种玩法，建议玩玩原版【循环英雄】，找不到的话，查看【死亡细胞】【怒之铁拳4】【小骨英雄】等游戏，点游戏图标就可以找到相同发行商发行的【循环英雄】",
+    "不带MOD无法启动？": "游戏使用了谷歌加固，请使用对应版本MOD跳过加固验证"
+  },
+  "gms": 2,
+  "info": "循环英雄火了，山寨就来了。\u003cbr\u003e\u003cbr\u003e赞一下Funovus，一向山寨的很好，画质、玩法简化休闲化都做得不错，受不了循环英雄的硬核与简陋画质的，推荐拿本作当平替体验",
+  "label": "循环刷刷刷",
+  "time": 1725062400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，跳过谷歌加固验证",
+        "可选菜单，可免费内购、加钱、加宝石、加游戏代币等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.funovus.pocket.quest.gm64",
+      "targetvc": "615",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.funovus.pocket.quest",
+  "vercode": 615,
+  "vername": "1.23.21",
+  "publisher": "Funovus",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 2048,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "谷歌加固"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/5XAUtqbj",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/loop-loot%E2%84%A2-merge-rpg/com.funovus.pocket.quest/download",
+      "var": false
+    }
+  ]
+}

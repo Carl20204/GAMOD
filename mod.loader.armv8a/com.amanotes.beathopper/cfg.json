@@ -1,0 +1,40 @@
+{
+  "gms": 2,
+  "info": "海量的欧美曲库，画面绚丽多彩，玩法难度也不高，适合听着音乐休闲点点划划的玩，玩起来不会累",
+  "label": "节奏弹球",
+  "time": 1721347200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可免广告解锁任意歌曲、皮肤"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.amanotes.beathopper.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.amanotes.beathopper",
+  "vercode": 24071817,
+  "vername": "6.13.3",
+  "publisher": "AMANOTES PTE LTD",
+  "tags": [
+    "中文",
+    "音乐",
+    "节奏",
+    "欧美曲库"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/tiles-hop-edm-rush/com.amanotes.beathopper/download",
+      "var": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "gms": 2,
+  "info": "数值养成放置类型，主题为剑与魔法与地下城.",
+  "label": "培养地牢英雄",
+  "time": 1716336000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告",
+        "可选菜单可调节攻速、移速，增加金币、宝石等收益"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.pixelstar.DNPH.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.pixelstar.DNPH",
+  "vercode": 2024052001,
+  "vername": "12.4.4",
+  "publisher": "pixelstar",
+  "tags": [
+    "中文",
+    "放置",
+    "收集",
+    "养成"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/iQBzg6lM",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/fPBzg9Hw",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/grow-dungeon-hero-idle-rpg/com.pixelstar.DNPH/download",
+      "var": false
+    }
+  ]
+}

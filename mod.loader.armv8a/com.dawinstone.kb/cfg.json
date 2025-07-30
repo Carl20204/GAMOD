@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "很有创意的战术塔防，兵种的相生相克，出兵的时机把握，Boss战的QTE，都让游戏与众不同",
+  "label": "国王之血：防御",
+  "time": 1704326400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有激励广告可白嫖",
+        "可选菜单，可调节血石收益率与消费折扣，出兵时间，投石机CD，传说级装备掉率，商店全解锁等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.dawinstone.kb.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.dawinstone.kb",
+  "vercode": 144,
+  "vername": "1.3.5",
+  "publisher": "DAWINSTONE GAMES",
+  "signmd5": "A06874CD310285E09C05C76C203299FC",
+  "tags": [
+    "中文",
+    "离线",
+    "塔防",
+    "战术"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/APK/com.dawinstone.kb?versionCode\u003d144",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/king-s-blood-the-defense/com.dawinstone.kb/download",
+      "var": false
+    }
+  ]
+}

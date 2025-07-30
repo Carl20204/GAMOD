@@ -1,0 +1,61 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
+    "下载额外数据包": "Boss战、神殿任务、新装备等都需要下载额外数据包，国内玩家可能需要翻墙",
+    "切换中文": "如果首次进入游戏没有自动切换为中文，可在开始画面点击左上角齿轮图标，选择画面中间的语言选项，可更换中文"
+  },
+  "gms": 1,
+  "info": "育碧自家出品的饥饿鲨的换皮之作，但还是很好玩，烈焰吐息之下万物皆焚",
+  "label": "饥饿龙",
+  "time": 1739318400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】基于2025年2月谷歌商店更新的游戏版本开发，如果出现游戏升级MOD功能失效问题，可以去墨魔豆的QQ圈子里吱一声",
+        "【自动激活】免广告，所有激励广告白嫖",
+        "【可选菜单】手动调节减伤幅度、金币、宝石收益率、冲刺无限、烈焰无限"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ubisoft.hungrydragon.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.ubisoft.hungrydragon",
+  "vercode": 718,
+  "vername": "5.4",
+  "publisher": "Ubisoft Entertainment",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "search": [
+    "饥饿",
+    "饥饿鲨"
+  ],
+  "tags": [
+    "中文",
+    "休闲",
+    "探索"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "下载页|翻墙",
+      "url": "https://apkpure.net/cn/hungry-dragon/com.ubisoft.hungrydragon/",
+      "var": true
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 2,
+  "info": "【物种战争】三作，玩法从【DELTA】的左右对攻塔防，到【灭绝】的俯视战场射击，再到本作【启示录】的战场射击生存模式，始终在进步在突破。",
+  "label": "物种战争：启示录",
+  "time": 1706572800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活免广告，所有激励广告可白嫖",
+        "可选菜单，可自由调节移动速度、射击速度、经验获取、弹药使用等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.dawinstone.b2ba.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.dawinstone.b2ba",
+  "vercode": 129,
+  "vername": "3.0.6",
+  "publisher": "DAWINSTONE GAMES",
+  "signmd5": "D706D4B8664A8175CE1DA31B8F272FA8",
+  "tags": [
+    "中文",
+    "离线",
+    "生存",
+    "大地图",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.dawinstone.b2ba?versionCode\u003d129\u0026nc\u003darm64-v8a\u0026sv\u003d24",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/bad-2-bad-apocalypse/com.dawinstone.b2ba/download",
+      "var": false
+    }
+  ]
+}

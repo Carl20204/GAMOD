@@ -1,0 +1,59 @@
+{
+  "faqs": {
+    "本作和《一战战机：空中王牌》有什么区别？": "除了对应一战、二战时代不同导致的各国经典战机不同，玩法上大同小异区别不大，互相把对方当DLC看待也可以。\u003cbr\u003e\u003cbr\u003e当然本作的细节比前代一战战机要丰满一些"
+  },
+  "gms": 1,
+  "info": "二战螺旋桨战机空中狗斗，指挥僚机一起单挑或群殴。\u003cbr\u003e\u003cbr\u003e安装包很小，战场画质很高",
+  "label": "二战战机：狗斗",
+  "time": 1721433600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "自动激活高级模式、移除广告、高级色彩编辑器",
+        "MOD自选菜单，可调节收益率，简化轰炸机，内购所有飞机等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.HomeNetGames.Warplanes.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.HomeNetGames.Warplanes",
+  "vercode": 236,
+  "vername": "2.3.6",
+  "publisher": "Home Net Games",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "中文",
+    "空战",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/FTATSvER",
+      "var": false
+    },
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/SsBxSZB9",
+      "var": false
+    },
+    {
+      "host": "apkpure[翻墙]",
+      "url": "https://apkpure.net/cn/the-pirate-plague-of-the-dead/com.HomeNetGames.Warplanes/download",
+      "var": true
+    }
+  ]
+}

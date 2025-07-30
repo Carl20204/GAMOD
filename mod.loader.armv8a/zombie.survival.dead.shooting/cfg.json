@@ -1,0 +1,40 @@
+{
+  "gms": 2,
+  "info": "还记得【死亡扳机】不？枪、车、球、丧尸作为美式游戏的代表，本作就是标准的【枪+丧尸】类型\u003cbr\u003e\u003cbr\u003e但是过完前10小关后，就会有末日基地建设玩法出现……\u003cbr\u003e\u003cbr\u003e游戏设置里可以切换血液颜色红/绿",
+  "label": "丧尸猎人",
+  "time": 1720656000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可调节黄金、钞票收入，也可调节武器威力等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "zombie.survival.dead.shooting.gm64",
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "zombie.survival.dead.shooting",
+  "vercode": 187019663,
+  "vername": "1.87.1",
+  "publisher": "VNGGames Studios",
+  "tags": [
+    "中文",
+    "射击",
+    "丧尸",
+    "FPS"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘分享",
+      "url": "https://share.feijipan.com/s/SsBxSZB9",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/zombie-hunter-offline-games/zombie.survival.dead.shooting/download",
+      "var": false
+    }
+  ]
+}

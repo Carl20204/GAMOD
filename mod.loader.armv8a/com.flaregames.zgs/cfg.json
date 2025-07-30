@@ -1,0 +1,61 @@
+{
+  "faqs": {
+    "游戏异常说明": "1。偶尔的进入游戏或基地画面会卡住无法点击，此时一般是卡在联网中，一般耐心等10～30秒左右就行\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff0000\"\u003e部分机型特定关卡可能会闪退，可以禁用MOD，通过此关后再启用即可\u003c/font\u003e",
+    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！",
+    "MOD更新说明": "本MOD基于游戏在谷歌商店2025年3月更新的1.7.21版本，理论上也支持后续版本，请自行去应用商店更新游戏，无需升级MOD。\u003cbr\u003e\u003cbr\u003e相比上一版本，增加了地面部队移动速度调整，秒杀丧尸，方便刷地图，刷资源用\u003cbr\u003e\u003cbr\u003e未来如果出现游戏更新，使用当前版本MOD功能失效的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理"
+  },
+  "gms": 1,
+  "info": "驾驶AC-130，空中炮艇，死亡天使，从空中打击丧尸\u003cbr\u003e\u003cbr\u003e说实话，和俄乌战争中无人机视角下的高空打击很类似……",
+  "label": "僵尸炮艇：生存",
+  "time": 1741046400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可免广告解锁、领取物资、调节机炮自由射击、地面部队无敌、移动速度加快、秒杀"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.flaregames.zgs.gm64",
+      "targetvc": "*",
+      "vercode": 4
+    }
+  ],
+  "pkgname": "com.flaregames.zgs",
+  "vercode": 1007021,
+  "vername": "1.7.21",
+  "publisher": "Flaregames",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 1024,
+  "tags": [
+    "中文",
+    "射击",
+    "塔防",
+    "建设"
+  ],
+  "downloads": [
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/AcAyQw9W",
+      "var": false
+    },
+    {
+      "host": "小飞机网盘",
+      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/zombie-gunship-survival/com.flaregames.zgs/download",
+      "var": false
+    }
+  ]
+}

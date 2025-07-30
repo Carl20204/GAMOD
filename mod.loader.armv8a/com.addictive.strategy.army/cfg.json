@@ -1,0 +1,45 @@
+{
+  "archs": [
+    "arm64-v8a"
+  ],
+  "gms": 1,
+  "info": "合成，一次次合成出强力兵种。请不要过分刷榜，防止被封。",
+  "label": "战争艺术：军团",
+  "time": 1704758400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可选菜单，可配置无敌部队。建议只用于PVE刷金币，请不要PVP使用或刷榜，防止被封。"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.addictive.strategy.army.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.addictive.strategy.army",
+  "vercode": 7220,
+  "vername": "7.2.2",
+  "publisher": "Fastone Games HK",
+  "signmd5": "4B70FDC1D335E3D51244991DC4BD617F",
+  "tags": [
+    "中文",
+    "挂机",
+    "建设",
+    "合成",
+    "塔防"
+  ],
+  "downloads": [
+    {
+      "host": "翻墙｜直链下载",
+      "url": "https://d.apkpure.net/b/XAPK/com.addictive.strategy.army?versionCode\u003d7220\u0026nc\u003darm64-v8a\u0026sv\u003d19",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/art-of-war-legions/com.addictive.strategy.army/download",
+      "var": false
+    }
+  ]
+}
