@@ -1,0 +1,58 @@
+{
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+  },
+  "gms": 1,
+  "info": "二战空战题材，在德国城市上空空战并执行轰炸。附加任务中，有针对日本的城市轰炸与空战\u003cbr\u003e\u003cbr\u003e游戏特色：\u003cbr\u003e\u003cbr\u003e* 22个战役任务 + 生存任务\u003cbr\u003e\u003cbr\u003e* 完全可破坏的3D环境\u003cbr\u003e\u003cbr\u003e* 包含30首独特曲目的管弦乐\u003cbr\u003e\u003cbr\u003e* 每日奖励活动\u003cbr\u003e\u003cbr\u003e* 6人飞机 + 皮肤\u003cbr\u003e\u003cbr\u003e* 飞机升级：火焰喷射器、尾炮、炸弹、激光、僚机、自导火箭……\u003cbr\u003e\u003cbr\u003e* 惊艳的灯光和爆炸效果\u003cbr\u003e\u003cbr\u003e* 横屏/竖屏\u003cbr\u003e\u003cbr\u003e* 支持S-Pen、游戏手柄、鼠标和键盘\u003cbr\u003e\u003cbr\u003e* 支持离线游戏",
+  "label": "致命空袭2",
+  "time": 1751500800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】基于1.6.0版本开发，但理论上支持游戏全版本，如果出现游戏升级MOD功能失效，可以在墨魔豆的QQ圈子里留言",
+        "【自动激活】免广告，所有广告直接跳过",
+        "【可选菜单】手动调节金币、银砖的收益率与消费折扣，无敌、无限炸弹等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ArtInGames.AirAttack2f.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.ArtInGames.AirAttack2f",
+  "vercode": 16002,
+  "vername": "1.6.0",
+  "publisher": "Colya Games",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "search": [
+    "傲气雄鹰"
+  ],
+  "tags": [
+    "英文",
+    "飞行",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "翻墙",
+      "url": "https://apkpure.net/cn/airattack-2-airplane-shooter/com.ArtInGames.AirAttack2f",
+      "var": true
+    }
+  ]
+}
