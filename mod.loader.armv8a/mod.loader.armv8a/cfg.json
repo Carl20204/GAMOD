@@ -1,5 +1,5 @@
 {
-  "time": 1754265600246,
+  "time": 1754438400246,
   "pkgname": "mod.loader.armv8a",
   "search": ["崩溃大陆","泰拉瑞亚","植物大战僵尸","这是我的战争","银河恶魔城","星露谷物语","死亡细胞","王国保卫战","孤胆枪手","小丑牌","幸存者","塔防","火柴人"],
   "promotions": [
@@ -1567,25 +1567,23 @@
       "time": 1743984000000,
 	  "mtime": 1744675200000,
       "pkg": "com.vincentb.MobControl"
-    },
-    {
-      "label": "荒野天空：塔防",
-      "time": 1733961600000,
-	  "mtime": 1735516800000,
-      "pkg": "com.wildsky.td"
-    },
-    {
-      "label": "合成战争：超级军团指挥官",
-      "time": 1733529600000,
-	  "mtime": 1733961600000,
-      "pkg": "com.wildsky.wildarmydraft"
-    },
-    {
+    },{
 		"group": 2,
-      "label": "狂野城堡：王国统治",
-      "time": 1753920000000,
-	  "mtime": 1754265600000,
-      "pkg": "com.wildsky.wildcastle"
+		"label": "荒野天空：塔防",
+		"time": 1754438400000,
+		"mtime": 1754438400000,
+		"pkg": "com.wildsky.td"
+    },{
+		"label": "合成战争：超级军团指挥官",
+		"time": 1733529600000,
+		"mtime": 1733961600000,
+		"pkg": "com.wildsky.wildarmydraft"
+    },{
+		"group": 2,
+		"label": "狂野城堡：王国统治",
+		"time": 1753920000000,
+		"mtime": 1754265600000,
+		"pkg": "com.wildsky.wildcastle"
     },
     {
       "label": "篝火：被遗忘的土地",
