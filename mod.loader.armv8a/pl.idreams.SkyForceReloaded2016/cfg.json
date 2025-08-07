@@ -1,28 +1,29 @@
 {
   "faqs": {
-    "启动游戏会闪退？": "谷歌原版有验证，请使用MOD过检测来正常游戏。",
-    "与《傲气雄鹰2014》比，有什么区别？": "《傲气雄鹰2014》有中文，但没有驾驶员、机体收集系统，只有少少几张卡片收集。\u003cbr\u003e《傲气雄鹰R》只有英文，但收集体系完整：强化卡牌、机体、驾驶员都能收集，可以看作2014版本的再次重制版。"
+    "游戏更新建议": "游戏更新了2.04，但和2.03的区别就是一个用的全谷歌加固，一个用的半谷歌加固，游戏本身没有变化。网盘分享仅提供2.03版本，建议玩此版本即可，不要更新2.04，MOD暂时不支持跳过全谷歌加固验证。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
   },
   "gms": 2,
   "info": "本作为2006年版本《傲气雄鹰》的重制版，已在PS4、Steam、XboxOne、Switch、iOS全平台上架。\u003cbr\u003e\u003cbr\u003e近两年发表的飞行射击手游，有几款能赶上这款N年前的作品？\u003cbr\u003e想偶尔玩玩街机飞行射击类型游戏的，手机永久保留本游戏就够了。",
   "label": "傲气雄鹰：重装上阵",
-  "time": 1721692800008,
+  "time": 1754006400008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，可调节卡牌、机体掉落率100%、各种火力、救援、磁石、激光超超强化",
+        "【专用版】仅支持游戏在谷歌商店发布的2.03正式版",
+        "【自动激活】免广告",
+        "【可选菜单】可调节卡牌、机体掉落率100%、各种火力、救援、磁石、激光超超强化",
         "\u003cfont color\u003d\"#ff\"\u003e备注：首次游戏的新手关为必死关，请不要开无敌，否则会卡关，只能重玩。"
       ],
       "name": "上帝模式",
       "pkgname": "pl.idreams.SkyForceReloaded2016.gm64",
-      "targetvc": "*",
-      "vercode": 5
+      "targetvc": "300238",
+      "vercode": 6
     }
   ],
   "pkgname": "pl.idreams.SkyForceReloaded2016",
-  "vercode": 300236,
-  "vername": "2.02",
+  "vercode": 300238,
+  "vername": "2.03",
   "publisher": "Infinite Dreams",
   "s1": [
     512,
@@ -34,33 +35,22 @@
     6144,
     10904
   ],
-  "s3": 4608,
+  "s3": 1056,
   "tags": [
     "英文",
-    "单机",
     "街机",
-    "飞行射击"
+    "飞行",
+    "射击"
   ],
   "downloads": [
     {
       "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/h2C2gW6I",
-      "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/6yAfbtuL",
-      "var": false
-    },
-    {
-      "host": "[翻墙]下载页",
-      "url": "https://apkpure.net/cn/sky-force-reloaded/pl.idreams.SkyForceReloaded2016/download",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ],
   "videos": {
     "https://www.ixigua.com/7232888294319751715?logTag\u003d7e3cfbc902fd3d4317ff": "中文试玩，超好玩的打飞机游戏",
-    "https://www.ixigua.com/7185206099648184835?logTag\u003d1d6ccff8311c0e0b9bb7": "单人娱乐通过第一关，小时候有作弊该有多好!",
-    "https://www.ixigua.com/6855569128434958855?logTag\u003d08e1cd0738a9e327564f": "第10关-无伤关"
+    "https://www.ixigua.com/7185206099648184835?logTag\u003d1d6ccff8311c0e0b9bb7": "单人娱乐通过第一关，小时候有作弊该有多好!"
   }
 }
