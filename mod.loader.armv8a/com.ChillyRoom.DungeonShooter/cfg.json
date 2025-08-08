@@ -1,46 +1,47 @@
 {
-  "time": 1728518400008,
-  "label": "元气骑士",
-  "pkgname": "com.ChillyRoom.DungeonShooter",
-  "publisher": "凉屋（ChillyRoom）",
-  "vername": "6.6.1",
-  "vercode": 60612,
-  "gms":2,
-  "tags": ["中文", "中国版", "肉鸽", "射击" ],
-  "archs": [ "arm64-v8a" ],
-  "info": "<font color=\"#ff0000\">谁的童年，谁的情怀</font>，6年多的持续更新，海量的内容，相比同类型游戏诚意满满。",
-  "signmd5":"EC8FA0DAA69E8FFB4109B4FA6401F121",
   "faqs": {
-    "选国际版还是中国版？": "最大区别就是：国际版无需实名制（电子邮箱注册），中国版有实名制",
-    "我是成年人，两个都要！": "不好意思，因为本游戏国际版与中国版使用了相同包名，导致你只能二选一，手机上只能存在一款版本。"
+    "\u003cfont color\u003d\"#ff0000\"\u003e进入游戏闪退？\u003c/font\u003e": "因游戏加固的原因，MOD使用时，必须在游戏加载完成，登录界面时激活任一功能才能防止游戏自检闪退",
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
+    "中国版和国际版能同时玩不？": "不好意思，因为本游戏国际版与中国版使用了相同包名，导致你只能二选一，手机上只能安装一款版本。"
   },
-  "downloads": [
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/mXCh5CTw"
-    },{
-      "var": true,
-      "host": "下载页[翻墙]",
-      "url": "https://apkpure.net/cn/soul-knight/com.ChillyRoom.DungeonShooter/download"
-    }
-  ],
+  "gms": 2,
+  "info": "*新角色「船长」！\u003cbr\u003e*新活动「特性怎么还在飞」、「骑士集结」、「小鱼干商店周年庆」、「武器皮肤活动扭蛋」、「武器进化」！\u003cbr\u003e*「迷迭岛游记」赛季回归，新增妖气模式、联机功能，4把神话武器，及一批天赋与料理\u003cbr\u003e*15款新皮肤\u003cbr\u003e*老铁NPC和部分配件进入关卡模式\u003cbr\u003e*武器收藏家基础出现概率提高\u003cbr\u003e*武器碎片掉落品质提升\u003cbr\u003e*8款武器数值与机制调整\u003cbr\u003e*设施快捷入口界面优化",
+  "label": "元气骑士",
+  "time": 1752105600008,
+  "mod": false,
   "mods": [
     {
-      "name": "上帝模式",
       "descs": [
-        "自选菜单以防肝防氪强化解压为主",
-        "强化武器，无敌，无CD，加速，商场等等功能，对游戏本身破坏性较大，请谨慎使用按需启用。"
+        "【专用版】仅支持谷歌市场7月更新的7.4.0版本",
+        "【自选菜单】强化武器，无敌，无CD，加速，免内购等等功能，对游戏本身破坏性较大，请谨慎使用"
       ],
+      "name": "上帝模式",
       "pkgname": "com.ChillyRoom.DungeonShooter.gm64",
-      "targetvc":"*",
-      "vercode": 8
+      "targetvc": "70400",
+      "vercode": 10
     }
   ],
-  "promotions": [
-    {"url": "https://ugame.9game.cn/game/share-235275-6066.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-1222983.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-539038.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-976614.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-575274.html"}
+  "pkgname": "com.ChillyRoom.DungeonShooter",
+  "vercode": 70400,
+  "vername": "7.4.0",
+  "publisher": "凉屋（ChillyRoom）",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "射击",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "下载页[翻墙]",
+      "url": "https://apkpure.net/cn/soul-knight/com.ChillyRoom.DungeonShooter",
+      "var": true
+    }
   ]
 }
