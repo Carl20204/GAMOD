@@ -3,25 +3,25 @@
     "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e不会翻墙，到墨魔豆的QQ圈子里要也行\u003c/font\u003e"
   },
   "gms": 1,
-  "info": "2025年07月24日\u003cbr\u003e\u003cbr\u003e绿瘴危机\u003cbr\u003e\u003cbr\u003e• 和奥斯汀一起拯救一个名叫艾玛的女孩，让她免受感染，并找到她的妈妈！\u003cbr\u003e• 完成活动，获得独特装饰品！\u003cbr\u003e\u003cbr\u003e阿努比斯诅咒\u003cbr\u003e• 帮助奥斯沃侦探破解古墓之谜！\u003cbr\u003e• 完成活动，获得独特装饰品！",
+  "info": "2025年08月6日\u003cbr\u003e\u003cbr\u003e绿瘴危机\u003cbr\u003e\u003cbr\u003e• 和奥斯汀一起拯救一个名叫艾玛的女孩，让她免受感染，并找到她的妈妈！\u003cbr\u003e• 完成活动，获得独特装饰品！\u003cbr\u003e\u003cbr\u003e阿努比斯诅咒\u003cbr\u003e• 帮助奥斯沃侦探破解古墓之谜！\u003cbr\u003e• 完成活动，获得独特装饰品！",
   "label": "梦幻家园",
-  "time": 1753315200008,
+  "time": 1754438400008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【专用版】本MOD基于25年7月谷歌商店更新的8.1.3版本，如果游戏更新，MOD没有更新的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理",
-        "可选菜单，可配置三消胜利金币、星星收益，可调节开局步数"
+        "【专用版】本MOD基于25年8月初谷歌商店更新的8.1.6版本，如果游戏更新，MOD没有更新的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理",
+        "可选菜单，可配置三消胜利金币、星星收益，可调节开局步数，所有强化道具使用无消耗"
       ],
       "name": "休闲模式",
       "pkgname": "com.playrix.homescapes.gm64",
-      "targetvc": "150008103",
-      "vercode": 15
+      "targetvc": "150008106",
+      "vercode": 16
     }
   ],
   "pkgname": "com.playrix.homescapes",
-  "vercode": 150008103,
-  "vername": "8.1.3",
+  "vercode": 150008106,
+  "vername": "8.1.6",
   "publisher": "Playrix",
   "s3": 0,
   "tags": [
@@ -33,11 +33,6 @@
     {
       "host": "网盘分享",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/jQAbnNGS",
       "var": false
     },
     {
