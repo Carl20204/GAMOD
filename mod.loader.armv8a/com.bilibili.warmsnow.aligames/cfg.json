@@ -1,7 +1,7 @@
 {
   "gms": 1,
   "label": "暖雪",
-  "time": 1719541629008,
+  "time": 1754006400008,
   "mod": false,
   "mods": [
     {
@@ -11,13 +11,14 @@
       "name": "上帝模式",
       "pkgname": "com.bilibili.warmsnow.aligames.gm64",
       "targetvc": "*",
-      "vercode": 4
+      "vercode": 5
     }
   ],
   "pkgname": "com.bilibili.warmsnow.aligames",
-  "vercode": 56,
-  "vername": "3.1.1",
+  "vercode": 60,
+  "vername": "3.1.2",
   "publisher": "bilibili",
+  "s3": 0,
   "tags": [
     "中文",
     "实名制",
