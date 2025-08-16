@@ -1,41 +1,41 @@
 {
   "faqs": {
-    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
-    "MOD发布说明": "基于游戏在谷歌商店2025年2月更新的5.7.0版本开发，理论上为通用版，游戏升级可以继续使用无需更新MOD。\u003cbr\u003e\u003cbr\u003e如果出现游戏更新后MOD功能失效或闪退，可以到墨魔豆的QQ圈子里吱一声，作者看到会修复"
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
   },
   "gms": 1,
-  "info": "Habby的微创新\u003cb\u003e超强\u003c/b\u003e，你喜欢哪个呢？\u003cbr\u003e\u003cfont color\u003d\"#ff00\"\u003e弹壳特攻队\u003c/font\u003e \u003d 幸存者 + 肉鸽 + 养成\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e蛇蛇贪吃\u003c/font\u003e \u003d 贪吃蛇 + 肉鸽 + 养成\u003cbr\u003e\u003cfont color\u003d\"#ff\"\u003e酷猫跑酷\u003c/font\u003e \u003d 跑酷 + 肉鸽 + 养成\u003cbr\u003e\u003cfont color\u003d\"#ff00ff\"\u003e砰砰法师\u003c/font\u003e \u003d 弹珠台 + 肉鸽 + 养成",
+  "info": "Habby的微创新\u003cb\u003e超强\u003c/b\u003e，你喜欢哪个呢？\u003cbr\u003e\u003cfont color\u003d\"#ff00\"\u003e弹壳特攻队\u003c/font\u003e \u003d 幸存者 + 肉鸽 + 养成\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e蛇蛇贪吃\u003c/font\u003e \u003d 贪吃蛇 + 肉鸽 + 养成\u003cbr\u003e\u003cfont color\u003d\"#ff\"\u003e酷猫跑酷\u003c/font\u003e \u003d 跑酷 + 肉鸽 + 养成\u003cbr\u003e\u003cfont color\u003d\"#ff00ff\"\u003e砰砰法师\u003c/font\u003e \u003d 弹球 + 肉鸽 + 养成",
   "label": "砰砰法师",
-  "time": 1740441600008,
+  "time": 1754697600008,
   "mod": false,
   "mods": [
     {
       "descs": [
+        "【通用版】基于谷歌商店2025年8月更新版本开发，如果出现后续游戏更新MOD功能失效或闪退，可以到墨魔豆的QQ圈子里吱一声，作者看到会修复",
         "\u003cfont color\u003d\"#ff0000\"\u003e本游戏弱联网，请谨慎使用，不要刷榜单，刷进度，防止被封存档。\u003cbr\u003eNoZuoNoDie\u003c/font\u003e",
-        "启用后自动过检测，自动免广告",
-        "菜单可选功能：强化各种特殊球的威力、触发几率等等。"
+        "【自动激活】免广告，所有激励广告白嫖",
+        "【可选菜单】强化各种特殊球的威力、触发几率等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.habby.punball.gm64",
       "targetvc": "*",
-      "vercode": 5
+      "vercode": 6
     }
   ],
   "pkgname": "com.habby.punball",
-  "vercode": 746,
-  "vername": "5.7.0",
+  "vercode": 751,
+  "vername": "5.7.1",
   "publisher": "Habby",
   "s3": 0,
   "tags": [
     "中文",
-    "国际版",
-    "弹珠台",
-    "肉鸽"
+    "创意",
+    "肉鸽",
+    "弹球"
   ],
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/2YUREp9W",
+      "host": "网盘分享【创意分类】",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     },
     {
@@ -44,7 +44,7 @@
       "var": false
     },
     {
-      "host": "apkpure下载页[翻墙]",
+      "host": "下载页[翻墙]",
       "url": "https://apkpure.net/cn/punball/com.habby.punball",
       "var": true
     }
