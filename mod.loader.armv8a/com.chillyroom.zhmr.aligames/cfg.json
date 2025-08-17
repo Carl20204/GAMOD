@@ -2,7 +2,7 @@
   "gms": 1,
   "info": "凉屋出品的《元气骑士》是地下城肉鸽射击\u003cbr\u003e本作则是\u003cfont color\u003d\"#ff0000\"\u003e地下城肉鸽动作\u003c/font\u003e",
   "label": "战魂铭人",
-  "time": 1744848000008,
+  "time": 1755475200008,
   "mod": false,
   "mods": [
     {
@@ -12,12 +12,12 @@
       "name": "用户模式",
       "pkgname": "com.chillyroom.zhmr.aligames.gm64",
       "targetvc": "*",
-      "vercode": 6
+      "vercode": 8
     }
   ],
   "pkgname": "com.chillyroom.zhmr.aligames",
-  "vercode": 20580,
-  "vername": "2.9.0",
+  "vercode": 20605,
+  "vername": "2.12.0",
   "publisher": "凉屋（ChillyRoom）",
   "s3": 0,
   "tags": [
