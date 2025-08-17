@@ -1,0 +1,35 @@
+{
+  "gms": 1,
+  "label": "坎公骑冠剑",
+  "time": 1751500800008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "懂得都懂"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bilibili.snake.aligames.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.bilibili.snake.aligames",
+  "vercode": 116,
+  "vername": "3.26.0",
+  "publisher": "bilibili",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "实名制",
+    "角色扮演",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "九游",
+      "url": "https://ugame.9game.cn/game/share-235275-1030083.html",
+      "var": false
+    }
+  ]
+}
