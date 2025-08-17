@@ -1,16 +1,16 @@
 {
-  "vername": "2.3.6",
+  "vername": "2.3.8",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 236,
+  "vercode": 238,
   "min_sdk_version": 24,
   "target_sdk_version": 29,
-  "md5": "5AA254FEFAEA320B809B5E6F19FB564D",
-  "size": 4200835,
+  "md5": "F18F359DFE7AF6BBDBE94E9EA63AA0FE",
+  "size": 4212710,
   "logs": {
-    "en": "UI优化；针对红米/小米澎湃OS无法打开相册选取二维码授权文件做的兼容性处理",
-    "zh": "UI优化；针对红米/小米澎湃OS无法打开相册选取二维码授权文件做的兼容性处理"
+    "en": "主动判断并申请【获取全部应用】权限，以修复OPPO/VIVO/小米/华为因无权限导致的导入游戏异常问题。增加对部分国产游戏的支持",
+    "zh": "主动判断并申请【获取全部应用】权限，以修复OPPO/VIVO/小米/华为因无权限导致的导入游戏异常问题。增加对部分国产游戏的支持"
   },
   "i": false
 }
