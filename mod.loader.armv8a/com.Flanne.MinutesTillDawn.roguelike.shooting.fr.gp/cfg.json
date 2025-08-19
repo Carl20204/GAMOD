@@ -1,1 +1,41 @@
-{"archs":["arm64-v8a"],"faqs":{"为什么启动游戏闪退？":"\u003cfont color\u003d\"#ff0000\"\u003e游戏有模拟器/沙盒检测，正常无法运行。但只要启动游戏时启用对应版本MOD，即可跳过检测，正常游戏。\u003c/font\u003e"},"gms":2,"info":"\u003cfont color\u003d\"#ff0000\"\u003e幸存者肉鸽射击\u003c/font\u003e，Erabit代理了很多此类极有特色的独立游戏，例如《土豆兄弟》等","label":"黎明前20分钟","time":1707091200005,"mod":true,"mods":[{"descs":["自动过检测，让沙盒可以正常启动游戏","自动免广告，所有广告奖励直接白嫖","MOD自选菜单，可调节各种战斗爽度与氪金程度！"],"name":"上帝模式","pkgname":"com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp.gm64","targetvc":"788","vercode":2}],"pkgname":"com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp","vercode":788,"vername":"4.2","publisher":"Erabit Studios","signmd5":"00CB1CF6B9A99FF781CD14B51E5E9248","tags":["中文","国际版","幸存者","肉鸽射击"],"downloads":[{"host":"apkpure下载页[翻墙]","url":"https://apkpure.net/cn/20-minutes-till-dawn/com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp/download/4.2","var":false},{"host":"apkpure直链下载[翻墙]","url":"https://d.apkpure.net/b/XAPK/com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp?versionCode\u003d788","var":false},{"host":"小飞机网盘","url":"https://share.feijipan.com/s/gJUSGXYM","var":false},{"host":"小飞机网盘","url":"https://share.feijipan.com/s/ylUSGcws","var":false}]}
+{
+  "faqs": {
+    "游戏更新建议": "游戏使用了谷歌加固，网盘分享的是MOD支持的谷歌市场更新的6.1原版，其它版本可能无法使用。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+  },
+  "gms": 2,
+  "info": "更新说明：3周年庆，新增各项庆典皮肤、武器、怪物【游戏特色】\u003cbr\u003e\u003cbr\u003e*超过80种不同的升级可供选择，每次游戏都有独特的体验！\u003cbr\u003e\u003cbr\u003e*丰富的角色、武器、符文、地图和吸血鬼怪物阵容。\u003cbr\u003e\u003cbr\u003e*轻松快捷的10-20分钟游戏时间，适合忙碌的游戏玩家。\u003cbr\u003e\u003cbr\u003e*符文系统助你提升实力\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e幸存者肉鸽射击\u003c/font\u003e，Erabit代理了很多此类极有特色的独立游戏，例如《土豆兄弟》等",
+  "label": "黎明前20分钟",
+  "time": 1755216000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【专用版】基于谷歌市场2025年8月更新的6.1版本开发，游戏使用了谷歌加固，必需使用MOD跳过验证才能双开",
+        "【自动激活】免广告，因广告奖励严重影响游戏乐趣，非测试员，每次启动游戏仅有10次免广告机会",
+        "【自选菜单】可调节各种战斗爽度与氪金程度！"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp.gm64",
+      "targetvc": "943",
+      "vercode": 5
+    }
+  ],
+  "pkgname": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp",
+  "vercode": 943,
+  "vername": "6.1",
+  "publisher": "Erabit Studios",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "射击",
+    "幸存者"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
