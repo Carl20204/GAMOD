@@ -1,0 +1,41 @@
+{
+  "gms": 2,
+  "info": "如果想要在这场史诗般的探索中生存下来：\u003cbr\u003e\u003cbr\u003e- 种植树木以打造森林，修建房屋并进行装饰\u003cbr\u003e\u003cbr\u003e- 在洞穴、地下城、中世纪城堡、寺庙中探索隐藏物品\u003cbr\u003e\u003cbr\u003e- 修建庇护所，升起篝火，种植并收获食物\u003cbr\u003e\u003cbr\u003e- 修建桥梁，打造工具，探索地下城、岛屿、沙漠、雨林还有海洋\u003cbr\u003e\u003cbr\u003e- 制造船只，征服大海，与鲨鱼等海洋怪物战斗\u003cbr\u003e\u003cbr\u003e- 与龙、恐龙还有其他怪物战斗\u003cbr\u003e\u003cbr\u003e- 开采珍贵金属（如：黄金和白银）\u003cbr\u003e\u003cbr\u003e- 您将在任务、冒险和探索的过程中获得打造不同物品的配方\u003cbr\u003e\u003cbr\u003e- 众多战士盔甲、武器、刀剑以及其他可供打造的装备\u003cbr\u003e\u003cbr\u003e- RPG 角色（NPC）提供多种任务\u003cbr\u003e\u003cbr\u003e- 2D 像素风 RPG 游戏",
+  "label": "生存RPG：开放世界",
+  "time": 1750464000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可调节无伤，移速，加钻石，物品收获、加攻、攻速"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bewgames.openworld.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.bewgames.openworld",
+  "vercode": 4005013,
+  "vername": "4.5.13",
+  "publisher": "Bew Games inc",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "像素",
+    "开放世界"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/survival-rpg-open-world-pixel/com.bewgames.openworld",
+      "var": true
+    }
+  ]
+}

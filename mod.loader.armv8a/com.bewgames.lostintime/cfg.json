@@ -1,11 +1,8 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 2,
-  "info": "像素风2D冒险生存类RPG，穿越时间的设定致敬1995年的【超时空之轮】，海量的道具合成体系给人【崩溃大陆】的体验……",
+  "info": "- 7 个故事章节会传送你到不同的时空。\u003cbr\u003e\u003cbr\u003e- 探索超过50个地洞、洞穴、城镇和屋子。\u003cbr\u003e\u003cbr\u003e- 收集、开采和制作超过220种物品。\u003cbr\u003e\u003cbr\u003e- 多个角色扮演的任务和人物在旅程中帮助你。\u003cbr\u003e\u003cbr\u003e- 在冒险和探索中可以解锁85种制作配方。\u003cbr\u003e\u003cbr\u003e- 制作工具来帮助自己。\u003cbr\u003e\u003cbr\u003e- 发觉隐藏物品。\u003cbr\u003e\u003cbr\u003e- 收集食物，成为觅食专家。\u003cbr\u003e\u003cbr\u003e- 用宝藏地图寻找隐藏的宝藏。\u003cbr\u003e\u003cbr\u003e- 与超过40种包含恐龙、飞龙等等的不同怪物战斗。\u003cbr\u003e\u003cbr\u003e- 探索及解开多个不同的谜题。\u003cbr\u003e\u003cbr\u003e- 探索3个不同的时代及时间轴：未来、中世纪和侏㑩纪。\u003cbr\u003e\u003cbr\u003e- 经典复古老式RPG风格。",
   "label": "生存RPG3：失落时空",
-  "time": 1705968000008,
+  "time": 1750464000008,
   "mod": true,
   "mods": [
     {
@@ -15,30 +12,29 @@
       "name": "上帝模式",
       "pkgname": "com.bewgames.lostintime.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.bewgames.lostintime",
-  "vercode": 1012011,
-  "vername": "1.12.11",
+  "vercode": 2006002,
+  "vername": "2.6.2",
   "publisher": "Bew Games inc",
-  "signmd5": "9ACC6849D45495FD00B71331D6CD4C84",
+  "s3": 0,
   "tags": [
     "中文",
     "像素",
-    "冒险",
-    "生存"
+    "角色扮演"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/APK/com.bewgames.lostintime?versionCode\u003d1012011",
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     },
     {
       "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/survival-rpg-3-lost-in-time-2d/com.bewgames.lostintime/download",
-      "var": false
+      "url": "https://apkpure.net/cn/survival-rpg-3-lost-in-time-2d/com.bewgames.lostintime/",
+      "var": true
     }
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "gms": 2,
+  "info": "像素风2D复古RPG游戏，已经出了5代……主要特色：\u003cbr\u003e\u003cbr\u003e- 探索海洋，岛屿和一艘海盗船，这里充满隐藏的洞穴、宝藏以及秘密\u003cbr\u003e\u003cbr\u003e- 进入开放世界展开冒险，完成丰富多彩的任务\u003cbr\u003e\u003cbr\u003e- 发现众多独具挑战性的地牢，以及包含独特谜题与强大怪物的神秘洞穴\u003cbr\u003e\u003cbr\u003e- 充分掌握战斗技巧，与使用刀剑、法术以及弓箭的恶棍展开对抗\u003cbr\u003e\u003cbr\u003e- 制作和升级盔甲、工具与生存装备，让你的海盗冒险之旅更加轻松有趣\u003cbr\u003e\u003cbr\u003e- 在揭露岛屿故事的同时完成来自众多NPC的奇妙任务\u003cbr\u003e\u003cbr\u003e- 解决谜题，解锁稀有战利品与宝藏\u003cbr\u003e\u003cbr\u003e- 在 2D 画面中尽享复古像素风 RPG 游戏体验\u003cbr\u003e\u003cbr\u003e- 离线游玩，无需网络连接，尤其适合随时随地展开冒险\u003cbr\u003e\u003cbr\u003e",
+  "label": "生存RPG5：决战海贼宝藏",
+  "time": 1754611200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "可调节无伤，移速，加钻石，物品收获与消耗、加攻、攻速"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bewgames.pirate.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.bewgames.pirate",
+  "vercode": 1003000,
+  "vername": "1.3.0",
+  "publisher": "Bew Games inc",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "像素"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/survival-rpg-pirate-adventure/com.bewgames.pirate",
+      "var": true
+    }
+  ]
+}

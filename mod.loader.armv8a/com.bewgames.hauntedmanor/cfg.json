@@ -1,0 +1,40 @@
+{
+  "gms": 2,
+  "info": "主要特色：\u003cbr\u003e\u003cbr\u003e- 7 大故事章节为 Survival RPG 背后谜团画上句号；\u003cbr\u003e\u003cbr\u003e- 找出是谁拿走了你的魔法古器及其背后缘由；\u003cbr\u003e\u003cbr\u003e- 探索鬼屋、神庙、塔楼还有岛屿；\u003cbr\u003e\u003cbr\u003e- 跟随藏宝图找到房屋、地牢以及塔楼中的隐藏物件；\u003cbr\u003e\u003cbr\u003e- 与鬼魂和其他怪兽战斗；\u003cbr\u003e\u003cbr\u003e- 冒险过程中将解锁多种图纸，可用于制作不同的工具与物品；\u003cbr\u003e\u003cbr\u003e- 解决来自 RPG 角色（NPC）的谜题和任务；\u003cbr\u003e\u003cbr\u003e- 2D 复古像素风 Survival RPG（生存 RPG）游戏。",
+  "label": "生存RPG4：幽灵庄园",
+  "time": 1750464000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】可调节无伤，移速，加钻石，物品收获与消耗、加攻、攻速"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bewgames.hauntedmanor.gm64",
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.bewgames.hauntedmanor",
+  "vercode": 2000007,
+  "vername": "2.0.7",
+  "publisher": "Bew Games inc",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "像素"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    },
+    {
+      "host": "翻墙｜下载页",
+      "url": "https://apkpure.net/cn/survival-rpg-4-haunted-manor/com.bewgames.hauntedmanor",
+      "var": true
+    }
+  ]
+}
