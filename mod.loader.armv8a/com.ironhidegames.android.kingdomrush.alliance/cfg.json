@@ -1,12 +1,12 @@
 {
   "faqs": {
     "谷歌市场需要付费下载？哪里可以找到免费干净的安装包下载？": "网盘分享的是大神订制版本，无广告，无修改，纯净原版，建议下载安装此版本\u003cbr\u003e\u003cbr\u003e桌面启动游戏可以玩原汁原味的原版，墨魔豆带MOD启动可以玩爽版",
-    "有些MOD功能只有激活没有关闭？": "MOD对游戏数据做的调整，只在单次游戏有效，重启游戏就会还原为原版效果，无需担心破坏原版设计"
+    "有些MOD功能只有激活没有关闭？": "MOD对游戏数据做的调整，仅激活的功能只在单次游戏有效，重启游戏就会还原为原版效果，无需担心破坏原版设计"
   },
   "gms": 1,
   "info": "《王国保卫战》1、2、3打下经典塔防的名气，4代口碑砸了一些，本作引擎回归前3作，玩法也回归之前的正统模式，属于回归初心之作，就看玩家接受不接受了",
   "label": "王国保卫战5",
-  "time": 1729814400008,
+  "time": 1754956800008,
   "mod": true,
   "mods": [
     {
@@ -16,12 +16,12 @@
       "name": "上帝模式",
       "pkgname": "com.ironhidegames.android.kingdomrush.alliance.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.ironhidegames.android.kingdomrush.alliance",
-  "vercode": 20003200,
-  "vername": "2.00.32",
+  "vercode": 50201200,
+  "vername": "5.02.12",
   "publisher": "Ironhide Games",
   "s1": [
     512,
@@ -36,25 +36,14 @@
   "s3": 1024,
   "tags": [
     "中文",
-    "单机",
     "塔防",
     "付费版"
   ],
   "downloads": [
     {
       "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/AcAyQw9W",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/kingdom-rush-5-alliance-td/com.ironhidegames.android.kingdomrush.alliance",
-      "var": true
     }
   ]
 }
