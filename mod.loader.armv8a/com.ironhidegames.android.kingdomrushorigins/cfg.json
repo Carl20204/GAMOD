@@ -6,7 +6,7 @@
   "gms": 2,
   "info": "《王国保卫战》最早的三部曲之一\u003cbr\u003e\u003cbr\u003e手机三大系列塔防《植物大战僵尸》《保卫萝卜》《王国保卫战》，都玩过MOD版了吧^_^\u003cbr\u003e\u003cbr\u003e推荐下载安装网盘分享的大神订制版本，无广告无修改的纯净原版",
   "label": "王国保卫战：起源",
-  "time": 1722902400008,
+  "time": 1753401600008,
   "mod": true,
   "mods": [
     {
@@ -16,12 +16,12 @@
       "name": "上帝模式",
       "pkgname": "com.ironhidegames.android.kingdomrushorigins.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.ironhidegames.android.kingdomrushorigins",
-  "vercode": 1920006200,
-  "vername": "6.2.00",
+  "vercode": 1920006302,
+  "vername": "6.3.02",
   "publisher": "Ironhide Games",
   "s1": [
     512,
@@ -36,25 +36,14 @@
   "s3": 1024,
   "tags": [
     "中文",
-    "单机",
     "塔防",
     "付费版"
   ],
   "downloads": [
     {
       "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/AcAyQw9W",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/kingdom-rush-tower-defense-td/com.ironhidegames.android.kingdomrushorigins/download",
-      "var": true
     }
   ]
 }
