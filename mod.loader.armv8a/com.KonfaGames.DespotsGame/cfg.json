@@ -1,46 +1,39 @@
 {
+  "faqs": {
+    "更新建议": "1.网盘分享的安装包为谷歌市场原版游戏\u003cbr\u003e\u003cbr\u003e2.要玩墨魔豆双开版，就必需用墨魔豆安装此xapk文件，不要用MT管理器等第三方软件安装。\u003cbr\u003e\u003cbr\u003e3,配合MOD，无需谷歌服务，自动解锁完整版。"
+  },
   "gms": 2,
-  "info": "丰富的搭配，多变的策略，随机的组合，构成了本作这款steam移植的好评肉鸽策略游戏",
+  "info": "丰富的搭配，多变的策略，随机的组合，构成了本作这款steam移植的好评肉鸽策略游戏\u003cbr\u003e\u003cbr\u003e中文需手动配置，进入游戏后右上扳手图标，点击language可切换中文",
   "label": "暴君的游戏",
-  "time": 1710720000008,
+  "time": 1748217600008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活完整版+DLC",
-        "可选菜单，可调节代币收益与献祭效果"
+        "【专用版】因为谷歌加固，MOD仅支持2025年5月谷歌市场更新的1.12.1版本。游戏升级，MOD未更新，可以到墨魔豆的QQ群里提一声",
+        "【自动激活】付费完整版",
+        "【可选菜单】可调节代币收益与献祭效果"
       ],
       "name": "上帝模式",
       "pkgname": "com.KonfaGames.DespotsGame.gm64",
-      "targetvc": "*",
-      "vercode": 1
+      "targetvc": "107",
+      "vercode": 5
     }
   ],
   "pkgname": "com.KonfaGames.DespotsGame",
-  "vercode": 87,
-  "vername": "1.9.7",
+  "vercode": 107,
+  "vername": "1.12.1",
   "publisher": "tinyBuild",
-  "signmd5": "4526BD802F3D0A41D0E5C087E4396426",
+  "s3": 0,
   "tags": [
     "中文",
-    "单机",
-    "肉鸽",
-    "策略"
+    "策略",
+    "肉鸽"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/5XAUtqbj",
-      "var": false
-    },
-    {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.KonfaGames.DespotsGame?versionCode\u003d87",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/despot-s-game/com.KonfaGames.DespotsGame/download",
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
