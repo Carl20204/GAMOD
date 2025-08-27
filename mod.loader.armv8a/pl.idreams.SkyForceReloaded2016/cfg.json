@@ -5,7 +5,7 @@
   "gms": 2,
   "info": "本作为2006年版本《傲气雄鹰》的重制版，已在PS4、Steam、XboxOne、Switch、iOS全平台上架。\u003cbr\u003e\u003cbr\u003e近两年发表的飞行射击手游，有几款能赶上这款N年前的作品？\u003cbr\u003e想偶尔玩玩街机飞行射击类型游戏的，手机永久保留本游戏就够了。",
   "label": "傲气雄鹰：重装上阵",
-  "time": 1755648000018,
+  "time": 1755648000028,
   "mod": true,
   "mods": [
     {
@@ -17,7 +17,7 @@
       ],
       "name": "上帝模式",
       "pkgname": "pl.idreams.SkyForceReloaded2016.gm64",
-      "targetvc": "300238",
+      "targetvc": "300256",
       "vercode": 8
     }
   ],
