@@ -1,28 +1,29 @@
 {
   "faqs": {
-    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ群里问问。\u003cbr\u003e\u003cbr\u003e安装谷歌原版游戏建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号匿名即可下载安装升级谷歌市场所有应用与游戏！\u003cbr\u003e\u003cbr\u003e中国区需要自备梯子翻墙",
     "2x倍速按钮在哪里？": "出现小游戏【我，僵尸】后，才会出现加速按钮。\u003cbr\u003e\u003cbr\u003e加速功能要看广告或购买，带MOD运行可以免广告/购买"
   },
   "gms": 1,
   "info": "\u003cfont color\u003d\"#ff0000\"\u003e经典中的经典\u003c/font\u003e，建议手机常驻。\u003cbr\u003e\u003cbr\u003e赞一下，2025年了，EA还在持续进行更新维护。官方新增加速，2x倍速、3x倍速",
   "label": "植物大战僵尸：国际版",
-  "time": 1752537600008,
+  "time": 1756080000008,
   "mod": false,
   "mods": [
     {
       "descs": [
-        "启用自动生效，免广告，让游戏流畅不被打断。",
-        "可选菜单：自定义僵尸、植物强化、投掷加速、射击加速、满屏弹幕、无种植CD、无限阳光、保龄球炸弹，种植无地形限制，无脑爽就行"
+        "【专用版】基于游戏在谷歌市场2025年8月更新的3.11.0开发。\u003cbr\u003e\u003cbr\u003e之前游戏版本对应MOD功能已失效，之后游戏版本更新，MOD未更新，可以到墨魔豆的QQ群里说一声，作者看到会尽量及时更新。",
+        "【自动激活】免广告，让游戏流畅不被打断。",
+        "【可选菜单】自定义僵尸、植物强化、投掷加速、射击加速、满屏弹幕、无种植CD、无限阳光、保龄球炸弹，种植无地形限制，无脑爽就行"
       ],
       "name": "上帝模式",
       "pkgname": "com.ea.game.pvzfree_row.gm64",
-      "targetvc": "3100",
-      "vercode": 15
+      "targetvc": "3110",
+      "vercode": 16
     }
   ],
   "pkgname": "com.ea.game.pvzfree_row",
-  "vercode": 3100,
-  "vername": "3.10.0",
+  "vercode": 3110,
+  "vername": "3.11.0",
   "publisher": "EA（美国艺电）",
   "s1": [
     256,
@@ -42,18 +43,8 @@
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
+      "host": "网盘分享",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/OHUROPi7",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/AcAyQw9W",
       "var": false
     },
     {
