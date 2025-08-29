@@ -1,45 +1,46 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
+  "faqs": {
+    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e谷歌市场下载原版建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号匿名下载安装谷歌市场内的所有应用与游戏！\u003cbr\u003e\u003cbr\u003e中国区需要自备梯子翻墙",
+    "游戏启动有点慢": "可以断网进游戏，游戏启动时连接谷歌IP被GFW封，导致卡10秒左右"
+  },
   "gms": 2,
-  "info": "【物种战争】三作，玩法从【DELTA】的左右对攻塔防，到【灭绝】的俯视战场射击，再到本作【启示录】的战场射击生存模式，始终在进步在突破。",
+  "info": "8月25日更新说明：新角色+2，新皮肤+4，新支援包，新任务+10，8角色新增队长技能。\u003cbr\u003e\u003cbr\u003e+ 广阔的开放世界角色扮演游戏！\u003cbr\u003e\u003cbr\u003e+ 探索、采集、钓鱼和制造，只为生存！\u003cbr\u003e\u003cbr\u003e+ 道具和武器数量是前作的3倍\u003cbr\u003e\u003cbr\u003e+ 更细致的角色自定义和外观\u003cbr\u003e\u003cbr\u003e+ 超过60张地图和区域等你探索！\u003cbr\u003e\u003cbr\u003e+ 遍布全球的“世界任务”\u003cbr\u003e\u003cbr\u003e+ 创建并升级你的特种部队队伍\u003cbr\u003e\u003cbr\u003e+ 炮火支援、空中支援和强大的无人机！\u003cbr\u003e\u003cbr\u003e+ 穿上“战斗装甲”投入战斗\u003cbr\u003e\u003cbr\u003e+ 更先进的画面和升级的系统",
   "label": "物种战争：启示录",
-  "time": 1706572800008,
+  "time": 1756080000008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免广告，所有激励广告可白嫖",
-        "可选菜单，可自由调节移动速度、射击速度、经验获取、弹药使用等"
+        "【通用版】游戏基于2025年8月底谷歌市场更新的版本开发，理论上支持游戏全版本。游戏升级功能失效可以去墨魔豆的QQ群里吱一声。",
+        "【自动激活】免广告，所有激励广告可白嫖",
+        "【可选菜单】可自由调节移动速度、射击速度、经验获取、弹药使用、部分物品道具手动添加等"
       ],
       "name": "上帝模式",
       "pkgname": "com.dawinstone.b2ba.gm64",
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.dawinstone.b2ba",
-  "vercode": 129,
-  "vername": "3.0.6",
+  "vercode": 145,
+  "vername": "3.4.0",
   "publisher": "DAWINSTONE GAMES",
-  "signmd5": "D706D4B8664A8175CE1DA31B8F272FA8",
+  "s3": 0,
   "tags": [
     "中文",
-    "离线",
+    "射击",
     "生存",
-    "大地图",
-    "射击"
+    "角色扮演"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.dawinstone.b2ba?versionCode\u003d129\u0026nc\u003darm64-v8a\u0026sv\u003d24",
+      "host": "网盘分享：生存类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     },
     {
       "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/bad-2-bad-apocalypse/com.dawinstone.b2ba/download",
+      "url": "https://apkpure.net/cn/bad-2-bad-apocalypse/com.dawinstone.b2ba/",
       "var": false
     }
   ]
