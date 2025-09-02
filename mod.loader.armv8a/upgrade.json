@@ -6,8 +6,8 @@
   "vercode": 239,
   "min_sdk_version": 24,
   "target_sdk_version": 29,
-  "md5": "2E03F656FA7052C364C9D02796E14777",
-  "size": 4218450,
+  "md5": "43E1B77C5C65FD5CA70D59139C4CF496",
+  "size": 4218938,
   "logs": {
     "en": "更换一批Github代理，为MOD作者整合开放了一批新功能接口。\n\n未来新版MOD可能不再兼容旧版客户端。",
     "zh": "更换一批Github代理，为MOD作者整合开放了一批新功能接口。\n\n未来新版MOD可能不再兼容旧版客户端。"
