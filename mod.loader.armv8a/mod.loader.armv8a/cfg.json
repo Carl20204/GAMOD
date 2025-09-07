@@ -624,6 +624,12 @@
             "time": 1708473600002
         },
         {
+            "label": "命运-冠位指定",
+            "mtime": 1757203200000,
+            "pkg": "com.bilibili.fgo.uc",
+            "time": 1757203200000
+        },
+        {
             "label": "坎公骑冠剑",
             "mtime": 1755475200000,
             "pkg": "com.bilibili.snake.aligames",

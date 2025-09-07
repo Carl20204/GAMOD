@@ -1,0 +1,35 @@
+{
+  "gms": 1,
+  "label": "命运-冠位指定",
+  "time": 1757203200008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "因游戏使用了腾讯防护加固，不用MOD直接双开游戏5分钟会闪退\u003cbr\u003e\u003cbr\u003e带MOD双开，闪退概率可以减小到极低，刷日常任务，刷进度是没有问题的"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bilibili.fgo.uc.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.bilibili.fgo.uc",
+  "vercode": 220,
+  "vername": "2.106.0",
+  "publisher": "bilibili",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "二次元"
+  ],
+  "downloads": [
+    {
+      "host": "九游",
+      "url": "https://ugame.9game.cn/game/share-235275-733329.html",
+      "var": false
+    }
+  ]
+}
