@@ -1,0 +1,48 @@
+{
+  "gms": 1,
+  "info": "波斯王子+银河恶魔城+育碧的美术+大厂技术优化，让之前steam爆火的本作在手机上也能畅玩。\u003cbr\u003e\u003cbr\u003e建议用谷歌商店下载原版，不会翻墙的，网盘分享里有谷歌原版，墨魔豆+MOD可自动激活付费完整版",
+  "label": "波斯王子：失落的王冠",
+  "time": 1754611200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【通用版】基于2025年8月谷歌商店更新的游戏版本开发，如果出现游戏升级MOD功能失效问题，可以去墨魔豆的QQ圈子里吱一声",
+        "【自动激活】所有购买内容解锁：完全版+皮肤+DLC",
+        "【可选菜单】手动调节隐身无敌，水晶、物品、道具收益多多"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform",
+  "vercode": 50,
+  "vername": "1.1.1a",
+  "publisher": "Ubisoft Entertainment",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "动作",
+    "银河恶魔城"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
