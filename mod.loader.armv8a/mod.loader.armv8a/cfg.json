@@ -1731,9 +1731,9 @@
         {
             "group": 9,
             "label": "波斯王子：失落的王冠",
-            "mtime": 1757462400000,
+            "mtime": 1757548800000,
             "pkg": "com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform",
-            "time": 1754611200000
+            "time": 1754611200010
         },
         {
             "label": "暴民控制",
@@ -1945,5 +1945,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1757462400254
+    "time": 1757548800254
 }
