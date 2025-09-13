@@ -6,7 +6,7 @@
   "gms": 1,
   "info": "- 最后几个版本更新全面优化了平板体验！\u003cbr\u003e\u003cbr\u003e- 主机和 PC 版本的相同内容登陆移动设备！\u003cbr\u003e\u003cbr\u003e- 包含从第 1 天开始发布的全部可下载内容。\u003cbr\u003e\u003cbr\u003e- 可搭配游戏手柄或触摸屏游玩。\u003cbr\u003e\n银河恶魔城类型的佳作",
   "label": "渎神",
-  "time": 1748217600008,
+  "time": 1748217600018,
   "mod": true,
   "mods": [
     {
@@ -17,7 +17,7 @@
       "pkgname": "com.thegamekitchen.blasphemousmobile.gm64",
       "sandbox": 0,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.thegamekitchen.blasphemousmobile",
