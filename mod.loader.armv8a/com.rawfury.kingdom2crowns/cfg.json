@@ -1,26 +1,28 @@
 {
   "faqs": {
-    "为什么杀毒软件报毒？": "建议安装网盘分享的大神订制版本，很多破解站提供的安装包，含小广告弹窗，可能会被杀毒软件报毒。"
+    "桌面版本为什么启动闪退？": "本游戏需要谷歌商店谷歌服务，国内系统无完整谷歌服务的无法运行。\u003cbr\u003e\u003cbr\u003e使用MOD + 墨魔豆的虚拟谷歌服务，就可以正常游戏了。"
   },
-  "gms": 1,
-  "info": "打不过就撒币的游戏,相比前作【王国：新大陆】和下一作【王国：八十年代】，本作反而更好玩一些，内容最丰富，兵种与建筑种类多，关卡也多，各个岛屿来回打策略性也高",
+  "gms": 2,
+  "info": "DLC扩展《奥林匹斯的召唤》，新增神器力量、方阵阵型及船坞舰队建造，使用船载弩箭进行海上战斗，火焰科技（“燃尽贪婪生物”）及神谕指引系统\u003cbr\u003e\u003cbr\u003e打不过就撒币的游戏，前作【王国：新大陆】和下一作【王国：八十年代】，都值得一玩。",
   "label": "王国：两位君主",
-  "time": 1712534400008,
+  "time": 1750118400008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，可调整各兵种移动速度，加金币、自动建造、耐力无限，高速移动等等"
+        "【自动激活】激活DLC北欧之地，DLC奥林匹斯的召唤",
+        "【可选菜单】可调整各兵种移动速度，手动加金币、宝石、瞬间建造、耐力无限，高速移动等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.rawfury.kingdom2crowns.gm64",
+      "sandbox": 0,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.rawfury.kingdom2crowns",
-  "vercode": 17786,
-  "vername": "1.1.21",
+  "vercode": 22517,
+  "vername": "2.2.0",
   "publisher": "rawfury",
   "s1": [
     512,
@@ -36,24 +38,13 @@
   "tags": [
     "中文",
     "策略",
-    "剧情",
     "模拟经营"
   ],
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "host": "网盘分享：策略分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/h2C2gW6I",
-      "var": false
-    },
-    {
-      "host": "详情页【翻墙】",
-      "url": "https://apkpure.net/cn/kingdom-two-crowns/com.rawfury.kingdom2crowns",
-      "var": true
     }
   ]
 }
