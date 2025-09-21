@@ -624,12 +624,6 @@
             "time": 1708473600002
         },
         {
-            "label": "命运-冠位指定",
-            "mtime": 1757203200000,
-            "pkg": "com.bilibili.fgo.uc",
-            "time": 1757203200000
-        },
-        {
             "label": "坎公骑冠剑",
             "mtime": 1755475200000,
             "pkg": "com.bilibili.snake.aligames",
@@ -803,6 +797,12 @@
             "label": "牛奶可乐：苏打之王",
             "pkg": "com.dawinstone.milkacola",
             "time": 1705968000002
+        },
+        {
+            "label": "逃出地牢",
+            "mtime": 1758412800000,
+            "pkg": "com.Devolver.ExittheGungeon",
+            "time": 1757635200000
         },
         {
             "label": "我的朋友佩德罗",
@@ -1973,5 +1973,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1758240000258
+    "time": 1758412800258
 }
