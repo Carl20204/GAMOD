@@ -624,12 +624,6 @@
             "time": 1708473600002
         },
         {
-            "label": "坎公骑冠剑",
-            "mtime": 1755475200000,
-            "pkg": "com.bilibili.snake.aligames",
-            "time": 1751500800000
-        },
-        {
             "label": "暖雪",
             "mtime": 1754006400000,
             "pkg": "com.bilibili.warmsnow.aligames",
@@ -755,6 +749,12 @@
             "label": "从细胞到奇点：进化永无止境",
             "pkg": "com.computerlunch.evolution",
             "time": 1708560000002
+        },
+        {
+            "label": "热血少女物语",
+            "mtime": 1758499200000,
+            "pkg": "com.crunchyroll.gv.rivercitygirls.game",
+            "time": 1745625600000
         },
         {
             "label": "异教之神",
@@ -1973,5 +1973,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1758412800258
+    "time": 1758499200258
 }
