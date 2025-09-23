@@ -757,6 +757,13 @@
             "time": 1745625600000
         },
         {
+			"group": 6,
+            "label": "桑塔和七赛莲",
+            "mtime": 1758585600000,
+            "pkg": "com.crunchyroll.gv.shantae7sirens.game",
+            "time": 1758067200000
+        },
+        {
             "label": "异教之神",
             "mtime": 1724630400000,
             "pkg": "com.curacha.hereticgods",
@@ -1973,5 +1980,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1758499200258
+    "time": 1758585600259
 }
