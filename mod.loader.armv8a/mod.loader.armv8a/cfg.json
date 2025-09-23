@@ -751,6 +751,12 @@
             "time": 1708560000002
         },
         {
+            "label": "热血少女物语2",
+            "mtime": 1758585600000,
+            "pkg": "com.crunchyroll.gv.rcg2.game",
+            "time": 1745625600000
+        },
+        {
             "label": "热血少女物语",
             "mtime": 1758499200000,
             "pkg": "com.crunchyroll.gv.rivercitygirls.game",
@@ -759,7 +765,7 @@
         {
 			"group": 6,
             "label": "桑塔和七赛莲",
-            "mtime": 1758585600000,
+            "mtime": 1758585600001,
             "pkg": "com.crunchyroll.gv.shantae7sirens.game",
             "time": 1758067200000
         },
@@ -1980,5 +1986,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1758585600259
+    "time": 1758585600260
 }
