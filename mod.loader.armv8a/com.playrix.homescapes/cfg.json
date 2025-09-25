@@ -1,27 +1,28 @@
 {
   "faqs": {
-    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e不会翻墙，到墨魔豆的QQ圈子里要也行\u003c/font\u003e"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。\u003cfont color\u003d\"#ff\"\u003e中国区域用户，可以下载网盘分享里的安装包，搬运自谷歌市场的原版\u003c/font\u003e"
   },
   "gms": 1,
-  "info": "每月固定上新的三消之外的解密活动，每月更新，不要遗漏",
+  "info": "2025年9月23日，恐龙公园\u003cbr\u003e\u003cbr\u003e• 和奥斯汀一起，拯救一座濒临毁灭恐龙公园。\u003cbr\u003e• 完成活动即可获得独特装饰物！\u003cbr\u003e\u003cbr\u003e黑暗童话\u003cbr\u003e• 帮助奥斯汀从小红帽手中救出奥利维亚！\u003cbr\u003e• 完成活动即可获得独特装饰物！\u003cbr\u003e\u003cbr\u003e其他亮点\u003cbr\u003e• 激活家园通行证，获得一只悠闲的考拉！\u003cbr\u003e• 激活家园通行证，获得马戏团舞台！\u003cbr\u003e• “另一半”的故事迎来新篇章！凯瑟琳必须做出她一生中最艰难的决定！",
   "label": "梦幻家园",
-  "time": 1756080000008,
+  "time": 1758585600008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【专用版】本MOD基于25年8月底谷歌商店更新的8.2.2版本\u003cbr\u003e之前游戏版本强制更新MOD已失效\u003cbr\u003e之后游戏版本更新，MOD未更新的话，可以到墨魔豆的QQ群里吱一声，作者看到会处理",
-        "可选菜单，可配置三消胜利金币、星星收益，可调节开局步数，所有强化道具使用无消耗"
+        "【专用版】本MOD基于25年9月底谷歌商店更新的8.2.505版本\u003cbr\u003e之前游戏版本强制更新MOD已失效\u003cbr\u003e之后游戏版本更新，MOD未更新的话，可以到墨魔豆的QQ群里吱一声，作者看到会处理",
+        "【可选菜单】可手动调节金币、星星收益，开局步数，道具无限使用等"
       ],
       "name": "休闲模式",
       "pkgname": "com.playrix.homescapes.gm64",
-      "targetvc": "150082002",
-      "vercode": 17
+      "sandbox": 0,
+      "targetvc": "150082505",
+      "vercode": 18
     }
   ],
   "pkgname": "com.playrix.homescapes",
-  "vercode": 150082002,
-  "vername": "8.2.2",
+  "vercode": 150082505,
+  "vername": "8.2.505",
   "publisher": "Playrix",
   "s3": 0,
   "tags": [
@@ -31,14 +32,9 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：休闲分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/homescapes-android/com.playrix.homescapes/",
-      "var": true
     }
   ]
 }
