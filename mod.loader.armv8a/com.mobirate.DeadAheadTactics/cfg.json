@@ -1,1 +1,44 @@
-{"archs":["arm64-v8a"],"faqs":{"游戏启动闪退？":"\u003cfont color\u003d\"#ff0000\"\u003e游戏有检测，请使用对应版本的MOD过检测才能正常玩\u003c/font\u003e"},"gms":2,"info":"暴兵流塔防，同类有\u003cfont color\u003d\"#ff\"\u003e《猫咪大战争》《合金弹头：进攻/防守》\u003c/font\u003e，战斗核心就是保住自家基地，暴兵拆对家基地。","label":"死亡突围：僵尸战争","time":1706227200005,"mod":true,"mods":[{"descs":["启用后自动过检测，让沙盒正常启动游戏。\u003cfont color\u003d\"#ff\"\u003e其它可选功能请斟酌使用\u003c/font\u003e","【护肝】加速、增伤、减伤、经验获得","【保肾】增加各代币","【解压】无CD、满水满怒，请谨慎使用"],"name":"上帝模式","pkgname":"com.mobirate.DeadAheadTactics.gm64","targetvc":"409","vercode":3}],"pkgname":"com.mobirate.DeadAheadTactics","vercode":409,"vername":"3.9.6","publisher":"Mobirate","signmd5":"C60E5A38566C0B31FF58EEB436E73A52","tags":["中文","国际版","塔防","暴兵流","像素风"],"downloads":[{"host":"apkpure直链下载[翻墙]","url":"https://d.apkpure.net/b/XAPK/com.mobirate.DeadAheadTactics?versionCode\u003d409","var":false},{"host":"apkpure下载页[翻墙]","url":"https://apkpure.net/cn/dead-ahead-zombie-warfare/com.mobirate.DeadAheadTactics/download/3.9.6","var":false},{"host":"小飞机网盘","url":"https://share.feijipan.com/s/OHUROPi7","var":false},{"host":"小飞机网盘","url":"https://share.feijipan.com/s/KFURO3ee","var":false}],"videos":{"https://www.ixigua.com/7332121484430672395?logTag\u003d66b5b5e9a15e84a557f9":"最终Boss之战","https://www.douyin.com/user/self?modal_id\u003d7332127941859527946":"大锤来了！"}}
+{
+  "faqs": {
+    "游戏下载更新说明": "本作使用了谷歌加固，推荐下载网盘分享里的安装包，已针对谷歌加固脱壳\u003cbr\u003e\u003cbr\u003e墨魔豆与MOD不支持原版加固版本运行，希望玩MOD版请务必下载安装网盘分享的脱壳版本",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见异常现象\u003c/font\u003e": "1.桌面版本可正常玩，墨魔豆带mod启动卡在启动页面，只要\u003cfont color\u003d\"#ff\"\u003e手机断网\u003c/font\u003e操作一下，进入游戏再恢复联网即可。\u003cbr\u003e\u003cbr\u003e2.墨魔豆可以正常玩，桌面版本闪退或卡住，是因为游戏用到了谷歌服务，如果你的手机没有谷歌账号/谷歌服务，肯定是无法启动游戏的，只能\u003cfont color\u003d\"#ff\"\u003e使用MOD + 墨魔豆的虚拟谷歌服务\u003c/font\u003e，玩墨魔豆的双开版本。"
+  },
+  "gms": 2,
+  "info": "类似暴兵流互推塔防，同类有\u003cfont color\u003d\"#ff\"\u003e《猫咪大战争》\u003c/font\u003e，战斗核心就是保住自家基地，暴兵拆对家基地。",
+  "label": "死亡突围：僵尸战争",
+  "time": 1756252800008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】加速、增伤、减伤、加经验、无CD、满怒、手动添加各种资源"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.mobirate.DeadAheadTactics.gm64",
+      "sandbox": 0,
+      "targetvc": "*",
+      "vercode": 5
+    }
+  ],
+  "pkgname": "com.mobirate.DeadAheadTactics",
+  "vercode": 471,
+  "vername": "4.2.3",
+  "publisher": "Mobirate",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "策略",
+    "像素"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：策略",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ],
+  "videos": {
+    "https://www.ixigua.com/7332121484430672395?logTag\u003d66b5b5e9a15e84a557f9": "最终Boss之战",
+    "https://www.douyin.com/user/self?modal_id\u003d7332127941859527946": "大锤来了！"
+  }
+}
