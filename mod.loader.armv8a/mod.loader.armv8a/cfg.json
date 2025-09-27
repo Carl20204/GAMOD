@@ -751,6 +751,12 @@
             "time": 1708560000002
         },
         {
+            "label": "永恒之夜",
+            "mtime": 1758931200000,
+            "pkg": "com.crunchyroll.gv.eternights.game",
+            "time": 1732320000000
+        },
+        {
             "label": "热血少女物语2",
             "mtime": 1758585600000,
             "pkg": "com.crunchyroll.gv.rcg2.game",
@@ -1996,5 +2002,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1758931200261
+    "time": 1758931200262
 }

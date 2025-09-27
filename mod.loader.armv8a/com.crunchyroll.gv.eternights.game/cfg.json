@@ -1,0 +1,50 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。\u003cfont color\u003d\"#ff\"\u003e中国区域用户，可以下载网盘分享里的安装包，搬运自谷歌市场的原版\u003c/font\u003e"
+  },
+  "gms": 1,
+  "info": "游戏大框架高仿《女神异闻录》系列\u003cbr\u003e以“末日浪漫”为核心，结合战斗与情感抉择，融合恋爱养成与动作冒险的末日题材手游\u003cbr\u003e\u003cbr\u003e战斗系统，实时动作战斗包含元素攻击（火/冰/电）、闪避格挡及角色协同连击，同时战斗表现直接影响多结局剧情走向\u003cbr\u003e\u003cbr\u003e恋爱养成，通过日间对话、夜间探索私人物品（如卫生巾、成人杂志）及共同训练（舞蹈、深蹲等小游戏）提升角色好感度，好感度解锁角色专属技能\u003cbr\u003e\u003cbr\u003e时间管理，每日需平衡探索地牢、搜集物资、约会互动等任务，时间限制增加策略性",
+  "label": "永恒之夜",
+  "time": 1732320000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费完整版",
+        "【可选菜单】手动调节减伤幅度、无限SP、技能槽、元素槽、处决槽，社交属性与羁绊关系手动加点"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.crunchyroll.gv.eternights.game.gm64",
+      "sandbox": 0,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.crunchyroll.gv.eternights.game",
+  "vercode": 39,
+  "vername": "1.0.2",
+  "publisher": "Crunchyroll, LLC",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
