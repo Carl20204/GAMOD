@@ -1,0 +1,51 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。\u003cfont color\u003d\"#ff\"\u003e中国区域用户，可以下载网盘分享里的安装包，搬运自谷歌市场的原版\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见异常现象\u003c/font\u003e": "1.墨魔豆带mod启动卡在启动页面，只要\u003cfont color\u003d\"#ff\"\u003e手机断网\u003c/font\u003e一下即可，游戏使用的谷歌服务，在国内被封了。\u003cbr\u003e\u003cbr\u003e2.墨魔豆可以正常玩，桌面版本闪退，是因为游戏需要谷歌服务，如果你的手机没有谷歌账号/谷歌服务，肯定是无法启动游戏的，只能\u003cfont color\u003d\"#ff\"\u003e使用MOD + 墨魔豆的虚拟谷歌服务\u003c/font\u003e，玩墨魔豆的双开版本。"
+  },
+  "gms": 1,
+  "info": "在 140+ 个国家策略排行榜中名列 100 内！\u003cbr\u003e\u003cbr\u003e建造营地 • 管理幸存者 • 在丧尸末日中生存\u003cbr\u003e\u003cbr\u003e\u003d\u003d建造 🧱\u003d\u003d\u003cbr\u003e不断升级您的营地以扩建家园，储存越多的食物可以保护越多幸存者们。\u003cbr\u003e\u003cbr\u003e\u003d\u003d升级 🔼\u003d\u003d\u003cbr\u003e透过升级技能树中的多种技能来强化您的幸存者。消灭丧尸以赚取技能点，让您的幸存者从新手成长为熟练的战士。\u003cbr\u003e\u003cbr\u003e\u003d\u003d管理 🧠\u003d\u003d\u003cbr\u003e指派您的幸存者们担任农夫及守卫等工作，一起进入繁荣的新时代！\u003cbr\u003e\u003cbr\u003e\u003d\u003d制造 ⛏\u003d\u003d\u003cbr\u003e提供您的幸存者们生存工具，建造工作台解锁工艺等级，并制造武器防御丧尸。\u003cbr\u003e\u003cbr\u003e\u003d\u003d生存 ⛺️\u003d\u003d\u003cbr\u003e在饥荒和丧尸威胁下，挑战您对于管理、研究、建造和制造之间的平衡能力。",
+  "label": "最终前哨",
+  "time": 1756425600008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费版",
+        "【可选菜单】手动增加人口、技能点、资源、工具"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ExabyteGames.FinalOutpost.gm64",
+      "sandbox": 0,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.ExabyteGames.FinalOutpost",
+  "vercode": 21343,
+  "vername": "2.3.23",
+  "publisher": "Exabyte Games",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "策略",
+    "模拟经营"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：策略分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
