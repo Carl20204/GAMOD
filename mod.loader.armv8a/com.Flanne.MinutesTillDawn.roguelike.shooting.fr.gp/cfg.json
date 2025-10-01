@@ -1,28 +1,29 @@
 {
   "faqs": {
-    "游戏更新建议": "游戏使用了谷歌加固，网盘分享的是MOD支持的谷歌市场更新的6.3原版，其它版本可能无法使用。\u003cbr\u003e\u003cbr\u003e下载官方安装包，建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。\u003cfont color\u003d\"#ff\"\u003e中国区域用户，可以下载网盘分享里的安装包，搬运自谷歌市场的原版\u003c/font\u003e"
   },
   "gms": 2,
-  "info": "更新说明：3周年庆，新增各项庆典皮肤、武器、怪物【游戏特色】\u003cbr\u003e\u003cbr\u003e*超过80种不同的升级可供选择，每次游戏都有独特的体验！\u003cbr\u003e\u003cbr\u003e*丰富的角色、武器、符文、地图和吸血鬼怪物阵容。\u003cbr\u003e\u003cbr\u003e*轻松快捷的10-20分钟游戏时间，适合忙碌的游戏玩家。\u003cbr\u003e\u003cbr\u003e*符文系统助你提升实力\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e幸存者肉鸽射击\u003c/font\u003e，Erabit代理了很多此类极有特色的独立游戏，例如《土豆兄弟》等",
+  "info": "更新说明：新增各项庆典皮肤、武器、怪物\u003cbr\u003e\u003cbr\u003e【游戏特色】\u003cbr\u003e*超过80种不同的升级可供选择，每次游戏都有独特的体验！\u003cbr\u003e*丰富的角色、武器、符文、地图和吸血鬼怪物阵容。\u003cbr\u003e*轻松快捷的10-20分钟游戏时间，适合忙碌的游戏玩家。\u003cbr\u003e*符文系统助你提升实力",
   "label": "黎明前20分钟",
-  "time": 1756252800008,
+  "time": 1758931200008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【专用版】基于谷歌市场2025年8月27日更新的6.3版本开发，游戏使用了谷歌加固，必需使用MOD跳过验证才能双开",
+        "【专用版】基于谷歌市场2025年9月27日更新的6.4版本开发，游戏使用了谷歌加固，必需使用MOD跳过验证才能双开",
         "【自动激活】免广告，因广告奖励严重影响游戏乐趣，非测试员，每次启动游戏仅有10次免广告机会",
         "【自选菜单】可调节各种战斗爽度与氪金程度！"
       ],
       "name": "上帝模式",
       "pkgname": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp.gm64",
-      "targetvc": "948",
-      "vercode": 6
+      "sandbox": 0,
+      "targetvc": "952",
+      "vercode": 7
     }
   ],
   "pkgname": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp",
-  "vercode": 948,
-  "vername": "6.3",
+  "vercode": 952,
+  "vername": "6.4",
   "publisher": "Erabit Studios",
   "s3": 0,
   "tags": [
