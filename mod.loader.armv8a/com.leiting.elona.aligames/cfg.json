@@ -1,11 +1,8 @@
 {
-  "faqs": {
-    "\u003cfont color\u003d\"#ff0000\"\u003e必需2.3.8墨魔豆！\u003c/font\u003e": "只有2.3.8开始的墨魔豆，才支持运行本游戏，否则游戏启动会提示没有网络。"
-  },
   "gms": 1,
   "info": "肉鸽+角色扮演",
   "label": "伊洛纳",
-  "time": 1755129600008,
+  "time": 1755129600018,
   "mod": true,
   "mods": [
     {
@@ -14,8 +11,9 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.leiting.elona.aligames.gm64",
+      "sandbox": 0,
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 5
     }
   ],
   "pkgname": "com.leiting.elona.aligames",
