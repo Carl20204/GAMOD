@@ -642,9 +642,9 @@
         },
         {
             "label": "土豆兄弟",
-            "mtime": 1756339200000,
+            "mtime": 1759363200000,
             "pkg": "com.brotato.shooting.survivors.action.roguelike",
-            "time": 1755648000000
+            "time": 1758931200000
         },
         {
             "group": 3,
@@ -2008,5 +2008,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1759363200263
+    "time": 1759363300263
 }
