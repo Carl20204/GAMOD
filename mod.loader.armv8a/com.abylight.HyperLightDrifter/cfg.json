@@ -1,0 +1,50 @@
+{
+  "faqs": {
+    "游戏更新建议": "游戏为付费版，网盘分享里作者订制的的纯净无广告版本",
+    "中文设置": "进入游戏主界面后，点击SETTING+CONTROLS --\u003e SETTING --\u003e LANGUAGE（最后一项），切换多国语言，可更换简体或繁体中文"
+  },
+  "gms": 1,
+  "info": "【塞尔达】风格的ARPG\u003cbr\u003e►曾在著名的独立游戏节上获得观众奖和优秀视觉艺术奖。\u003cbr\u003e►曾获超过14项大奖提名，其中包括最佳视觉设计、最佳音效和最佳原创游戏等。\u003cbr\u003e► 9/10 Destructoid：卓越之作，瑕不掩瑜。\u003cbr\u003e► 9.5/10 Game Informer：配乐、画面和战斗完美地结合一起，创造出值得您深入探索的神奇世界。\u003cbr\u003e► Eurogamer Recommended：Heart Machine的这款清版动作类游戏极具挑战性，细节震撼，并且又无比精美。\u003cbr\u003e► 9/10 GameSpot：Hyper Light Drifter并不只是画面精美而已，它还运用其画面给玩家提供指引，让玩家放松。游戏中壮阔的景致让玩家在一场场难度极高，节奏紧促的战斗之间舒缓下来。\u003cbr\u003e► 8.5 Polygon：Hyper Light Drifter将令人深思的瞬间与迅捷无双的连串战斗精巧地结合一起。\u003cbr\u003e► 5星 Darkstation：Hyper Light Drifter这款清版动作类RPG游戏非常赞：它给玩家创造了一个美轮美奂，令人着迷的游戏世界，游戏手感优良，音乐动听，并对玩家给予了充分的信任，相信他们能自己探索这款游戏。",
+  "label": "光明旅者",
+  "time": 1758758400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】可调节无伤、无限能量、免费升级等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.abylight.HyperLightDrifter.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.abylight.HyperLightDrifter",
+  "vercode": 1001099,
+  "vername": "1.1.99",
+  "publisher": "Abylight Studios",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
