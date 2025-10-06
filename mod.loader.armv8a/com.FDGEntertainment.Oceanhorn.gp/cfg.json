@@ -1,0 +1,50 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版"
+  },
+  "gms": 1,
+  "info": "平替【塞尔达】的ARPG，虽然是十年老游戏了，但在当今手游中还是属于高品质一档\u003cbr\u003e\u003cbr\u003eMOD自动激活付费完整版",
+  "label": "海之号角",
+  "time": 1758067200008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费完整版",
+        "【可选菜单】可调节无伤、无限法力、耐力，全物品等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.FDGEntertainment.Oceanhorn.gp.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.FDGEntertainment.Oceanhorn.gp",
+  "vercode": 48,
+  "vername": "1.1.11",
+  "publisher": "FDG Entertainment GmbH \u0026 Co.KG",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
