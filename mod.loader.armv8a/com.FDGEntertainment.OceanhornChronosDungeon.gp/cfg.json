@@ -1,0 +1,51 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版"
+  },
+  "gms": 1,
+  "info": "之前版本在移动设备上优化很渣，差评不断，但最新版本优化了很多，已是合格的移动端游戏了。\u003cbr\u003e\u003cbr\u003e- 多人合作游戏，最多可 4 名玩家同时游戏\u003cbr\u003e- 四种角色可供选择或随时切换，每种角色都有不同的玩法\u003cbr\u003e- 无限重玩：地下城的每一层都会使用新的修改器，每一层都各不相同\u003cbr\u003e- 大规模boss战\u003cbr\u003e- 可尝试大量道具，增加地下城战斗刺激感",
+  "label": "海之号角：柯罗诺斯地下城",
+  "time": 1756944000008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费完整版",
+        "【可选菜单】可调节金币、经验、物品收益率，无限耐力，强化各角色等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.FDGEntertainment.OceanhornChronosDungeon.gp.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.FDGEntertainment.OceanhornChronosDungeon.gp",
+  "vercode": 54,
+  "vername": "4",
+  "publisher": "FDG Entertainment GmbH \u0026 Co.KG",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "动作",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}

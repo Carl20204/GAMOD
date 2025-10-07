@@ -937,6 +937,12 @@
             "time": 1758067200000
         },
         {
+            "label": "海之号角：柯罗诺斯地下城",
+            "mtime": 1759708800000,
+            "pkg": "com.FDGEntertainment.OceanhornChronosDungeon.gp",
+            "time": 1756944000000
+        },
+        {
             "label": "僵尸前线4",
             "mtime": 1753056000000,
             "pkg": "com.feelingtouch.zfsniper",
@@ -2021,5 +2027,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1759795200000
+    "time": 1759795200001
 }
