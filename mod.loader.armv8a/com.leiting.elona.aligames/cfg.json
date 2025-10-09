@@ -2,7 +2,7 @@
   "gms": 1,
   "info": "肉鸽+角色扮演",
   "label": "伊洛纳",
-  "time": 1755129600018,
+  "time": 1755129600028,
   "mod": true,
   "mods": [
     {
@@ -13,7 +13,7 @@
       "pkgname": "com.leiting.elona.aligames.gm64",
       "sandbox": 0,
       "targetvc": "*",
-      "vercode": 5
+      "vercode": 6
     }
   ],
   "pkgname": "com.leiting.elona.aligames",
