@@ -1,16 +1,16 @@
 {
-  "vername": "2.3.9",
+  "vername": "2.4.0",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 239,
+  "vercode": 240,
   "min_sdk_version": 24,
   "target_sdk_version": 29,
-  "md5": "43E1B77C5C65FD5CA70D59139C4CF496",
-  "size": 4218938,
+  "md5": "CD2C5B7DC87CFD10274D20D78F5EDEF3",
+  "size": 4232818,
   "logs": {
-    "en": "更换一批Github代理，为MOD作者整合开放了一批新功能接口。\n\n未来新版MOD可能不再兼容旧版客户端。",
-    "zh": "更换一批Github代理，为MOD作者整合开放了一批新功能接口。\n\n未来新版MOD可能不再兼容旧版客户端。"
+    "en": "无授权【读取应用程序列表/获取全部应用】，也不再丢失导入的游戏\n优化多处细节，更顺手",
+    "zh": "无授权【读取应用程序列表/获取全部应用】，也不再丢失导入的游戏\n优化多处细节，更顺手"
   },
   "i": false
 }
