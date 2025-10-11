@@ -1,44 +1,40 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
-  "gms": 2,
-  "info": "【物种战争】第二作，潘少校从前作的的左右对攻塔防，来到本作的人质救援战场射击模式，带领你的战术小队，救出所有人质吧",
-  "label": "物种战争：灭绝",
-  "time": 1704326400008,
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：生存分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "游戏启动有点慢": "可以断网进游戏，因为游戏启动时会尝试访问谷歌，导致卡20秒左右"
+  },
+  "gms": 1,
+  "info": "版本新增：\u003cbr\u003e新角色（免费）\u003cbr\u003e新皮肤4款\u003cbr\u003e商店新增免费支援包\u003cbr\u003e新增等级10任务\u003cbr\u003e8名角色新增队长技能 \u003cbr\u003e\u003cbr\u003e◆ 游戏特色\u003cbr\u003e+ 广阔的开放世界角色扮演游戏！一个更加广阔的世界等你探索！\u003cbr\u003e+ 探索、采集、钓鱼和制造，只为生存！\u003cbr\u003e+ 道具和武器数量是前作的3倍\u003cbr\u003e+ 更细致的角色自定义和外观\u003cbr\u003e+ 超过60张地图和区域等你探索！\u003cbr\u003e+ 遍布全球的“世界任务”\u003cbr\u003e+ 创建并升级你的特种部队队伍\u003cbr\u003e+ 炮火支援、空中支援和强大的无人机！\u003cbr\u003e+ 穿上“战斗装甲”投入战斗\u003cbr\u003e+ 更先进的画面和升级的系统",
+  "label": "物种战争2：灭绝",
+  "time": 1756080000008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免广告，所有激励广告可白嫖",
-        "可选菜单，可自由调节移动速度、射击速度、经验获取、弹药使用等"
+        "【可选菜单】可自由调节玩家角色的移动速度、射击速度、弹药等"
       ],
       "name": "上帝模式",
       "pkgname": "com.dawinstone.b2be.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.dawinstone.b2be",
-  "vercode": 10256,
-  "vername": "3.0.7",
+  "vercode": 10258,
+  "vername": "3.0.9",
   "publisher": "DAWINSTONE GAMES",
-  "signmd5": "F6E30E7D0FBFA727364F31C4B85E16C6",
+  "s3": 0,
   "tags": [
     "中文",
-    "离线",
     "动作",
-    "射击"
+    "射击",
+    "生存"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/APK/com.dawinstone.b2be?versionCode\u003d10256\u0026nc\u003darm64-v8a\u0026sv\u003d19",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/bad-2-bad-extinction/com.dawinstone.b2be/download",
+      "host": "网盘分享：生存分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
