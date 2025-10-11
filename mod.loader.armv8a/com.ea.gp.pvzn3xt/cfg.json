@@ -1,43 +1,40 @@
 {
   "faqs": {
-    "为啥卡在开始游戏加载画面？": "1。使用最新版墨魔豆，\u003cbr\u003e2。游戏关卡数据需联网下载额外数据包，但EA的服务器必须翻墙才能连上……请使用合适的加速器翻墙"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：塔防分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "科学上网": "游戏全程联网，需要科学上网！请提前准备好加速器"
   },
   "gms": 1,
-  "info": "植物大战僵尸就不用多说了，虽然创新不足，但吃PVZ的老本勉强及格吧\u003cbr\u003e\u003cbr\u003e战斗方面增加了场地的多样性，提高布局的策略性\u003cbr\u003e植物方面做了减法，减少了战斗前的漫长挑选",
-  "label": "植物大战僵尸3",
-  "time": 1719619200008,
+  "info": "沉寂1年，上一版本还是24年10月更新的，本次超级改版，增加了植物融合、等级、花园种植等国内玩家最喜欢的玩法，移除了装饰剧情流程，新的副标题【进化】，更是说明了EA/宝开破而后立的决心",
+  "label": "植物大战僵尸3：进化",
+  "time": 1759881600008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单：可控阳光掉落如雨，增伤，减伤，战斗轻轻松松"
+        "【可选菜单】手动调节阳光，增伤，减伤，战斗轻轻松松"
       ],
       "name": "上帝模式",
       "pkgname": "com.ea.gp.pvzn3xt.gm64",
+      "sandbox": 155,
       "targetvc": "*",
       "vercode": 4
     }
   ],
   "pkgname": "com.ea.gp.pvzn3xt",
-  "vercode": 14,
-  "vername": "16.1.1",
+  "vercode": 21,
+  "vername": "26.0.13",
   "publisher": "EA（美国艺电）",
+  "s3": 0,
   "tags": [
     "英文",
     "塔防",
-    "弱联网",
-    "翻墙"
+    "科学上网"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/OHUROPi7",
+      "host": "网盘分享：塔防分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/plants-vs-zombies-3/com.ea.gp.pvzn3xt/download",
-      "var": true
     }
   ]
 }
