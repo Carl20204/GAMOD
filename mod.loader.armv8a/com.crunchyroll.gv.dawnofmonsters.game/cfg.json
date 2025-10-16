@@ -1,0 +1,53 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见异常现象\u003c/font\u003e": "1。游戏原版为crunchyroll的专属付费会员版，不带MOD启动游戏会卡在注册账号界面\u003cbr\u003e\u003cbr\u003e2。游戏无中文，无基础英文或日文的玩家，不建议尝试"
+  },
+  "gms": 2,
+  "info": "因无中文版，所以仅推荐给喜欢奥特曼、哥斯拉、巨型怪兽、特摄剧、城市破坏的玩家，游戏特色：\u003cbr\u003e\u003cbr\u003e- 四个独特、可怕的可操作角色：巨齿鲨、加尼拉、宙斯盾和暴风加拉哈德\u003cbr\u003e\u003cbr\u003e- 惊天动地的怪兽对战单人或双人合作格斗游戏\u003cbr\u003e\u003cbr\u003e- 基于真实地点的可完全摧毁的城市\u003cbr\u003e\u003cbr\u003e- 野蛮暴怒技能、毁灭性的灾变攻击和无情的终结技\u003cbr\u003e\u003cbr\u003e- 凶猛的 Boss 和数十种不同类型的敌人\u003cbr\u003e\u003cbr\u003e- 使用 DNA 增强功能自定义你的怪兽！\u003cbr\u003e\u003cbr\u003e- 直观的触摸屏操控，支持蓝牙游戏控制器\u003cbr\u003e\u003cbr\u003e- 提供英语和日语全语音故事",
+  "label": "怪兽黎明",
+  "time": 1744934400008,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费完整版",
+        "【可选菜单】可调节敌我双方的伤害抗性，玩家满怒、满超杀大招随便放"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.crunchyroll.gv.dawnofmonsters.game.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.crunchyroll.gv.dawnofmonsters.game",
+  "vercode": 40,
+  "vername": "1.5.4",
+  "publisher": "Crunchyroll, LLC",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "英文",
+    "日文",
+    "动作",
+    "街机",
+    "付费会员版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：动作分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}

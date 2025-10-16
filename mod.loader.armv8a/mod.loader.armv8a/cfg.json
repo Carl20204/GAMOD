@@ -757,6 +757,12 @@
             "time": 1708560000002
         },
         {
+            "label": "怪兽黎明",
+            "mtime": 1760572800000,
+            "pkg": "com.crunchyroll.gv.dawnofmonsters.game",
+            "time": 1744934400000
+        },
+        {
             "label": "永恒之夜",
             "mtime": 1758931200000,
             "pkg": "com.crunchyroll.gv.eternights.game",
@@ -2046,5 +2052,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1760486400000
+    "time": 1760572800000
 }
