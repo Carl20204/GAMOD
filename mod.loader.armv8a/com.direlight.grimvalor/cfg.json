@@ -1,44 +1,41 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "1。如果你的桌面版本可正常玩，墨魔豆带mod启动卡在启动页面，一般只要\u003cfont color\u003d\"#ff\"\u003e手机断网\u003c/font\u003e一下，进入游戏再恢复联网即可\u003cbr\u003e\u003cbr\u003e2.如果你的墨魔豆可以正常玩，桌面版本闪退，一般是因为游戏强制使用谷歌服务，你的设备没有谷歌服务导致闪退，\u003cfont color\u003d\"#ff\"\u003e使用MOD + 墨魔豆的虚拟谷歌服务\u003c/font\u003e，就可以跳过谷歌服务验证"
+  },
   "gms": 2,
-  "info": "暗黑风格的横版黑魂",
-  "label": "格里姆瓦勒",
-  "time": 1695945600008,
+  "info": "Grimvalor 是一款极具挑战性的砍杀类平台游戏，在黑暗奇幻世界中体验快节奏的战斗。你将扮演一位孤独的战士，踏上重建腐朽世界的征程。在恢弘的剧情驱动下，踏上一段穿越壮丽地牢和迷人景观的旅程，体验精彩纷呈的高级游戏体验。\u003cbr\u003e\u003cbr\u003e战斗与探索\u003cbr\u003e\u003cbr\u003e掌握技巧型战斗技巧，了解敌人的习性，并释放你的怒火将其击溃。探索瓦拉里斯的破碎之地，寻找并升级装备，提升你的角色等级。直面英勇之王的疯狂遗产，最终赢得胜利！\u003cbr\u003e\u003cbr\u003e游戏特色\u003cbr\u003e\u003cbr\u003e☆ 支持安卓游戏手柄\u003cbr\u003e\u003cbr\u003e☆ 精准且可自定义的触控操作\u003cbr\u003e\u003cbr\u003e☆ 史诗级 Boss 战\u003cbr\u003e\u003cbr\u003e☆ 惊艳的 3D 画面，针对各种安卓设备进行了优化\u003cbr\u003e\u003cbr\u003e☆ 使用 Play 游戏存档功能，在不同设备之间同步存档\u003cbr\u003e\u003cbr\u003e☆ 离线畅玩 - 通勤必备",
+  "label": "原界之罪：国际版",
+  "time": 1756684800008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，可激活完整版、解锁全装备、提高爆率，无限跳，无限能量，减伤，增伤等等"
+        "【可选菜单】解锁完整版、全图、新游戏+、全装备、无限跳、无限能量、减伤、增伤等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.direlight.grimvalor.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.direlight.grimvalor",
-  "vercode": 46,
-  "vername": "1.2.5",
+  "vercode": 66,
+  "vername": "1.2.10",
   "publisher": "Direlight",
+  "s3": 0,
   "signmd5": "9F2A0B28BD587984F0B38991533776D8",
   "tags": [
     "英文",
-    "离线",
     "动作",
     "街机",
-    "推荐"
+    "付费完整版"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.direlight.grimvalor?versionCode\u003d46",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/grimvalor/com.direlight.grimvalor/download",
+      "host": "网盘分享：动作分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
