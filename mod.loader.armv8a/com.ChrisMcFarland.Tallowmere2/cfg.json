@@ -1,24 +1,29 @@
 {
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "1。如果你的桌面版本可正常玩，墨魔豆带mod启动卡在启动页面，一般只要\u003cfont color\u003d\"#ff\"\u003e手机断网\u003c/font\u003e一下，进入游戏再恢复联网即可\u003cbr\u003e\u003cbr\u003e2.如果你的墨魔豆可以正常玩，桌面版本闪退，一般是因为游戏强制使用谷歌服务，你的设备没有谷歌服务导致闪退，\u003cfont color\u003d\"#ff\"\u003e使用MOD + 墨魔豆的虚拟谷歌服务\u003c/font\u003e，就可以跳过谷歌服务验证"
+  },
   "gms": 1,
   "info": "素质很高的肉鸽地牢类游戏，雷霆代理出品的游戏，基本都是肉鸽地牢类中的小精品了\u003cbr\u003e\u003cbr\u003e本作不火，是因为难度太高了，很容易让人放弃\u003cbr\u003e推荐适当开启MOD功能，体验舒爽的拯救猫咪之旅",
   "label": "烛火地牢2：猫咪的诅咒",
-  "time": 1698192000028,
+  "time": 1760227200008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活付费完整版",
-        "可选菜单，可调节格挡、生命、掉落品质、强化Buff、物品价格等等"
+        "【自动激活】付费完整版",
+        "【可选菜单】可手动调节格挡、生命、掉落品质、强化Buff、物品价格等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.ChrisMcFarland.Tallowmere2.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.ChrisMcFarland.Tallowmere2",
-  "vercode": 45,
-  "vername": "0.4.0f",
+  "vercode": 53,
+  "vername": "0.4.1c",
   "publisher": "Chris McFarland",
   "s1": [
     512,
@@ -31,26 +36,18 @@
     10904
   ],
   "s3": 4608,
+  "signmd5": "AB8927206C1D85C285F1690D361C1210",
   "tags": [
     "中文",
     "肉鸽",
     "地牢",
-    "动作"
+    "动作",
+    "付费完整版"
   ],
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/f8USV6Yl",
-      "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/NjBeEeu5",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/tallowmere-2/com.ChrisMcFarland.Tallowmere2/download",
+      "host": "网盘分享：动作分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
