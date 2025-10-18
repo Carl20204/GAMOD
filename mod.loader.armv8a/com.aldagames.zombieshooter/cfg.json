@@ -1,29 +1,29 @@
 {
   "faqs": {
-    "卡在启动加载界面了": "启动卡住，是因为游戏启动时会联网访问谷歌商店，只要断一下网，就可以跳过了。\u003cbr\u003e\u003cbr\u003e本游戏为单机离线游戏，可以全程断网玩。",
-    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：生存分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "1。首次启动下载数据包，提示网络不稳定没关系，一直重试就可以一段一段的下载下来。\u003cbr\u003e\u003cbr\u003e2.玩桌面版本为什么闪退？一般是因为游戏强制要求谷歌服务，你的设备没有谷歌服务导致闪退，\u003cfont color\u003d\"#ff\"\u003e使用MOD + 墨魔豆的虚拟谷歌服务\u003c/font\u003e，就可以跳过谷歌服务验证"
   },
   "gms": 1,
-  "info": "特色\u003cbr\u003e\u003cbr\u003e*超好玩的复古型末日类单人第一人称射击游戏\u003cbr\u003e\u003cbr\u003e*极具吸引力的现代多边形图形风格\u003cbr\u003e\u003cbr\u003e*因果报应机制——行为的善恶会带来新的选项和遭遇\u003cbr\u003e\u003cbr\u003e*数十个故事和支线征程\u003cbr\u003e\u003cbr\u003e*海量武器、防御装备和其他装备\u003cbr\u003e\u003cbr\u003e*武器皮肤\u003cbr\u003e\u003cbr\u003e*各类敌人——行走的僵尸、恶棍和变异大Boss\u003cbr\u003e\u003cbr\u003e*清算交易\u003cbr\u003e\u003cbr\u003e*好玩的小游戏和狙击任务",
+  "info": "本次版本更新为大更新，特色\u003cbr\u003e\u003cbr\u003e*超好玩的复古型末日类单人第一人称射击游戏\u003cbr\u003e\u003cbr\u003e*极具吸引力的现代多边形图形风格\u003cbr\u003e\u003cbr\u003e*因果报应机制——行为的善恶会带来新的选项和遭遇\u003cbr\u003e\u003cbr\u003e*数十个故事和支线征程\u003cbr\u003e\u003cbr\u003e*海量武器、防御装备和其他装备\u003cbr\u003e\u003cbr\u003e*武器皮肤\u003cbr\u003e\u003cbr\u003e*各类敌人——行走的僵尸、恶棍和变异大Boss\u003cbr\u003e\u003cbr\u003e*清算交易\u003cbr\u003e\u003cbr\u003e*好玩的小游戏和狙击任务",
   "label": "步行僵尸2",
-  "time": 1750377600008,
+  "time": 1760572800008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【通用版】本MOD为通用版本，理论上支持本游戏所有版本。如果出现游戏升级，MOD功能失效，可以到墨魔豆的QQ圈子里吱一声。",
-        "【免广告】自动激活，所有广告激励随意白嫖",
+        "【自动激活】所有广告激励随意白嫖",
         "【可选菜单】各种射击强化，回血，免内购等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.aldagames.zombieshooter.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.aldagames.zombieshooter",
-  "vercode": 180,
-  "vername": "3.39.0",
+  "vercode": 191,
+  "vername": "3.44.0",
   "publisher": "Alda Games",
   "s1": [
     256,
@@ -49,18 +49,8 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：生存分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/SsBxSZB9",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/the-walking-zombie-2-shooter/com.aldagames.zombieshooter",
       "var": false
     }
   ]
