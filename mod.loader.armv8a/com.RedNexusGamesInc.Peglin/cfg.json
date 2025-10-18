@@ -1,28 +1,29 @@
 {
   "faqs": {
-    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：创意分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "1。如果你的桌面版本可正常玩，墨魔豆带mod启动卡在启动页面，一般只要\u003cfont color\u003d\"#ff\"\u003e手机断网\u003c/font\u003e一下，进入游戏再恢复联网即可\u003cbr\u003e\u003cbr\u003e2.如果你的墨魔豆可以正常玩，桌面版本闪退，一般是因为游戏强制使用谷歌服务，你的设备没有谷歌服务导致闪退，\u003cfont color\u003d\"#ff\"\u003e使用MOD + 墨魔豆的虚拟谷歌服务\u003c/font\u003e，就可以跳过谷歌服务验证"
   },
   "gms": 2,
   "info": "没有两次相同的肉鸽弹球游戏！屡获殊荣的肉鸽牌组构建者\u003cbr\u003e\u003cbr\u003e从你记事起，龙就一直在弹出挂钉并偷走你的所有黄金。够了，现在是时候穿过树林冒险，征服堡垒，深入龙的巢穴中心，夺回属于你的东西并教训那些龙。\u003cbr\u003e\u003cbr\u003e本游戏的玩法就像 Peggle 和【杀戮尖塔】的组合。敌人很强大，但你拥有具有特殊效果的强大弹球和神奇的圣遗物，它们会影响敌人以及改变弹球的物理规则。\u003cbr\u003e\u003cbr\u003e游戏特点：\u003cbr\u003e\u003cbr\u003e- 收集并升级强大的弹球和圣遗物，以击败挡路的怪物和Boss。\u003cbr\u003e\u003cbr\u003e- 用类似弹球盘的游戏玩法与敌人战斗 - 击中更多的钉子以造成更多的伤害。抓住关键时机使用暴击药水、刷新药水和炸弹。\u003cbr\u003e\u003cbr\u003e- 每次探索新地图，旅途中都会有不同的弹球、敌人以及惊喜。",
   "label": "哥布林弹球",
-  "time": 1748390400008,
+  "time": 1759881600008,
   "mod": false,
   "mods": [
     {
       "descs": [
-        "【通用版】本MOD基于游戏在谷歌商店2025年5月底更新的版本，理论上支持游戏全版本，如果游戏更新MOD功能失效，可以到墨魔豆的QQ圈子里吱一声",
-        "【自动】自动解锁完整版",
-        "【可选】手动调节金币收益率，伤害免疫系数，解锁全部角色"
+        "【自动激活】解锁付费完整版",
+        "【可选菜单】手动调节金币收益率，伤害免疫系数，解锁全部角色"
       ],
       "name": "上帝模式",
       "pkgname": "com.RedNexusGamesInc.Peglin.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 8
+      "vercode": 9
     }
   ],
   "pkgname": "com.RedNexusGamesInc.Peglin",
-  "vercode": 116,
-  "vername": "1.1.12",
+  "vercode": 122,
+  "vername": "1.1.17",
   "publisher": "Red Nexus Games",
   "s1": [
     256,
@@ -39,33 +40,13 @@
     "中文",
     "肉鸽",
     "弹球",
-    "像素"
+    "付费完整版"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
+      "host": "网盘分享：创意分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/6yAfbtuL",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/NjBeEeu5",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/f8USV6Yl",
-      "var": false
-    },
-    {
-      "host": "下载页[翻墙]",
-      "url": "https://apkpure.net/cn/peglin-a-pachinko-roguelike/com.RedNexusGamesInc.Peglin/download",
-      "var": true
     }
   ],
   "videos": {
