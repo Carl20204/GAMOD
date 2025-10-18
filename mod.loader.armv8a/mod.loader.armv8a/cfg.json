@@ -1313,6 +1313,12 @@
             "time": 1725235200000
         },
         {
+            "label": "我的咖啡厅",
+            "mtime": 1760745600000,
+            "pkg": "com.melesta.coffeeshop",
+            "time": 1760313600000
+        },
+        {
             "label": "绯闻港口",
             "mtime": 1743120000000,
             "pkg": "com.mergegames.gossipharbor",
@@ -2052,5 +2058,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1760659200000
+    "time": 1760745600000
 }
