@@ -2,7 +2,7 @@
   "gms": 1,
   "info": "肉鸽+角色扮演",
   "label": "伊洛纳",
-  "time": 1755129600028,
+  "time": 1755129600038,
   "mod": true,
   "mods": [
     {
@@ -11,9 +11,9 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.leiting.elona.aligames.gm64",
-      "sandbox": 0,
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 6
+      "vercode": 7
     }
   ],
   "pkgname": "com.leiting.elona.aligames",
