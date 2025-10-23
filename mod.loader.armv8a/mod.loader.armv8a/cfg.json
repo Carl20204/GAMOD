@@ -1533,6 +1533,12 @@
             "time": 1680048000000
         },
         {
+            "label": "守护者传奇",
+            "mtime": 1761177600002,
+            "pkg": "com.playdigious.legendofkeepers",
+            "time": 1759968000000
+        },
+        {
             "label": "循环英雄",
             "mtime": 1727827200000,
             "pkg": "com.playdigious.loophero",
@@ -2058,5 +2064,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1761177600001
+    "time": 1761177600002
 }
