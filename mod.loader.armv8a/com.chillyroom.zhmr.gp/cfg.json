@@ -1,8 +1,11 @@
 {
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版"
+  },
   "gms": 1,
-  "info": "● 拳拳到肉箭箭穿心的爽快打击感；\u003cbr\u003e\u003cbr\u003e● 多种角色，多种战斗风格。近战格斗，远程射击，魔法控场？总有一款适合你；\u003cbr\u003e\u003cbr\u003e● 丰富的怪物和关卡，从凶猛铁骑到蠢萌小怪，打到手软；\u003cbr\u003e\u003cbr\u003e● 海量独特的异能道具，组合最适合你的战斗风格；\u003cbr\u003e\u003cbr\u003e● 随机关卡、隐藏房间、秘密商店、隐藏boss等各色地牢元素等你来探索；\u003cbr\u003e\u003cbr\u003e● 辅助索敌，不怕手残，前所未有的顺畅动作游戏体验；\u003cbr\u003e\u003cbr\u003e● 独特的像素3D风格和全程逐帧手绘的细腻动画。",
+  "info": "2025年10月21日\u003cbr\u003e\u003cbr\u003e【全新英雄】\u003cbr\u003e神社巫女[宵子]，狐影流转，万邪湮灭。拥有两种攻击形态，与凯瑟琳、乌拉尼亚同一座位\u003cbr\u003e\u003cbr\u003e【限时玩法】\u003cbr\u003e万圣节限时玩法[狩猎南瓜大王行动]开启\u003cbr\u003e-操控机甲，使用不同的核心、武器、芯片、零件强化自己\u003cbr\u003e-应对15波次敌袭，挑战最终领主[南瓜大王]\u003cbr\u003e-攒取南瓜糖果，解锁机甲核心，兑换活动奖励\u003cbr\u003e\u003cbr\u003e【限时扭蛋】\u003cbr\u003e万圣节主题扭蛋机来啦！通过皮肤碎片换取扭蛋币游玩。扭蛋内容主要包含：\u003cbr\u003e-路斯凡皮肤[厄运喜剧人]，含超凡之选效果\u003cbr\u003e-扭蛋限定稀有皮肤。权虎鹰、艾德琳等6名角色的万圣装扮上架\u003cbr\u003e-魂目、宠物玩具、历练之钥等资源物品\u003cbr\u003e\u003cbr\u003e【新一期历练】\u003cbr\u003e新一期历练将于10月28日开启，阿蕾希娅皮肤[萝卜兔女郎]加入皮肤礼盒\u003cbr\u003e注意：历练周期缩短至约1.5个月，解锁高级历练可立即提升5级历练等级\u003cbr\u003e\u003cbr\u003e游戏特色\u003cbr\u003e● 拳拳到肉箭箭穿心的爽快打击感；\u003cbr\u003e● 多种角色，多种战斗风格。近战格斗，远程射击，魔法控场？总有一款适合你；\u003cbr\u003e● 丰富的怪物和关卡，从凶猛铁骑到蠢萌小怪，打到手软；\u003cbr\u003e● 海量独特的异能道具，组合最适合你的战斗风格；\u003cbr\u003e● 随机关卡、隐藏房间、秘密商店、隐藏boss等各色地牢元素等你来探索；\u003cbr\u003e● 辅助索敌，不怕手残，前所未有的顺畅动作游戏体验；\u003cbr\u003e● 独特的像素3D风格和全程逐帧手绘的细腻动画。",
   "label": "战魂铭人：国际版",
-  "time": 1752710400008,
+  "time": 1761004800008,
   "mod": false,
   "mods": [
     {
@@ -13,13 +16,14 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.chillyroom.zhmr.gp.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 8
+      "vercode": 9
     }
   ],
   "pkgname": "com.chillyroom.zhmr.gp",
-  "vercode": 20600,
-  "vername": "2.11.0",
+  "vercode": 20616,
+  "vername": "2.14.0",
   "publisher": "凉屋（ChillyRoom）",
   "s3": 0,
   "tags": [
@@ -30,14 +34,9 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：动作分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "apkpure[翻墙]",
-      "url": "https://apkpure.net/cn/otherworld-legends/com.chillyroom.zhmr.gp",
-      "var": true
     }
   ]
 }
