@@ -1,28 +1,28 @@
 {
   "faqs": {
-    "游戏更新说明": "2024.12，v6.7.x，剧情模式增至94章，新皮肤、新武器、新宠物、新神器\u003cbr\u003e\u003cbr\u003e2024.11，v6.6.x，新系统、新技能、新皮肤等等",
-    "MOD说明": "MOD使用需节制，虽然是单机，但有弱联网功能，谨防删档！\u003cbr\u003e\u003cbr\u003e本MOD没有免广告，因为这是老MOD，相关代码也懒得找了，【技能】选项，部分技能也失效了，需要花时间查找，如果有需要的，可以到墨魔豆的QQ圈子里说一声，有人玩再补上",
-    "游戏更新建议": "中国区玩家，会翻墙，想下载安装谷歌商店原版游戏，但没有谷歌账号，建议使用如下谷歌商店替代品\u003cbr\u003e\u003cbr\u003e1。\u003ca href\u003dhttps://apkpure.net/cn\u003eapkpure.net\u003c/a\u003e 曾是全球最大的腾讯投资的谷歌商店替代品，优点是无需谷歌账号，通过网页直接下载安装包或旧版本安装包、缺点是部分游戏更新不太及时，或只更新32位/64位，出现遗漏。\u003cbr\u003e\u003cbr\u003e2。\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore\u003c/a\u003e，非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "启动游戏提示无谷歌服务，点击确定后游戏自动退出\u003cbr\u003e游戏强制使用谷歌服务，切换墨魔豆的\u003cfont color\u003d\"#ff\"\u003e虚拟谷歌服务\u003c/font\u003e，就可以跳过谷歌服务验证了"
   },
-  "gms": 1,
-  "info": "Habby的弓箭传说、弹壳特攻队、蛇蛇贪吃、砰砰法师，都是很经典的，商业化非常成功的肉鸽游戏\u003cbr\u003e\u003cbr\u003e本作为商业化网游化的单机游戏，使用MOD需节制，以防被封",
+  "gms": 2,
+  "info": "2025年10月16日\u003cbr\u003e\u003cbr\u003e1.阵营讨伐战重磅更新！新主题上线，新增迷雾机制，新增宝藏玩法，地图大更新！\u003cbr\u003e2.双人对战模式重磅更新！新地图上线，新增能量余痕机制，占领后获取短暂能力提升\u003cbr\u003e3.新SS宠物上线！守护型新宠物浴火凤凰，拥有无尽焚火，极致保护与复活机制\u003cbr\u003e4.地狱模式新增至44章\u003cbr\u003e5.远征新增至1300层\u003cbr\u003e6.新增全新英雄装扮——焚世神王（宙斯）、七彩祥云（孙悟空）、猛虎下山（猎狼）\u003cbr\u003e7.新增全新武器皮肤——星辰之力（天神之力）、弑神弓（勇者长弓）\u003cbr\u003e8.收藏背包新增赛季收藏选项，可以展示航海时代与讨伐战获取的赛季皮肤了\u003cbr\u003e9.羽翼系统表现全面升级，所有羽翼新增两档特效效果，分别在3星与6星解锁\u003cbr\u003e10.头像框功能优化，新增特效头像框，展示效果更炫酷\u003cbr\u003e11.令牌系统更新，福利增加！新增龙系统令牌，免费奖励更丰富\u003cbr\u003e12.服务器性能优化",
   "label": "弓箭传说：国际版",
-  "time": 1733184000008,
+  "time": 1760572800008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "免广告白嫖奖励"
+        "【可选菜单】缩小、爆头、飞行、额外技能等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.habby.archero.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.habby.archero",
-  "vercode": 1,
-  "vername": "6.7.2",
+  "vercode": 14750,
+  "vername": "7.2.3",
   "publisher": "habby",
   "s1": [
     256,
@@ -39,23 +39,12 @@
     "中文",
     "休闲",
     "肉鸽",
-    "射击",
-    "网游化单机"
+    "射击"
   ],
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/f8USV6Yl",
-      "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/NjBeEeu5",
-      "var": false
-    },
-    {
-      "host": "下载页|翻墙",
-      "url": "https://apkpure.com/cn/capybara-go/com.habby.capybara",
+      "host": "网盘分享：射击分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
