@@ -1,31 +1,28 @@
 {
   "faqs": {
-    "游戏登录黑屏": "中国区玩家，登录游戏后黑屏10到30秒左右就可以进入游戏了，不用担心是游戏卡住或出问题了，仅仅是出国网络差而已。",
-    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "1。中国区玩家，登录游戏后黑屏10到30秒左右就可以进入游戏了，不用担心是游戏卡住或出问题了，仅仅是出国网络差而已\u003cbr\u003e\u003cbr\u003e2.如果你的墨魔豆可以正常玩，桌面版本闪退，一般是因为游戏强制使用谷歌服务，你的设备没有谷歌服务导致闪退，\u003cfont color\u003d\"#ff\"\u003e使用MOD + 墨魔豆的虚拟谷歌服务\u003c/font\u003e，就可以跳过谷歌服务验证"
   },
   "gms": 2,
   "info": "游戏特色：\u003cbr\u003e-酣畅淋漓的击杀体验，经典动作肉鸽元素\u003cbr\u003e-引人入胜的战斗系统，极具节奏感的连招机制\u003cbr\u003e-多种卓越的英雄角色，独特的技能设定与差异化战斗风格\u003cbr\u003e-超140+被动能力，搭配天赋与符文系统，打造自定义的升级路线\u003cbr\u003e-充满挑战的随机地下城，3大章节与刺激的Boss战\u003cbr\u003e-浓厚的黑暗手绘风格，动态光影效果与沉浸式闯关氛围\u003cbr\u003e-丰富的故事情节，了解深渊更深处的秘密\u003cbr\u003e-单机畅玩，可搭配丝滑的手柄操控",
   "label": "深渊之影：国际版",
-  "time": 1746662400008,
+  "time": 1761004800008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "如果出现游戏升级功能失效问题，可以到墨魔豆的QQ圈子里吱一声",
-        "【角色】自选开关，战场上可自由更换付费角色，修复了上一版本付费角色无法玩下一关的问题",
-        "【经济】自选开关，可自由变更金币收益率、消费折扣",
-        "【战斗】自选开关，可自选技能无CD、无伤等",
-        "【物资】自选开关，战场上可掉落武器道具"
+        "【可选菜单】战场上可自由更换付费角色，变更金币收益率、消费折扣、技能无CD、无伤、随意掉落武器道具"
       ],
       "name": "上帝模式",
       "pkgname": "com.chillyroom.sotd.gp.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.chillyroom.sotd.gp",
-  "vercode": 82,
-  "vername": "1.1.6",
+  "vercode": 84,
+  "vername": "1.1.8",
   "publisher": "凉屋（ChillyRoom）",
   "s1": [
     512,
@@ -50,23 +47,8 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：动作分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/NjBeEeu5",
-      "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/f8USV6Yl",
-      "var": false
-    },
-    {
-      "host": "翻墙",
-      "url": "https://apkpure.net/cn/shadow-of-the-depth/com.chillyroom.sotd.gp/",
       "var": false
     }
   ]
