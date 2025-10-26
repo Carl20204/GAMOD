@@ -1,24 +1,24 @@
 {
   "faqs": {
-    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：创意分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "启动游戏提示无谷歌服务，点击确定后游戏自动退出\u003cbr\u003e游戏强制使用谷歌服务，切换墨魔豆的\u003cfont color\u003d\"#ff\"\u003e虚拟谷歌服务\u003c/font\u003e，就可以跳过谷歌服务验证了"
   },
   "gms": 1,
-  "info": "Habby的微创新\u003cb\u003e超强\u003c/b\u003e，你喜欢哪个呢？\u003cbr\u003e\u003cfont color\u003d\"#ff00\"\u003e弹壳特攻队\u003c/font\u003e \u003d 幸存者 + 肉鸽 + 养成\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e蛇蛇贪吃\u003c/font\u003e \u003d 贪吃蛇 + 肉鸽 + 养成\u003cbr\u003e\u003cfont color\u003d\"#ff\"\u003e酷猫跑酷\u003c/font\u003e \u003d 跑酷 + 肉鸽 + 养成\u003cbr\u003e\u003cfont color\u003d\"#ff00ff\"\u003e砰砰法师\u003c/font\u003e \u003d 弹球 + 肉鸽 + 养成",
-  "label": "砰砰法师",
-  "time": 1754697600008,
+  "info": "弓箭传说团队最新力作！\u003cbr\u003e\u003cbr\u003e沉睡的砰砰法师，是时候觉醒了！与邪恶军团领袖作战！\u003cbr\u003e\u003cbr\u003e砰砰魔法大陆已经危在旦夕，作为法师会的成员，你肩负著抵抗恶魔拯救法师大陆的重任！\u003cbr\u003e\u003cbr\u003e在这里，你将与邪恶军团奋战到底，抵挡他们一波一波的入侵！挥动手中的法杖吧！让邪恶军团感受一下你的魔法！\u003cbr\u003e\u003cbr\u003e当然，你得额外小心，邪恶军团也不是吃素的！稍不留神你就可能全军覆没，只能重头再来！\u003cbr\u003e\u003cbr\u003e功能亮点：\u003cbr\u003e\u003cbr\u003e-Archero故事的延续，开启了新的冒险征程。\u003cbr\u003e\u003cbr\u003e-全球首创Roguelite弹球体验。\u003cbr\u003e\u003cbr\u003e-超简单操作。\u003cbr\u003e\u003cbr\u003e-超100种无限技能Combo。\u003cbr\u003e\u003cbr\u003e-超1000层关卡，等你挑战!",
+  "label": "砰砰法师：国际版",
+  "time": 1754870400008,
   "mod": false,
   "mods": [
     {
       "descs": [
-        "【通用版】基于谷歌商店2025年8月更新版本开发，如果出现后续游戏更新MOD功能失效或闪退，可以到墨魔豆的QQ圈子里吱一声，作者看到会修复",
-        "\u003cfont color\u003d\"#ff0000\"\u003e本游戏弱联网，请谨慎使用，不要刷榜单，刷进度，防止被封存档。\u003cbr\u003eNoZuoNoDie\u003c/font\u003e",
         "【自动激活】免广告，所有激励广告白嫖",
         "【可选菜单】强化各种特殊球的威力、触发几率等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.habby.punball.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 6
+      "vercode": 7
     }
   ],
   "pkgname": "com.habby.punball",
@@ -34,19 +34,9 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享【创意分类】",
+      "host": "网盘分享：创意分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/1nUREU0u",
-      "var": false
-    },
-    {
-      "host": "下载页[翻墙]",
-      "url": "https://apkpure.net/cn/punball/com.habby.punball",
-      "var": true
     }
   ]
 }
