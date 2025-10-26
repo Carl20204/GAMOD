@@ -1,28 +1,29 @@
 {
   "faqs": {
-    "安装后桌面版本没法玩？": "网盘分享的是谷歌原版，需要连接谷歌商店购买。免费玩家请使用墨魔豆加载MOD来玩。",
-    "为什么是英文？没有中文选项？": "请使用墨魔豆加载MOD来玩，锁定了简体中文。"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：生存分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "无法运行桌面原版？\u003cbr\u003e桌面原版需付费解锁，需要谷歌服务验证，国内手机一般是无法使用的。\u003cbr\u003e\u003cbr\u003e桌面原版没有中文？\u003cbr\u003e国际版隐藏了中文选项，本MOD自动锁定了中文。\u003cbr\u003e\u003cbr\u003eMOD菜单中的全道具、全角色为什么有小部分是英文？\u003cbr\u003e\u003cfont color\u003d\"#ff\"\u003e翻译仅提取了大部分内容，有需要全中文的测试员，可以到墨魔豆的QQ群里说一声，有需要作者再加翻译\u003c/font\u003e"
   },
   "gms": 1,
-  "info": "2D版本《我的世界》，十多年的持续更新，海量的内容，只要没玩过最新版的，建议必玩……",
+  "info": "挖！斗争！探索！建立！加入百万Terrarians的社会！\u003cbr\u003e\u003cbr\u003e泰拉瑞亚是一款独特的充满动作元素的沙盒冒险游戏，玩家可以在不同的世界中挖掘、战斗、探索和建造。每个世界都是程序生成的，从天空中的浮岛到地狱深处应有尽有。玩家可以制作超过1,360种物品，包括武器、盔甲和药水，同时与450多种不同的敌人和20多个具有挑战性的Boss战斗。游戏提供了extensive的建造可能性，拥有100多种方块类型，玩家可以探索十多个独特的环境，具有动态的水、岩浆和昼夜循环系统。手机版支持最多4名玩家跨平台本地WiFi多人游戏，世界可以创建高达4200 x 1200块的大小。游戏拥有30多种宠物可供收集和无限的创造可能性，泰拉瑞亚为移动设备提供了一个丰富的游戏体验。",
   "label": "泰拉瑞亚",
-  "time": 1696204800008,
+  "time": 1759536000008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活中文，自动激活付费版",
-        "可选菜单可调节时间、满血、满魔、召唤NPC、添加道具、传送等等几十项功能"
+        "【自动激活】锁定中文，付费完整版",
+        "【可选菜单】可调节时间、满血、满魔、召唤NPC、添加道具、传送等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.and.games505.Terraria.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.and.games505.Terraria",
-  "vercode": 301087,
-  "vername": "1.4.4.9.5",
+  "vercode": 301425,
+  "vername": "1.4.4.9.8",
   "publisher": "505 Games Srl",
   "s1": [
     512,
@@ -37,26 +38,16 @@
   "s3": 4608,
   "tags": [
     "中文",
-    "单机",
-    "动作",
+    "生存",
+    "创造",
     "像素",
-    "我的世界"
+    "付费完整版"
   ],
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/6yAfbtuL",
+      "host": "网盘分享：生存分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/h2C2gW6I",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/cn/terraria-i/com.and.games505.Terraria/download",
-      "var": true
     }
   ]
 }
