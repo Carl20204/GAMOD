@@ -1762,6 +1762,12 @@
             "time": 1737072000000
         },
         {
+            "label": "魔塔",
+            "mtime": 1761436800000,
+            "pkg": "com.SmokymonkeyS.Triglav",
+            "time": 1761264000000
+        },
+        {
             "label": "潜行大师",
             "mtime": 1753401600000,
             "pkg": "com.stealthgame.master",
@@ -2064,5 +2070,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1761436800005
+    "time": 1761436800006
 }
