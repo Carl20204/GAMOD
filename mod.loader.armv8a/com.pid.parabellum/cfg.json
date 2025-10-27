@@ -1,0 +1,40 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版"
+  },
+  "gms": 1,
+  "info": "扮演一位英雄，建造城市，守护财富，并击退敌人。\u003cbr\u003e发展繁荣的经济。\u003cbr\u003e在主城周围建造农田、磨坊和商铺，不断扩展城市边界以获取更多资源。\u003cbr\u003e谨慎管理财政至关重要，有助于避免饥荒和破产。\u003cbr\u003e精心准备你的防御。",
+  "label": "帕拉贝伦：传奇围攻",
+  "time": 1760572800008,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】可手动调节粮食、金币收益率与折扣率，瞬间建设，无敌"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.pid.parabellum.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.pid.parabellum",
+  "vercode": 25092435,
+  "vername": "1.0.1",
+  "publisher": "Plug in Digital",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "策略",
+    "模拟经营",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：策略分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}

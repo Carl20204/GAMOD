@@ -1,30 +1,28 @@
 {
   "faqs": {
-    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
-    "常见游戏异常": "\u003cfont color\u003d\"#ff0000\"\u003e出现游戏启动闪退，空间不足等问题，只要启动一次桌面版本的游戏，直接退出或保险起见放在后台都行，然后回到墨魔豆就可以正常玩MOD版本了\u003c/font\u003e\u003cbr\u003e\u003cbr\u003e启动卡在加载25%，或者日常活动没了，一般是网络不好连不上服务器，或者游戏更新了，升级一下游戏就好"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "如果出现游戏启动闪退，启动提示空间不足等问题，只要启动一次桌面版本的游戏，直接退出或保险起见放在后台都行，然后回到墨魔豆就可以正常玩MOD版本了\u003cbr\u003e\u003cbr\u003e启动卡在加载25%，或者日常活动没了，一般是网络不好连不上服务器，或者游戏更新了，升级一下游戏就好"
   },
   "gms": 2,
-  "info": "三消游戏，从PopCap的限时玩法的钻石迷阵，到King的限制步数的糖果粉碎传奇，然后再到playrix的装饰主线的梦幻家园/花园，然后终于进化到了本作：\u003cbr\u003e荣获2023谷歌游戏大奖的合成花园，以合成玩法做故事主线的三消，很容易令人沉迷",
+  "info": "2025年10月16日\u003cbr\u003e- 新增 50 个谜题关卡！\u003cbr\u003e- 万圣节筹备\u003cbr\u003e- 错误修复和改进。\u003cbr\u003e\u003cbr\u003e新的野生动物！\u003cbr\u003e- 渡鸦\u003cbr\u003e\u003cbr\u003e重建与发现\u003cbr\u003e\u003cbr\u003e- 从豪宅大门前的一小块土地开始你的整修之旅。\u003cbr\u003e\u003cbr\u003e- 通过清除杂草来解锁和揭示新区域内的秘密。\u003cbr\u003e\u003cbr\u003e- 收集稀有生物，让它们生活在你的花园之中。\u003cbr\u003e\u003cbr\u003e合并\u003cbr\u003e\u003cbr\u003e- 合并三个相同的物品，即可使其进化为更高级的物品。\u003cbr\u003e\u003cbr\u003e- 数百种奇妙的物品和生物等待着你去探索发现。\u003cbr\u003e\u003cbr\u003e- 在你的豪宅花园之外，还有别的任务可以用来挑战你的脑力。\u003cbr\u003e\u003cbr\u003e解开谜题\u003cbr\u003e\u003cbr\u003e- 完成数以百计的消消乐谜题关卡，考验自己的解谜技巧。\u003cbr\u003e\u003cbr\u003e- 一按就爆开的3D方块，供你打造让人无法抗拒的连击组合。\u003cbr\u003e\u003cbr\u003e- 每个关卡都有奖励可供赢取，你可以将它们用在自己的花园之中。",
   "label": "荟萃花园",
-  "time": 1751500800008,
+  "time": 1760572800008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【通用版】游戏更新升级无需更换MOD，如果出现功能失效，可以在墨魔豆的QQ圈子里留言",
-        "【折扣】可选择金币、宝石、木材的消费折扣",
-        "【礼物】好友礼物大爆，用于快速收集社交专用物品",
-        "【免内购】有钱人的快乐谁懂啊！"
+        "【可选菜单】可选择金币、宝石、木材的消费折扣，调整好友礼物大爆，用于快速收集社交专用物品，支持零元购"
       ],
       "name": "上帝模式",
       "pkgname": "com.futureplay.mergematch.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 12
+      "vercode": 13
     }
   ],
   "pkgname": "com.futureplay.mergematch",
-  "vercode": 1470,
-  "vername": "1.41.0",
+  "vercode": 1496,
+  "vername": "1.45.0",
   "publisher": "Futureplay",
   "s1": [
     256,
@@ -45,14 +43,9 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：休闲分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "翻墙",
-      "url": "https://apkpure.net/cn/merge-gardens/com.futureplay.mergematch",
-      "var": true
     }
   ]
 }
