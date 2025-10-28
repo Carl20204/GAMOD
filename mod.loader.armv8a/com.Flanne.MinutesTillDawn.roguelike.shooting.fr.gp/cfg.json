@@ -1,29 +1,29 @@
 {
   "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。\u003cfont color\u003d\"#ff\"\u003e中国区域用户，可以下载网盘分享里的安装包，搬运自谷歌市场的原版\u003c/font\u003e"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "本游戏启用了谷歌加固，当前MOD仅支持游戏的6.6版本，支持旧版本的MOD已下架，建议新老玩家都将游戏更新到6.6版本，建议从网盘分享里下载，保证是有MOD支持的谷歌原版。"
   },
   "gms": 2,
   "info": "更新说明：新增各项庆典皮肤、武器、怪物\u003cbr\u003e\u003cbr\u003e【游戏特色】\u003cbr\u003e*超过80种不同的升级可供选择，每次游戏都有独特的体验！\u003cbr\u003e*丰富的角色、武器、符文、地图和吸血鬼怪物阵容。\u003cbr\u003e*轻松快捷的10-20分钟游戏时间，适合忙碌的游戏玩家。\u003cbr\u003e*符文系统助你提升实力",
   "label": "黎明前20分钟",
-  "time": 1758931200008,
+  "time": 1761264000008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【专用版】基于谷歌市场2025年9月27日更新的6.4版本开发，游戏使用了谷歌加固，必需使用MOD跳过验证才能双开",
-        "【自动激活】免广告，因广告奖励严重影响游戏乐趣，非测试员，每次启动游戏仅有10次免广告机会",
+        "【自动激活】免广告",
         "【自选菜单】可调节各种战斗爽度与氪金程度！"
       ],
       "name": "上帝模式",
       "pkgname": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp.gm64",
-      "sandbox": 0,
-      "targetvc": "952",
-      "vercode": 7
+      "sandbox": 155,
+      "targetvc": "961",
+      "vercode": 8
     }
   ],
   "pkgname": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp",
-  "vercode": 952,
-  "vername": "6.4",
+  "vercode": 961,
+  "vername": "6.6",
   "publisher": "Erabit Studios",
   "s3": 0,
   "tags": [
@@ -34,7 +34,7 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：射击分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }

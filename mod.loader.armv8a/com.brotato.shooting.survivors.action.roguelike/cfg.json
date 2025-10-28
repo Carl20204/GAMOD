@@ -1,28 +1,28 @@
 {
   "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。\u003cfont color\u003d\"#ff\"\u003e中国区域用户，可以下载\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e网盘分享：动作分类\u003c/a\u003e里的安装包，搬运自谷歌市场的原版\u003c/font\u003e"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。\u003cfont color\u003d\"#ff\"\u003e中国区域用户，可以下载\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e网盘分享：射击分类\u003c/a\u003e里的安装包，搬运自谷歌市场的原版\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "本游戏启用了谷歌加固，当前MOD仅支持游戏的1.3.667版本，支持旧版本的MOD已下架，建议新老玩家都将游戏更新到此版本，建议从网盘分享里下载，保证是有MOD支持的谷歌原版。"
   },
   "gms": 2,
-  "info": "更新说明：第11个DLC深海魔怪完全开放\u003cbr\u003e\u003cbr\u003e游戏特色\u003cbr\u003e· 默认武器自动射击，可选择手动瞄准\u003cbr\u003e快速通关（30 分钟内）\u003cbr\u003e· 数十位角色可供您自定义通关方式（单手、疯狂、幸运、法师等等）\u003cbr\u003e· 数百种道具和武器可供选择（火焰喷射器、冲锋枪、火箭发射器或棍棒和石头）\u003cbr\u003e· 在每波持续 20 至 90 秒的敌人攻击中生存下来，并在这段时间内尽可能多地消灭外星人\u003cbr\u003e· 在敌人攻击之间收集材料以获得经验值并从商店购买道具",
+  "info": "2025年10月24日更新说明：万圣节活动来了\u003cbr\u003e\u003cbr\u003e游戏特色\u003cbr\u003e· 默认武器自动射击，可选择手动瞄准\u003cbr\u003e快速通关（30 分钟内）\u003cbr\u003e· 数十位角色可供您自定义通关方式（单手、疯狂、幸运、法师等等）\u003cbr\u003e· 数百种道具和武器可供选择（火焰喷射器、冲锋枪、火箭发射器或棍棒和石头）\u003cbr\u003e· 在每波持续 20 至 90 秒的敌人攻击中生存下来，并在这段时间内尽可能多地消灭外星人\u003cbr\u003e· 在敌人攻击之间收集材料以获得经验值并从商店购买道具",
   "label": "土豆兄弟",
-  "time": 1758931200008,
+  "time": 1761264000008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【专用版】基于谷歌市场2025年9月底更新的1.3.649版本开发，游戏使用了谷歌加固，必需使用MOD跳过验证才能双开",
         "【自选菜单】可调节经验与材料的收益率！可全商品随心购！"
       ],
       "name": "上帝模式",
       "pkgname": "com.brotato.shooting.survivors.action.roguelike.gm64",
-      "sandbox": 0,
-      "targetvc": "1030649",
-      "vercode": 8
+      "sandbox": 155,
+      "targetvc": "1030667",
+      "vercode": 9
     }
   ],
   "pkgname": "com.brotato.shooting.survivors.action.roguelike",
-  "vercode": 1030649,
-  "vername": "1.3.649",
+  "vercode": 1030667,
+  "vername": "1.3.667",
   "publisher": "Erabit Studios",
   "s3": 0,
   "tags": [
@@ -33,7 +33,7 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享：动作分类",
+      "host": "网盘分享：射击分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }

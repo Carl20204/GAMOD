@@ -648,9 +648,9 @@
         },
         {
             "label": "土豆兄弟",
-            "mtime": 1759363200000,
+            "mtime": 1761609600000,
             "pkg": "com.brotato.shooting.survivors.action.roguelike",
-            "time": 1758931200000
+            "time": 1761264000000
         },
         {
             "group": 3,
@@ -976,9 +976,9 @@
         {
             "group": 2,
             "label": "黎明前20分钟",
-            "mtime": 1759363200000,
+            "mtime": 1761609600000,
             "pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp",
-            "time": 1758931200000
+            "time": 1761264000000
         },
         {
             "label": "僵尸炮艇：生存",
@@ -2076,5 +2076,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1761609600001
+    "time": 1761609600003
 }
