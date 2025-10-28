@@ -1,28 +1,28 @@
 {
   "faqs": {
-    "最近版本更新说明": "从2.7.2到2.8.1：连续调整法杖掉率，与STEAM版本同步\u003cbr\u003e2.6.8：修复失落世界问题，修复Boss战无法结束问题\u003cbr\u003e2.4.1：增加夏日礼包\u003cbr\u003e2.0.1：增加局域网连接"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版"
   },
   "gms": 2,
-  "info": "肉鸽地牢射击，《元气骑士》是更换武器，本作则是N种元素+N套皮肤+N种法术排列组合的肉鸽乐趣。\u003cbr\u003e\u003cbr\u003e喜欢《元气骑士》此类的，一定要玩玩这款，强烈推荐的",
+  "info": "在这款引人入胜的动作冒险角色扮演游戏中，您可以通过组合各种元素施放强大的法术来探索随机世界，其中包含肉鸽元素和出色的像素艺术图形。\u003cbr\u003e\u003cbr\u003e利用环境并提高技能，打败潜伏在其中的成群的怪物。 寻找强大的物品，遇到奇怪的生物，并扮演不同的独特职业，解开元素世界的谜团。\u003cbr\u003e\u003cbr\u003e挑战你的朋友来一场PVP，或者让他们加入你的游戏中！\u003cbr\u003e\u003cbr\u003e✓ 随机世界和肉鸽游戏\u003cbr\u003e⚔️每一次冒险都是独一无二的， 扮演法师、猎人或浪人，肉鸽元素将考验您的技能！\u003cbr\u003e\u003cbr\u003e✓ 掌握元素\u003cbr\u003e✨将总共 6 种元素中的最多 3 种元素组合起来，向你的敌人释放毁灭性的法术！ 解锁法术卷轴以学习新法术并享受流畅的双操纵杆控制。\u003cbr\u003e\u003cbr\u003e✓ 技巧与策略\u003cbr\u003e🗝使用对您有利的响应式环境：烧草、冻结水坑或炸毁桶。 找到隐藏的通道和魔法宝藏。 探索无数怪物和强大首领的弱点，解开这些世界的秘密。",
   "label": "元素世界",
-  "time": 1750032000008,
+  "time": 1761091200008,
   "mod": false,
   "mods": [
     {
       "descs": [
-        "【通用版】基于谷歌市场2025年6月更新的游戏版本，理论上支持全部游戏版本。如果出现游戏升级MOD失效的问题，可以到墨魔豆的QQ圈子里吱一声",
         "【自动激活】免广告，激励广告白嫖",
         "【可选菜单】手动调节金币、钻石、经验的收益，调整伤害、技能、速度等等。"
       ],
       "name": "上帝模式",
       "pkgname": "julyhot.elementalworld.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 8
+      "vercode": 9
     }
   ],
   "pkgname": "julyhot.elementalworld",
-  "vercode": 72,
-  "vername": "3.0.3",
+  "vercode": 73,
+  "vername": "4.0.1",
   "publisher": "SoulGlen Games",
   "s1": [
     256,
@@ -45,19 +45,9 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：射击分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/f8USV6Yl",
-      "var": false
-    },
-    {
-      "host": "下载页【翻墙】",
-      "url": "https://apkpure.net/cn/elemental-world-adventure/julyhot.elementalworld/",
-      "var": true
     }
   ]
 }
