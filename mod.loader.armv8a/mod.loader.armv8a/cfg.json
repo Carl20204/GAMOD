@@ -981,7 +981,6 @@
             "time": 1761264000000
         },
         {
-            "group": 2,
             "label": "黎明前20分钟：付费版",
             "mtime": 1761609600000,
             "pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
@@ -2083,5 +2082,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1761609600005
+    "time": 1761609600009
 }
