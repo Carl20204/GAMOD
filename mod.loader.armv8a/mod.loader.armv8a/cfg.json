@@ -981,6 +981,13 @@
             "time": 1761264000000
         },
         {
+            "group": 2,
+            "label": "黎明前20分钟：付费版",
+            "mtime": 1761609600000,
+            "pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
+            "time": 1761264000000
+        },
+        {
             "label": "僵尸炮艇：生存",
             "mtime": 1742342400000,
             "pkg": "com.flaregames.zgs",
@@ -2076,5 +2083,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1761609600003
+    "time": 1761609600005
 }
