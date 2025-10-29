@@ -1,16 +1,16 @@
 {
-  "vername": "2.4.0",
+  "vername": "2.4.1",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 240,
+  "vercode": 241,
   "min_sdk_version": 24,
   "target_sdk_version": 29,
-  "md5": "CD2C5B7DC87CFD10274D20D78F5EDEF3",
-  "size": 4232818,
+  "md5": "79A4C370FDF22449F268A077E26AFEB0",
+  "size": 4136397,
   "logs": {
-    "en": "无授权【读取应用程序列表/获取全部应用】，也不再丢失导入的游戏\n优化多处细节，更顺手",
-    "zh": "无授权【读取应用程序列表/获取全部应用】，也不再丢失导入的游戏\n优化多处细节，更顺手"
+    "en": "小细节优化，使用更顺手些",
+    "zh": "小细节优化，使用更顺手些"
   },
   "i": false
 }
