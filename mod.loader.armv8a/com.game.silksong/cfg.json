@@ -1,0 +1,43 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐关注B站Up织翼，感谢其将本游戏从PC版本移植到手机上\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自织翼QQ群发布的版本",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "桌面版本启动游戏需要的密码，需加织翼QQ群获取\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff\"\u003e加载MOD启动游戏会已自动跳过密码验证！\u003c/font\u003e\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e部分机型可能出现无法存档的Bug可以去作者QQ群咨询\u003c/font\u003e"
+  },
+  "gms": 1,
+  "info": "游戏以“黄蜂女”为主角，继承了前作银河恶魔城的超高难度，同时引入了新颖的垂直探索、丝线战斗系统以及动态敌人AI。游戏发布后，Steam平台上的峰值在线人数高达53万，创下了独立游戏的全新纪录。\u003cbr\u003e\u003cbr\u003e游戏讲述黄蜂女在受到神秘力量召唤后，进入“纺络王国”，在其中探索苔藓洞窟、珊瑚森林、闪耀城堡等12大区域，揭开王国崩溃的真相。玩家将面临超过200种新敌人，其中包括灵活多变的BOSS“蕾丝”以及能操控丝线的堕落君王，最终做出抉择，是重燃王国的希望，还是堕入无尽的黑暗。",
+  "label": "空洞骑士：丝之歌",
+  "time": 1761782400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自选菜单】可调节无限丝线、冲刺（+距离）、无限跳（+高度）、攻速、伤害、碎片、念珠"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.game.silksong.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.game.silksong",
+  "vercode": 6,
+  "vername": "1.1.5",
+  "publisher": "TeamCherry",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "动作",
+    "角色扮演",
+    "银河恶魔城"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：动作分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
