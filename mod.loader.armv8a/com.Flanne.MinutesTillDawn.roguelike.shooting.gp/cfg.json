@@ -1,12 +1,14 @@
 {
   "faqs": {
     "游戏下载更新说明": "1。推荐从谷歌市场下载安装付费原版\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "本游戏谷歌原版启用了谷歌加固，当前MOD不支持原版的动态脱壳，想玩MOD，请安装网盘分享的安装包。\u003cbr\u003e\u003cbr\u003e俄罗斯的pdalife或土耳其的oyunclub也有付费破解包，只是带小广告弹窗。"
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "本游戏谷歌原版启用了谷歌加固，当前MOD不支持原版的动态脱壳，想玩MOD，请安装网盘分享的安装包。\u003cbr\u003e\u003cbr\u003e不在乎小广告弹窗的话，俄罗斯的pdalife或土耳其的oyunclub也有付费破解包。"
   },
   "gms": 2,
   "info": "付费版比免费版多出几个角色，无广告\u003cbr\u003e\u003cbr\u003e【游戏特色】\u003cbr\u003e*超过80种不同的升级可供选择，每次游戏都有独特的体验！\u003cbr\u003e*丰富的角色、武器、符文、地图和吸血鬼怪物阵容。\u003cbr\u003e*轻松快捷的10-20分钟游戏时间，适合忙碌的游戏玩家。\u003cbr\u003e*符文系统助你提升实力",
   "label": "黎明前20分钟：付费版",
-  "time": 1761264000008,
+  "time": 1761782400008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
@@ -17,12 +19,12 @@
       "pkgname": "com.Flanne.MinutesTillDawn.roguelike.shooting.gp.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
-  "vercode": 793,
-  "vername": "5.8",
+  "vercode": 797,
+  "vername": "5.9",
   "publisher": "Erabit Studios",
   "s3": 0,
   "tags": [
