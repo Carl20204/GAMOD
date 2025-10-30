@@ -1,0 +1,46 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装付费原版\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "本游戏谷歌原版启用了谷歌加固，当前MOD不支持原版的动态脱壳，想玩MOD，请安装网盘分享的安装包。\u003cbr\u003e\u003cbr\u003e不在乎小广告弹窗的话，俄罗斯的pdalife或土耳其的oyunclub也有付费破解包。"
+  },
+  "gms": 2,
+  "info": "付费版比免费版清爽，没有满屏氪金图标与广告，比较纯粹的游戏体验，所以我推荐玩免费版，内容更多，新内容在免费版上出了好久才会更新到付费版上。\u003cbr\u003e\u003cbr\u003e2025年10月24日更新说明：万圣节活动来了\u003cbr\u003e\u003cbr\u003e游戏特色\u003cbr\u003e· 默认武器自动射击，可选择手动瞄准\u003cbr\u003e快速通关（30 分钟内）\u003cbr\u003e· 数十位角色可供您自定义通关方式（单手、疯狂、幸运、法师等等）\u003cbr\u003e· 数百种道具和武器可供选择（火焰喷射器、冲锋枪、火箭发射器或棍棒和石头）\u003cbr\u003e· 在每波持续 20 至 90 秒的敌人攻击中生存下来，并在这段时间内尽可能多地消灭外星人\u003cbr\u003e· 在敌人攻击之间收集材料以获得经验值并从商店购买道具",
+  "label": "土豆兄弟：付费版",
+  "time": 1761782400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自选菜单】可调节经验与材料的收益率！"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.brotato.shooting.survivors.games.paid.android.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.brotato.shooting.survivors.games.paid.android",
+  "vercode": 1030330,
+  "vername": "1.3.330",
+  "publisher": "Erabit Studios",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "肉鸽",
+    "射击",
+    "幸存者"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：射击分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ],
+  "videos": {
+    "https://www.douyin.com/user/self?modal_id\u003d7326875856108883252\u0026showTab\u003dpost": "近防炮大杀四方"
+  }
+}

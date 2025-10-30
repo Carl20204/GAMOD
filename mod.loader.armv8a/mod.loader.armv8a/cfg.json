@@ -653,6 +653,12 @@
             "time": 1761264000000
         },
         {
+            "label": "土豆兄弟：付费版",
+            "mtime": 1761782400000,
+            "pkg": "com.brotato.shooting.survivors.games.paid.android",
+            "time": 1761782400000
+        },
+        {
             "group": 3,
             "label": "崩溃大陆",
             "mtime": 1757289500000,
@@ -2088,5 +2094,5 @@
             "time": 1710547200000
         }
     ],
-    "time": 1761782400003
+    "time": 1761782400004
 }
