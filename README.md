@@ -1,7 +1,7 @@
 README
 ===========================
 
-* 免ROOT的安卓双开应用，专为双开游戏加载MOD而生，最高支持安卓14
+* 免ROOT的安卓双开应用，专为双开游戏加载MOD而生
 
 * 本应用无云服务，无上传行为，没有数据统计，没有广告，仅为单机工具软件
 
@@ -32,6 +32,8 @@ README
 ## 认准官方账号
 
 * B战账号：墨魔豆Official 主页链接：https://b23.tv/CuzcdiA
+
+* B战账号：墨魔豆 主页链接：https://b23.tv/Cii7Vzp
 
 * 抖音账号：墨魔豆Official 主页链接：https://v.douyin.com/wlfGR5iT1jg/ 
 
