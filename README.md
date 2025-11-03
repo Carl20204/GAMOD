@@ -31,6 +31,8 @@ README
 
 ## 认准官方账号
 
+* 爱发电：墨魔豆(GAMOD) 主页链接：https://afdian.com/a/GAMOD
+
 * B战账号：墨魔豆Official 主页链接：https://b23.tv/CuzcdiA
 
 * B战账号：墨魔豆 主页链接：https://b23.tv/Cii7Vzp
