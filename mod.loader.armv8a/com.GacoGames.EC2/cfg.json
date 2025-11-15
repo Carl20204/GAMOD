@@ -1,0 +1,42 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版"
+  },
+  "gms": 1,
+  "info": "[游戏特色]\u003cbr\u003e\u003cbr\u003e☆ 探索！\u003cbr\u003e\u003cbr\u003e一个拥有各种宝藏和资源的开放世界，可以用来强化您的角色！\u003cbr\u003e\u003cbr\u003e☆ 更多技能可供选择！\u003cbr\u003e\u003cbr\u003e每个角色现在拥有 8 种技能和 8 种天赋！您可以根据自己的搭配组合来搭配技能。\u003cbr\u003e\u003cbr\u003e☆ 丰富的角色搭配选择\u003cbr\u003e\u003cbr\u003e经典的属性分配（力量 / 智力 / 敏捷 / 敏捷 / 体力），以满足您的游戏风格。\u003cbr\u003e\u003cbr\u003e☆ 经典的锻造和装备系统\u003cbr\u003e\u003cbr\u003e打造、强化和升级您的装备，以应对更艰巨的挑战！\u003cbr\u003e\u003cbr\u003e☆ 丰富服装等你收集\u003cbr\u003e\u003cbr\u003e为你心爱的角色购买服装，改变他/她的外貌，并获得大幅提升。",
+  "label": "史诗征服2",
+  "time": 1761955200008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自选菜单】免内购，无伤、满怒、技能无CD、满蓝等！"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.GacoGames.EC2.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.GacoGames.EC2",
+  "vercode": 436,
+  "vername": "3.0.2",
+  "publisher": "Gaco Games",
+  "s3": 0,
+  "tags": [
+    "英文",
+    "角色扮演",
+    "二次元",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}

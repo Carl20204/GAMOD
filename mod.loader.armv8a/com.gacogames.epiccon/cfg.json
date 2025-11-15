@@ -1,0 +1,42 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版"
+  },
+  "gms": 1,
+  "info": "[游戏特色]\u003cbr\u003e\u003cbr\u003e☆ 惊人的劈砍行动！\u003cbr\u003e\u003cbr\u003e- 激烈的战略战斗。了解敌人的行为并寻找打击机会！\u003cbr\u003e\u003cbr\u003e- 4个游戏风格迥异的角色可供选择\u003cbr\u003e\u003cbr\u003e- 流体控制系统！没有自动播放！你完全掌控一切\u003cbr\u003e\u003cbr\u003e- 4个难度等级！克服更大的困难获取更多奖励\u003cbr\u003e\u003cbr\u003e☆ 美丽的故事\u003cbr\u003e\u003cbr\u003e- 梦幻而浪漫的故事不会让你失望\u003cbr\u003e\u003cbr\u003e- 带有文字表达的视觉小说式对话\u003cbr\u003e\u003cbr\u003e- 整个故事中都有美丽的CG插图\u003cbr\u003e\u003cbr\u003e- 揭开史诗般的结局！\u003cbr\u003e\u003cbr\u003e☆ 自由角色构建\u003cbr\u003e\u003cbr\u003e- 经典的属性分布（力量/敏捷/智力/耐力），匹配你所需的游戏风格\u003cbr\u003e\u003cbr\u003e- 装备评估，让你选择自己喜欢的构建\u003cbr\u003e\u003cbr\u003e- 通过装备套接获取更多定制\u003cbr\u003e\u003cbr\u003e☆ 独特的技能和特权\u003cbr\u003e\u003cbr\u003e- 每个角色都有区分游戏风格的英雄特权（天生能力）\u003cbr\u003e\u003cbr\u003e- 升级以解锁所有4个技能和4个优势\u003cbr\u003e\u003cbr\u003e- 技能等级系统：一个技能使用越多，它就会越强大\u003cbr\u003e\u003cbr\u003e- 优势系统：明智地分配优势点数以匹配你的构建\u003cbr\u003e\u003cbr\u003e☆ 经典的铁匠和装备系统\u003cbr\u003e\u003cbr\u003e- 杀死敌人的首领，以获取制作最佳装备的材料\u003cbr\u003e\u003cbr\u003e- 将装备从普通升级到稀有再升级到史诗级，将其潜能最大化，直至+20\u003cbr\u003e\u003cbr\u003e- 评估你的装备，以找到与你的角色构建相匹配的最佳状态\u003cbr\u003e\u003cbr\u003e- 使用宝石套接装备！成为技能垃圾信息散布者、噬魂鬼、狂暴狂人或其他任何东西\u003cbr\u003e\u003cbr\u003e☆ 收集各种服装\u003cbr\u003e\u003cbr\u003e- 为你心爱的角色购买服装，改变他们的外观，并获得相当大的力量提升。",
+  "label": "史诗征服",
+  "time": 1761782400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自选菜单】无伤、满怒、技能无CD、金币、红宝石收益等！"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.gacogames.epiccon.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.gacogames.epiccon",
+  "vercode": 146,
+  "vername": "6.2",
+  "publisher": "Gaco Games",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "二次元",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
