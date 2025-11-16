@@ -1,0 +1,42 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装付费原版\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验"
+  },
+  "gms": 1,
+  "info": "在这场手绘风格的平台冒险中，轮流操控三位兄妹展开旅程。\u003cbr\u003e\u003cbr\u003e一场大规模的敌军入侵袭击了阿祖尔群岛，摧毁了曾经守护库瑞恩人遗产的古老堡垒。\u003cbr\u003e\u003cbr\u003e在风暴之中，你只能依靠希望的指引，踏上寻找分散在阿祖尔各地的兄妹之旅——他们每人都面临着独自的危险。\u003cbr\u003e\u003cbr\u003e在这款手绘风格的单人解谜平台游戏中，你将轮流操控三位兄妹，他们各自拥有独特能力，用智慧击败敌人，解开错综复杂的谜题，揭示这片故土深埋已久的秘密。\u003cbr\u003e\u003cbr\u003e重聚你的家人，帮助走投无路的库瑞恩人重建飞船——那是你唯一的生存希望。务必赶在瘟疫吞噬光明和你所珍爱的一切之前完成这一切。",
+  "label": "格里克：阿祖尔的回忆",
+  "time": 1761868800008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自选菜单】满血、满蓝、满箭矢、加钱、无限跳、冲刺、移速等！"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.navegante.greak.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.navegante.greak",
+  "vercode": 10,
+  "vername": "1.2.10",
+  "publisher": "Navegante",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "动作",
+    "银河恶魔城",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
