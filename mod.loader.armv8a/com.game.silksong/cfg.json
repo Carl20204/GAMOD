@@ -6,7 +6,7 @@
   "gms": 1,
   "info": "游戏以“黄蜂女”为主角，继承了前作银河恶魔城的超高难度，同时引入了新颖的垂直探索、丝线战斗系统以及动态敌人AI。游戏发布后，Steam平台上的峰值在线人数高达53万，创下了独立游戏的全新纪录。\u003cbr\u003e\u003cbr\u003e游戏讲述黄蜂女在受到神秘力量召唤后，进入“纺络王国”，在其中探索苔藓洞窟、珊瑚森林、闪耀城堡等12大区域，揭开王国崩溃的真相。玩家将面临超过200种新敌人，其中包括灵活多变的BOSS“蕾丝”以及能操控丝线的堕落君王，最终做出抉择，是重燃王国的希望，还是堕入无尽的黑暗。",
   "label": "空洞骑士：丝之歌",
-  "time": 1761782400018,
+  "time": 1763769600008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -19,12 +19,12 @@
       "pkgname": "com.game.silksong.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.game.silksong",
   "vercode": 6,
-  "vername": "1.1.5",
+  "vername": "1.1.7",
   "publisher": "TeamCherry",
   "s3": 0,
   "tags": [
