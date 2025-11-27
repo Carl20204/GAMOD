@@ -1,29 +1,30 @@
 {
   "faqs": {
-    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！",
-    "为什么不是中文": "部分国际站点例如apkpure下载的安装包为英文版，建议使用极光应用商店或谷歌市场直接下载安装，会基于你的手机语言下载到中文国际版。\u003cbr\u003e\u003cbr\u003ePS：网盘分享里的一定是中文国际版版"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "为什么设置中文无效？\u003cbr\u003e\u003cbr\u003e国际版的部分内容需要科学上网才能更新，包括多语言、部分皮肤等。"
   },
   "gms": 2,
-  "info": "- 在华盛顿特区的街道上庆祝夏日！\u003cbr\u003e- 在季度挑战中解锁街头艺术家Asher，花费活动金币获得他的泼洒套装，并收藏大胆套餐认识Rochelle Rebelle；\u003cbr\u003e- 享受仲夏季度收集赛的节庆奖励，包括仲夏滑板和花后Cleo等；\u003cbr\u003e- 敬请期待美国独立日、环法自行车赛、加拿大日等特别活动！",
+  "info": "- 团队成员们将前往首尔，度过一个充满霓虹灯、K-pop氛围、乐趣和活力的赛季！\u003cbr\u003e\u003cbr\u003e- Subway Surfers x Among Us联动继续：解锁其他团队成员，在这个精彩联动中找到伪装者！\u003cbr\u003e\u003cbr\u003e- 穿越未来派的街道，解锁新角色：Si Woo、Joo Won和Lucky前卫的新套装。\u003cbr\u003e- 参与趣味挑战，炫出你的精彩操作，获得奖励和独家内容。",
   "label": "地铁跑酷：国际版",
-  "time": 1750723200008,
+  "time": 1763164800008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【通用版】当前版本基于游戏2025年6月底发布的版本，但理论上适用于全部游戏版本，如果游戏更新MOD功能失效，可以到墨魔豆的QQ圈子里吱一声",
-        "【强化】可自定义延长各种能力的持续时间",
-        "【免内购】零元购，买买买"
+        "【可选菜单】更改各种能力的持续时间，免内购"
       ],
       "name": "上帝模式",
       "pkgname": "com.kiloo.subwaysurf.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.kiloo.subwaysurf",
-  "vercode": 82745,
-  "vername": "3.48.2",
+  "vercode": 87198,
+  "vername": "3.55.0",
   "publisher": "SYBO Games",
   "s1": [
     256,
@@ -41,19 +42,14 @@
   ],
   "tags": [
     "中文",
-    "国际版",
+    "休闲",
     "跑酷"
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：休闲分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "翻墙",
-      "url": "https://apkpure.net/cn/subway-surfers-1/com.kiloo.subwaysurf",
-      "var": true
     }
   ]
 }
