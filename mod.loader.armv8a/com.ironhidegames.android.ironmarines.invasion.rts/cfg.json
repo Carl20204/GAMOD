@@ -1,0 +1,55 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装付费原版\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "启动游戏卡在输入年龄窗口怎么办？\u003cbr\u003e\u003cbr\u003e此时按返回键，弹出退出游戏时，点绿色按钮“否”，可以直接进入游戏主界面，正常游玩。"
+  },
+  "gms": 2,
+  "info": "- 探索整个银河系的史诗级星球：超过 25 个战役任务将带您进入最不可思议的科幻世界。在激动人心的战场上，您可以探索和保卫海量星球，并执行严密的战略计划！\u003cbr\u003e\u003cbr\u003e- 超过 75 个即时战略游戏特殊行动，助您将海军陆战队的能力提升到此类战争游戏的巅峰水平。\u003cbr\u003e\u003cbr\u003e- 10 个单位群组，共 30 个不同的部队。根据您计划部署的科幻任务和战术计划组合您的后援部队。\u003cbr\u003e\u003cbr\u003e- 9 位史诗级动作英雄可供训练，适应您的战略，并与您所面对的每一个敌人战斗。\u003cbr\u003e\u003cbr\u003e- 8 种特殊武器，增强您在战场上的战术和武器库！\u003cbr\u003e\u003cbr\u003e- 40 种军队升级，助您提升战略，并配备防御无人机、凝固汽油弹火箭等更多此类离线史诗战争游戏常见的功能。\u003cbr\u003e\u003cbr\u003e- 30 多项成就，证明您已成为银河系实时战略战斗专家！\u003cbr\u003e\u003cbr\u003e三种难度模式，为您带来最佳的太空即时战略游戏体验：休闲、普通和高级。",
+  "label": "钢铁战队：入侵",
+  "time": 1763683200008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】英雄与兵种基于关卡解锁，无需内购",
+        "【可选菜单】调整收益、无伤、增伤、加速采矿等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ironhidegames.android.ironmarines.invasion.rts.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.ironhidegames.android.ironmarines.invasion.rts",
+  "vercode": 9669,
+  "vername": "0.16.79",
+  "publisher": "Ironhide Games",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "策略",
+    "RTS",
+    "即时战略",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：策略分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
