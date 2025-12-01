@@ -1,12 +1,14 @@
 {
   "faqs": {
-    "游戏下载更新说明": "本作使用了谷歌加固，推荐下载网盘分享里的安装包，已针对谷歌加固脱壳\u003cbr\u003e\u003cbr\u003e墨魔豆与MOD不支持原版加固版本运行，希望玩MOD版请务必下载安装网盘分享的脱壳版本",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见异常现象\u003c/font\u003e": "1.桌面版本可正常玩，墨魔豆带mod启动卡在启动页面，只要\u003cfont color\u003d\"#ff\"\u003e手机断网\u003c/font\u003e操作一下，进入游戏再恢复联网即可。\u003cbr\u003e\u003cbr\u003e2.墨魔豆可以正常玩，桌面版本闪退，是因为游戏需要谷歌服务，如果你的手机没有谷歌账号/谷歌服务，肯定是无法启动游戏的，只能\u003cfont color\u003d\"#ff\"\u003e使用MOD + 墨魔豆的虚拟谷歌服务\u003c/font\u003e，玩墨魔豆的双开版本。"
+    "游戏下载更新说明": "墨魔豆与MOD不支持谷歌加固的原版安装包运行，仅支持\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的加固脱壳安装包（无广告纯净版）\u003cbr\u003e\u003cbr\u003e不介意弹出广告的话，土耳其的oyunclub、俄罗斯的pdalife也有脱壳版本提供，国内大部分网站提供的下载均搬运自两家之一",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的加固脱壳安装包，支持墨魔豆2.4.2版本新增的直装沙盒模式游玩，无需安装到手机"
   },
   "gms": 2,
   "info": "“《逃出地牢》是一部弹幕地狱地牢爬升游戏，故事情节紧跟前作《挺进地牢》剧情，讲述各个“地牢探险者”来到地牢寻求个人救赎的故事。地牢的存在正在动摇，开始崩塌了！抓起各类武器、点燃劫掠决心、温习翻滚躲闪后，我们的英雄们要踏上各自不同的旅程，通过越来越艰难的电梯向上逃出地牢。本作的地牢怪为数众多、危险至极，战斗节奏紧密。同时你也可以放慢脚步与之前的熟面孔稍作闲聊……当然也有新面孔。变换的房间、敌人、Boss、诡异的武器和道具无一不确保你每次试图逃出地牢的体验都大不相同。\u003cbr\u003e\u003cbr\u003e同时，你还可以戴帽子了。谁不喜欢帽子呢？谁又不喜欢续作呢？本作就是《挺进地牢》的续作。",
   "label": "逃出地牢",
-  "time": 1757635200008,
+  "time": 1764201600008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
@@ -16,13 +18,13 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.Devolver.ExittheGungeon.gm64",
-      "sandbox": 0,
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.Devolver.ExittheGungeon",
-  "vercode": 26,
+  "vercode": 27,
   "vername": "1.0.4",
   "publisher": "DevolverDigital",
   "s1": [
@@ -41,7 +43,7 @@
     "肉鸽",
     "动作",
     "射击",
-    "地牢"
+    "付费完整版"
   ],
   "downloads": [
     {
