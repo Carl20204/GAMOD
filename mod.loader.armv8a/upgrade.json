@@ -1,16 +1,16 @@
 {
-  "vername": "2.4.1",
+  "vername": "2.4.2",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 241,
+  "vercode": 242,
   "min_sdk_version": 24,
   "target_sdk_version": 29,
-  "md5": "79A4C370FDF22449F268A077E26AFEB0",
-  "size": 4136397,
+  "md5": "36CF8AD2A7EA272FADCD19110D46D25A",
+  "size": 4147045,
   "logs": {
-    "en": "小细节优化，使用更顺手些",
-    "zh": "小细节优化，使用更顺手些"
+    "en": "《猫咪大战争》安卓16兼容性修复，支持安装包直装沙盒游戏",
+    "zh": "《猫咪大战争》安卓16兼容性修复，支持安装包直装沙盒游戏"
   },
   "i": false
 }
