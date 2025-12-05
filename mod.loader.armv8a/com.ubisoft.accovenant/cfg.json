@@ -1,0 +1,52 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "配合本MOD，游戏支持直装到墨魔豆（v2.4.3）沙盒中游玩，无需在手机中安装。"
+  },
+  "gms": 1,
+  "info": "2025年11月29日\u003cbr\u003e\u003cbr\u003e各位刺客们好！本次最新更新带来了第六位阶——高手位阶！\u003cbr\u003e在你的别墅建造新的精英仪式室，便能将精英和传说英雄升到 5 阶以上，进一步壮大你的兄弟会！\u003cbr\u003e钱币不足？完成任务赢得星数，不断填满存钱罐、收取其中的钱币，还能升级其储量！\u003cbr\u003e此外，我们还进行了多项技术更新和漏洞修复。",
+  "label": "刺客信条：燎原",
+  "time": 1764374400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】减伤、金币、宝石、珍珠、爆发槽无限、强化"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ubisoft.accovenant.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.ubisoft.accovenant",
+  "vercode": 108791,
+  "vername": "3.9.1",
+  "publisher": "Ubisoft Entertainment",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "策略",
+    "探索"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：策略分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
