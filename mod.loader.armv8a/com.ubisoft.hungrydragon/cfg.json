@@ -1,30 +1,31 @@
 {
   "faqs": {
-    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
-    "下载额外数据包": "Boss战、神殿任务、新装备等都需要下载额外数据包，国内玩家可能需要翻墙",
-    "切换中文": "如果首次进入游戏没有自动切换为中文，可在开始画面点击左上角齿轮图标，选择画面中间的语言选项，可更换中文"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "配合本MOD，游戏支持直装到墨魔豆（v2.4.3）沙盒中游玩，无需在手机中安装。\u003cbr\u003e\u003cbr\u003eBoss战、神殿任务、新装备等都需要下载额外数据包，国内下载速度较慢，建议科学上网\u003cbr\u003e\u003cbr\u003e如果首次进入游戏没有自动切换为中文，可在开始画面点击左上角齿轮图标，选择画面中间的语言选项，可更换中文"
   },
-  "gms": 1,
-  "info": "育碧自家出品的饥饿鲨的换皮之作，但还是很好玩，烈焰吐息之下万物皆焚",
+  "gms": 2,
+  "info": "释放飞龙\u003cbr\u003e\u003cbr\u003e• 收集凶猛的喷火飞龙，每条飞龙都有其独特的魅力\u003cbr\u003e\u003cbr\u003e• 解锁疯狂服装，飞得更快、燃烧更旺、吞噬更多\u003cbr\u003e\u003cbr\u003e• 装备奇异宠物和奇异生物，提升你的实力\u003cbr\u003e\u003cbr\u003e• 通过捕食城镇居民、怪物和其他美味猎物来升级并进行训练\u003cbr\u003e\u003cbr\u003e疯狂进食\u003cbr\u003e\u003cbr\u003e• 飞越、探索并摧毁遍布村庄、森林、山丘和妖精城的世界！\u003cbr\u003e\u003cbr\u003e• 冲破障碍，进入隐藏区域\u003cbr\u003e\u003cbr\u003e• 吞食更多食物，获得更高分数——饥饿的飞龙永不满足！\u003cbr\u003e\u003cbr\u003e感受炙烤的快感\u003cbr\u003e\u003cbr\u003e• 在史诗级 3D 画面的广阔自由漫游世界中尽情烧烤\u003cbr\u003e\u003cbr\u003e• 开启烈火冲刺，释放烈焰，焚烧沿途一切！\u003cbr\u003e\u003cbr\u003e• 烤制一顿中世纪盛宴，汇聚怪物、士兵、巨魔、女巫等等\u003cbr\u003e\u003cbr\u003e释放传奇\u003cbr\u003e\u003cbr\u003e• 进化并训练传奇巨龙 - 奇异的怪物和恐龙混合体\u003cbr\u003e\u003cbr\u003e• 解锁史诗级特殊力量 - 训练越多，力量越强大！\u003cbr\u003e\u003cbr\u003e• 参加传奇联赛，击败好友和敌人，成为传奇！",
   "label": "饥饿龙",
-  "time": 1739318400008,
+  "time": 1764806400008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【通用版】基于2025年2月谷歌商店更新的游戏版本开发，如果出现游戏升级MOD功能失效问题，可以去墨魔豆的QQ圈子里吱一声",
         "【自动激活】免广告，所有激励广告白嫖",
         "【可选菜单】手动调节减伤幅度、金币、宝石收益率、冲刺无限、烈焰无限"
       ],
       "name": "上帝模式",
       "pkgname": "com.ubisoft.hungrydragon.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.ubisoft.hungrydragon",
-  "vercode": 718,
-  "vername": "5.4",
+  "vercode": 721,
+  "vername": "5.6",
   "publisher": "Ubisoft Entertainment",
   "s1": [
     256,
@@ -39,7 +40,8 @@
   "s3": 1536,
   "search": [
     "饥饿",
-    "饥饿鲨"
+    "饥饿鲨",
+    "饥饿的鲨鱼"
   ],
   "tags": [
     "中文",
@@ -48,14 +50,9 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：休闲分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "下载页|翻墙",
-      "url": "https://apkpure.net/cn/hungry-dragon/com.ubisoft.hungrydragon/",
-      "var": true
     }
   ]
 }
