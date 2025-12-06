@@ -1,0 +1,52 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。\u003cfont color\u003d\"#ff\"\u003e中国区域用户，可以下载\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e网盘分享：策略分类\u003c/a\u003e里的安装包，搬运自谷歌市场的原版\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "配合本MOD，游戏支持直装到墨魔豆（v2.4.3）沙盒中游玩，无需在手机中安装。"
+  },
+  "gms": 2,
+  "info": "你能阻止叛乱吗？《瘟疫公司》的开发者倾情打造了一款独特且引人入胜的政治/军事战略模拟游戏。\u003cbr\u003e\u003cbr\u003e战争“结束”了——但我们都知道，这并不意味着什么。为了稳定国家，你需要平衡军事和民事优先事项，赢得民心，同时阻止叛乱分子夺取政权！\u003cbr\u003e\u003cbr\u003e《叛军公司》是《瘟疫公司》的开发者倾情打造的全新游戏。《叛军公司》以现代反叛乱的复杂性和后果为灵感，带来引人入胜的战略挑战。\u003cbr\u003e\u003cbr\u003e◈◈◈\u003cbr\u003e\u003cbr\u003e特色：\u003cbr\u003e\u003cbr\u003e● 稳定 7 个模型丰富的地区\u003cbr\u003e\u003cbr\u003e● 创新的反叛乱战术\u003cbr\u003e\u003cbr\u003e● 资助现实行动，赋能地方政府\u003cbr\u003e\u003cbr\u003e● 基于广泛研究，构建高度精细的超现实世界\u003cbr\u003e\u003cbr\u003e● 智能战略和战术 AI\u003cbr\u003e\u003cbr\u003e● 由你的决策塑造的复杂叙事算法\u003cbr\u003e\u003cbr\u003e● 8 位能力迥异的独特统治者\u003cbr\u003e\u003cbr\u003e● 全面的游戏内帮助和教程系统\u003cbr\u003e\u003cbr\u003e● 完整的保存/加载功能\u003cbr\u003e\u003cbr\u003e● 无需网络连接",
+  "label": "叛军公司",
+  "time": 1764288000008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】全部付费项目"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.ndemiccreations.rebelinc.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.ndemiccreations.rebelinc",
+  "vercode": 151251311,
+  "vername": "1.16.8",
+  "publisher": "Ndemic Creations",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "策略",
+    "模拟经营"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：策略分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
