@@ -1,28 +1,31 @@
 {
   "faqs": {
-    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e不会翻墙，到墨魔豆的QQ圈子里要也行\u003c/font\u003e"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 2,
-  "info": "具有挑战性的行动战斗：\u003cbr\u003e体验激烈的实时动作战斗，考验您的技能。简单而灵活的触摸控制与智能自动瞄准相结合，使你的战斗体验更加舒适。\u003cbr\u003e\u003cbr\u003e令人惊叹的像素艺术视觉效果：\u003cbr\u003e探索各种精美的手工像素艺术环境和角色。沉浸在独创配乐中，随着时间和游戏玩法无缝变化，以匹配心情。\u003cbr\u003e\u003cbr\u003e离线游戏\u003cbr\u003e无需网络连接！随时离线玩，或使用云存储在所有设备上保持进度。\u003cbr\u003e\u003cbr\u003eEndless Wander 的全新、独特和移动优先的体验，是游戏的灵魂。无论您是肉鸽游戏初学者，还是之前在无数像素地牢中战斗过，Endless Wander 都经过精心制作，可提供卓越的肉鸽体验。",
+  "info": "在这款离线动作类 Roguelike 游戏中体验史诗般的战斗，探索像素艺术世界\u003cbr\u003e\u003cbr\u003e第三章来啦！\u003cbr\u003e\u003cbr\u003e“一个神秘的传送门被封印多年后重新开启，诺武有机会拯救被困其中的妹妹，并重建流浪者公会。”\u003cbr\u003e\u003cbr\u003e《无尽的漫游》是一款像素风格的离线 Roguelike 角色扮演游戏。它拥有令人满意的挑战性玩法，无限的重玩价值，以及独立游戏的独特风格。\u003cbr\u003e\u003cbr\u003e终极移动 Roguelike 游戏：\u003cbr\u003e\u003cbr\u003e通过组合武器技能和魔法符文，尝试打造最佳角色配置。解锁独特的角色，升级他们，探索充满凶猛敌人的神秘世界，体验无限的 Roguelike 重玩乐趣。\u003cbr\u003e\u003cbr\u003e极具挑战性的动作战斗：\u003cbr\u003e\u003cbr\u003e体验紧张刺激的实时动作战斗，考验你的技巧。简单灵敏的触控操作，加上智能自动瞄准，让与无情敌人和 Boss 的战斗更加酣畅淋漓。\u003cbr\u003e\u003cbr\u003e惊艳的像素艺术画面：\u003cbr\u003e\u003cbr\u003e探索各种精美的手工像素艺术场景和角色。沉浸于原创配乐之中，它会随着时间和游戏进程无缝切换，完美契合游戏氛围。\u003cbr\u003e\u003cbr\u003e离线游戏\u003cbr\u003e\u003cbr\u003e无需网络连接！随时随地离线畅玩，或使用云存档在所有设备上同步游戏进度。",
   "label": "无尽漫游",
-  "time": 1743552000008,
+  "time": 1762560000008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "本MOD为通用版本，游戏更新升级无需更换MOD，如果出现功能失效，可以在墨魔豆的QQ圈子里留言",
         "【免广告】自动激活，所有广告奖励可白嫖",
         "【自选菜单】可调节减伤、增伤、无CD、解锁全角色、收获增加、消费打折等"
       ],
       "name": "上帝模式",
       "pkgname": "com.FirstPickStudios.EndlessWander.gm64",
+      "sandbox": 155,
       "targetvc": "*",
       "vercode": 3
     }
   ],
   "pkgname": "com.FirstPickStudios.EndlessWander",
-  "vercode": 315,
-  "vername": "2.3.3",
+  "vercode": 364,
+  "vername": "3.0.4",
   "publisher": "First Pick Studios",
   "s3": 0,
   "tags": [
@@ -33,13 +36,8 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：动作分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/6yAfbtuL",
       "var": false
     }
   ]
