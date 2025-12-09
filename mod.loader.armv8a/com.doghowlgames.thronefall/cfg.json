@@ -1,12 +1,14 @@
 {
   "faqs": {
-    "游戏更新建议": "网盘分享的是大神订制的已付费完整版，无广告，无修改，纯净原版，建议下载安装此版本\u003cbr\u003e\u003cbr\u003e桌面启动游戏可以玩原汁原味的原版，墨魔豆带MOD启动可以玩爽版",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见异常现象\u003c/font\u003e": "启动游戏黑屏等2、30秒的现象，只要断一下网就可以了"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装付费原版\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e如果出现启动游戏黑屏等2、30秒的现象，只要断一下网就可以了\u003c/font\u003e"
   },
-  "gms": 1,
+  "gms": 2,
   "info": "“不再头疼的策略游戏？我们满足您的需求\u003cbr\u003e\u003cbr\u003eThronefall – 一款广受好评并获奖的PC游戏!\u003cbr\u003e\u003cbr\u003eMetacritic评分：92%。Steam：好评如潮，96%\u003cbr\u003e\u003cbr\u003e在Thronefall中，我们试图剥离经典策略游戏中所有不必要的复杂性，并将其与适量的砍杀结合起来。在白天建立你的基地，在晚上保卫它直到你的最后一口气。\u003cbr\u003e\u003cbr\u003e您能在经济和防御之间找到合适的平衡吗？您需要更多的弓箭手、更厚的城墙还是额外的磨坊？您会用长弓将敌人挡在外面，还是骑马冲向他们？今晚将是艰难的一夜，但没有什么比看到太阳升起在您的小王国上空，迎来新的一天更令人欣喜的了。",
   "label": "王权陨落",
-  "time": 1752796800008,
+  "time": 1765152000008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
@@ -15,14 +17,14 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.doghowlgames.thronefall.gm64",
-      "sandbox": 0,
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.doghowlgames.thronefall",
-  "vercode": 7,
-  "vername": "2.12.10",
+  "vercode": 21,
+  "vername": "2.12.16",
   "publisher": "Doghowl Games Ltd",
   "s1": [
     512,
