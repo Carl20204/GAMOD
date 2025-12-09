@@ -1,12 +1,14 @@
 {
   "faqs": {
-    "游戏更新建议": "网盘分享的是大神订制版本，无广告，无修改，纯净原版，建议下载安装此版本\u003cbr\u003e\u003cbr\u003e桌面启动游戏可以玩原汁原味的原版，墨魔豆带MOD启动可以玩爽版",
-    "MOD功能提醒": "开启无限跳乱跳后，因游戏中有些大场景的空气墙不够完善，很容易卡进墙壁，卡住会自动死亡\u003cbr\u003e\u003cbr\u003e乱跳越界超出空气墙，也会自动死亡。"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装付费原版\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e开启无限跳乱跳后，因游戏中有些大场景的空气墙不够完善，很容易卡进墙壁，卡住会自动死亡\u003cbr\u003e乱跳越界超出空气墙，也会自动死亡。"
   },
-  "gms": 1,
+  "gms": 2,
   "info": "- 最后几个版本更新全面优化了平板体验！\u003cbr\u003e\u003cbr\u003e- 主机和 PC 版本的相同内容登陆移动设备！\u003cbr\u003e\u003cbr\u003e- 包含从第 1 天开始发布的全部可下载内容。\u003cbr\u003e\u003cbr\u003e- 可搭配游戏手柄或触摸屏游玩。\u003cbr\u003e\n银河恶魔城类型的佳作",
-  "label": "渎神",
-  "time": 1748217600018,
+  "label": "神之亵渎",
+  "time": 1761264000008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
@@ -15,14 +17,14 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.thegamekitchen.blasphemousmobile.gm64",
-      "sandbox": 0,
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.thegamekitchen.blasphemousmobile",
-  "vercode": 31,
-  "vername": "1.7",
+  "vercode": 38,
+  "vername": "1.9",
   "publisher": "The Game Kitchen",
   "s1": [
     512,
@@ -36,7 +38,7 @@
   ],
   "s3": 1024,
   "search": [
-    "神之亵渎",
+    "渎神",
     "恶魔城",
     "银河战士",
     "银河恶魔城"
@@ -49,7 +51,7 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：角色扮演",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
