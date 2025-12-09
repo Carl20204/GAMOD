@@ -1,22 +1,25 @@
 {
   "faqs": {
-    "游戏更新建议": "游戏为付费版，网盘分享里作者订制的的纯净无广告版本"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装付费原版\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 2,
-  "info": "超大开放世界，无厘头的对话剧情，500多种合成装备道具，有趣的战斗体系，优点太多说不完怎么办？\u003cbr\u003e\u003cbr\u003e网盘分享的安装包是大神订制的无小广告纯净原版",
+  "info": "超大开放世界，无厘头的对话剧情，500多种合成装备道具，有趣的战斗体系，优点太多说不完怎么办？",
   "label": "崩溃大陆",
-  "time": 1738454400008,
+  "time": 1738454400018,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，自定义调节各种战斗模式，物品自由收集，快速跑图，怎么舒服怎么来"
+        "【可选菜单】调节各种战斗模式，物品自由收集，快速跑图，怎么舒服怎么来"
       ],
       "name": "上帝模式",
       "pkgname": "com.bscotch.crashlands.gm64",
-      "sandbox": 0,
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.bscotch.crashlands",
@@ -41,7 +44,7 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：角色扮演",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
