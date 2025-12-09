@@ -979,17 +979,17 @@
       "time": 1743552000000
     },
     {
-      "group": 2,
       "label": "黎明前20分钟",
       "mtime": 1761609600000,
       "pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp",
       "time": 1761264000000
     },
     {
+	  "group": 2,
       "label": "黎明前20分钟：付费版",
-      "mtime": 1761782400000,
+      "mtime": 1765238400000,
       "pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
-      "time": 1761782400000
+      "time": 1764720000000
     },
     {
       "label": "僵尸炮艇：生存",
@@ -2147,5 +2147,5 @@
       "time": 1710547200000
     }
   ],
-  "time": 1765238400000
+  "time": 1765238400001
 }
