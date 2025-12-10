@@ -1,13 +1,18 @@
 {
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "本游戏不支持直装墨魔豆沙盒副本，务必先正常安装进手机里，再导入墨魔豆中游玩。"
+  },
   "gms": 1,
-  "info": "波斯王子+银河恶魔城+育碧的美术+大厂技术优化，让之前steam爆火的本作在手机上也能畅玩。\u003cbr\u003e\u003cbr\u003e建议用谷歌商店下载原版，不会翻墙的，网盘分享里有谷歌原版，墨魔豆+MOD可自动激活付费完整版",
+  "info": "《波斯王子™：失落的王冠》是一款动作冒险平台游戏，灵感源自类银河战士恶魔城游戏，背景设定在一个充满神话色彩的波斯世界。\u003cbr\u003e\u003cbr\u003e扮演萨尔贡，一位非凡而无畏的年轻英雄，踏上史诗般的冒险之旅。女王托米里斯召唤你，你将与你的战友“不朽者”们一同执行一项拯救她儿子的任务：加桑王子。\u003cbr\u003e\u003cbr\u003e这条路将引领你前往卡夫山，这座古老的众神之城如今已被诅咒，充斥着被时间腐蚀的敌人和荒凉的神话生物。\u003cbr\u003e\u003cbr\u003e为了完成你的任务，你必须掌握独特的时间力量、战斗和平台跳跃技能，使出致命的组合技击败敌人，恢复世界的平衡。\u003cbr\u003e\u003cbr\u003e专为移动设备精心重新设计，并配备以下专属移动功能：\u003cbr\u003e\u003cbr\u003e- 原生改进的界面和触控，提供完全自定义的重新映射选项：您可以根据自己的喜好更改按钮的位置、形状、大小和位置。\u003cbr\u003e\u003cbr\u003e- 支持外部控制器\u003cbr\u003e\u003cbr\u003e- 全新自动模式和更多选项，简化战斗或平台跳跃流程：自动药水、自动格挡、可选护盾、方向指示器、墙壁抓握等。\u003cbr\u003e\u003cbr\u003e- 支持原生屏幕比例 16:9 至 20:9",
   "label": "波斯王子：失落的王冠",
-  "time": 1754611200018,
+  "time": 1763510400008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【通用版】基于2025年8月谷歌商店更新的游戏版本开发，如果出现游戏升级MOD功能失效问题，可以去墨魔豆的QQ圈子里吱一声",
         "【自动激活】所有购买内容解锁：完全版+皮肤+DLC",
         "【可选菜单】手动调节隐身无敌，水晶、物品、道具收益多多"
       ],
@@ -15,12 +20,12 @@
       "pkgname": "com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform",
-  "vercode": 50,
-  "vername": "1.1.1a",
+  "vercode": 56,
+  "vername": "1.1.7",
   "publisher": "Ubisoft Entertainment",
   "s1": [
     256,
@@ -36,11 +41,12 @@
   "tags": [
     "中文",
     "动作",
+    "角色扮演",
     "银河恶魔城"
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：角色扮演",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
