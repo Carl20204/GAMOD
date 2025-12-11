@@ -2000,6 +2000,12 @@
       "time": 1725148800000
     },
     {
+      "label": "暗影格斗：死亡之影",
+      "mtime": 1765411200000,
+      "pkg": "com.Zonmob.Stickman.FightingGames.ShadowOfDeath",
+      "time": 1765324800000
+    },
+    {
       "label": "冷酷灵魂：黑暗幻想",
       "mtime": 1711411200000,
       "pkg": "fantasy.survival.game.rpg",
@@ -2155,5 +2161,5 @@
       "time": 1710547200000
     }
   ],
-  "time": 1765324800000
+  "time": 1765411200000
 }
