@@ -1,0 +1,44 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "《Subdivision Infinity》是一款沉浸式、扣人心弦的科幻 3D 太空射击游戏。\u003cbr\u003e\u003cbr\u003e准备好你的飞船，在 6 个不同地点的 50 多个引人入胜的任务中，航行于浩瀚的宇宙中。追击并摧毁敌方飞船，摧毁主力舰，开采小行星获取稀有矿物，并寻找蓝图来打造令人惊叹的新飞船。\u003cbr\u003e\u003cbr\u003e《Subdivision Infinity》拥有惊艳的画面和紧凑的太空游戏玩法。除了主线任务外，你还可以选择一系列可选目标，包括太空探索、赏金猎人和采矿作业，让你的旅程更加精彩。\u003cbr\u003e\u003cbr\u003e游戏特色：\u003cbr\u003e\u003cbr\u003e• 第一个地点免费畅玩！\u003cbr\u003e\u003cbr\u003e• 主线剧情中有超过 50 个任务\u003cbr\u003e\u003cbr\u003e• 6 个独特的地点，每个地点都有不同的氛围和感觉\u003cbr\u003e\u003cbr\u003e• 独特的 Boss！不仅包含摧毁主力舰，更鼓励玩家这样做。\u003cbr\u003e\u003cbr\u003e• 丰富的支线任务！暂时放下主线剧情，参与一些充满成就感的支线活动，包括：\u003cbr\u003e\u003cbr\u003e• 探索 - 寻找失落的遗物，例如舰船蓝图，来装备和升级你的舰船。或者，建造一艘新舰船！\u003cbr\u003e\u003cbr\u003e• 自由狩猎 - 挑战敌方飞船，磨练你的战斗技能\u003cbr\u003e\u003cbr\u003e• 采矿 - 采集小行星并出售其矿物以获取利润，或用于打造独特的舰船\u003cbr\u003e\u003cbr\u003e• 丰富的武器和舰船可供购买和升级\u003cbr\u003e\u003cbr\u003e• 精美的3D画面！完美呈现精彩的太空战斗",
+  "label": "无尽空间",
+  "time": 1764547200008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费完整版（全付费地图）",
+        "【可选菜单】调整收益率、折扣率、护盾、加速槽、导弹、飞船制造等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.crescentmoongames.subdivision.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.crescentmoongames.subdivision",
+  "vercode": 7332,
+  "vername": "1.0.7332",
+  "publisher": "Crescent Moon Games",
+  "s3": 0,
+  "tags": [
+    "英文",
+    "射击",
+    "飞行射击",
+    "付费完整版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：射击分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
