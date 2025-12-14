@@ -1,12 +1,14 @@
 {
   "faqs": {
-    "游戏规则1": "开局后，英雄身边的水晶就是主基地，玩家操作英雄，开一扇扇门，检查房间，找到出现紧急出口标志的房间后，再派一个英雄回开局房间，点击水晶可以抱走运输，运到这间紧急出口房间就成功过关。",
-    "游戏规则2": "每间房间，可以建设数量不等的炮塔，点击左下角扳手图标，选择武器图标，开局只有一个最低级的炮塔可造，花费3齿轮。\u003cbr\u003e\u003cbr\u003e粮食、齿轮等资源，每回合自动增加，也可以建造生产水晶提高资源产量。"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装付费原版\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e游戏玩法：\u003cbr\u003e\u003cbr\u003e开局后，英雄身边的水晶就是主基地，玩家操作英雄，开一扇扇门，检查房间，找到出现紧急出口标志的房间后，再派一个英雄回开局房间，点击水晶可以抱走运输，运到这间紧急出口房间就成功过关。\u003cbr\u003e\u003cbr\u003e每间房间，可以建设数量不等的炮塔，点击左下角扳手图标，选择武器图标，开局只有一个最低级的炮塔可造，花费3齿轮。\u003cbr\u003e\u003cbr\u003e粮食、齿轮等资源，每回合自动增加，也可以建造生产水晶提高资源产量。"
   },
   "gms": 1,
-  "info": "1.99$的付费游戏，网盘分享的安装包为移除付费检测的改包（纯净版，没有网站小广告），希望玩原版的可自行去谷歌商店付费下载。\u003cbr\u003e\u003cbr\u003eSEGA品质保证，playdigious再次品质保证，肉鸽地下城类型，游戏是好游戏，但纯英文劝退普通玩家。\u003cbr\u003e\u003cbr\u003e强烈建议玩之前先看看基础的新手视频，了解玩法后再玩，明白玩法后，就算看不懂英文也非常好玩",
+  "info": "SEGA品质保证，playdigious再次品质保证，肉鸽地下城类型，游戏是好游戏，但纯英文劝退普通玩家。\u003cbr\u003e\u003cbr\u003e强烈建议玩之前先看看基础的新手视频，了解玩法后再玩，明白玩法后，就算看不懂英文也非常好玩",
   "label": "无尽地牢",
-  "time": 1680048000008,
+  "time": 1760313600008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
@@ -15,13 +17,14 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.playdigious.skul.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.playdigious.dungeonoftheendless",
-  "vercode": 31,
-  "vername": "1.3.13",
+  "vercode": 36,
+  "vername": "1.3.21",
   "publisher": "playdigious",
   "s1": [
     512,
@@ -42,22 +45,9 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/f8USV6Yl",
+      "host": "网盘分享：策略分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/NjBeEeu5",
-      "var": false
-    },
-    {
-      "host": "apkpure[翻墙]",
-      "url": "https://apkpure.net/cn/dungeon-of-the-endless-apogee/com.playdigious.dungeonoftheendless",
-      "var": true
     }
-  ],
-  "videos": {
-    "https://www.douyin.com/user/self?modal_id\u003d7259745955082243386": "Steam喜加一"
-  }
+  ]
 }
