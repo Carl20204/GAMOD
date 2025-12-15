@@ -1,44 +1,41 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e游戏启动有点慢？\u003c/font\u003e\u003cbr\u003e断一下网即可，因为游戏此时在尝试访问谷歌，导致卡20秒左右"
+  },
   "gms": 2,
-  "info": "很有创意的战术塔防，兵种的相生相克，出兵的时机把握，Boss战的QTE，都让游戏与众不同",
+  "info": "◆《国王之血：防御》是一款策略防御游戏，其玩法与传统防御游戏截然不同。\u003cbr\u003e\u003cbr\u003e[注意]\u003cbr\u003e\u003cbr\u003e* 在“选项”界面保存游戏后，如果长时间未访问游戏，游戏数据可能会被自动删除。请注意，更换设备后，您必须保存游戏并使用相同的账户访问游戏。\u003cbr\u003e\u003cbr\u003e■ 《国王之血》是一款基于故事的策略防御游戏，设有结局。游戏提供普通战斗、防御战斗和征服战斗，且不限制等级。\u003cbr\u003e\u003cbr\u003e■ 《国王之血》中的四位独特英雄是玩家的得力助手，每位英雄都有自己的故事。\u003cbr\u003e\u003cbr\u003e■ 您可以选择角色的外貌、性别和名称来创建自己的角色。\u003cbr\u003e\u003cbr\u003e■ 玩家可以雇佣来自不同国家的各种部队和士兵，包括波尔多骑士团。\u003cbr\u003e\u003cbr\u003e■ 士兵和部队之间存在统治动态，士兵的独特能力和技能会随着等级的提升而极大地影响游戏玩法。\u003cbr\u003e\u003cbr\u003e■ 提取附魔血石，根据需要增强士兵、物品和能力。\u003cbr\u003e\u003cbr\u003e■ 玩家可以通过在征服战中击败吸血鬼领主来获得道具，更换装备来提升士兵和自身的能力。",
   "label": "国王之血：防御",
-  "time": 1704326400008,
+  "time": 1764892800008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免广告，所有激励广告可白嫖",
-        "可选菜单，可调节血石收益率与消费折扣，出兵时间，投石机CD，传说级装备掉率，商店全解锁等等"
+        "【自动激活】免广告，所有激励广告可白嫖",
+        "【可选菜单】调节血石收益率与消费折扣，出兵时间，投石机CD，传说级装备掉率，商店全解锁等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.dawinstone.kb.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.dawinstone.kb",
-  "vercode": 144,
-  "vername": "1.3.5",
+  "vercode": 147,
+  "vername": "1.3.8",
   "publisher": "DAWINSTONE GAMES",
-  "signmd5": "A06874CD310285E09C05C76C203299FC",
+  "s3": 0,
   "tags": [
     "中文",
-    "离线",
-    "塔防",
-    "战术"
+    "策略"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/APK/com.dawinstone.kb?versionCode\u003d144",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/king-s-blood-the-defense/com.dawinstone.kb/download",
+      "host": "网盘分享：策略分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
