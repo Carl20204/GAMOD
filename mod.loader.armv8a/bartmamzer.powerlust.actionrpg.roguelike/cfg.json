@@ -1,24 +1,30 @@
 {
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
   "gms": 2,
-  "info": "标准的地下城暗黑类游戏，同类可参考《火炬之光》《拉结尔》《异教之神》《地牢猎手4》等",
+  "info": "肉鸽游戏机制。\u003cbr\u003e\u003cbr\u003e程序生成的地下城。可选永久死亡。基于技能的战斗。\u003cbr\u003e\u003cbr\u003e完全免费，无任何费用\u003cbr\u003e\u003cbr\u003e微交易是指捐赠，并获得酷炫的装饰奖励，例如视角（自上而下、第三人称视角、第一人称视角）、视角滤镜、角色定制和血腥模式。此外，它还包含一些生活品质功能，例如更快解锁和共享物品箱。\u003cbr\u003e\u003cbr\u003e没有固定的职业\u003cbr\u003e\u003cbr\u003e你可以创建 你自己的职业，没有任何限制，你可以扮演挥舞双手剑的火焰法师，或者死灵弓箭手。",
   "label": "我渴望力量",
-  "time": 1723766400008,
+  "time": 1761955200008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动免广告，所有广告奖励白嫖",
-        "可选菜单：各种战场技能的强化"
+        "【可选菜单】收益率、折扣率、能量无限、免伤、增伤、技能点、天赋点"
       ],
       "name": "上帝模式",
       "pkgname": "bartmamzer.powerlust.actionrpg.roguelike.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "bartmamzer.powerlust.actionrpg.roguelike",
-  "vercode": 16604,
-  "vername": "1.66.04",
+  "vercode": 16906,
+  "vername": "1.69.06",
   "publisher": "Bartlomiej Mamzer",
   "s1": [
     256,
@@ -34,24 +40,13 @@
   "tags": [
     "中文",
     "动作",
-    "刷刷刷",
-    "地下城"
+    "刷刷刷"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/PuURFwt8",
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/6yAfbtuL",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/powerlust-action-rpg-offline/bartmamzer.powerlust.actionrpg.roguelike/download",
-      "var": true
     }
   ]
 }
