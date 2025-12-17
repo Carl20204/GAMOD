@@ -1,0 +1,54 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "率领来自古代、亡灵、幻想世界的红蓝搞怪兵种，在这款基于史上最无厘头物理系统创建的游戏中展开激战。\u003cbr\u003e\u003cbr\u003e如果对100多个兵种感到厌倦，你可以在兵种编辑器中创建自己的兵种。\u003cbr\u003e\u003cbr\u003e你也可以派出大军，与好友或陌生人进行在线多人对战！\u003cbr\u003e\u003cbr\u003eFeatures:\u003cbr\u003e\u003cbr\u003e- 战役\u003cbr\u003e\u003cbr\u003e- 多人\u003cbr\u003e\u003cbr\u003e- 沙盒模式\u003cbr\u003e\u003cbr\u003e- 兵种操控\u003cbr\u003e\u003cbr\u003e- 一系列无厘头兵种",
+  "label": "全面战争模拟器",
+  "time": 1765152000008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】自动按游客模式登录",
+        "【可选菜单】自定义红队、蓝队部队受伤减免或增加"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.xd.tabs.google.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.xd.tabs.google",
+  "vercode": 79,
+  "vername": "1.1.05",
+  "publisher": "Landfall Games",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "策略",
+    "沙盒",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：策略分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
