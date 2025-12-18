@@ -1,12 +1,14 @@
 {
   "faqs": {
     "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见异常现象\u003c/font\u003e": "1。游戏原版为crunchyroll的专属付费会员版，不带MOD启动游戏会卡在注册账号界面\u003cbr\u003e\u003cbr\u003e2。第一次进游戏为英文，点击设置【齿轮图标】，连续点击【language】，直到切换为【简体中文】，英语听力不行的别忘记点开紧跟着的选项【字幕开关】"
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e第一次进游戏为英文，点击设置【齿轮图标】，连续点击【language】，直到切换为【简体中文】，英语听力不行的别忘记点开紧跟着的选项【字幕开关】\u003c/font\u003e"
   },
   "gms": 2,
   "info": "《桑塔》系列的第五部正统续作。玩家将扮演性感热辣的半精灵舞娘桑塔，在热带岛屿与沉没城市中展开冒险，对抗七名塞壬，并解锁新能力拯救世界\u003cbr\u003e\u003cbr\u003e主要特色：\u003cbr\u003e• 穿越广阔、互联互通的海底世界！\u003cbr\u003e• 使用融合魔法瞬间切换生物形态！\u003cbr\u003e• 跳肚皮舞激活机械、恢复生命值等等！\u003cbr\u003e• 收集怪物卡并增强实力！\u003cbr\u003e• 享受迷你游戏，获取魔法和物品，揭开秘密！\u003cbr\u003e• 精美绝伦的电视风格动画过场动画！\u003cbr\u003e• 全新角色和经典角色回归，例如 Rottytops、Sky、Bolo 和邪恶海盗 Risky Boots！",
   "label": "桑塔和七赛莲",
-  "time": 1758067200018,
+  "time": 1760659200008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
@@ -18,12 +20,12 @@
       "pkgname": "com.crunchyroll.gv.shantae7sirens.game.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.crunchyroll.gv.shantae7sirens.game",
-  "vercode": 21,
-  "vername": "1.00.03",
+  "vercode": 22,
+  "vername": "1.00.04",
   "publisher": "Crunchyroll, LLC",
   "s1": [
     256,

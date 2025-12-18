@@ -709,9 +709,9 @@
     {
       "group": 9,
       "label": "元气骑士",
-      "mtime": 1763337600001,
+      "mtime": 1766102400000,
       "pkg": "com.ChillyRoom.DungeonShooter",
-      "time": 1762387200000
+      "time": 1766016000000
     },
     {
       "label": "绝地鸭卫：国际版",
@@ -801,15 +801,15 @@
     {
       "group": 6,
       "label": "桑塔和七赛莲",
-      "mtime": 1760400000000,
+      "mtime": 1766102400000,
       "pkg": "com.crunchyroll.gv.shantae7sirens.game",
-      "time": 1758067200010
+      "time": 1760659200000
     },
     {
       "label": "幕府将军对决",
-      "mtime": 1760400000000,
+      "mtime": 1766102400000,
       "pkg": "com.crunchyroll.gv.shogunshowdown.game",
-      "time": 1748390400000
+      "time": 1765497600000
     },
     {
       "label": "异教之神",
@@ -2205,5 +2205,5 @@
       "time": 1710547200000
     }
   ],
-  "time": 1766016000005
+  "time": 1766102400000
 }
