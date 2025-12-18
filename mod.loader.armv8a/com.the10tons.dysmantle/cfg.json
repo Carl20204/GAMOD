@@ -1,28 +1,32 @@
 {
   "faqs": {
-    "游戏更新建议": "因为谷歌最新加固方案的缘故，付费版游戏原版无法在墨魔豆沙盒中运行，希望搭配MOD的玩家，建议在\u003ca href\u003dhttps://pdalife.com\u003ePDALIFE\u003c/a\u003e或者\u003ca href\u003dhttps://androidoyun.club\u003eandroidoyun\u003c/a\u003e下载破解包，不用翻墙。",
-    "MOD更新说明": "本MOD基于PDALIFE在2025年3月更新的1.4.0.46版本破解包，支持之前的旧版本，理论上也支持后续未来的版本，请自行更新游戏，无需更换MOD。\u003cbr\u003e\u003cbr\u003e未来如果出现游戏更新，使用当前版本MOD功能失效的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理"
+    "游戏下载更新说明": "\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：生存分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003eMOD自动激活3项付费DLC"
   },
   "gms": 2,
-  "info": "末日生存游戏，说白了就是打怪、拆家、捡破烂，然后收集一堆垃圾造东西。\u003cbr\u003e本作和【地球末日】不一样的地方，就是没有建设家园环节，更侧重剧情与战斗。\u003cbr\u003e\u003cbr\u003e中国区由taptap代理，国际版为谷歌商店付费版，PDALIFE提供了最新版本破解包。破解包运行同样需要谷歌服务，无谷歌服务手机，请务必配合墨魔豆的虚拟谷歌服务与MOD一起运行",
+  "info": "一款能让你摧毁一切的开放世界动作RPG游戏。\u003cbr\u003e\u003cbr\u003e多年以后，当你从避难所爬出的时候，等待着你的是一个勇敢的新旧世界。一个生存着肮脏卑劣的生物的世界。一个看不到其他人类灵魂的世界。一个由自然主宰的世界。一个即将变得更糟的世界。\u003cbr\u003e\u003cbr\u003e你得想办法逃离这个不幸的岛屿。但在此之前，请享受苦乐参半的末日世界。\u003cbr\u003e\u003cbr\u003e特色：\u003cbr\u003e\u003cbr\u003e* 使用正确的工具破坏超过99%的物体以获得材料。任何障碍都阻挡不了你。\u003cbr\u003e\u003cbr\u003e* 与末日世界里肮脏卑劣的生物战斗（或逃跑）。\u003cbr\u003e\u003cbr\u003e* 探索手工制作的开放世界，揭开它的秘密。。\u003cbr\u003e\u003cbr\u003e* 生存下去。* 清除区域里的怪物，并宣示主权。\u003cbr\u003e\u003cbr\u003e* 建立哨所，以彰显你的存在感。\u003cbr\u003e\u003cbr\u003e* 制作持久的武器、工具、装备和饰品。\u003cbr\u003e\u003cbr\u003e* 狩猎危险生物或驯服它们来组成你的专属末世动物牧场。\u003cbr\u003e\u003cbr\u003e* 种植有营养的植物，并在作物成熟时收获回报。\u003cbr\u003e\u003cbr\u003e* 在地上地下的古代墓穴中解决谜题。\u003cbr\u003e\u003cbr\u003e* 捕获水面之下狡猾的有鳞生物。\u003cbr\u003e\u003cbr\u003e* 烹饪美味的食物，以获得永久性的属性和能力升级。\u003cbr\u003e\u003cbr\u003e* 揭开这个奇异岛屿的神秘面纱。",
   "label": "末日后53天",
-  "time": 1740700800008,
+  "time": 1759276800008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": false,
   "mods": [
     {
       "descs": [
-        "自定义选项，可调节伤害、速度、减伤、大容量背包等等"
+        "【自动激活】3项付费DLC",
+        "【可选菜单】伤害、速度、减伤、大容量背包等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.the10tons.dysmantle.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.the10tons.dysmantle",
-  "vercode": 14046,
-  "vername": "1.4.0.46",
-  "publisher": "the10tons",
+  "vercode": 14110,
+  "vername": "1.4.1.10",
+  "publisher": "10tons Ltd",
   "s1": [
     512,
     1024,
@@ -37,23 +41,13 @@
   "tags": [
     "中文",
     "生存",
-    "动作",
+    "角色扮演",
     "付费版"
   ],
   "downloads": [
     {
-      "host": "PDALIFE（英文网页）",
-      "url": "https://pdalife.com/dysmantle-android-a45214.html",
-      "var": false
-    },
-    {
-      "host": "oyun（英文网页）",
-      "url": "https://androidoyun.club/2025/03/dysmantle-v1-4-0-46-mod-apk-dlc-kilitleri-acik.html",
-      "var": false
-    },
-    {
-      "host": "谷歌市场页（翻墙）",
-      "url": "https://play.google.com/store/apps/details?id\u003dcom.the10tons.dysmantle",
+      "host": "网盘分享：生存分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
