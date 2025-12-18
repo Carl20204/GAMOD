@@ -1,0 +1,42 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "成为死灵法师—— 让死者复活！\u003cbr\u003e\u003cbr\u003e你将会成为一名死灵法师——能够使死者复生。\u003cbr\u003e《Undead Horde》是一款以死灵题材为主的动作游戏，其中涵盖动作RPG、战略和动作类角色扮演。\u003cbr\u003e几乎能够复活所有敌人和组建一支忠实于你的亡灵军队。指挥并利用你的不死战争机器军队对抗其他生物以及它们的国王——Paladin Benevictor。\u003cbr\u003e\u003cbr\u003e用数之不尽的战利品来装备你的军队并带领它们赢得最终的胜利！",
+  "label": "亡灵大军",
+  "time": 1764892800008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】经验、金钱、法力、武器CD、军团不死等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.the10tons.UndeadHorde.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.the10tons.UndeadHorde",
+  "vercode": 12204,
+  "vername": "1.2.2.04",
+  "publisher": "10tons Ltd",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
