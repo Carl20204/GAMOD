@@ -1,12 +1,12 @@
 {
   "faqs": {
     "游戏下载更新说明": "本作使用了谷歌加固，MOD不支持动态脱壳解密，希望玩MOD版请下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的脱壳包，无广告，无修改，纯净原版，配合MOD玩更爽。",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "1。本游戏谷歌原版启用了谷歌加固，当前MOD不支持原版的动态脱壳，想玩MOD，请安装网盘分享的安装包。\u003cbr\u003e俄罗斯的pdalife或土耳其的oyunclub也有付费破解包，只是带小广告弹窗。\u003cbr\u003e\u003cbr\u003e2。配合本MOD，游戏支持直装到墨魔豆（v2.4.3）沙盒中游玩，无需在手机中安装。\u003cbr\u003e\u003cbr\u003e3。请注意，第二关的油桶向导教程后，再使用召唤无限功能或测试员专用的测试开关"
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌加固脱壳安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 2,
-  "info": "幸存者们，你们好！以下是此次更新的新增内容：\u003cbr\u003e- 新场地，包含93项任务和3项挑战\u003cbr\u003e- 4个新过场动画\u003cbr\u003e- 新敌人：搜刮者、哨兵和复制者\u003cbr\u003e- 新单位：英雄\u003cbr\u003e- 适用于队长、神枪手、医护南希和乔巴的新皮肤\u003cbr\u003e- 在任务完成后显示单位统计数据\u003cbr\u003e- 新商店优惠 - 徽章\u003cbr\u003e以及更多其他精彩内容！",
+  "info": "幸存者们，你们好！本次更新的新内容如下：\u003cbr\u003e- 圣诞节即将来临！为期十天的圣诞节活动从12月19日开始，在此期间玩家有机会赢得新的单位和几种单位皮肤\u003cbr\u003e- 一种处理多余物品和护符的新方式\u003cbr\u003e- 一份涵盖游戏中所有过场动画的档案\u003cbr\u003e- 适用于红帽子、农民和狙击手波利纳的新皮肤",
   "label": "死亡突围：僵尸战争",
-  "time": 1764547200008,
+  "time": 1765929600008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -19,12 +19,12 @@
       "pkgname": "com.mobirate.DeadAheadTactics.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 7
+      "vercode": 8
     }
   ],
   "pkgname": "com.mobirate.DeadAheadTactics",
-  "vercode": 479,
-  "vername": "4.2.8",
+  "vercode": 481,
+  "vername": "4.2.9",
   "publisher": "Mobirate",
   "s3": 0,
   "tags": [
