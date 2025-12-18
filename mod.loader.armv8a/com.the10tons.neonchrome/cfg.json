@@ -1,24 +1,31 @@
 {
+  "faqs": {
+    "游戏下载更新说明": "\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
   "gms": 2,
-  "info": "赛博朋克类射击游戏，一路杀杀杀，在赛博大厦里一层层的打上去\u003cbr\u003e\u003cbr\u003ethe10tons出品，【血腥大地】【特斯拉战队】等等，都能体现其在射击类游戏的造诣",
+  "info": "赛博朋克类射击游戏，一路杀杀杀，在赛博大厦里一层层的打上去\u003cbr\u003e\u003cbr\u003e10tons出品，【血腥大地】【特斯拉战队】等等，都能体现其在射击类游戏的造诣",
   "label": "朋克大暴走",
-  "time": 1691452800008,
+  "time": 1764028800008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": false,
   "mods": [
     {
       "descs": [
-        "菜单可调节弹药、能量、不死、折扣等等"
+        "【可选菜单】弹药、能量、不死、折扣等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.the10tons.neonchrome.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.the10tons.neonchrome",
-  "vercode": 113008,
-  "vername": "1.1.3.008",
-  "publisher": "the10tons",
+  "vercode": 113009,
+  "vername": "1.1.3.009",
+  "publisher": "10tons Ltd",
   "s1": [
     512,
     1024,
@@ -37,19 +44,9 @@
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/RJURUs6b",
+      "host": "网盘分享：射击分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/6yAfbtuL",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/cn/neon-chrome/com.the10tons.neonchrome",
-      "var": true
     }
   ]
 }
