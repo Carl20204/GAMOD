@@ -1,26 +1,30 @@
 {
   "faqs": {
-    "本作是银河恶魔城类游戏吗？": "本作更接近《死亡细胞》，以肉鸽随机战斗为主，并没有银河恶魔城招牌的地图探索与解密部分，无需攻略，只要手能跟上，就能通关。"
+    "游戏下载更新说明": "\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
-  "gms": 1,
-  "info": "7.99$的付费游戏，网盘分享的安装包为移除付费检测的改包（纯净版，没有网站小广告），希望玩原版的可自行去谷歌商店付费下载。\u003cbr\u003e\u003cbr\u003e类银河恶魔城，韩国出的此类游戏很多，本作是其中的佼佼者，毕竟能被出品《死亡细胞/重生细胞》的playdigious看中，就代表了品质保证",
+  "gms": 2,
+  "info": "一款 Roguelike 砍杀游戏\u003cbr\u003e\u003cbr\u003eSkul 是一款快节奏的动作 Rogue-lite 游戏，鼓励玩家疯狂战斗。\u003cbr\u003e\u003cbr\u003e游戏中有 100 名可操作角色，每个角色都拥有独特的能力，并拥有大量能够产生强大协同效应的道具，战斗既刺激又充满挑战。\u003cbr\u003e\u003cbr\u003e魔王城遗址\u003cbr\u003e\u003cbr\u003e人类进攻魔王城并非新鲜事，过去也发生过无数次。然而，这一次的不同之处在于，冒险者们决定与帝国军和“卡利恩勇者”联手，发动全面进攻，希望彻底消灭魔族。\u003cbr\u003e\u003cbr\u003e他们以压倒性的优势攻占了魔族要塞，并将其彻底摧毁。城堡中的所有魔族都被俘，只剩下一只名叫“Skul”的骷髅。\u003cbr\u003e\u003cbr\u003e黑暗镜面模式\u003cbr\u003e\u003cbr\u003e完成主线剧情后，在全新挑战的“黑暗镜面”模式中测试你的技能和极限！\u003cbr\u003e\u003cbr\u003e特色\u003cbr\u003e\u003cbr\u003e- 你是整个恶魔种族的最后希望！扮演斯库尔，一个小小的骷髅，踏上征程，击杀那些傲慢的英雄，从腐败的卡利昂军队手中拯救恶魔之王。\u003cbr\u003e\u003cbr\u003e- 失去头颅的滋味从未如此美妙：尝试新的骷髅，借用其前任主人的力量和炫酷服装，并与独特物品协同作战，击败敌人。\u003cbr\u003e\u003cbr\u003e- 逝者永不消逝：在这款充满动感的 Rogue-lite 平台游戏中，你绝不罢休，直到挑战所有挑战。\u003cbr\u003e\u003cbr\u003e- 让你的空洞双眼饱览充满活力、卡通像素风的 2D 动画，帮助各种恶魔生物恢复原状。\u003cbr\u003e\u003cbr\u003e- 从埃及的木乃伊到希腊的牛头怪，甚至是《死亡细胞》的官方联动作品……你能发现游戏中散布的有趣彩蛋吗？",
   "label": "小骨：英雄杀手",
-  "time": 1724198400008,
+  "time": 1761177600008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "MOD自选菜单，可调节各种异常抗性，无伤，各种技能CD，各种货币使用折扣"
+        "【可选菜单】各异常抗性，无伤，各种技能CD，各种货币使用折扣"
       ],
       "name": "上帝模式",
       "pkgname": "com.playdigious.skul.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 3
     }
   ],
   "pkgname": "com.playdigious.skul",
-  "vercode": 48,
-  "vername": "1.0.6",
+  "vercode": 57,
+  "vername": "1.0.10",
   "publisher": "playdigious",
   "s1": [
     512,
@@ -41,19 +45,9 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/f8USV6Yl",
+      "host": "网盘分享：动作分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/NjBeEeu5",
-      "var": false
-    },
-    {
-      "host": "apkpure[翻墙]",
-      "url": "https://apkpure.net/cn/skul-the-hero-slayer/com.playdigious.skul",
-      "var": true
     }
   ]
 }
