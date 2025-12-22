@@ -1,0 +1,52 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "游戏特色\u003cbr\u003e双阵营剧情：包含美军和德军两个独立篇章，共 50 个关卡和 6 个特色 BOSS，剧情全配音。\u003cbr\u003e僚机系统：玩家可指挥 3 架僚机协同作战，僚机提供火力、防御和速度加成，被击落后可自动复活。\u003cbr\u003e多样玩法：除传统射击外，还包含潜入、护卫、营救等任务，每关有额外目标可解锁奖励。\u003cbr\u003e成长系统：通过科技树解锁技能，完成高难度关卡可获取高级机体，无氪金元素。\u003cbr\u003e游戏评价\u003cbr\u003e画面采用高分辨率手绘漫画风格，敌我武器细节精细，色彩鲜明。\u003cbr\u003e难度适中，无传统清屏炸弹，但 BOSS 战设计独特，最高难度挑战性高。\u003cbr\u003e最初仅含美军篇 25 关，后通过 DLC 扩展德军篇，最终合为完整版。",
+  "label": "帝国神鹰：飞行中队 扩展版",
+  "time": 1761177600008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】各种强化，无敌，加速CD等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.hg.aotls.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.hg.aotls",
+  "vercode": 20451,
+  "vername": "1.0.20",
+  "publisher": "HandyGames",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "英文",
+    "射击",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：射击分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
