@@ -3,26 +3,28 @@
     "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。\u003cfont color\u003d\"#ff\"\u003e中国区域用户，可以下载\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：塔防分类】\u003c/a\u003e里的安装包，搬运自谷歌市场的原版\u003c/font\u003e"
   },
   "gms": 1,
-  "info": "2025年11月6日更新，当前版本共有837张猫卡",
+  "info": "2025年12月22日更新，当前版本共有840张猫卡",
   "label": "猫咪大战争:日版",
-  "time": 1762387200008,
+  "time": 1766361600008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": false,
   "mods": [
     {
       "descs": [
-        "【专用版】本MOD仅支持2025年11月发布的15.0.0",
-        "【可选菜单】加速，全物品，全猫，满级，无限猫罐头"
+        "【专用版】本MOD仅支持2025年12月22日发布的15.1.0",
+        "【可选菜单】加速，全物品，全卡牌，满级，无限猫罐头"
       ],
       "name": "上帝模式",
       "pkgname": "jp.co.ponos.battlecats.gm64",
       "sandbox": 155,
-      "targetvc": "1500000",
-      "vercode": 3
+      "targetvc": "1501000",
+      "vercode": 4
     }
   ],
   "pkgname": "jp.co.ponos.battlecats",
-  "vercode": 1500000,
-  "vername": "15.0.0",
+  "vercode": 1501000,
+  "vername": "15.1.0",
   "publisher": "PONOS",
   "s3": 0,
   "tags": [
