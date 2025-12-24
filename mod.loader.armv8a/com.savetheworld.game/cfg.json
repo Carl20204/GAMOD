@@ -1,18 +1,19 @@
 {
   "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
-    "\u003cfont color\u003d\"#ff0000\"\u003e本游戏必需用MOD玩！\u003c/font\u003e": "1.MOD会确保存档正确\u003cbr\u003e\u003cbr\u003e2. MOD会跳过数值检测，防止游戏清空背包"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 2,
-  "info": "2025年10月游戏更新\u003cbr\u003e * 第十行星：总部\u003cbr\u003e * 征服4个新地下城\u003cbr\u003e * 收集新型珍贵资源\u003cbr\u003e * 迎战新敌人与首领\u003cbr\u003e * 持续升级工具与护甲至满级\u003cbr\u003e * 优化并改进行星竞速界面\u003cbr\u003e * 重新平衡硬岩配方\u003cbr\u003e * 调整工具/护甲升级计时器：随进度提升计时增幅更显著\u003cbr\u003e * 为地质学家模组新增晶洞资源",
+  "info": "2025年12月游戏更新\u003cbr\u003e * 第十行星：总部\u003cbr\u003e * 征服4个新地下城\u003cbr\u003e * 收集新型珍贵资源\u003cbr\u003e * 迎战新敌人与首领\u003cbr\u003e * 持续升级工具与护甲至满级\u003cbr\u003e * 优化并改进行星竞速界面\u003cbr\u003e * 重新平衡硬岩配方\u003cbr\u003e * 调整工具/护甲升级计时器：随进度提升计时增幅更显著\u003cbr\u003e * 为地质学家模组新增晶洞资源",
   "label": "我的小宇宙",
-  "time": 1759363200008,
+  "time": 1764547200008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【通用版】基于游戏在谷歌商店2025年10月更新的版本开发，理论上支持之后的所有版本更新，如果出现游戏升级功能失效的话，可以在墨魔豆的QQ圈子里吱一声",
-        "【自动激活】免检测，激励广告可白嫖",
+        "【自动激活】免数值检测，激励广告可白嫖",
         "【可选菜单】提升资源收益率，宠物时长，无鲨鱼随意游泳",
         "【免内购、全资源】此两项功能谨慎使用，极大破坏游戏乐趣\u003cbr\u003e\u003cbr\u003e免内购购买宇宙币会崩溃"
       ],
@@ -20,12 +21,12 @@
       "pkgname": "com.savetheworld.game.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 9
+      "vercode": 10
     }
   ],
   "pkgname": "com.savetheworld.game",
-  "vercode": 201,
-  "vername": "2.17.0",
+  "vercode": 203,
+  "vername": "2.17.2",
   "publisher": "SayGames",
   "s1": [
     512,
@@ -41,12 +42,12 @@
   "tags": [
     "中文",
     "休闲",
-    "采集",
-    "探索"
+    "模拟",
+    "放置"
   ],
   "downloads": [
     {
-      "host": "网盘分享：休闲分类",
+      "host": "网盘分享：策略分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
