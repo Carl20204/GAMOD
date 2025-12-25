@@ -1,45 +1,43 @@
 {
-  "gms": 1,
-  "info": "超有创意的对战式塔防游戏，双方巡洋舰左右对战，通过在舰体上附加建造不同的组件，进行有效攻防",
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "爆炸性实时策略\u003cbr\u003e\u003cbr\u003e在线玩家对战来了！在这个不断发展的实时战术战斗游戏中，用短暂的战略对决炸飞你的“朋敌”。\u003cbr\u003e\u003cbr\u003e洪水之地，公元2732年：自从肉体之人自私地决定停止活动并在“大事件”后生物降解以来，世界由机器人运行。机器人被制造出来建造东西、维持社会运转和发动战争——所以他们正在做的正是这些。\u003cbr\u003e\u003cbr\u003e你在战列巡洋舰上建造的一切都自动运作：从炮塔、护卫舰和炮舰到大炮、核弹发射器和终结游戏的超级武器。你创建的无人机站越多，你的建造速度就越快。就这么简单。\u003cbr\u003e\u003cbr\u003e获奖的单人剧情将在40个等级中解锁你的全部武器库。扮演查理，一名C级实用机器人，他借用了一艘2公里长的漂浮超级武器，在港口周围兜风。被偷的战列巡洋舰恰好属于不善于处理公共尴尬的UAC总统机器人。有趣的是，这引发了一场无限的毁灭螺旋，因为你将面对一系列越来越狡猾、武装更好的敌方战列巡洋舰。\u003cbr\u003e\u003cbr\u003e在无尽的终局游戏中，在多人战斗竞技场中满足你的纵火癖，享受独特的特权、奖励和条件。加入无止境的军备竞赛，每年发现越来越多的武器。\u003cbr\u003e\u003cbr\u003e使用战斗的战利品购买机器人外骨骼、新的破坏性武器，最重要的是，购买嘲讽。所有C级以上的机器人都知道，嘲弄是最高形式的战斗。",
   "label": "战巡大作战",
-  "time": 1720483200008,
+  "time": 1762646400008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "已自动激活付费高级版",
-        "可选菜单，可调节无伤、开局无人机数量"
+        "【自动激活】付费高级版",
+        "【可选菜单】无伤、无人机数量"
       ],
       "name": "上帝模式",
       "pkgname": "com.Bluebottle.Battlecruisers.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.Bluebottle.Battlecruisers",
-  "vercode": 620046,
-  "vername": "6.2.46",
+  "vercode": 641021,
+  "vername": "6.4.102",
   "publisher": "Mecha Weka",
+  "s3": 0,
   "tags": [
     "中文",
+    "策略",
     "塔防",
-    "对战塔防",
-    "单机"
+    "休闲"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/OHUROPi7",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/AcAyQw9W",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/battlecruisers/com.Bluebottle.Battlecruisers/download",
+      "host": "网盘分享：策略分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
