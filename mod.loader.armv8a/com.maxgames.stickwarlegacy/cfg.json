@@ -1,0 +1,45 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 1,
+  "info": "了解剑术、长矛、弓箭手和法师之术。只有您可以解放 Inamorta！\u003cbr\u003e\u003cbr\u003e《火柴人战争：遗产》是一款备受赞誉的手机策略游戏，在这里你将在伊纳莫塔世界中领导和平的秩序之国。当周围的国家将他们的武器奉为宗教并寻求统治地位时，你必须掌握包括剑士、枪兵、弓箭手和法师在内的多种战斗风格来保护你的人民。游戏提供丰富的功能，包括经典战役模式、无尽僵尸生存、锦标赛战斗和每周任务更新。玩家可以控制军队的阵型或指挥单个单位，开采金矿获取资源，并在摧毁敌人雕像的同时占领领土。通过多种游戏模式、可解锁的皮肤和各种难度级别，该游戏将战略深度与火柴人战斗完美结合。增强的图形包括改进的血液效果、伤害动画和部队阵型，使这款广受欢迎的网页游戏改编版成为一个引人入胜的手机游戏体验。",
+  "label": "火柴人战争：遗产",
+  "time": 1766448000008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】金币、钻石、无CD等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.maxgames.stickwarlegacy.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.maxgames.stickwarlegacy",
+  "vercode": 2025001217,
+  "vername": "2025.1.217",
+  "publisher": "Max Games Studios",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "策略",
+    "塔防",
+    "休闲",
+    "火柴人",
+    "对战"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：策略分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}

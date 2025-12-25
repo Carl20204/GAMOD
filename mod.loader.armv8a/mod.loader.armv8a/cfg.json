@@ -1400,6 +1400,12 @@
       "time": 1725235200000
     },
     {
+      "label": "火柴人战争：遗产",
+      "mtime": 1766620800000,
+      "pkg": "com.maxgames.stickwarlegacy",
+      "time": 1766448000000
+    },
+    {
       "label": "我的咖啡厅",
       "mtime": 1764288000000,
       "pkg": "com.melesta.coffeeshop",
@@ -2223,5 +2229,5 @@
       "time": 1710547200000
     }
   ],
-  "time": 1766620800000
+  "time": 1766620800001
 }
