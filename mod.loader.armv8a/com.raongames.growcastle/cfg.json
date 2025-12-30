@@ -1,12 +1,14 @@
 {
   "faqs": {
     "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：塔防分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "1。游戏后期想买金球但缺红钻，可以开MOD装备功能，打龙巢地牢掉落的R级装备，可兑换为红钻"
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e游戏后期买金球缺红钻，可以开MOD装备功能，打龙巢地牢掉落的R级装备，可兑换为红钻"
   },
   "gms": 1,
   "info": "建造你自己的城堡！超棒的塔防游戏，让人欲罢不能。\u003cbr\u003e\u003cbr\u003e这是一款保护城堡免受敌人攻击的防御游戏。\u003cbr\u003e\u003cbr\u003e城堡塔楼和每层楼的英雄都可以升级。\u003cbr\u003e\u003cbr\u003e城镇弓箭手的升级次数越多，其威力就越大。\u003cbr\u003e\u003cbr\u003e超过120位英雄可以使用各自的技能。\u003cbr\u003e\u003cbr\u003e有些英雄被设计成强大的城镇弓箭手，而有些英雄则被诅咒以对付敌人。\u003cbr\u003e\u003cbr\u003e这种策略非常重要，因为每个英雄最多可以装备九个。\u003cbr\u003e\u003cbr\u003e建造殖民地并雇佣工人可以赚取更多金币。\u003cbr\u003e\u003cbr\u003e升级到更高等级，挥手示意并查看你的排名。\u003cbr\u003e\u003cbr\u003e创建或加入在线公会。你可以与世界各地的玩家交流和游戏。",
   "label": "成长城堡",
-  "time": 1758844800008,
+  "time": 1766534400008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
@@ -17,12 +19,12 @@
       "pkgname": "com.raongames.growcastle.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 6
+      "vercode": 7
     }
   ],
   "pkgname": "com.raongames.growcastle",
-  "vercode": 425,
-  "vername": "1.50.5",
+  "vercode": 433,
+  "vername": "1.50.13",
   "publisher": "RAON GAMES",
   "s1": [
     512,
@@ -38,7 +40,9 @@
   "tags": [
     "英文",
     "塔防",
-    "放置"
+    "策略",
+    "休闲",
+    "对战"
   ],
   "downloads": [
     {

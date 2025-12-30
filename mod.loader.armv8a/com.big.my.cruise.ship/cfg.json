@@ -1,11 +1,14 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
   "gms": 2,
-  "info": "不喜欢开罗系列的大颗粒像素风的，又想玩奇奇怪怪的模拟经营的，可以试试本作。\u003cbr\u003e可以理解为本作为高画质版的开罗游戏",
+  "info": "经营、建造、升级，打造史上最豪华邮轮！\u003cbr\u003e\u003cbr\u003e这是一艘即将驶向世界各地的邮轮！\u003cbr\u003e\u003cbr\u003e从寥寥几间的普通客舱到应有尽有的豪华船舱，从无聊的客运到设施齐全的梦幻豪华游轮，从门可罗雀到贵客盈门再到一票难求，从零开始，从无到有。这是一艘由你一手打造的梦幻豪华游轮！\u003cbr\u003e\u003cbr\u003e在这里你会邂逅世界各地的客人，他们来自不同的地方，有着不同的职业、不同的爱好和需求。升级完善你的游轮，为他们提供最好的服务，开启他们的梦幻假期，提升你的口碑。这是一座移动的繁华都市！\u003cbr\u003e\u003cbr\u003e在这里你可以建造升级的不仅仅是客舱，娱乐项目，餐饮玩乐自然是必不可少的！电影院、餐厅、果汁店以及最重要的厕所！设施种类繁多，一切听凭你的抉择！让你的超大游轮让客人们大开眼界！这是一个海上的梦幻商城！\u003cbr\u003e\u003cbr\u003e在这里你可以去往不同的地方，这些地方有的大同小异，有的截然不同。你的客人有机会下船观光，你的游轮有机会吸引新的客人，世界的交流在你的游轮上进行！\u003cbr\u003e\u003cbr\u003e游轮即将起航，快来加入吧！",
   "label": "我的邮轮",
-  "time": 1708473600008,
+  "time": 1766793600008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
@@ -14,29 +17,27 @@
       ],
       "name": "上帝模式",
       "pkgname": "com.big.my.cruise.ship.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.big.my.cruise.ship",
-  "vercode": 1494,
-  "vername": "1.4.13",
+  "vercode": 1804,
+  "vername": "1.8.4",
   "publisher": "Focus apps",
-  "signmd5": "ECE9799FEF4C371D713939FFB92724A7",
+  "s3": 0,
   "tags": [
     "中文",
     "休闲",
-    "模拟经营"
+    "模拟",
+    "管理",
+    "企业大亨"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/APK/com.big.my.cruise.ship?versionCode\u003d1494",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/my-cruise/com.big.my.cruise.ship/download",
+      "host": "网盘分享：休闲分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
