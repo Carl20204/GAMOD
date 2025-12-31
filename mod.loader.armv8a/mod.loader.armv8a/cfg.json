@@ -970,6 +970,12 @@
       "time": 1765152000000
     },
     {
+      "label": "EPIC火柴人：放置RPG战争",
+      "mtime": 1767139200000,
+      "pkg": "com.fansipan.epic.stickman.survival.rpg.idle.game",
+      "time": 1766448000000
+    },
+    {
       "group": 3,
       "label": "海之号角",
       "mtime": 1759708800000,
@@ -2236,5 +2242,5 @@
       "time": 1710547200000
     }
   ],
-  "time": 1767052800002
+  "time": 1767139200000
 }

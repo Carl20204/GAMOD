@@ -1,0 +1,55 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "★ Epic Stickman：在暗影领域释放你的内在传奇 ★\u003cbr\u003e\u003cbr\u003eEpic Stickman: Idle RPG War 是一款刺激的放置 RPG 冒险游戏，在黑暗笼罩的世界中，你的火柴人英雄即使离线也会战斗。在这款 AFK 自动战斗游戏中，你的传奇从不休息 — 只会变得更强。暗影领域正在呼唤你。你准备好回应了吗？\u003cbr\u003e\u003cbr\u003e⚔️ 永不停歇的 Idle RPG 动作\u003cbr\u003e\u003cbr\u003e与成群的怪物战斗，即使离开游戏也能赢取丰厚奖励。享受流畅的自动战斗机制，让你的 Stickman 自动成长。\u003cbr\u003e\u003cbr\u003e🧙 职业系统\u003cbr\u003e\u003cbr\u003e选择你的道路：成为勇敢的战士、神秘的盗贼、智慧的法师或召唤被遗忘的生物。每个职业都拥有独特技能与成长路线。\u003cbr\u003e\u003cbr\u003e👑 史诗装备与升级\u003cbr\u003e\u003cbr\u003e收集强力武器、传说护甲与稀有战利品。升级你的英雄并解锁毁灭性技能，称霸 AFK 战场。\u003cbr\u003e\u003cbr\u003e🕶️ 探索暗影王国\u003cbr\u003e\u003cbr\u003e深入充满秘密、首领与宝藏的黑暗奇幻世界。在这场充满动作的冒险中对抗一波又一波敌人。\u003cbr\u003e\u003cbr\u003e💥 自定义与进化\u003cbr\u003e\u003cbr\u003e自定义英雄外观、战斗风格与装备。打造梦想中的火柴人英雄，击败所有敌人。不论你喜欢 Idle RPG、AFK 点击或火柴人游戏，这款游戏应有尽有。是时候成为传奇了。",
+  "label": "EPIC火柴人：放置RPG战争",
+  "time": 1766448000008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免广告，所有激励广告可直接领取",
+        "【可选菜单】金币、宝石、宠物、技能等几十种资源收益率，高速技能CD"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.fansipan.epic.stickman.survival.rpg.idle.game.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.fansipan.epic.stickman.survival.rpg.idle.game",
+  "vercode": 10394,
+  "vername": "1.0.48",
+  "publisher": "Fansipan Limited",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "休闲",
+    "角色扮演",
+    "放置/挂机",
+    "火柴人"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：休闲分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
