@@ -1,45 +1,53 @@
 {
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版，且包含了完整的外置数据包\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
   "gms": 2,
-  "info": "pixelstar专注像素养成类游戏10年，推出的集大成者。相对《养剑大师》《培养幸存者》等，优化了非常多的细节，喜欢此类游戏的强烈推荐。",
+  "info": "制作各种弓箭成为最佳弓箭手\u003cbr\u003e\u003cbr\u003ePixel Star Games的闲置幻想RPG游戏“成长最强弓箭手”已经发布。\u003cbr\u003e\u003cbr\u003e征服地牢并收集各种传奇弓箭，成为最佳弓箭手。\u003cbr\u003e\u003cbr\u003e[游戏特色]\u003cbr\u003e\u003cbr\u003e-惊险的动作\u003cbr\u003e\u003cbr\u003e-各种武器装备\u003cbr\u003e\u003cbr\u003e-各种技能和特殊能力\u003cbr\u003e\u003cbr\u003e-使用生产系统进行弓箭生产\u003cbr\u003e\u003cbr\u003e-英雄系统（各种数据）\u003cbr\u003e\u003cbr\u003e-宠物系统",
   "label": "最强弓箭手",
-  "time": 1707091200008,
+  "time": 1762387200008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免广告",
-        "可选菜单可调节技能CD、金币、宝石、素材等收益"
+        "【自动激活】免广告，激励广告直接领取",
+        "【可选菜单】技能CD、金币、宝石、素材等收益"
       ],
       "name": "上帝模式",
       "pkgname": "com.pixelstar.gam.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.pixelstar.gam",
-  "vercode": 2024020201,
-  "vername": "2.0.3",
+  "vercode": 2025110601,
+  "vername": "2.2.4",
   "publisher": "pixelstar",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
   "tags": [
     "中文",
-    "放置",
-    "收集",
-    "养成"
+    "放置/挂机",
+    "休闲",
+    "角色扮演"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/iQBzg6lM",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/fPBzg9Hw",
-      "var": false
-    },
-    {
-      "host": "下载页|翻墙",
-      "url": "https://apkpure.net/cn/grow-archermaster/com.pixelstar.gam/download",
+      "host": "网盘分享：休闲分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
