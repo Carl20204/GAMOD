@@ -1,28 +1,31 @@
 {
   "faqs": {
-    "游戏更新建议": "如果网盘分享里没有最新安装包，建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙",
-    "MOD说明": "基于游戏在谷歌商店2025年3月更新的2.9.8版本开发，理论上为通用版，游戏升级可以继续使用无需更新MOD。\u003cbr\u003e\u003cbr\u003e如果出现游戏更新后MOD功能失效或闪退，可以到墨魔豆的QQ圈子里吱一声，作者看到会修复"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版，且包含了完整的外置数据包\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e 游戏锁区，请科学上网/海外代理\u003c/font\u003e"
   },
   "gms": 1,
-  "info": "哈利波特魔法学院，HP爱好者的休闲游戏",
+  "info": "快来加入我们，建立和管理你自己的魔法学校！\u003cbr\u003e\u003cbr\u003e你有没有梦想过建立自己的魔法学校？在这款全新的放置类魔法游戏中，你的梦想将成真！\u003cbr\u003e\u003cbr\u003e你将在神秘的魔法森林中建造和扩建自己的魔法学校，升级魔法课程，解锁学校场景，招收学生，并帮助他们毕业成为龙骑士！\u003cbr\u003e\u003cbr\u003e游戏玩法简单易懂。你需要合理分配资金，运用不同的发展策略，例如麻瓜训练、宿舍管理以及吸引精英巫师，为你的魔法学校带来名声。\u003cbr\u003e\u003cbr\u003e你需要完成不同的任务。完成任务后，你将获得荣耀，并以此扩张你的领地，例如水之国，那里河流湍急，学生们不会受到外界的干扰。你还可以升级魔法树，获得魔法果实，这些果实可以用来提升巫师的星级。此外，启动魔法转化机也是必不可少的，因为麻瓜需要通过转化机转化为巫师才能学习魔法。最后，同样重要的是，在商店雇佣新员工可以带来更多顾客，赚取更多金币。\u003cbr\u003e\u003cbr\u003e特色：\u003cbr\u003e\u003cbr\u003e-即使您不登录游戏，您的魔法学校也会自动运行，产生线下收入，并打造世界上最好的魔法学校。\u003cbr\u003e\u003cbr\u003e-以精彩的动画和3D图形模拟真实的魔法场景和环境！\u003cbr\u003e\u003cbr\u003e-充满各种模拟经营挑战。\u003cbr\u003e\u003cbr\u003e-魔法商店持续产出免费金币。记得收集它们。\u003cbr\u003e\u003cbr\u003e-多种学科、教授、魔法工具和成长策略可供选择。\u003cbr\u003e\u003cbr\u003e-充满乐趣地探索您的魔法学校，获得丰厚的奖励和成就！\u003cbr\u003e\u003cbr\u003e通过魔法学校培养历史上最伟大的巫师！",
   "label": "放置魔法学院",
-  "time": 1741392000008,
+  "time": 1766707200008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免广告，缺省繁体中文",
-        "可选菜单，可调节各种资源的下限"
+        "【自动激活】免广告，激励广告直接领取",
+        "【可选菜单】可调节各种资源的下限"
       ],
       "name": "上帝模式",
       "pkgname": "com.IdleMagicSchool.jlyt.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.IdleMagicSchool.jlyt",
-  "vercode": 298,
-  "vername": "2.9.8",
+  "vercode": 303,
+  "vername": "3.0.3",
   "publisher": "Longames",
   "s1": [
     256,
@@ -38,19 +41,14 @@
   "tags": [
     "中文",
     "休闲",
-    "放置",
+    "放置/挂机",
     "模拟经营"
   ],
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/jQAbnNGS",
+      "host": "网盘分享：休闲分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "下载页|翻墙",
-      "url": "https://apkpure.net/cn/idle-magic-school/com.IdleMagicSchool.jlyt",
-      "var": true
     }
   ]
 }
