@@ -1,44 +1,43 @@
 {
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版，且包含了完整的外置数据包\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
   "gms": 2,
-  "info": "数值养成放置类型，养成与收集要素繁多，不用MOD玩肝疼",
+  "info": "制造各种武器成为最佳剑术高手\u003cbr\u003e\u003cbr\u003ePixelstar Games已发布剑之大师提升幻想RPG游戏。\u003cbr\u003e\u003cbr\u003e征服地牢并收集各种传奇武器，成为最终的剑术大师。\u003cbr\u003e\u003cbr\u003e[游戏特色]\u003cbr\u003e\u003cbr\u003e-激动人心的动作\u003cbr\u003e\u003cbr\u003e-各种武器装备\u003cbr\u003e\u003cbr\u003e-各种技能和特殊能力\u003cbr\u003e\u003cbr\u003e-使用生产系统进行武器生产\u003cbr\u003e\u003cbr\u003e-采矿系统\u003cbr\u003e\u003cbr\u003e英雄系统（各种统计数据）",
   "label": "养剑大师",
-  "time": 1715299200008,
+  "time": 1763769600008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免广告",
-        "可选菜单可调节物品CD、技能CD、战利品收益率等"
+        "【自动激活】免广告，所有激励广告直接拿",
+        "【可选菜单】物品CD、技能CD、战利品、黄金、红宝石等"
       ],
       "name": "上帝模式",
       "pkgname": "com.pixelstar.gsm.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.pixelstar.gsm",
-  "vercode": 2024050902,
-  "vername": "2.1.3",
+  "vercode": 2025111802,
+  "vername": "2.5.0",
   "publisher": "pixelstar",
+  "s3": 0,
   "tags": [
     "中文",
     "休闲",
-    "放置"
+    "放置/挂机",
+    "角色扮演"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/iQBzg6lM",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/fPBzg9Hw",
-      "var": false
-    },
-    {
-      "host": "下载页|翻墙",
-      "url": "https://apkpure.net/cn/grow-swordmaster/com.pixelstar.gsm/download",
+      "host": "网盘分享：休闲分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
