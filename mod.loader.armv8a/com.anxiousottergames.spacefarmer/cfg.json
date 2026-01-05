@@ -1,44 +1,56 @@
 {
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
   "gms": 1,
-  "info": "二次元美少女探员太空打怪挖矿，外围培养、塔防、建设各种玩法一堆，一款被名字耽误了的放置类精品手游。",
+  "info": "成为太空农场大亨！\u003cbr\u003e\u003cbr\u003e想过在太空开农场是什么感觉吗？管理您的太空特工和闲置利润，击败足够多的怪物，成为太空农场大亨，让您的梦想成真！\u003cbr\u003e\u003cbr\u003e扩展您的太空帝国，与专业特工一起推动您的农场发展，他们将自动执行农场的工作流程！借此机会征服宇宙，在线与离线均可！\u003cbr\u003e\u003cbr\u003e太空农夫是一款模拟游戏，将打怪兽与资金管理相结合，在太空农场中获取利润并成为百万富翁。这款放置模拟游戏的目标是招募最好的特工，以击败尽可能多的怪物。利用您赚取的收入，您可以雇用特工，升级您的农场和太空飞船。成为最佳的太空农场大亨，建立百万富翁的太空帝国，并赚取巨额利润。现在，准备开始在这个太空农场管理模拟游戏中招募您的太空特工！\u003cbr\u003e\u003cbr\u003e太空农夫主游戏特色\u003cbr\u003e\u003cbr\u003e★ 升级您的特工以增加您的闲置收入：坐下来，成为百万富翁，无需点击！\u003cbr\u003e\u003cbr\u003e★ 获得闲置现金！\u003cbr\u003e\u003cbr\u003e★ 太空帝国中有许多奖励等着您！\u003cbr\u003e\u003cbr\u003e★ 使出特工的独特技能，提升您的耕种能力！\u003cbr\u003e\u003cbr\u003e★ 每个特工都有一个特别的技能：提高农业生产力！\u003cbr\u003e\u003cbr\u003e★ 声望功能和不同的行星：建立您的亿万富翁太空帝国模拟！\u003cbr\u003e\u003cbr\u003e★ 像真正的老板一样在多个不同的世界里管理怪物农场：管理这项太空农场业务，成为太空农场大亨！\u003cbr\u003e\u003cbr\u003e★ \"农\"各种怪物：兽人，章鱼，螳螂，等等！\u003cbr\u003e\u003cbr\u003e★ 在这个太空农业和收入管理模拟游戏中收集大量黄金！\u003cbr\u003e\u003cbr\u003e借此机会，招募农业特工，成为亿万富翁，无需点击。变得富有，扩展到其他世界，购买飞船升级，投资资金，成为这款策略模拟游戏中最大的太空农场管理大亨！",
   "label": "太空农妇",
-  "time": 1722816000008,
+  "time": 1759881600008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，可调节收获更多的金币、太空货币"
+        "【可选菜单】可调节收获更多的金币、太空货币"
       ],
       "name": "上帝模式",
       "pkgname": "com.anxiousottergames.spacefarmer.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.anxiousottergames.spacefarmer",
-  "vercode": 422,
-  "vername": "1.10.8",
+  "vercode": 440,
+  "vername": "1.10.15",
   "publisher": "Anxious Otter Games",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
   "tags": [
     "中文",
-    "二次元",
-    "放置",
-    "弱联网"
+    "休闲",
+    "放置/挂机",
+    "模拟",
+    "管理",
+    "动漫",
+    "太空",
+    "科幻"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/jQAbnNGS",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/5XAUtqbj",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/idle-space-farmer-tycoon/com.anxiousottergames.spacefarmer/download",
+      "host": "网盘分享：休闲分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
