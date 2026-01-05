@@ -1,39 +1,41 @@
 {
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e启动加载游戏卡在0%时，只要断一下网即可。\u003c/font\u003e"
+  },
   "gms": 2,
-  "info": "还记得【死亡扳机】不？枪、车、球、丧尸作为美式游戏的代表，本作就是标准的【枪+丧尸】类型\u003cbr\u003e\u003cbr\u003e但是过完前10小关后，就会有末日基地建设玩法出现……\u003cbr\u003e\u003cbr\u003e游戏设置里可以切换血液颜色红/绿",
+  "info": "更新说明：\u003cbr\u003e\u003cbr\u003e- 冬季活动 - 终极武器：绝对零度现已加入超级通行证奖励！\u003cbr\u003e\u003cbr\u003e- 新武器：冰霜之咬 - 射击有几率召唤一场巨大的暴风雪，困住僵尸并引发冰爆，对区域内所有僵尸造成伤害。",
   "label": "丧尸猎人",
-  "time": 1720656000008,
+  "time": 1764028800008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，可调节黄金、钞票收入，也可调节武器威力等"
+        "【可选菜单】黄金、钞票等资源收入，武器弹药、射速等"
       ],
       "name": "上帝模式",
       "pkgname": "zombie.survival.dead.shooting.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "zombie.survival.dead.shooting",
-  "vercode": 187019663,
-  "vername": "1.87.1",
+  "vercode": 200009063,
+  "vername": "1.100.0",
   "publisher": "VNGGames Studios",
+  "s3": 0,
   "tags": [
     "中文",
     "射击",
-    "丧尸",
     "FPS"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘分享",
-      "url": "https://share.feijipan.com/s/SsBxSZB9",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/zombie-hunter-offline-games/zombie.survival.dead.shooting/download",
+      "host": "网盘分享：射击分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
