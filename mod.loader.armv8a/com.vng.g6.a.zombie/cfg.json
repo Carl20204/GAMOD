@@ -1,0 +1,42 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "更新说明：\u003cbr\u003e\u003cbr\u003e- 冬季活动 - 终极武器：绝对零度现已加入超级通行证奖励！\u003cbr\u003e\u003cbr\u003e- 新武器：冰霜之咬 - 射击有几率召唤一场巨大的暴风雪，困住僵尸并引发冰爆，对区域内所有僵尸造成伤害。",
+  "label": "杀戮目标",
+  "time": 1767225600008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】黄金、现金、钻石，武器弹药、射速、伤害等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.vng.g6.a.zombie.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.vng.g6.a.zombie",
+  "vercode": 567009063,
+  "vername": "4.167.0",
+  "publisher": "VNGGames Studios",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "射击",
+    "FPS"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：射击分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
