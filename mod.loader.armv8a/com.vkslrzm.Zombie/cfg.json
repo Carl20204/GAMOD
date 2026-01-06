@@ -1,0 +1,43 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "[ v0.97 更新 ]\u003cbr\u003e\u003cbr\u003e★ 已加入究极系统。\u003cbr\u003e可强化魔法组合，通关城市区域后即可解锁。\u003cbr\u003e\u003cbr\u003eㆍ 新增“区域：特拉”的困难模式。\u003cbr\u003eㆍ 新增全新协同效果。\u003cbr\u003eㆍ 改进了魔法组合收藏等便利性功能。\u003cbr\u003eㆍ 优化了 UI。\u003cbr\u003e\u003cbr\u003e学习各种魔法从怪物中生存\u003cbr\u003e\u003cbr\u003e数十年间持续不断的魔法师战火, 导致大量杀伤性魔法层出不穷....\u003cbr\u003e\u003cbr\u003e那些魔法的残留渗透进了生活在自然中的精灵体内, 从而成为恶鬼侵蚀所有生命体。",
+  "label": "魔幻模拟战争",
+  "time": 1763856000008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】经验掉落、无伤、增伤、移动速度等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.vkslrzm.Zombie.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.vkslrzm.Zombie",
+  "vercode": 562,
+  "vername": "0.972",
+  "publisher": "leme",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "幸存者",
+    "肉鸽",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：射击分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
