@@ -6,31 +6,30 @@
   "gms": 2,
   "info": "【游戏特色】\u003cbr\u003e*超过80种不同的升级可供选择，每次游戏都有独特的体验！\u003cbr\u003e*丰富的角色、武器、符文、地图和吸血鬼怪物阵容。\u003cbr\u003e*轻松快捷的10-20分钟游戏时间，适合忙碌的游戏玩家。\u003cbr\u003e*符文系统助你提升实力",
   "label": "黎明前20分钟：付费版",
-  "time": 1764720000008,
+  "time": 1767571200008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【自选菜单】可调节各种战斗爽度与氪金程度！"
+        "【自选菜单】射速、弹药、移动速度、无伤、勾玉等！"
       ],
       "name": "上帝模式",
       "pkgname": "com.Flanne.MinutesTillDawn.roguelike.shooting.gp.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
-  "vercode": 800,
-  "vername": "6.0",
+  "vercode": 820,
+  "vername": "6.2",
   "publisher": "Erabit Studios",
   "s3": 0,
   "tags": [
     "中文",
-    "肉鸽",
-    "射击",
+    "肉鸽射击",
     "幸存者",
     "付费版"
   ],
