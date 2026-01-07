@@ -1,0 +1,52 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e游戏启动卡在加载画面时，断一下网就可以了\u003c/font\u003e"
+  },
+  "gms": 2,
+  "info": "孵化并匹配神秘生灵以消除诅咒\u003cbr\u003e\u003cbr\u003e备受赞誉的 Merge Dragons 创作者新作！- 在 Merge Magic 的神秘世界中探索魔法传说和任务！在这里，你可以将所有物品进行组合，从而为你探秘之旅创造出更好、更强的物品。\u003cbr\u003e\u003cbr\u003e融合生灵蛋就能孵化出魔法生灵。进化他们，你就可以获得更强大的生灵！遇见并解开富有挑战性的谜题关卡：匹配物品以赢得胜利，将奖品带回花园进行收集和培育。\u003cbr\u003e\u003cbr\u003e破除魔法大陆魔咒的唯一希望就是你那融合万物的非凡能力，包括生灵蛋、神树、宝藏、星星、魔法之花甚至是神秘生灵。\u003cbr\u003e\u003cbr\u003e不断融合并完善你的花园，发现奇观并培育超赞生灵。\u003cbr\u003e\u003cbr\u003eMERGE MAGIC! 功能：\u003cbr\u003e\u003cbr\u003e• 在多达 81 种挑战中揭秘超过 500 种奇异物品，并进行匹配、融合及互动！\u003cbr\u003e\u003cbr\u003e• 揭秘仙女、独角兽、牛头人和见所未见的混种生物，如蝶象（蝴蝶和大象），孔雀猫（孔雀和猫）等等。\u003cbr\u003e\u003cbr\u003e• 这座花园受到了邪恶诅咒，击退迷雾并破除魔咒，还给生灵们一个美好家园！\u003cbr\u003e\u003cbr\u003e• 在这场解谜之旅中，你可能会遇上邪恶女巫。所以行事务必小心谨慎！\u003cbr\u003e\u003cbr\u003e• 积极参与各类活动，赢得更高等级的生灵并带回你的花园。",
+  "label": "合成魔法",
+  "time": 1764892800008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】花园金币、宝石、复制、无休工作、解锁付费地图等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.gramgames.mergemagic.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.gramgames.mergemagic",
+  "vercode": 524,
+  "vername": "9.2.0",
+  "publisher": "Gram Games Limited",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "休闲",
+    "合成"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：休闲分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
