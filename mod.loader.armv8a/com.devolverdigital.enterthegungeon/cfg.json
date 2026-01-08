@@ -6,7 +6,7 @@
   "gms": 2,
   "info": "挺进地牢是弹幕+地牢探险的游戏。一群社会边缘人为完成逆袭而射击、掠夺、闪避，最终目标是获取地牢的终极宝藏：一把可以杀死过去的枪。选择一名英雄[或合作组队]，在一系列挑战中幸存，通过层层难度升级的地牢，击败地牢中危险又可敬的不死枪人和全副武装的可怕大佬。寻找珍贵的战利品，发掘隐藏的秘密，并与投机的商人和店主交谈以购买强大的物品来获取优势。\u003cbr\u003e\u003cbr\u003e简单总结，【挺进地牢】是和元气骑士类似的平面俯视图，【逃出地牢】则变为2D平台风格",
   "label": "挺进地牢",
-  "time": 1767744000008,
+  "time": 1767744000018,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -20,7 +20,7 @@
       "pkgname": "com.devolverdigital.enterthegungeon.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.devolverdigital.enterthegungeon",
