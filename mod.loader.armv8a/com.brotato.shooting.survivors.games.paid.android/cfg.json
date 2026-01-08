@@ -6,32 +6,31 @@
   "gms": 2,
   "info": "终极弹幕地狱体验！\u003cbr\u003e\u003cbr\u003e这是一款自上而下的肉鸽竞技场射击游戏，玩家扮演一个土豆，同时挥舞最多 6 种武器，对抗成群的外星人。玩家可以从各种特质和物品中选择，打造独特的造型，并在救援到来之前存活下来。\u003cbr\u003e\u003cbr\u003e唯一的幸存者：布罗塔托，唯一一个能够同时使用 6 种武器的土豆。布罗塔托等待着同伴的救援，他必须在这片充满敌意的环境中生存下来。\u003cbr\u003e\u003cbr\u003e游戏特色\u003cbr\u003e\u003cbr\u003e· 默认武器自动射击，并提供手动瞄准选项\u003cbr\u003e\u003cbr\u003e快速通关（30 分钟内）\u003cbr\u003e\u003cbr\u003e· 数十位角色可供选择，定制你的通关路线（单手、疯狂、幸运、法师等等）\u003cbr\u003e\u003cbr\u003e· 数百种物品和武器可供选择（火焰喷射器、冲锋枪、火箭发射器或棍棒和石头）\u003cbr\u003e\u003cbr\u003e· 在每波持续 20 到 90 秒的攻击中生存下来，并在这段时间内尽可能多地消灭外星人\u003cbr\u003e\u003cbr\u003e· 收集材料以获得经验值，并在每波攻击之间从商店购买物品敌人",
   "label": "土豆兄弟：付费版",
-  "time": 1763510400008,
+  "time": 1767744000008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【自动激活】解锁深海魔怪DLC！",
+        "【自动激活】解锁全部DLC！",
         "【自选菜单】可调节经验与材料的收益率！"
       ],
       "name": "上帝模式",
       "pkgname": "com.brotato.shooting.survivors.games.paid.android.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.brotato.shooting.survivors.games.paid.android",
-  "vercode": 1030338,
-  "vername": "1.3.338",
+  "vercode": 1030369,
+  "vername": "1.3.369",
   "publisher": "Erabit Studios",
   "s3": 0,
   "tags": [
     "中文",
-    "肉鸽",
-    "射击",
+    "肉鸽射击",
     "幸存者"
   ],
   "downloads": [
