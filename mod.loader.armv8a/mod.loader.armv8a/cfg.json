@@ -1139,6 +1139,12 @@
       "time": 1764892800000
     },
     {
+      "label": "豪华弹珠：重装上阵",
+      "mtime": 1767744000000,
+      "pkg": "com.greencod.pinballdeluxereloaded",
+      "time": 1764892800000
+    },
+    {
       "label": "弓箭传说：国际版",
       "mtime": 1761436800002,
       "pkg": "com.habby.archero",
@@ -2266,5 +2272,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1767744000001
+  "time": 1767830400000
 }

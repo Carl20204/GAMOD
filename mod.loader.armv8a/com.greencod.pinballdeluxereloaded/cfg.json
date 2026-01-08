@@ -1,0 +1,52 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "酷炫复古的弹球游戏，共16张可自定义的球台。真是太爽了。\u003cbr\u003e\u003cbr\u003e炫酷复古弹球游戏，可自定义球台规则。精彩刺激！探索强力球，收集模组。在 16 个不同的球台上测试你的弹球技巧：\u003cbr\u003e\u003cbr\u003e- 在“太空边疆”探索银河系\u003cbr\u003e\u003cbr\u003e- 在“白利糖度”挑战超过 50 个关卡\u003cbr\u003e\u003cbr\u003e- 在“嘉年华”的镜屋体验反重力游戏\u003cbr\u003e\u003cbr\u003e- 在“狂野西部”化身警长，将强盗赶出小镇\u003cbr\u003e\u003cbr\u003e- 在“寻宝猎人”潜入海底\u003cbr\u003e\u003cbr\u003e- 在“快球”看看你能得分多少\u003cbr\u003e\u003cbr\u003e- 在“袋鼠球”体验复古风\u003cbr\u003e\u003cbr\u003e- 重新配置“仪器”的布局\u003cbr\u003e\u003cbr\u003e- 在“贸易风”成为 18 世纪的航运大亨\u003cbr\u003e\u003cbr\u003e- 跟随“凯尔特点唱机”的音乐节奏\u003cbr\u003e\u003cbr\u003e- 在“侏罗纪世界”与你最爱的恐龙一起开球\u003cbr\u003e\u003cbr\u003e- 你坐在驾驶座上，你的乘客需要 Rydes！\u003cbr\u003e\u003cbr\u003e- “龙之守望”中的狂野巨龙\u003cbr\u003e\u003cbr\u003e在《Pinball Deluxe: Reloaded》中挑战高分，重温街机时代的美好时光。探索每张桌子独特的游戏风格。你能解锁所有迷你游戏，并击败巫师模式吗？收集模组，根据你的技能定制桌子，赢取高分。《Pinball Deluxe: Reloaded》将以丰富的动作和奖杯奖励你的快速反应，以表彰你使用银球的成就。\u003cbr\u003e\u003cbr\u003ePinball Deluxe 的亮点：\u003cbr\u003e\u003cbr\u003e- 令人惊叹的画面\u003cbr\u003e\u003cbr\u003e- 屡获殊荣的桌子设计\u003cbr\u003e\u003cbr\u003e- 精准的物理效果\u003cbr\u003e\u003cbr\u003e- 可收集的桌面定制模组\u003cbr\u003e\u003cbr\u003e- 矩阵显示屏上的迷你游戏\u003cbr\u003e\u003cbr\u003e- 每张桌子独特的游戏风格\u003cbr\u003e\u003cbr\u003e- 强力球\u003cbr\u003e\u003cbr\u003e- 在线多人游戏模式\u003cbr\u003e\u003cbr\u003e- 趣味挑战和成就",
+  "label": "豪华弹珠：重装上阵",
+  "time": 1764892800008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】付费内容免费"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.greencod.pinballdeluxereloaded.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.greencod.pinballdeluxereloaded",
+  "vercode": 29540,
+  "vername": "2.9.5",
+  "publisher": "Made Of Bits",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "英文",
+    "休闲",
+    "弹珠"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：休闲分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
