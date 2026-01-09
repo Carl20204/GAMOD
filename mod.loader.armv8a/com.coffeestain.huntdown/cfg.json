@@ -1,0 +1,54 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版，且包含了完整的外置数据包\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e游戏Bug，必需从简单模式开始玩起，不通关简单模式就玩其它难度会卡死\u003cbr\u003e\u003cbr\u003e直接点击购买完整版流程即可免费解锁\u003c/font\u003e"
+  },
+  "gms": 2,
+  "info": "犯罪无利可图……除非你是赏金猎人。\u003cbr\u003e\u003cbr\u003e在2020年登陆PC和各大主机之后，高人气的《Huntdown》现在来到移动设备上制造混乱了。在购买完整游戏之前，可以先免费试用体验版——无广告、无微交易，快来斩杀犯罪分子！\u003cbr\u003e\u003cbr\u003e在这个充斥着暴力和腐败的大都市，扮演三个无情的赏金猎人，扫清都市街道。受80年代的标志性动作电影和街机游戏的启发，用各种创造性的武器来对付城市的犯罪弱点，从无政府状态中夺回这座城市。\u003cbr\u003e\u003cbr\u003e《Huntdown》是一款喧闹的动作喜剧平台游戏，提供了快速的2D策略战斗，对抗致命的四大帮派和犯罪头目。踏上这个由Easy Trigger和Coffee Stain出版的缤纷冒险，做好准备受到导弹、炸弹和数百个独特幽默的攻击吧。\u003cbr\u003e\u003cbr\u003e其中包括：\u003cbr\u003e\u003cbr\u003e20个关卡的平台大混战：从高耸的屋顶和高速公路到肮脏的小巷和赌场，穿过《Hundown》熙熙攘攘的罪恶的地下世界，在身后炸出一条血路\u003cbr\u003e\u003cbr\u003e选择你的赏金猎人：扮演前突击队员安娜·康达、或是半机械人约翰·索耶、亦或是改装机器人割草君，每位都配备有自己独特的武器装备。除了机枪和手枪，你还可以使用苦无、回旋镖和战斧来碾压敌人\u003cbr\u003e\u003cbr\u003e手工打造的16位艺术风格：令人惊叹的像素艺术，横向滚动设置，细节满满的漂亮背景和动画",
+  "label": "暴徒猎手/追捕",
+  "time": 1759622400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费完整版，进入游戏点击购买完整版激活",
+        "【可选菜单】强化武器、投掷、无伤速等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.coffeestain.huntdown.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.coffeestain.huntdown",
+  "vercode": 200036,
+  "vername": "0.1(200036)",
+  "publisher": "Coffee Stain Publishing",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 2304,
+  "tags": [
+    "中文",
+    "街机",
+    "动作",
+    "付费完整版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：动作分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
