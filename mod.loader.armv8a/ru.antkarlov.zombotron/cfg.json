@@ -6,7 +6,7 @@
   "gms": 2,
   "info": "探索神秘的世界，寻找武器并与各种敌人战斗以求生存！\u003cbr\u003e\n在疯狂的 Zombotron 世界中，与僵尸、邪恶机器人和其他不死生物战斗，求生于此。故事发生在一颗未知的殖民星球上，随着时间的推移，这颗星球逐渐被人类遗弃和遗忘。寻找并拯救幸存者，共同揭开这颗神秘星球的神秘面纱。\u003cbr\u003e\nZombotron Re-Boot 是原版 Zombotron Flash 游戏系列的复刻版，拥有更新的画面、改进的物理引擎以及全新、极其丰富的特效！\u003cbr\u003e\n主要特色：\u003cbr\u003e\u003cbr\u003e— 精心打造的可破坏物理世界；\u003cbr\u003e\u003cbr\u003e— 种类繁多的武器；\u003cbr\u003e\u003cbr\u003e— 你可以利用环境消灭敌人；\u003cbr\u003e\u003cbr\u003e— 拥有独特能力的各种敌人；\u003cbr\u003e\u003cbr\u003e— 使用游戏手柄和耳机获得最佳体验。\u003cbr\u003e\n游戏玩法：\u003cbr\u003e\u003cbr\u003e— 使用左屏幕摇杆控制英雄；\u003cbr\u003e\u003cbr\u003e— 使用右屏幕摇杆瞄准并按住方向键进行攻击；\u003cbr\u003e\u003cbr\u003e— 与环境互动以激活互动物体；\u003cbr\u003e\u003cbr\u003e— 探索关卡，寻找新武器并追踪弹药；\u003cbr\u003e\u003cbr\u003e— 休息片刻即可恢复健康 - 英雄会自动恢复健康。",
   "label": "僵尸洞穴 ",
-  "time": 1765670400008,
+  "time": 1765670400018,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -19,7 +19,7 @@
       "pkgname": "ru.antkarlov.zombotron.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "ru.antkarlov.zombotron",
@@ -40,7 +40,8 @@
   "tags": [
     "中文",
     "街机",
-    "动作"
+    "动作",
+    "支持手柄"
   ],
   "downloads": [
     {
