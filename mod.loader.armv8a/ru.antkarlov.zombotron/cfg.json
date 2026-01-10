@@ -1,0 +1,52 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版，且包含了完整的外置数据包\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "探索神秘的世界，寻找武器并与各种敌人战斗以求生存！\u003cbr\u003e\n在疯狂的 Zombotron 世界中，与僵尸、邪恶机器人和其他不死生物战斗，求生于此。故事发生在一颗未知的殖民星球上，随着时间的推移，这颗星球逐渐被人类遗弃和遗忘。寻找并拯救幸存者，共同揭开这颗神秘星球的神秘面纱。\u003cbr\u003e\nZombotron Re-Boot 是原版 Zombotron Flash 游戏系列的复刻版，拥有更新的画面、改进的物理引擎以及全新、极其丰富的特效！\u003cbr\u003e\n主要特色：\u003cbr\u003e\u003cbr\u003e— 精心打造的可破坏物理世界；\u003cbr\u003e\u003cbr\u003e— 种类繁多的武器；\u003cbr\u003e\u003cbr\u003e— 你可以利用环境消灭敌人；\u003cbr\u003e\u003cbr\u003e— 拥有独特能力的各种敌人；\u003cbr\u003e\u003cbr\u003e— 使用游戏手柄和耳机获得最佳体验。\u003cbr\u003e\n游戏玩法：\u003cbr\u003e\u003cbr\u003e— 使用左屏幕摇杆控制英雄；\u003cbr\u003e\u003cbr\u003e— 使用右屏幕摇杆瞄准并按住方向键进行攻击；\u003cbr\u003e\u003cbr\u003e— 与环境互动以激活互动物体；\u003cbr\u003e\u003cbr\u003e— 探索关卡，寻找新武器并追踪弹药；\u003cbr\u003e\u003cbr\u003e— 休息片刻即可恢复健康 - 英雄会自动恢复健康。",
+  "label": "僵尸洞穴 ",
+  "time": 1765670400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】无敌、弹药、金币、速射、跳高等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "ru.antkarlov.zombotron.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "ru.antkarlov.zombotron",
+  "vercode": 135,
+  "vername": "1.4.9",
+  "publisher": "Ant.Karlov Games",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 2304,
+  "tags": [
+    "中文",
+    "街机",
+    "动作"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：动作分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
