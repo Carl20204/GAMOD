@@ -6,7 +6,7 @@
   "gms": 1,
   "info": "2025年12月22日\u003cbr\u003e\u003cbr\u003e■改善「不死生物來襲」活動\u003cbr\u003e畫面中會顯示出現不死生物的關卡名稱以及剩餘時間。\u003cbr\u003e另外也提升了尚未過關的不死生物關卡之出現機率。\u003cbr\u003e※玩家通過「世界篇」、「未來篇」和「宇宙篇」的各章後，就會出現該章的「不死生物來襲」活動。\u003cbr\u003e\u003cbr\u003e■追加角色的進化型態\u003cbr\u003e　追加了部份角色的第4進化\u003cbr\u003e\u003cbr\u003e■追加角色本能\u003cbr\u003e　追加了部份角色的本能、超本能\u003cbr\u003e\u003cbr\u003e■傳奇故事\u003cbr\u003e　追加新地圖\u003cbr\u003e　現有地圖解放關卡新高難易度\u003cbr\u003e\u003cbr\u003e■其他追加內容\u003cbr\u003e　追加等級排行報酬\u003cbr\u003e　追加貓咪聯組\u003cbr\u003e　改善部分遊戲功能",
   "label": "猫咪大战争",
-  "time": 1767916800008,
+  "time": 1768608000008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": false,
@@ -20,13 +20,13 @@
       "name": "上帝模式",
       "pkgname": "jp.co.ponos.battlecatstw.gm64",
       "sandbox": 155,
-      "targetvc": "1500020",
-      "vercode": 21
+      "targetvc": "1500030",
+      "vercode": 22
     }
   ],
   "pkgname": "jp.co.ponos.battlecatstw",
-  "vercode": 1500020,
-  "vername": "15.0.2",
+  "vercode": 1500030,
+  "vername": "15.0.3",
   "publisher": "PONOS",
   "s3": 0,
   "tags": [
