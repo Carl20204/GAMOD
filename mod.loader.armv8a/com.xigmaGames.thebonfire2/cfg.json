@@ -1,1 +1,43 @@
-{"archs":["arm64-v8a"],"faqs":{"值得玩不？":"感觉1代更有创意一些……2代就是标准的模拟经营策略类型了"},"gms":1,"info":"篝火1独特的平面世界+经营策略给人惊艳感。篝火2则为了更高的策略性，使用了同质化的3D地图。\u003cbr\u003e孰好孰坏，就看玩家们见仁见智了。","label":"篝火2：未知彼岸","time":1700179200005,"mod":true,"mods":[{"descs":["启动自动设置为完整版+免广告","可选功能就纯为了爽。怎么节约时间，怎么解压，怎么碾压，怎么土豪怎么来了"],"name":"上帝模式","pkgname":"com.xigmaGames.thebonfire2.gm64","targetvc":"*","vercode":2}],"pkgname":"com.xigmaGames.thebonfire2","vercode":451,"vername":"189.0.5","publisher":"FredBear Games","signmd5":"D2FF08A75D7783BB1E4E09B84A8B114E","tags":["中文","国际版","策略","模拟经营"],"downloads":[{"host":"小飞机网盘","url":"https://share.feijipan.com/s/JxUi5Tir","var":false},{"host":"小飞机网盘","url":"https://share.feijipan.com/s/DZUhkzOu","var":false},{"host":"小飞机网盘","url":"https://share.feijipan.com/s/m4UhKTCt","var":false},{"host":"翻墙｜直链下载","url":"https://d.apkpure.net/b/XAPK/com.xigmaGames.thebonfire2?versionCode\u003d451\u0026nc\u003darm64-v8a\u0026sv\u003d23","var":false},{"host":"翻墙｜下载页","url":"https://apkpure.net/cn/the-bonfire-2-uncharted-shores/com.xigmaGames.thebonfire2/download","var":true}]}
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 1,
+  "info": "屡获殊荣的生存模拟游戏——建造、生存、探索\u003cbr\u003e\u003cbr\u003e《篝火2：神秘海岸》是一款屡获殊荣的生存类城市建设模拟游戏，也是广受欢迎的《篝火：遗落之地》的续作。\u003cbr\u003e\u003cbr\u003e通过应用内购买移除广告后即可离线畅玩\u003cbr\u003e\u003cbr\u003e*支持语言：英语、法语、越南语、芬兰语、西班牙语、意大利语、俄语、德语、荷兰语、葡萄牙语、中文、日语、韩语、泰语\u003cbr\u003e\u003cbr\u003e获奖：\u003cbr\u003e\u003cbr\u003e🏆 Pocket Gamer 2020 年度最佳新策略游戏\u003cbr\u003e\u003cbr\u003e🏆 Pocket Gamer 金奖，2020 年 – 4.5/5 评分\u003cbr\u003e\u003cbr\u003e🏆 Pocket Gamer Connects，2020 年 – 移动版 The Big Indie Pitch #2 获奖\u003cbr\u003e\u003cbr\u003e🏆 东京电玩展，2019 年 – 独立游戏专区官方入选\u003cbr\u003e\u003cbr\u003e🏆 Gamescom，2020 年 – 独立游戏展位竞技场线上官方入选\u003cbr\u003e\u003cbr\u003e🏆 Google Play，2024 年 – 编辑推荐\u003cbr\u003e\u003cbr\u003e设计你的城市，管理资源以及你的工人，每个工人都有独特的个性。\u003cbr\u003e\u003cbr\u003e探索程序生成的世界地图，驾驶飞船，寻找可交易的自由城市和探索神秘的地下城。但请务必谨慎布置建筑物，因为这些建筑的位置对于管理某些资源至关重要，并会影响游戏玩法。\u003cbr\u003e\u003cbr\u003e最重要的是，您的生存取决于此，建造强大的定居点（城市建筑）并获得魔法宝物，击败远古邪恶。\u003cbr\u003e\u003cbr\u003e游戏特色：\u003cbr\u003e\u003cbr\u003e❰ 建造 ❱\u003cbr\u003e\u003cbr\u003e这就是城市建设。游戏允许您在白天建造、制作和收集资源。您可以自由设计城市布局。但是，建筑物的布局至关重要，会影响您定居点的最终结果。\u003cbr\u003e\u003cbr\u003e❰ 生存 ❱\u003cbr\u003e\u003cbr\u003e这就是生存！夜幕降临，保卫您的村庄，抵御狼、卓柏卡布拉、蜘蛛和部落敌人等随机怪物的侵袭。\u003cbr\u003e\u003cbr\u003e❰ 探索 ❱\u003cbr\u003e\u003cbr\u003e随机生成的世界地图正等着您驾驶飞船探索。探索新的城市进行交易，或与随机遭遇战以获取战利品。\u003cbr\u003e\u003cbr\u003e❰ 程序化角色❱\u003cbr\u003e\u003cbr\u003e每个村民都独一无二。他们拥有不同的属性，例如力量、敏捷、智力，以及个性化技能和特质。\u003cbr\u003e\u003cbr\u003e❰ 地下城模式❱\u003cbr\u003e\u003cbr\u003e探索地下城以获取稀有资源。深入探索后，您将揭开篝火的神秘面纱。\u003cbr\u003e\u003cbr\u003e❰ 角色进阶❱\u003cbr\u003e\u003cbr\u003e您可以像大多数角色扮演游戏一样，根据自己的喜好升级和培养每个村民。此外，玩家还可以制造武器和盔甲，并将其装备到自己的部队上。\u003cbr\u003e\u003cbr\u003e作为屡获殊荣的游戏《篝火：被遗忘的土地》的续作，《篝火：未知海岸》在原作的基础上进行了全方位扩展，并带来了更深层次的游戏体验。设计你的城市，管理资源链和个性独特的工人，驾驶飞船探索程序生成的世界地图，与自由城市进行贸易，并探索神秘的地下城。建造一座强大的城市，获取魔法宝物，击败远古邪恶。",
+  "label": "篝火2：未知彼岸",
+  "time": 1766707200008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】完整版+免广告",
+        "【可选菜单】加速、资源、无伤等等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.xigmaGames.thebonfire2.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 3
+    }
+  ],
+  "pkgname": "com.xigmaGames.thebonfire2",
+  "vercode": 596,
+  "vername": "191.5.6",
+  "publisher": "FredBear Games",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "策略",
+    "模拟经营"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：策略分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
