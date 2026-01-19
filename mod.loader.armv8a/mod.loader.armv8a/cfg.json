@@ -1582,6 +1582,12 @@
       "time": 1757980800000
     },
     {
+      "label": "主播模拟器",
+      "mtime": 1768780800000,
+      "pkg": "com.outerminds.tubular",
+      "time": 1768176000000
+    },
+    {
       "label": "异星入侵\n围剿外星客",
       "mtime": 1732579200000,
       "pkg": "com.outplayentertainment.aliencreeps",
@@ -2291,5 +2297,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1768694400001
+  "time": 1768780800000
 }

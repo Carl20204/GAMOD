@@ -1,0 +1,42 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e首次游戏为英文时，游戏首页左下按钮即可更改中文\u003c/font\u003e"
+  },
+  "gms": 2,
+  "info": "追随当下最红的网络主播——PewDiePie的脚步，在这款《PewDiePie的主播模拟器》中通过制作属于你自己的视频来成为和他一样的网红！有木有想过有一天你自己成为了史上最潮、最痞、最传奇的主播，然后把那个叫PewDiePie的家伙赶下神坛呢？\u003cbr\u003e\u003cbr\u003e这款2.5D的俯视角复古游戏将让你美梦成真！\u003cbr\u003e\u003cbr\u003e⋆ 通过制作视频来赢取观看数和订阅数，以此添置各种炫酷设备、家具、衣服、甚至宠物！\u003cbr\u003e\u003cbr\u003e⋆ PewDiePie本人倾情的原声出演！\u003cbr\u003e\u003cbr\u003e⋆ 完成各种史诗任务，更快速地朝主播天王的目标迈进！\u003cbr\u003e\u003cbr\u003e⋆ 在网络上发布你独一无二的房间，秀粉丝们一脸！\u003cbr\u003e\u003cbr\u003e⋆ 在每周稀奇古怪的活动中，给你最喜欢的玩家点个赞，并给他们投票吧！\u003cbr\u003e\u003cbr\u003e⋆ 广交好友，互送各种有范儿又搞怪的礼品！\u003cbr\u003e\u003cbr\u003e⋆ 在生还者竞技场中挑战你的好友，然后在Facebook上秀出你的分数吧！\u003cbr\u003e\u003cbr\u003e⋆ 畅玩PUGGLE——史上最Q的迷你小游戏！\u003cbr\u003e\u003cbr\u003e⋆ 由RUSHJET1呈献的带感音乐，完美还原《PewDiePie：兄弟拳传奇》那魔性而又欲罢不能的感觉！",
+  "label": "主播模拟器",
+  "time": 1768176000008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】强化流行趋势、宠物效果，调节绿钞、像素尘埃的收益、折扣"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.outerminds.tubular.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.outerminds.tubular",
+  "vercode": 200471,
+  "vername": "2.69.0",
+  "publisher": "Outerminds Inc.",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "策略",
+    "模拟经营"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：策略分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
