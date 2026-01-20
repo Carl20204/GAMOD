@@ -579,6 +579,12 @@
       "time": 1761350400000
     },
     {
+      "label": "吸血鬼传奇：血色小镇",
+      "mtime": 1768867200000,
+      "pkg": "com.artifexmundi.vampirelegends.gp.free",
+      "time": 1763164800000
+    },
+    {
       "label": "致命空袭2",
       "mtime": 1754179200000,
       "pkg": "com.ArtInGames.AirAttack2f",
@@ -2351,5 +2357,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1768867200004
+  "time": 1768867200005
 }

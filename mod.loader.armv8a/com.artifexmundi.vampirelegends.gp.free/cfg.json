@@ -1,0 +1,45 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：冒险分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "《吸血鬼传奇： 血色小镇》是一款充满了惊悚元素的冒险解密游戏，游戏根据历史上第一个有案可查的吸血鬼案例改编。\u003cbr\u003e\u003cbr\u003e免费试用，*然后从游戏中解锁整个探险！\u003cbr\u003e\u003cbr\u003e“十八世纪的欧洲：就在大瘟疫席卷哈布斯堡王朝的五十五年后，王国的民众再度陷入危险之中。\u003cbr\u003e\u003cbr\u003e偏远的塞尔维亚小镇基辛诺娃惊现一连串骇人听闻的离奇死亡事件。担心瘟疫会再次降临的居民开始逃离家园。\u003cbr\u003e\u003cbr\u003e皇家使者应符腾堡国王的传召来到基辛诺娃调查事件，阻止更多的死亡事件发生。\u003cbr\u003e\u003cbr\u003e女主角和她的伙伴们需要展开调查，询问目击者，探索小镇的每个角落，并解开谜题。\u003cbr\u003e\u003cbr\u003e他们能否揭发当地官员的秘密，弄清风帽男的真实面目，并挫败他们的阴谋呢？\u003cbr\u003e\u003cbr\u003e基辛诺娃和国家的命运就掌握在你的手中！”\u003cbr\u003e\u003cbr\u003e• 62幅手绘场景勾画18世纪欧洲的偏远之地。\u003cbr\u003e\u003cbr\u003e• 你的调查伙伴会经常来助你一臂之力。\u003cbr\u003e\u003cbr\u003e• 36个极具挑战性的小游戏，21个带有隐藏物品的场景。\u003cbr\u003e\u003cbr\u003e• 14个在调查过程中遇到的迷人角色。\u003cbr\u003e\u003cbr\u003e• 拥有多个结局的额外冒险！\u003cbr\u003e\u003cbr\u003e• 高端、逼真的游戏体验，针对平板电脑和智能手机进行全面优化！",
+  "label": "吸血鬼传奇：血色小镇",
+  "time": 1763164800008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费典藏版",
+        "【可选菜单】加速自动提示的闪烁间隔，提示按钮、跳过按钮无CD"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.artifexmundi.vampirelegends.gp.free.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.artifexmundi.vampirelegends.gp.free",
+  "vercode": 120021,
+  "vername": "1.10",
+  "publisher": "Artifex Mundi",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "付费完整版",
+    "冒险",
+    "解密",
+    "寻物"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：冒险分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
