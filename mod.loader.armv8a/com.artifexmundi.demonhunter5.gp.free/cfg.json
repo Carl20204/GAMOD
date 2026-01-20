@@ -1,0 +1,45 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：冒险分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "经过一天的调查，你瘫倒在椅子上。当你迷失在电视屏幕的光芒中时，电话铃突然响起。博物馆馆长请求你的帮助。一位游客失踪了，他向你警告过一些超自然的事件，你只是笑了笑，因为这正是狩魔者的目的。\u003cbr\u003e\u003cbr\u003e免费试用，*然后从游戏中解锁整个探险！\u003cbr\u003e\u003cbr\u003e你是赫克托尔·科尔，一个长期被遗忘的组织和自由狩魔者的成员。作为超自然现象调查专业人士，你的技能受到那些被冥界问题所困扰的人的追捧。其中一个人是埃德蒙·斯特兰奇，他是神秘主义和怪物博物馆所有者和馆长。最近博物馆的其中一位游客神秘消失了，而且寻找的所有理性方法都已用尽，这是在这场灾难的消息传到新闻界之前馆长最后的希望。你可以解决这个谜团，并消除困扰着那个地方的任何恐怖、鬼魂或怪物。你之前曾经遭遇过邪魔，然而当你到达现场时，你会感受到被某人或某物注视着的刺痛感。\u003cbr\u003e\u003cbr\u003e• 再次承担狩魔者的使命\u003cbr\u003e\u003cbr\u003e• 通过35个手绘地点让自己沉浸在令人毛骨悚然的博物馆中\u003cbr\u003e\u003cbr\u003e• 通过解决26个拼图来发现失踪游客的命运\u003cbr\u003e\u003cbr\u003e• 隐藏物品游戏爱好者和新手的冒险\u003cbr\u003e\u003cbr\u003e• 解开原始故事的前传",
+  "label": "狩魔者5：主权",
+  "time": 1761782400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费典藏版",
+        "【可选菜单】加速自动提示的闪烁间隔，提示按钮、跳过按钮无CD"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.artifexmundi.demonhunter5.gp.free.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.artifexmundi.demonhunter5.gp.free",
+  "vercode": 5016,
+  "vername": "1.5",
+  "publisher": "Artifex Mundi",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "付费完整版",
+    "冒险",
+    "解密",
+    "寻物"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：冒险分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
