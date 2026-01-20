@@ -537,6 +537,12 @@
       "time": 1760054400000
     },
     {
+      "label": "狩魔者3：真相",
+      "mtime": 1768867200000,
+      "pkg": "com.artifexmundi.demonhunter3.gp.free",
+      "time": 1761782400000
+    },
+    {
       "label": "翡翠少女：梦之交响曲",
       "mtime": 1768867200000,
       "pkg": "com.artifexmundi.emeraldmaiden.gp.free",
@@ -2333,5 +2339,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1768867200001
+  "time": 1768867200002
 }

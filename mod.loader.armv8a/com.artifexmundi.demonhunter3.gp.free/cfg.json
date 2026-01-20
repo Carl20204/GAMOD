@@ -1,0 +1,45 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：冒险分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "已在另一时空打败怪物的道恩.夏罗古希望在平静中度过她的余生。但境况迫使她不得不再次成为侦探 - 解决超自然神秘事件并猎杀魔怪。一个孩子的生命危在旦夕。主角能否聚集勇气跟着黑暗的路径并在另一空间对抗敌人吗？\u003cbr\u003e\u003cbr\u003e免费试用，*然后从游戏中解锁整个探险！\u003cbr\u003e\u003cbr\u003e完继续黑暗旅程冒险系列！\u003cbr\u003e\u003cbr\u003e主角将再次戴上她的侦探帽当她被要求在一些可疑的案件中提供协助时。\u003cbr\u003e\u003cbr\u003e将您自己浸入到魔法和超自然的神秘中!\u003cbr\u003e\u003cbr\u003e一名妇女被谋杀且她的女儿在奇怪的情况下失踪。这是一个随机的犯罪事件还是背后潜藏着某种邪恶？\u003cbr\u003e\u003cbr\u003e含有秘密和智力谜题的引人入胜的故事！\u003cbr\u003e\u003cbr\u003e道恩慢慢开始怀疑在这里有恐怖势力在活动。实际上，超自然事件或许更多和想她自己知道的神秘起源相关。\u003cbr\u003e\u003cbr\u003e在26个小游戏和隐藏物品场景中测试你自己！\u003cbr\u003e\u003cbr\u003e猎魔者将需要在它不是太迟之前找到受害者的女儿。她将敢于追踪来自另一世界怪物的踪迹并研究她自己过去的黑暗秘密吗？\u003cbr\u003e\u003cbr\u003e• 研究魔法和超自然的氛围！\u003cbr\u003e\u003cbr\u003e• 超过26个不同的小游戏和隐藏物品智力游戏！\u003cbr\u003e\u003cbr\u003e• 含有秘密和智力游戏的引人入胜的故事！\u003cbr\u003e\u003cbr\u003e• 惊人的阴谋将让你保持怀疑！\u003cbr\u003e\u003cbr\u003e• 奖励冒险章节将引导你到黑暗和被遗弃的地方！",
+  "label": "狩魔者3：真相",
+  "time": 1761782400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费典藏版",
+        "【可选菜单】加速自动提示的闪烁间隔，提示按钮、跳过按钮无CD"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.artifexmundi.demonhunter3.gp.free.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.artifexmundi.demonhunter3.gp.free",
+  "vercode": 5047,
+  "vername": "2.5",
+  "publisher": "Artifex Mundi",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "付费完整版",
+    "冒险",
+    "解密",
+    "寻物"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：冒险分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
