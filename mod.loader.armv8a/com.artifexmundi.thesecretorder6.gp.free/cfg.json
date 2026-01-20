@@ -1,0 +1,45 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：冒险分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "设置在丛林中的恐怖故事！\u003cbr\u003e\u003cbr\u003e从人类的诞生开始，他们便在寻找秘药 - 一种能够治愈任何已知的疾病甚至能客服死亡的神器药物。\u003cbr\u003e\u003cbr\u003e39处可以探索的充满活力的地点！\u003cbr\u003e\u003cbr\u003e萨拉.潘宁顿受到她母亲 - 一名微生物学家 - 的邀请到南美洲中心地带的研究机构 - 并立即被卷入了一场危险冒险的旋流之中。\u003cbr\u003e\u003cbr\u003e40个引入入胜的智力谜题和有隐藏物品的场景！\u003cbr\u003e\u003cbr\u003e萨拉的母亲被老对手 - 龙族 - 绑架了 - 它们在丛林中进行着密码的实验且会毫不犹豫牺牲任何代价得到可以控制生和死的神奇植物。\u003cbr\u003e\u003cbr\u003e引入入胜的实验性小游戏！\u003cbr\u003e\u003cbr\u003e萨拉能救出她母亲并找到神奇的花吗？\u003cbr\u003e\u003cbr\u003e• 39处奇异的地点！\u003cbr\u003e\u003cbr\u003e• 神秘丛林中的恐怖故事！\u003cbr\u003e\u003cbr\u003e• 40个错综复杂的谜题和HO场景！\u003cbr\u003e\u003cbr\u003e• 引入入胜的实验性小游戏！\u003cbr\u003e\u003cbr\u003e• 阻止龙族致命的实验！",
+  "label": "秘密组织6:血统",
+  "time": 1761350400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费典藏版",
+        "【可选菜单】加速自动提示的闪烁间隔，提示按钮、跳过按钮无CD"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.artifexmundi.thesecretorder6.gp.free.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.artifexmundi.thesecretorder6.gp.free",
+  "vercode": 5050,
+  "vername": "2.7",
+  "publisher": "Artifex Mundi",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "付费完整版",
+    "冒险",
+    "解密",
+    "寻物"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：冒险分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
