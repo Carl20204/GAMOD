@@ -1,0 +1,45 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：冒险分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "将你的家人从不祥的水下装置中解救出来!\u003cbr\u003e\u003cbr\u003e继《乌鸦森林之谜》系列和《恐怖传奇》系列之后，又一场惊险刺激的解谜冒险之旅！\u003cbr\u003e\u003cbr\u003e被称作翡翠少女的水下装置， 其安乐祥和的外表之下隐藏了许多不为人知的黑暗秘密。 赶快踏上冒险旅程，揭开潜藏在梦境中的秘密，解救你被困的家人吧！\u003cbr\u003e\u003cbr\u003e免费试用，*然后从游戏中解锁整个探险！\u003cbr\u003e\u003cbr\u003e经典冒险游戏的重制版本！\u003cbr\u003e\u003cbr\u003e本次重制在以下几个方面做了提升：\u003cbr\u003e\u003cbr\u003e• 添加了更多的语言版本\u003cbr\u003e\u003cbr\u003e• 提高了美术质量\u003cbr\u003e\u003cbr\u003e• 优化了游戏体验\u003cbr\u003e\u003cbr\u003e• 优化了手机端的游戏适配\u003cbr\u003e\u003cbr\u003e1957年，年幼的你被遗弃在伦敦一家孤儿院的门口。25年后，你收到一封装有你与母亲合照的信封，信中还附有一张神秘旅行的邀请函。\u003cbr\u003e\u003cbr\u003e母亲为什么离开了你？她与那个神秘组织有何联系？为了寻找谜底，你踏上了去往翡翠少女的旅程。然而你很快就发现，某个强大的力量正在侵入这个所谓的“富人和精英的游乐场”。 你需要凭借你的聪明才智，直面这个水下装置的黑暗秘密，发现有关你家人的真相，并及时从翡翠少女中逃脱！\u003cbr\u003e\u003cbr\u003e你是否强大到足以挑战潜藏在深海设施——翡翠少女中的古老邪灵？\u003cbr\u003e\u003cbr\u003e• 发生在独特水下布景中的惊险故事！\u003cbr\u003e\u003cbr\u003e• 19款小游戏等你来挑战！\u003cbr\u003e\u003cbr\u003e• 25款原创隐藏物品谜题等你来探索！\u003cbr\u003e\u003cbr\u003e• 专属机器人将全程为你提供帮助！",
+  "label": "翡翠少女：梦之交响曲",
+  "time": 1763078400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费典藏版",
+        "【可选菜单】加速自动提示的闪烁间隔，提示按钮、跳过按钮无CD"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.artifexmundi.emeraldmaiden.gp.free.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.artifexmundi.emeraldmaiden.gp.free",
+  "vercode": 150007,
+  "vername": "1.10",
+  "publisher": "Artifex Mundi",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "付费完整版",
+    "冒险",
+    "解密",
+    "寻物"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：冒险分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：冒险分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "直面来自异世界的远古恶魔！\u003cbr\u003e\u003cbr\u003e继《乌鸦森林之谜》系列和《恐怖传奇》系列之后，又一场惊险刺激的解谜冒险之旅！\u003cbr\u003e\u003cbr\u003e狩魔者：不为人知的故事讲述的是一个发生在20世纪30年代美国的惊悚故事。游戏主人公多恩•哈洛克是一位拥有异于常人的红色眼瞳的女性，她回到位于爱荷华岛的家族祖屋去调查导师艾什摩尔教授的神秘死亡。没过多久，多恩就发现了一些可怕实验的踪迹，同时不得不与来自异世界的远古恶魔正面对抗。\u003cbr\u003e\u003cbr\u003e免费试用，*然后从游戏中解锁整个探险！\u003cbr\u003e\u003cbr\u003e在调查中，多恩开始怀疑有某人——或者说某物，从另一个位面穿越到我们的世界中，同时，她自身的神秘过往也在这些令人迷惑的事件中扮演着重要角色。\u003cbr\u003e\u003cbr\u003e多恩必须揭开潜藏在阴森宅邸中的秘密，解开怪异实验之谜，查明多年以前，艾什摩尔在岛上发现正在漫无目的地行走的她的整个事件真相。\u003cbr\u003e\u003cbr\u003e多恩的真实身份会是击败来自另一个位面的远古恶魔的关键吗？\u003cbr\u003e\u003cbr\u003e• 41个手绘地点贯穿整个神秘岛屿！\u003cbr\u003e\u003cbr\u003e• 29个各不相同的小游戏！\u003cbr\u003e\u003cbr\u003e• 21个包含隐藏物体的迷人场景！\u003cbr\u003e\u003cbr\u003e• 令人迷醉的故事，放飞你的想象力！\u003cbr\u003e\u003cbr\u003e• 28个令人兴奋的成就等待解锁！",
+  "label": "狩魔者：不为人知的故事",
+  "time": 1760054400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费典藏版",
+        "【可选菜单】加速自动提示的闪烁间隔，提示按钮、跳过按钮无CD"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.artifexmundi.demonhunter.gp.free.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.artifexmundi.demonhunter.gp.free",
+  "vercode": 10015,
+  "vername": "1.5",
+  "publisher": "Artifex Mundi",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "付费完整版",
+    "冒险",
+    "解密",
+    "寻物"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：冒险分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：冒险分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "从神秘集团接替恶魔猎人的职位并从来自另一个世界梦魔的魔爪中拯救Lichtenheim之城。抓住盗窃力量强大神器的盗贼并解开你过去身世的秘密！\u003cbr\u003e\u003cbr\u003e免费试用，*然后从游戏中解锁整个探险！\u003cbr\u003e\u003cbr\u003e开始恐怖传奇迷人的第三作！\u003cbr\u003e\u003cbr\u003e恐怖传奇3：黑暗之城是一款高质量的隐藏物品冒险智力游戏，专注于哥特式城市中恐怖场景的小游戏和解谜游戏。\u003cbr\u003e\u003cbr\u003e在手绘哥特式城市中猎杀怪物！\u003cbr\u003e\u003cbr\u003e西尔维娅，神秘的怪物猎杀集团的成员，失去了她的记忆。一年以后，禁闭之石-约束梦魔，来自另一世界力量强大的神器-被盗了！\u003cbr\u003e\u003cbr\u003e36个吸引人的手绘地图！\u003cbr\u003e\u003cbr\u003e西尔维娅和她的导师，所罗门，开始了将他们带往Lichtenheim之城的一段冒险旅程，在那里他们将会面对身份不比丢失神器令人震惊的盗贼。\u003cbr\u003e\u003cbr\u003e在36个小游戏和隐藏物品场景中测试你自己！\u003cbr\u003e\u003cbr\u003e海洛因和她的朋友将需要开动他们的侦探头脑，面对的不仅仅是黑暗之城哥特式围墙内的邪恶力量，还有来自过去的黑幕。西尔维娅能否成功地找到禁闭之石并阻止梦魔的逃出？她会鼓起勇气拯救Lichtenheim之城和其居民吗？\u003cbr\u003e\u003cbr\u003e从典藏版中的奖励冒险中帮助分开的情侣！\u003cbr\u003e\u003cbr\u003e额外内容包含了能将你更深带入游戏的浸入式奖励冒险！\u003cbr\u003e\u003cbr\u003e随身携带隐藏物品冒险智力游戏！\u003cbr\u003e\u003cbr\u003e优化手机和平板应用程序，添加了隐藏物品，完美适合旅行。此离线游戏不要求连接WiFi！",
+  "label": "恐怖传奇3：黑暗之城",
+  "time": 1761177600008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": false,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费典藏版",
+        "【可选菜单】加速自动提示的闪烁间隔，提示按钮、跳过按钮无CD"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.artifexmundi.grimlegends3.gp.free.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.artifexmundi.grimlegends3.gp.free",
+  "vercode": 5051,
+  "vername": "2.5",
+  "publisher": "Artifex Mundi",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "付费完整版",
+    "冒险",
+    "解密",
+    "寻物"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：冒险分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
