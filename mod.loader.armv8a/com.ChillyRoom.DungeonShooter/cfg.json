@@ -1,12 +1,12 @@
 {
   "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
     "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e本游戏国际版与中国版使用了相同包名，导致你只能二选一，手机上只能安装一款版本。\u003cbr\u003e本MOD基于国际版开发，不保证在中国版运行正常！\u003c/font\u003e"
   },
   "gms": 2,
-  "info": "2025年12月18日\u003cbr\u003e\u003cbr\u003e*「冰雪狂欢！火力又全开！」活动开启！圣诞老人拿出“奇迹礼物”为大家强化“火力全开”状态，望小骑士助力夺回礼物！参与活动可获取全新宠物火力雪人王等诸多奖励！\u003cbr\u003e*「冰雪节签到」节日福利活动开启！签到可领取限定武器皮肤、自选角色（8选1）、自选皮肤（8选1）等诸多奖励！\u003cbr\u003e*「武器皮肤活动扭蛋」开启，可获取全新武器皮肤、元气蛋系列皮肤等奖励！\u003cbr\u003e*新增戏法师二技能\u003cbr\u003e*工程师三技能重制，炮台可升级强化\u003cbr\u003e*新增戏法师“星轨颂歌”系列皮肤、及其他8款皮肤\u003cbr\u003e*新增13款武器皮肤，其中5款武器有进化效果\u003cbr\u003e*优化引导体验\u003cbr\u003e*武器进化系统全面优化\u003cbr\u003e*补充了吟游诗人部分皮肤的技能特效，并优化补充了部分皮肤的技能音效",
+  "info": "快节奏像素地牢射击游戏！独自冒险或同全世界的小骑士在线联机打怪！\u003cbr\u003e\u003cbr\u003e元气骑士是一款快节奏的像素地牢RPG游戏，融合了动作、射击和Roguelike元素。\u003cbr\u003e\u003cbr\u003e在这个引人入胜的冒险中，玩家必须从高科技外星人手中夺回被盗的魔法石，以恢复世界平衡。\u003cbr\u003e\u003cbr\u003e游戏拥有20多位独特的英雄，从骑士、精灵到刺客、女巫，每个英雄都有其独特的能力，同时还有超过400种武器可供选择。玩家可以探索随机生成的地牢，其中充满了怪物、宝藏和NPC。\u003cbr\u003e\u003cbr\u003e游戏的一大亮点是多人模式，支持2-4名玩家在线上和线下组队。\u003cbr\u003e\u003cbr\u003e凭借直观的自动瞄准控制系统、精美的复古像素艺术，以及包括种植、钓鱼和塔防在内的各种游戏模式，元气骑士提供了无尽的娱乐体验。\u003cbr\u003e\u003cbr\u003e游戏流畅的gameplay和容易上手的机制使其易于入门，同时通过RPG元素保持了游戏的深度。",
   "label": "元气骑士",
-  "time": 1766016000008,
+  "time": 1768521600008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": false,
@@ -19,23 +19,22 @@
       "pkgname": "com.ChillyRoom.DungeonShooter.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 15
+      "vercode": 16
     }
   ],
   "pkgname": "com.ChillyRoom.DungeonShooter",
-  "vercode": 70800,
-  "vername": "7.8.0",
+  "vercode": 70901,
+  "vername": "7.9.0",
   "publisher": "凉屋（ChillyRoom）",
   "s3": 0,
   "tags": [
     "中文",
-    "肉鸽",
-    "射击",
+    "肉鸽射击",
     "动作"
   ],
   "downloads": [
     {
-      "host": "网盘分享：动作分类",
+      "host": "网盘分享：射击分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
