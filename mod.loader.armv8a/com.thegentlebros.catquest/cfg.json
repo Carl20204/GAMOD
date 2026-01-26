@@ -1,0 +1,52 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版，且包含了完整的外置数据包\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "开放世界冒险！\u003cbr\u003e\u003cbr\u003e体验前所未有的精彩开放世界角色扮演游戏！\u003cbr\u003e\u003cbr\u003e踏上一段由龙、魔法和猫咪组成的盛大冒险，追击邪恶的德拉科斯和你被绑架的妹妹！探索菲灵格的庞大世界地图，冒着生命危险深入地下城，获取史诗级战利品，并在一系列支线任务中与毛茸茸的角色们亲密接触。\u003cbr\u003e\u003cbr\u003e特色\u003cbr\u003e\u003cbr\u003e- 精彩的实时战斗！超刺激的战斗！\u003cbr\u003e\u003cbr\u003e- 巨大的开放世界，充满数小时的毛茸茸内容！\u003cbr\u003e\u003cbr\u003e- 超过 60 个支线任务！\u003cbr\u003e\u003cbr\u003e- 超过 60 个地下城和洞穴，战利品琳琅满目！\u003cbr\u003e\u003cbr\u003e- 战利品？没错，我们有大量战利品！而且所有战利品都经过猫咪认证！\u003cbr\u003e\u003cbr\u003e- 精美的画面，更凸显了猫咪的可爱！\u003cbr\u003e\u003cbr\u003e- 一个关于失去、背叛、冒险、胜利以及……猫咪的引人入胜的故事！",
+  "label": "猫咪斗恶龙",
+  "time": 1768867200008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】起始金币、攻击、防御、法力等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.thegentlebros.catquest.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.thegentlebros.catquest",
+  "vercode": 186,
+  "vername": "1.2.15",
+  "publisher": "The Gentlebros",
+  "s1": [
+    256,
+    512,
+    1024
+  ],
+  "s2": [
+    1024,
+    2048,
+    4096
+  ],
+  "s3": 1536,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "休闲"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
