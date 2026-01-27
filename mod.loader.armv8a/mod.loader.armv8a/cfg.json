@@ -1887,6 +1887,12 @@
       "time": 1721433600001
     },
     {
+      "label": "太空小队：生存",
+      "mtime": 1769472000000,
+      "pkg": "com.rebeltwins.spacesquadsurvival",
+      "time": 1765411200000
+    },
+    {
       "label": "哥布林弹球",
       "mtime": 1760745600000,
       "pkg": "com.RedNexusGamesInc.Peglin",
@@ -2375,5 +2381,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1769385600001
+  "time": 1769472000000
 }

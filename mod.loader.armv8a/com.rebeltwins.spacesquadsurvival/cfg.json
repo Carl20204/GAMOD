@@ -1,0 +1,54 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：生存分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版，且包含了完整的外置数据包\u003c/font\u003e",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "管理你的飞船，探索星球，狩猎怪物，对抗太空海盗！\u003cbr\u003e\u003cbr\u003e在无尽的宇宙中，作为你自己飞船的指挥官努力生存！\u003cbr\u003e\u003cbr\u003e指挥你的船员，探索未知的星球，寻找食物，并抵御凶残的太空海盗。你的每一个决定都将影响整个小队的命运！\u003cbr\u003e\u003cbr\u003e精彩特色：\u003cbr\u003e\u003cbr\u003e🚀 飞船管理： 扩展你的飞船，优化资源，维持船员士气。\u003cbr\u003e\u003cbr\u003e👾 猎杀外星生物： 收集食物，使用各种武器和战术应对外星威胁。\u003cbr\u003e\u003cbr\u003e🌍 星球探索： 开采资源，发现神秘地点，建设并升级基地。\u003cbr\u003e\u003cbr\u003e⚔️ 太空海盗战斗： 防御海盗袭击，登上敌舰，获取稀有资源和经验。\u003cbr\u003e\u003cbr\u003e🛠️ 建设与发展： 升级科技，制造新模块，提升你的生存技能，应对恶劣宇宙环境。\u003cbr\u003e\u003cbr\u003e带领你的太空小队，证明你能在最严酷的条件下生存下来！",
+  "label": "太空小队：生存",
+  "time": 1765411200008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】无广告",
+        "【可选菜单】金币、宝石的收益率，消耗折扣，采矿战斗时武器强化等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.rebeltwins.spacesquadsurvival.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.rebeltwins.spacesquadsurvival",
+  "vercode": 25,
+  "vername": "1.0.10",
+  "publisher": "Rebel Twins",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 1024,
+  "tags": [
+    "中文",
+    "生存",
+    "管理",
+    "射击"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：生存分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
