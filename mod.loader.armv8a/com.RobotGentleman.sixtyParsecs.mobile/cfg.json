@@ -1,27 +1,30 @@
 {
   "faqs": {
-    "游戏更新建议": "中国区玩家，会翻墙，但没有谷歌账号，建议使用如下谷歌商店替代品\u003cbr\u003e\u003cbr\u003e1。\u003ca href\u003dhttps://apkpure.net/cn\u003eapkpure.net\u003c/a\u003e 曾是全球最大的腾讯投资的谷歌商店替代品，优点是无需谷歌账号，通过网页直接下载安装包或旧版本安装包、缺点是部分游戏更新不太及时，或只更新32位/64位，出现遗漏。\u003cbr\u003e\u003cbr\u003e2。\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore\u003c/a\u003e，非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！",
-    "MOD更新说明": "本游戏MOD为通用型，游戏升级无需换MOD，建议直接用AuroraStore或apkpure更新游戏即可。\u003cbr\u003e\u003cbr\u003e如果游戏升级出现MOD失效或异常，可以到墨魔豆的QQ圈子里说一声，有群友会通知到作者更新"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装付费原版\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：冒险分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 1,
-  "info": "60秒系列的太空版本，比避难所/重新裂变两作复杂多了，喜欢休闲轻松的，建议玩重新裂变，喜欢高复杂度的玩本作\u003cbr\u003e\u003cbr\u003e网盘分享的是大神订制的无广告版本，推荐使用",
+  "info": "原子太空时代就在电光火石之间！然后，后启示录太空时代来临了。\u003cbr\u003e\u003cbr\u003e你的空间站即将爆炸，60秒时间一过，一切就会支离破碎。在奔向逃生飞船、前往神秘的未知领域之前，你想要带上什么（谁）？\u003cbr\u003e\u003cbr\u003e这就是《60 Parsecs!》，一款背景设定在原子太空时代的黑色幽默科幻冒险游戏，其中还有冷战偏执狂、镀铬墙以及戴着太空头盔的蟑螂。\u003cbr\u003e\u003cbr\u003e带领一队毫无准备的宇航员，在火箭发射升空之前，装备上随便什么垃圾——抱歉——“物资”，开启跌跌撞撞的宇宙之旅。充分利用物资，解决汤罐头短缺等其他外太空的困难。你能够找到一个新家并存活下去吗？\u003cbr\u003e\u003cbr\u003e祝你旅途愉快！\u003cbr\u003e\u003cbr\u003e搜寻与撤离\u003cbr\u003e\u003cbr\u003e在太空站被核爆炸成真空中的碎片之前，你只有60秒的时间。在离开前，尽可能的搜寻你能找到的所有物资与舰员。那只袜子玩偶说不定什么时候就能派上用场。\u003cbr\u003e\u003cbr\u003e生存与抉择\u003cbr\u003e\u003cbr\u003e太空葬礼十分麻烦，所以尽可能不要死掉。使用你有限的物资和（希望不是有限的）智慧来做出艰难抉择，确保你能够存活下去，即使困难重重，希望渺茫。\u003cbr\u003e\u003cbr\u003e探索与制造\u003cbr\u003e\u003cbr\u003e强力胶带可以修复所有问题，但你该怎样修复（或者至少是制造）强力胶带呢？通过外出探险来寻找资源，制造生存必需品，并探索陌生的新世界，进行一场程序性的，很可能是有去无回的冒险。\u003cbr\u003e\u003cbr\u003e领导与保护\u003cbr\u003e\u003cbr\u003e作为舰长，让舰员保持开心是你的职责——这样他们就不太可能会杀掉你。随着他们之间的关系变得紧密，你要妥善处理他们的关系，尽量避免他们闹内讧，打开气压过渡舱把对方扔进太空里去。",
   "label": "60秒差距",
-  "time": 1724112000008,
+  "time": 1764720000008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单可调节角色状态、物品等"
+        "【可选菜单】角色状态、物品等"
       ],
       "name": "上帝模式",
       "pkgname": "com.RobotGentleman.sixtyParsecs.mobile.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.RobotGentleman.sixtyParsecs.mobile",
-  "vercode": 2113,
-  "vername": "1.3.1.2113",
+  "vercode": 2128,
+  "vername": "1.3.5",
   "publisher": "Robot Gentleman",
   "s1": [
     256,
@@ -36,25 +39,15 @@
   "s3": 1536,
   "tags": [
     "中文",
-    "肉鸽",
-    "生存",
-    "付费版"
+    "付费版",
+    "冒险",
+    "生存"
   ],
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/mgEMpWd5",
+      "host": "网盘分享：冒险分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/z9EMpdYU",
-      "var": false
-    },
-    {
-      "host": "翻墙|游戏下载页",
-      "url": "https://apkpure.net/cn/60-parsecs/com.RobotGentleman.sixtyParsecs.mobile",
-      "var": true
     }
   ]
 }
