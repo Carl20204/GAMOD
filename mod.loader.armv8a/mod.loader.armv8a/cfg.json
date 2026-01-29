@@ -515,6 +515,13 @@
       "pkg": "com.and.games505.Terraria",
       "time": 1759536000000
     },
+	{
+      "group": 9,
+      "label": "泰拉瑞亚：付费版",
+      "mtime": 1769644800004,
+      "pkg": "com.and.games505.TerrariaPaid",
+      "time": 1769644800000
+    },
     {
       "label": "射击英雄",
       "pkg": "com.anglesgames.auto.shoot.hero",
@@ -2393,5 +2400,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1769644800000
+  "time": 1769644800004
 }
