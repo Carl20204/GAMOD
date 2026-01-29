@@ -1,55 +1,58 @@
 {
-  "time": 1715126400019,
-  "label": "弓箭大师：终极版",
-  "pkgname": "com.playgendary.bowmastersremastered",
-  "publisher": "Playgendary Limited",
-  "vername": "1.1.1",
-  "vercode": 948,
-  "gms":1,
-  "mod": true,
-  "tags": ["中文","对战","休闲","血腥","搞笑"],
-  "info": "搞笑+血腥类型的休闲游戏，在不同地形上，双方按照愤怒的小鸟物理方式对射，搞死对手<br><br>游戏风格可以理解为卡通版《真人快打》18+，强烈建议未成年人止步",
-
-  "videos": {
-    "https://www.douyin.com/user/self?modal_id=7150847830586854696":"游戏演示"
-  },
   "faqs": {
-    "卡在启动界面上？": "游戏会在启动时连接外网服务器，断网启动游戏，或者卡住后断一下网就能立刻进入游戏",
-    "好血腥，但抖音视频一点不血腥啊？": "游戏里点设置，可以关掉血腥模式。<br>PS：游戏缺省是开启了血腥模式"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：创意分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟或屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e 启动界面卡10秒？\u003cbr\u003e断一下网就能加快进入游戏。\u003c/font\u003e"
   },
-  "downloads": [
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/5XAUtqbj"
-    },{
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/jQAbnNGS"
-    },{
-      "var": true,
-      "host": "apkpure[翻墙]",
-      "url": "https://apkpure.net/cn/ultimate-bowmasters/com.playgendary.bowmastersremastered/download"
-    }
-  ],
+  "gms": 1,
+  "info": "注意：游戏过于血腥，入坑需谨慎\u003cbr\u003e\u003cbr\u003e弓箭大师系列的一个疯狂章节！终极角色和乐趣！\u003cbr\u003e\u003cbr\u003e发现世界著名动作、瞄准和射击游戏的新篇章 - 终极弓箭大师\u003cbr\u003e\u003cbr\u003e• 超级血腥模式 - 在新模式中更多的乐趣、混乱和伤害\u003cbr\u003e\u003cbr\u003e• 60多个更新和完全疯狂的角色以及大量免费武器！\u003cbr\u003e\u003cbr\u003e• 更新的物理和效果 - 感受前所未有的混乱，令人惊叹的致命和残忍的动作绝对不会让你感到无聊！\u003cbr\u003e\u003cbr\u003e• 几种有趣的游戏模式。击落鸟或水果，在决斗中击败敌人并为此而付费！\u003cbr\u003e\u003cbr\u003e• 无尽的奖励等待着您的技能！\u003cbr\u003e\u003cbr\u003e沉浸其中，成为第一个充满乐趣的人！",
+  "label": "弓箭大师：终极版",
+  "time": 1764806400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
   "mods": [
     {
-      "name": "上帝模式",
       "descs": [
-        "MOD自动激活免广告",
-        "自选菜单，可调节无伤、全角色解锁、金币、宝石等"
+        "【自动激活】免广告",
+        "【可选菜单】无伤、全角色解锁、金币、宝石等"
       ],
+      "name": "上帝模式",
       "pkgname": "com.playgendary.bowmastersremastered.gm64",
-      "targetvc":"*",
-      "vercode": 1
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 2
     }
   ],
-  "s1": [512, 1024, 2048],
-  "s2": [2048, 6144, 10904],
+  "pkgname": "com.playgendary.bowmastersremastered",
+  "vercode": 949,
+  "vername": "1.1.2",
+  "publisher": "Playgendary Limited",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
   "s3": 4608,
-  "promotions": [
-    {"url": "https://ugame.9game.cn/game/share-235275-575274.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-1088351.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-3068140.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-1182503.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-1170404.html"}
-  ]
+  "tags": [
+    "中文",
+    "动作",
+    "弹道射击",
+    "血腥",
+    "搞笑"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：创意分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ],
+  "videos": {
+    "https://www.douyin.com/user/self?modal_id\u003d7150847830586854696": "游戏演示"
+  }
 }
