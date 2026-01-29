@@ -1,0 +1,55 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：创意分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟或屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 1,
+  "info": "注意1：游戏过于血腥，入坑需谨慎\u003cbr\u003e注意2：建议玩中文的终极版，点击最后一个标签（游戏发行/开发商）就能找到\u003cbr\u003e\u003cbr\u003e畅玩顶级箭术游戏\u003cbr\u003e\u003cbr\u003e全新版本的举世闻名的弓箭手多人游戏 - 精彩的射击目标和射击游戏，弓箭手为您整装待发:\u003cbr\u003e\u003cbr\u003e• 60名免费全方位疯狂角色！\u003cbr\u003e\u003cbr\u003e• 在线倍增器！\u003cbr\u003e\u003cbr\u003e• 大混乱、配布娃娃系统的事故中60种不同武器！\u003cbr\u003e\u003cbr\u003e• 与您的朋友进行史诗般决斗。带上您的伙伴，展示自己的价值！\u003cbr\u003e\u003cbr\u003e• 多种游戏模式。射击鸟或水果，在决斗中打败敌人，获取钱财！\u003cbr\u003e\u003cbr\u003e• 凭借精湛的技能即可获取源源不断的奖赏！\u003cbr\u003e\u003cbr\u003e乐趣多多，不要错过！抢先获取！",
+  "label": "弓箭大师",
+  "time": 1769558400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免广告",
+        "【可选菜单】无伤、全角色解锁、金币、宝石等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.playgendary.bowmasters.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.playgendary.bowmasters",
+  "vercode": 14049,
+  "vername": "10.1.2",
+  "publisher": "Playgendary Limited",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4608,
+  "tags": [
+    "英文",
+    "动作",
+    "弹道射击",
+    "血腥",
+    "搞笑"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：创意分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
