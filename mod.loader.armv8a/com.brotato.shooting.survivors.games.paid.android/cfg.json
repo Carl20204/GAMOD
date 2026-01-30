@@ -1,12 +1,12 @@
 {
   "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装付费原版\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "游戏下载更新说明": "本作使用了谷歌加固，MOD不支持动态脱壳解密，希望玩MOD版请下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的脱壳包，无广告，无修改，纯净原版，配合MOD玩更爽。",
     "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 2,
   "info": "终极弹幕地狱体验！\u003cbr\u003e\u003cbr\u003e这是一款自上而下的肉鸽竞技场射击游戏，玩家扮演一个土豆，同时挥舞最多 6 种武器，对抗成群的外星人。玩家可以从各种特质和物品中选择，打造独特的造型，并在救援到来之前存活下来。\u003cbr\u003e\u003cbr\u003e唯一的幸存者：布罗塔托，唯一一个能够同时使用 6 种武器的土豆。布罗塔托等待着同伴的救援，他必须在这片充满敌意的环境中生存下来。\u003cbr\u003e\u003cbr\u003e游戏特色\u003cbr\u003e\u003cbr\u003e· 默认武器自动射击，并提供手动瞄准选项\u003cbr\u003e\u003cbr\u003e快速通关（30 分钟内）\u003cbr\u003e\u003cbr\u003e· 数十位角色可供选择，定制你的通关路线（单手、疯狂、幸运、法师等等）\u003cbr\u003e\u003cbr\u003e· 数百种物品和武器可供选择（火焰喷射器、冲锋枪、火箭发射器或棍棒和石头）\u003cbr\u003e\u003cbr\u003e· 在每波持续 20 到 90 秒的攻击中生存下来，并在这段时间内尽可能多地消灭外星人\u003cbr\u003e\u003cbr\u003e· 收集材料以获得经验值，并在每波攻击之间从商店购买物品敌人",
   "label": "土豆兄弟：付费版",
-  "time": 1767744000008,
+  "time": 1769472000008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -20,16 +20,17 @@
       "pkgname": "com.brotato.shooting.survivors.games.paid.android.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 4
+      "vercode": 5
     }
   ],
   "pkgname": "com.brotato.shooting.survivors.games.paid.android",
-  "vercode": 1030369,
-  "vername": "1.3.369",
+  "vercode": 1030385,
+  "vername": "1.3.385",
   "publisher": "Erabit Studios",
   "s3": 0,
   "tags": [
     "中文",
+    "付费版",
     "肉鸽射击",
     "幸存者"
   ],
