@@ -2346,6 +2346,12 @@
       "time": 1761868800000
     },
     {
+      "label": "木筏生存：海洋游牧",
+      "mtime": 1769731200000,
+      "pkg": "ocean.nomad.survival.simulator",
+      "time": 1769472000000
+    },
+    {
       "label": "苹果骑士2",
       "mtime": 1711324800000,
       "pkg": "online.limitless.appleknight.dungeons",
@@ -2406,5 +2412,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1769644800006
+  "time": 1769731200000
 }
