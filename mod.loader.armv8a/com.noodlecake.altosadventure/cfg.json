@@ -1,49 +1,42 @@
 {
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
   "gms": 2,
-  "info": "无尽的滑雪之旅！在美丽雪山、远古树林以及旧日遗迹间畅快穿梭",
+  "info": "皑皑的白雪之上坐落着一个宁静的小山村，它似乎在向勇于冒险的人们招手。\u003cbr\u003e\u003cbr\u003e跟随奥托和他的朋友一起踏上无尽的滑雪之旅吧！一起在美丽雪山、远古树林以及旧日遗迹间畅快穿梭。\u003cbr\u003e\u003cbr\u003e一路上你要挽救逃走的骆马，顺着屋顶下滑，遇到可怕的鸿沟要一跃而起，还要和深山老者斗智斗勇。同时更要打起精神应对不断变化的天气情况和各种其他因素。\u003cbr\u003e\u003cbr\u003e功能特性：\u003cbr\u003e\u003cbr\u003e• 基于物理的游戏机制，流畅、优雅且扣人心悬\u003cbr\u003e\u003cbr\u003e• 根据真实的滑雪运动来由程序生成地形\u003cbr\u003e\u003cbr\u003e• 全动态灯光以及天气效果，包括暴雨、暴雪、大雾、彩虹和流星等\u003cbr\u003e\u003cbr\u003e• 单键花样机制，易于上手但难以精通\u003cbr\u003e\u003cbr\u003e• 连续做出花样动作可以最大限度提升分数和速度\u003cbr\u003e\u003cbr\u003e• 180 个精心打造的目标待你达成\u003cbr\u003e\u003cbr\u003e• 六名不同滑雪健将属性技能各不相同\u003cbr\u003e\u003cbr\u003e• 通过 Google Play 挑战好友。拼高分、拼距离、拼花样！\u003cbr\u003e\u003cbr\u003e• 从伊泽尔的工作室获得翼装后可领略全新游戏体验\u003cbr\u003e\u003cbr\u003e• 视觉设计风格精致极简\u003cbr\u003e\u003cbr\u003e• 原创音乐以及精心打造的声音效果让你身临其境（建议佩戴耳机）",
   "label": "阿尔托的冒险",
-  "time": 1698969600008,
+  "time": 1760659200008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动免广告，激励广告可白嫖",
-        "可选菜单可调节各项道具功能，增强速度等等"
+        "【自动激活】免广告，激励广告可白嫖",
+        "【可选菜单】各项道具功能，增强速度等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.noodlecake.altosadventure.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.noodlecake.altosadventure",
-  "vercode": 500169,
-  "vername": "1.8.15",
+  "vercode": 500193,
+  "vername": "1.8.27",
   "publisher": "Noodlecake",
-  "signmd5": "B55C477AF305DEAF7C905258D5FCB695",
+  "s3": 0,
   "tags": [
     "中文",
-    "单机",
     "跑酷",
-    "休闲",
-    "禅",
-    "艺术",
-    "经典"
+    "休闲"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/jQAbnNGS",
-      "var": false
-    },
-    {
-      "host": "翻墙|直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.noodlecake.altosadventure?versionCode\u003d500169\u0026nc\u003darm64-v8a\u0026sv\u003d22",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/cn/alto-s-adventure/com.noodlecake.altosadventure/download",
+      "host": "网盘分享：休闲分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
