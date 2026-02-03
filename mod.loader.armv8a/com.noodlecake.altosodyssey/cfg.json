@@ -1,49 +1,42 @@
 {
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
   "gms": 2,
-  "info": "相当于前作「阿尔托的冒险」的沙漠皮肤版，比起前作当然更养眼一些",
+  "info": "探索无尽的沙漠\u003cbr\u003e\u003cbr\u003e就在地平线的远处有一片雄伟的沙漠，广袤无垠、无人探索。\u003cbr\u003e\u003cbr\u003e与阿尔托和他的朋友们踏上无尽的沙地之旅去发现沙漠的秘密。\u003cbr\u003e\u003cbr\u003e翱翔在狂风吹拂的沙丘之上、穿越惊险的峡谷、在远离家乡的奇幻之地探索神秘的寺庙和城市。\u003cbr\u003e\u003cbr\u003e在这一路上，你将碾过藤蔓、在热气球上弹跳、攀爬高耸的岩壁、逃脱调皮的狐猴、同时揭开沙漠中的许多谜团。\u003cbr\u003e\u003cbr\u003e功能：\u003cbr\u003e\u003cbr\u003e• 独特的体验。 阿尔托的奥德赛是广受好评的阿尔托的冒险的续作，但是你不需要玩过前作也能体会到本作的乐趣。\u003cbr\u003e\u003cbr\u003e• 上手易，精通难。 阿尔托系列游戏的核心就是单点触摸反馈系统。 通过直觉操作就可完成各种连续动作和 180 个目标 。\u003cbr\u003e\u003cbr\u003e• 探索生物群落。 从沙丘、峡谷，到寺庙城，探索丰富多彩的景观，每个地区都有独特的视觉效果和游戏体验。\u003cbr\u003e\u003cbr\u003e• 新的高度。 通过热气球、移动轨道和滑墙在天空中发现秘密。\u003cbr\u003e\u003cbr\u003e• 掌控元素。 除了像沙尘暴和流星这样的动态照明和天气效应外，沙漠中还有旋转的风漩涡和湍急的水流。\u003cbr\u003e\u003cbr\u003e• 认识阿尔托和朋友们。 解锁六名独特的角色，每名角色都有自己的属性和能力。\u003cbr\u003e\u003cbr\u003e• 禅模式。 游戏带有独创的宁静配乐，这种放松模式是奥德赛中最纯粹的部分：没有分数、没有金币、没有道具。 只有你和无尽的沙漠。\u003cbr\u003e\u003cbr\u003e• 照片模式. 在暂停屏幕中，你可以在镜头后面拍摄出你的沙漠之旅的惊奇照片。 用双手缩放和滑动调整拍摄位置，然后分享给亲朋好友。\u003cbr\u003e\u003cbr\u003e• 原创音乐和手工打造的音频。 使用耳机效果更佳！",
   "label": "阿尔托的奥德赛",
-  "time": 1702512000008,
+  "time": 1760659200008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动免广告，激励广告可白嫖",
-        "可选菜单可调节各项道具功能，增强速度等等"
+        "【自动激活】免广告，激励广告可白嫖",
+        "【可选菜单】各项道具功能，增强速度等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.noodlecake.altosodyssey.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.noodlecake.altosodyssey",
-  "vercode": 92,
-  "vername": "1.0.27",
+  "vercode": 107,
+  "vername": "1.0.42",
   "publisher": "Noodlecake",
-  "signmd5": "B55C477AF305DEAF7C905258D5FCB695",
+  "s3": 0,
   "tags": [
     "中文",
-    "单机",
     "跑酷",
-    "休闲",
-    "禅",
-    "艺术",
-    "经典"
+    "休闲"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/jQAbnNGS",
-      "var": false
-    },
-    {
-      "host": "翻墙|直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.noodlecake.altosodyssey?versionCode\u003d92\u0026nc\u003darm64-v8a\u0026sv\u003d22",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/cn/alto-s-odyssey/com.noodlecake.altosodyssey/download",
+      "host": "网盘分享：休闲分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
