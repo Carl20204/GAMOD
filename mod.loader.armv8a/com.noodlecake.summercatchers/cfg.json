@@ -1,0 +1,53 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装付费原版\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 1,
+  "info": "神秘的驾驶冒险\u003cbr\u003e\u003cbr\u003e在《夏日捕手》中踏上一段毕生难忘的史诗级公路冒险之旅。驾驶你值得信赖的木制赛车，前往充满神秘色彩、奇异生物和刺激赛事的遥远土地，最终体验夏日的魅力。\u003cbr\u003e\u003cbr\u003e然而，旅程并非一帆风顺。你将穿越阴暗的森林、漆黑的沼泽、浩瀚的山谷和地下城，遭遇重重障碍和各种惊险刺激的事件。背上你值得信赖的旅行包，你将在这些未知的土地上前行，并像在现实生活中一样，结识朋友，发现秘密。\u003cbr\u003e\u003cbr\u003e主要特色：\u003cbr\u003e\u003cbr\u003e- 一款独特的街机游戏，融合了赛车、剧情、节奏和解谜元素\u003cbr\u003e\u003cbr\u003e- 揭开这个美丽像素艺术世界的所有秘密和事件\u003cbr\u003e\u003cbr\u003e- 探索独特能力，升级你的赛车，享受更时尚的驾驶体验\u003cbr\u003e\u003cbr\u003e- 重玩游戏，找到所有快速旅行者可能错过的隐秘角落\u003cbr\u003e\u003cbr\u003e",
+  "label": "夏日捕手",
+  "time": 1768953600008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】游戏加速等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.noodlecake.summercatchers.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.noodlecake.summercatchers",
+  "vercode": 600089,
+  "vername": "1.5.4",
+  "publisher": "Noodlecake",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 1024,
+  "tags": [
+    "中文",
+    "付费版",
+    "休闲",
+    "跑酷"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：休闲分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}

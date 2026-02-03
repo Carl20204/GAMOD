@@ -1640,6 +1640,12 @@
       "time": 1702512000000
     },
     {
+      "label": "夏日捕手",
+      "mtime": 1769904000000,
+      "pkg": "com.noodlecake.summercatchers",
+      "time": 1768953600000
+    },
+    {
       "label": "地牢杀手",
       "mtime": 1753833600000,
       "pkg": "com.nspgames.dungeonslasher",
@@ -2405,5 +2411,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1770076800004
+  "time": 1770076800005
 }
