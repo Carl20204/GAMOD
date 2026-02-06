@@ -1,52 +1,44 @@
 {
   "faqs": {
-    "为啥点桌面图标启动游戏会黑屏卡住？": "分享的下载链接为官方原版，需要手机安装Netflix客户端，并购买了网飞会员的用户才能玩。",
-    "没有Netflix，没有网飞会员怎么玩？": "MOD有免网飞账号功能，用墨魔豆带着MOD启动游戏就行了"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：冒险分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 1,
-  "info": "精致的画面，治愈的剧情，值得体验一次。\u003cbr\u003e\u003cbr\u003e网飞会员游戏，对标的是任天堂switch主机游戏，所以喜欢社交网游类的慎入",
+  "info": "一场迷人的冒险之旅\u003cbr\u003e\u003cbr\u003eNetflix 会员独享。在这款改编自日本民间传说的平台游戏中，带领露娜穿越隐蔽的地下城和神秘的寺庙，为她解开过去的秘密。每一关都包含新的机制和功能，为玩家开启不同的探索方式。但有一个独特的挑战：没有跳跃键！滑动屏幕，使露娜左右移动，带领她深入各种不断变化的危险环境。玩家必须利用周遭事物，开动脑筋抵达下一层，帮助露娜找到真正的路径。 游戏特点：以故事模式进行游戏，在通往决定露娜命运的路途中，玩家将采用简单的一键式玩法，探索迷宫般的地下城。\u003cbr\u003e\u003cbr\u003e• 深入神秘莫测的地下城，挑战无尽模式，应对千变万化的关卡。\u003cbr\u003e\u003cbr\u003e• 探索隐藏的寺庙、秘密地下通道和特殊挑战室，收集神秘碑文，揭晓更多露娜的故事。\u003cbr\u003e\u003cbr\u003e• 尽可能多收集些珍珠和宝石，填满藏宝室，并展示游戏进度。\u003cbr\u003e\u003cbr\u003e• 在各个寺庙和地下城争夺榜首，刷新每日、月度和历史排行榜。 \u003cbr\u003e\u003cbr\u003e• 达成全部 100 项成就，收集游戏中的奖杯，存放在奖杯室，稳坐“最勇敢的寻宝者”之位。",
   "label": "幸运的露娜",
-  "time": 1701216000008,
+  "time": 1765324800008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免网飞会员验证",
-        "可选菜单可激活无敌、飞行、磁铁、加珍珠等功能"
+        "【自动激活】免网飞会员验证",
+        "【可选菜单】可激活无敌、飞行、磁铁、加珍珠等功能"
       ],
       "name": "上帝模式",
       "pkgname": "com.netflix.NGP.LuckyLuna.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.netflix.NGP.LuckyLuna",
-  "vercode": 49,
-  "vername": "1.0.28",
+  "vercode": 96,
+  "vername": "1.0.37",
   "publisher": "Netflix",
   "s3": 0,
   "tags": [
     "中文",
-    "单机",
-    "动作",
+    "冒险",
     "解密",
-    "像素"
+    "付费会员版"
   ],
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/UOAmQ8kx",
+      "host": "网盘分享：冒险分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/g4C1zjdY",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/cn/lucky-luna/com.netflix.NGP.LuckyLuna/download",
-      "var": true
     }
   ]
 }
