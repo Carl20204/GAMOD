@@ -1,47 +1,42 @@
 {
   "faqs": {
-    "没有网飞Netflix账号怎么玩": "MOD有免网飞账号功能，没有安装Netflix，没有账号，不会翻墙的，务必使用MOD运行游戏"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD（免网飞会员账号）\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 2,
-  "info": "弓箭传说类型，DOOM也是同类游戏，喜欢这种IP改编的，可以玩玩",
+  "info": "Netflix 会员独享。\u003cbr\u003e\u003cbr\u003e你就是劳拉·卡芙特。在这场环球冒险中，探索古代遗迹，躲过隐蔽的陷阱，并使用标志性双枪与凶悍的敌人决一死战。\u003cbr\u003e穿越险峻的山洞、茂密的丛林和壮观的瀑布，来到危险重重的地下墓穴，穿过金色拱门。解开各种谜题，对抗各路强敌，《古墓丽影》系列中的嗜血恶狼、毒蛇、骇人傀儡和奇幻生物等新仇旧敌在此集结！\u003cbr\u003e\u003cbr\u003e游戏特点：\u003cbr\u003e\u003cbr\u003e• Roguelike 游戏玩法和程序生成关卡，每一次都有丰富多彩的新体验。\u003cbr\u003e\u003cbr\u003e• 随着等级的提升，玩家将习得穿刺射击、经验提升、手榴弹投掷和弧形射击等各项主动与被动技能，从而提升攻击力，加速角色升级，扩大伤害范围。\u003cbr\u003e\u003cbr\u003e• 历经鏖战后闯关成功并不意味着结束！玩家将获得大量钱币和经验值，用来升级劳拉的装备和武器，增加基础攻击值和生命点数。\u003cbr\u003e\u003cbr\u003e• 以经典的劳拉风格做出射击、奔跑、跳跃和倒立等标志性动作。\u003cbr\u003e\u003cbr\u003e• 意外发现藏品和可解锁物品，包括可提高伤害和治疗数据的圣物以及用于制作霰弹枪和神秘法杖等强力新武器的蓝图。\u003cbr\u003e\u003cbr\u003e• 风格独特的卡通视效，重新演绎《古墓丽影》世界。\u003cbr\u003e\u003cbr\u003e• 原创管弦原声和重制典藏配乐，向《古墓丽影》的经典传奇致敬。 - Emerald City Games 和 CDE Entertainment 出品",
   "label": "古墓丽影：重装上阵",
-  "time": 1711324800008,
+  "time": 1760400000008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单可调节加速、增伤、减伤、技能强化等"
+        "【自动激活】免网飞会员验证",
+        "【可选菜单】加速、增伤、减伤、技能强化等"
       ],
       "name": "上帝模式",
       "pkgname": "com.netflix.NGP.TombRaiderReloaded.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.netflix.NGP.TombRaiderReloaded",
-  "vercode": 217421,
-  "vername": "1.5",
+  "vercode": 218181,
+  "vername": "1.7",
   "publisher": "Netflix",
+  "s3": 0,
   "tags": [
     "中文",
-    "单机",
-    "肉鸽",
-    "动作射击"
+    "肉鸽射击",
+    "付费会员版"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/UOAmQ8kx",
-      "var": false
-    },
-    {
-      "host": "翻墙|直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.netflix.NGP.TombRaiderReloaded?versionCode\u003d217421\u0026nc\u003darm64-v8a\u0026sv\u003d26",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/tomb-raider-reloaded-netflix/com.netflix.NGP.TombRaiderReloaded/download",
+      "host": "网盘分享：射击分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
