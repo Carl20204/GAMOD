@@ -1,47 +1,42 @@
 {
   "faqs": {
-    "没有网飞Netflix账号怎么玩": "MOD有免网飞账号功能，没有安装Netflix，没有账号，不会翻墙的，务必使用MOD运行游戏"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD（免网飞会员账号）\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 2,
-  "info": "赛博朋克+西部荒野枪战，一颗颗子弹手动填装进左轮、霰弹枪里，让游戏的战斗体验真实紧张了不少",
+  "info": "Netflix 会员独享。\u003cbr\u003e\u003cbr\u003e荷枪实弹的枪手啊，快来搜寻战利品并消灭首领！\u003cbr\u003e身为狂野西部的一名生化人，您要在这部充满未来感且内容丰富的射击游戏中对抗机器人大军。\u003cbr\u003e在未来感十足的狂野西部，往昔受造并用来帮助人类生活的机器人，而今已然统治了这个星球，并威胁着人类的生命。\u003cbr\u003e一名疯狂的人类科学家为抗击机器人的压迫，克隆出来了一个旧时西部的痞坏枪手形象。\u003cbr\u003e而您，则正是要扮演这名枪手角色。\u003cbr\u003e《尘烟霓虹》是一部经典的由宏大到具体的双摇杆射击类游戏，它拥有 RPG 游戏的进程系统，也颇受 Roguelite 和刷宝射击类游戏风格的影响。\u003cbr\u003e\u003cbr\u003e特色：\u003cbr\u003e\u003cbr\u003e• 射击，击杀，装弹，继续。在这部射击游戏中，玩家可以在基地重生、装备、升级，然后选取战斗任务，尽情享受双摇杆操作射击带来的刺激和畅快。\u003cbr\u003e\u003cbr\u003e• 死亡只是一个起点。您可以在跨越无数次逃亡乃至死亡的过程中提升您的角色实力。\u003cbr\u003e\u003cbr\u003e• 从“尽数歼灭”“火车抢劫”“破坏目标”等不同类型的任务中挑选您想完成的任务。请随时留意可搜刮的金钱和更加优秀的武器，因为搜寻更上乘的战利品可加速您的任务进度。\u003cbr\u003e\u003cbr\u003e• 体验独一无二的首领战斗。随着在游戏中的进度提升，您会获得成长、进行升级，向下一次与更高一级的首领交锋前进！\u003cbr\u003e\u003cbr\u003e- 本游戏由 David Marquardt Studios 和 Rogue Games 联合推出。",
   "label": "尘烟霓虹",
-  "time": 1710201600008,
+  "time": 1759449600008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单可调节加速、增伤、减伤、现金、核心等"
+        "【自动激活】免网飞会员验证",
+        "【可选菜单】加速、增伤、减伤、现金、核心等"
       ],
       "name": "上帝模式",
       "pkgname": "com.netflix.NGP.DustNeon.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.netflix.NGP.DustNeon",
-  "vercode": 4501,
-  "vername": "1.3.1",
+  "vercode": 5006,
+  "vername": "1.3.3",
   "publisher": "Netflix",
+  "s3": 0,
   "tags": [
     "中文",
-    "单机",
-    "动作",
-    "射击"
+    "动作射击",
+    "付费会员版"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/UOAmQ8kx",
-      "var": false
-    },
-    {
-      "host": "翻墙|直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.netflix.NGP.DustNeon?versionCode\u003d4501\u0026nc\u003darm64-v8a\u0026sv\u003d26",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/dust-neon/com.netflix.NGP.DustNeon/download",
+      "host": "网盘分享：动作分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
