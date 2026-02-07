@@ -1622,6 +1622,12 @@
       "time": 1700784000000
     },
     {
+      "label": "索尼克冲刺",
+      "mtime": 1770422400000,
+      "pkg": "com.netflix.NGP.SonicDash",
+      "time": 1760400000000
+    },
+    {
       "label": "古墓丽影：重装上阵",
       "mtime": 1715040000000,
       "pkg": "com.netflix.NGP.TombRaiderReloaded",
@@ -2417,5 +2423,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1770422400000
+  "time": 1770422400001
 }
