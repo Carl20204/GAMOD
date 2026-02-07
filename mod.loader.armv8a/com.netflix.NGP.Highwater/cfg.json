@@ -1,0 +1,43 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD（免网飞会员账号）\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "后末日时代剧情，灵视高的能看出细节\u003cbr\u003eNetflix 会员独享。\u003cbr\u003e\u003cbr\u003e世界末日降临，富豪巨贾暗自筹划前往火星。探索洪泛星球，发现岛屿，寻找盟友吧！你，能及时逃离吗？\u003cbr\u003e在一次剧烈的气候浩劫中，Hightower 的洪泛区成为一片安全区域，两侧均为干旱地带：一边是饱受蹂躏寸草不生的战区，另一边则是 Alphaville 固若金汤的城池，高耸的城墙后方全都是酒池肉林的有钱人。\u003cbr\u003e谣传这些富豪巨贾正纷纷逃往火星。而卑微如幸存者，则只能乘船来往于洪水淹没的世界，寻找盟友、与反叛者战斗并偷取粮食，同时设法查出谣传是否为真。你能在这场氛围浓厚、剧情驱动的冒险中登上火箭吗？\u003cbr\u003e\u003cbr\u003e游戏特色：\u003cbr\u003e\u003cbr\u003e• 探索内容丰富、剧情驱动的 3D 冒险世界，这里有包括好友、敌人与各种生物在内的众多令人难忘的角色 \u003cbr\u003e\u003cbr\u003e• 发现美丽的城市岛屿，体验宏大剧情中的崭新元素 \u003cbr\u003e\u003cbr\u003e• 投入刺激的回合制战斗，解开事件背后的谜团 \u003cbr\u003e\u003cbr\u003e• HPR 地下电台的独家原声音乐，以及游戏内人物的原创音乐演出，营造出迷人的沉浸式体验！- 本游戏由 Demagog Studio 与 Rogue Games 携手开发。",
+  "label": "水隐之城",
+  "time": 1759536000008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免网飞会员验证",
+        "【可选菜单】战斗调节行动点、我方减伤、敌方增伤等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.netflix.NGP.Highwater.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.netflix.NGP.Highwater",
+  "vercode": 123,
+  "vername": "1.8",
+  "publisher": "Netflix",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "付费会员版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
