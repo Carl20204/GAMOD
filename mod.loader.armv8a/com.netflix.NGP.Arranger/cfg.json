@@ -1,0 +1,43 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD（免网飞会员账号）\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 1,
+  "info": "滑动砖块，探索世界\u003cbr\u003e\u003cbr\u003e需订阅 Netflix 会员。\u003cbr\u003e\u003cbr\u003e这个迷人的世界充满了巧妙的砖块策略谜题，你将通过解决谜题，踏上寻找自我归属之旅，并把你所发现的奇特社区串联起来。\u003cbr\u003e\u003cbr\u003e探索这款有点不一样的 RPG：“角色扮演拼图”（Role-puzzling）游戏。故事发生在一个铺满了相互连接的方格的奇特世界里。在你行动时，周围色彩斑斓的世界也会随之移动，营造出一种富有趣味的“混乱感”，并带来一系列与核心机制密切相关的烧脑小谜题。\u003cbr\u003e\u003cbr\u003e你将化身不合群的小镇女孩杰玛，踏上自我发现之旅。你需要离开沉闷的舒适圈，步入一个令人欢欣鼓舞的世界中。但是，这个世界却被恐惧以及一种古怪且难以撼动的“稳态”之力所统治。你能否冲破这种静滞不前的文化，寻找到一方真正属于自己的天地呢？\u003cbr\u003e\u003cbr\u003e一个五彩斑斓、相互连接的世界\u003cbr\u003e\u003cbr\u003e• 本作独特的推箱子玩法将战斗和探索无缝结合在一起。在探索世界的旅途中，你将邂逅各路奇妙角色，挑战怪物，发掘意外之喜。\u003cbr\u003e\u003cbr\u003e• 上下左右，四处滑滑。你的移动将带动同行或同列的物体，带来多样趣味谜题。\u003cbr\u003e\u003cbr\u003e玩法巧妙易上手\u003cbr\u003e\u003cbr\u003e• 在这款轻松的拼图 RPG 中，你无需费心计算经验值或整理物品栏。游戏中的所有对象都乖乖待在格子里，你只需在探索世界的旅途中将它们移至适当的位置上。\u003cbr\u003e\u003cbr\u003e• 任务安排简单清晰，每次只需达成一个目标。游戏内的辅助选项可以为你指引方向，甚至允许你跳过谜题环节，让“卡关”不再成为负担。\u003cbr\u003e\u003cbr\u003e全明星开发团队\u003cbr\u003e\u003cbr\u003e• 由《时空幻境》的幕后美术师、《Ethereal》的设计师和《Carto》的编剧等众多独立游戏开发者联合打造，尽情享受这款强强联手的首秀之作。\u003cbr\u003e\u003cbr\u003e- Furniture \u0026 Mattress 出品",
+  "label": "编曲者",
+  "time": 1759622400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免网飞会员验证"
+      ],
+      "name": "免会员",
+      "pkgname": "com.netflix.NGP.Arranger.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.netflix.NGP.Arranger",
+  "vercode": 23,
+  "vername": "1.1.15",
+  "publisher": "Netflix",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "解密",
+    "角色扮演",
+    "付费会员版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
