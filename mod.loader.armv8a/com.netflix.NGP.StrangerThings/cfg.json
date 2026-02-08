@@ -1,0 +1,43 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD（免网飞会员账号）\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 1,
+  "info": "一场 1980 年代风格的冒险\u003cbr\u003e\u003cbr\u003e踏上风格独特的复古冒险旅程，与霍珀及其友人一起在霍金斯实验室和“颠倒世界”完成刺激任务，获取各类收藏品。 \u003cbr\u003e\u003cbr\u003e• 时间又回到 1984 年。在这款动作冒险游戏中，和主角们一起重温旧日精彩。\u003cbr\u003e\u003cbr\u003e• 探索霍金斯及其周边地区，勘查幽暗密林和霍金斯实验室等热门地点，发现前所未见的酷炫领域！\u003cbr\u003e\u003cbr\u003e• 每个角色都有独一无二的技能，利用它们破解谜题吧！\u003cbr\u003e卢卡斯的运动弹弓可以钉住任何物体，南茜有一整套球棒可以尽情挥舞。\u003cbr\u003e\u003cbr\u003e• 集齐所有华夫饼和地精，可能会解锁意想不到的惊喜。",
+  "label": "怪奇物语：1984",
+  "time": 1768176000008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免网飞会员验证",
+        "【可选菜单】增伤、无敌、硬币、钥匙等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.netflix.NGP.StrangerThings.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.netflix.NGP.StrangerThings",
+  "vercode": 26101401,
+  "vername": "1.0.603",
+  "publisher": "Netflix",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "付费会员版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
