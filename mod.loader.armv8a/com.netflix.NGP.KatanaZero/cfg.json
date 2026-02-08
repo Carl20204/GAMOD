@@ -1,27 +1,31 @@
 {
   "faqs": {
-    "没有网飞Netflix账号怎么玩": "MOD有免网飞账号功能，没有安装Netflix，没有网飞会员账号，不会翻墙的，务必使用MOD运行游戏"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD（免网飞会员账号）\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 2,
-  "info": "脆皮玩家一碰就死的动作+潜行游戏，核心是利用子弹时间抓机会。",
-  "label": "武士 零",
-  "time": 1722384000008,
+  "info": "需订阅Netflix会员。\u003cbr\u003e\u003cbr\u003e不是敌死，便是你亡。在这个末日城市中劈砍、冲刺、操纵时间，在华丽、无情、行云流水般的战斗中发现你的过去。\u003cbr\u003e\u003cbr\u003e这款新黑色电影风格的华丽平台动作游戏中，你将扮演一名武士刺客，以极速动作展开瞬间决定生死的战斗。挥舞利刃，充分利用场景物品对敌人发起攻击，躲过障碍物，进入下一关。在对话中做出自己的选择，引导故事向前发展。\u003cbr\u003e\u003cbr\u003e独特卓越的战斗\u003cbr\u003e\u003cbr\u003e在各种形势下战胜对手，将向你射出的子弹反弹回去、闪避前来的攻击、用陷阱和爆炸来巧妙地控制敌人的行动与环境……不留任何活口。\u003cbr\u003e\u003cbr\u003e巧妙设计的场景\u003cbr\u003e\u003cbr\u003e每一关都设计精妙，通过方式多样。你可以尽情挥洒创意，利用场景中物件随机应变，将敌人们一一解决。\u003cbr\u003e\u003cbr\u003e独辟蹊径的叙事\u003cbr\u003e\u003cbr\u003e游玩过程中自然穿插众多过场演出，以意想不到的方式呈现你所决定的故事走向，抽丝剥茧地讲述这段峰回路转、出乎你意料之外的剧情。\u003cbr\u003e\u003cbr\u003e- Askiisoft出品",
+  "label": "武士零",
+  "time": 1738972800008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免网飞会员验证",
-        "可选菜单可调节子弹时间"
+        "【自动激活】免网飞会员验证",
+        "【可选菜单】无伤、潜行"
       ],
       "name": "上帝模式",
       "pkgname": "com.netflix.NGP.KatanaZero.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.netflix.NGP.KatanaZero",
-  "vercode": 1000056,
-  "vername": "1.0.56",
+  "vercode": 1001010,
+  "vername": "1.1.10",
   "publisher": "Netflix",
   "s1": [
     256,
@@ -36,26 +40,15 @@
   "s3": 1536,
   "tags": [
     "中文",
-    "单机",
+    "付费会员版",
     "动作",
-    "子弹时间",
-    "像素"
+    "子弹时间"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/UOAmQ8kx",
+      "host": "网盘分享：动作分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/g4C1zjdY",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/cn/katana-zero-netflix/com.netflix.NGP.KatanaZero/download",
-      "var": true
     }
   ]
 }
