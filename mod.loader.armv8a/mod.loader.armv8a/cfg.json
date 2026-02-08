@@ -1605,9 +1605,15 @@
     },
     {
       "label": "幸运的露娜",
-      "mtime": 1768324800000,
+      "mtime": 1770422400000,
       "pkg": "com.netflix.NGP.LuckyLuna",
       "time": 1765324800000
+    },
+    {
+      "label": "纪念碑谷3",
+      "mtime": 1770422400000,
+      "pkg": "com.netflix.NGP.MonumentValley3",
+      "time": 1746576000000
     },
     {
       "label": "夜勤人",
@@ -2429,5 +2435,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1770508800004
+  "time": 1770508800005
 }

@@ -1,0 +1,42 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD（免网飞会员账号）\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 1,
+  "info": "需订阅 Netflix 会员。\u003cbr\u003e\u003cbr\u003e开启一段激动人心的新航程，探索引人入胜的解谜世界。穿梭于视觉幻象之中，帮助村民们团聚，并带领他们寻找新的家园。\u003cbr\u003e\u003cbr\u003e屡获殊荣的《纪念碑谷》系列再推新作。在这次旅程中，你将遍历一个广阔迷人的谜题世界。见习灯塔守护者 Noor 察觉到世界的光芒正在逐渐消逝，海平面也在不断上升。Noor 必须踏上旅程，寻找新的能量来源，否则她的家乡就将永远被海浪吞没。\u003cbr\u003e\u003cbr\u003e登界游方，改变世界\u003cbr\u003e\u003cbr\u003e从 Noor 的故乡出发，踏上探索之旅。你能解开这些神秘景观的秘密，发掘神圣之光背后的含义吗？\u003cbr\u003e\u003cbr\u003e转换角度，解决谜题\u003cbr\u003e\u003cbr\u003e指引 Noor 解决一系列光怪陆离的视错觉谜题。通过触控旋转、操纵建筑与环境，揭示隐藏的路径，解开错综复杂的谜题。\u003cbr\u003e\u003cbr\u003e极简美学，打动心灵\u003cbr\u003e\u003cbr\u003e《纪念碑谷 3》在延续本系列的极简主义美术风格与地图设计的同时更攀高峰，从世界各地的建筑风格、实验艺术家风格和个人经历汲取灵感，将众多元素凝结转化为独一无二的视错觉几何图形画面。当你开始游戏，便会立刻沉浸在它所呈现的视觉世界中。\u003cbr\u003e\u003cbr\u003e在 Netflix 上畅玩《纪念碑谷》系列\u003cbr\u003e\u003cbr\u003e时至今日，这款极具开创意义的视觉解谜游戏系列已经吸引了全球数以百万计的玩家——现在，只要你拥有 Netflix 会员，就可以畅享三作《纪念碑谷》的内容。你可以从《纪念碑谷》开始，重温故事的开端，踏上一段情感旅程，然后在《纪念碑谷 2》中探索感人肺腑的故事，再于《纪念碑谷 3》中开启崭新的冒险。\u003cbr\u003e\u003cbr\u003e- Ustwo Games 出品",
+  "label": "纪念碑谷3",
+  "time": 1746576000008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免网飞会员验证"
+      ],
+      "name": "免会员",
+      "pkgname": "com.netflix.NGP.MonumentValley3.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.netflix.NGP.MonumentValley3",
+  "vercode": 28448,
+  "vername": "1.2.18248",
+  "publisher": "Netflix",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "休闲",
+    "付费会员版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：休闲分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
