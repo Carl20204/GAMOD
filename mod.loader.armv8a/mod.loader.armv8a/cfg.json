@@ -718,15 +718,15 @@
     },
     {
       "label": "土豆兄弟",
-      "mtime": 1770681600000,
+      "mtime": 1761609600000,
       "pkg": "com.brotato.shooting.survivors.action.roguelike",
-      "time": 1770595200000
+      "time": 1761264000000
     },
     {
       "label": "土豆兄弟：付费版",
-      "mtime": 1769472000000,
+      "mtime": 1770681600000,
       "pkg": "com.brotato.shooting.survivors.games.paid.android",
-      "time": 1769472000000
+      "time": 1770595200000
     },
     {
       "label": "崩溃大陆",
@@ -2435,5 +2435,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1770595200006
+  "time": 1770595200007
 }
