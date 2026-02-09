@@ -1,0 +1,44 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD（免网飞会员账号）\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 1,
+  "info": "逆向城市建造游戏\u003cbr\u003e\u003cbr\u003eNetflix会员专享。\u003cbr\u003e让贫瘠的荒地恢复生机。\u003cbr\u003e种植广袤的森林，净化土壤，清洁受到污染的海洋，从而将遭到严重破坏的环境变成生态天堂。\u003cbr\u003e\u003cbr\u003e让死气沉沉的土地变成生机勃勃的生态系统。\u003cbr\u003e将贫瘠的土壤变成肥沃的草地，为动物创造理想的家园与栖息地。\u003cbr\u003e然后回收所有建筑物，不留下任何人工痕迹。\u003cbr\u003e\u003cbr\u003e特色：\u003cbr\u003e• 深入体验逆向城市建造游戏：使用先进的生态技术净化土壤，创造平原、湿地、海滩、雨林、野花等等，然后有效回收你所建造的一切，为新的动物居民留下原始的环境。\u003cbr\u003e\u003cbr\u003e• 每次探索不同的地图：程序生成的景观意味着你的每一次游戏过程都将不同。\u003cbr\u003e围绕具有挑战性和不可预测的随机地形对建造进行规划，包括蜿蜒的河流、山脉、低地和海洋。\u003cbr\u003e\u003cbr\u003e• 感受宁静：游戏具有郁郁葱葱的手绘环境、轻松的音乐和独具氛围的环境音景，让你拥有平静、冥想的体验。\u003cbr\u003e游戏过关后，使用“欣赏”模式可沉浸在你恢复的生态系统的自然美景中。\u003cbr\u003e\u003cbr\u003e- Free Lives和24 Bit Games出品。",
+  "label": "伊始之地",
+  "time": 1760486400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免网飞会员验证"
+      ],
+      "name": "免会员",
+      "pkgname": "com.netflix.NGP.TerraNil.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.netflix.NGP.TerraNil",
+  "vercode": 1266,
+  "vername": "1.2.10",
+  "publisher": "Netflix",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "付费会员版",
+    "模拟",
+    "建设",
+    "策略"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：策略分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
