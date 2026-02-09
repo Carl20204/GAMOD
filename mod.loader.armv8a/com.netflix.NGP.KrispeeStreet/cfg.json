@@ -1,0 +1,44 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD（免网飞会员账号）\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 1,
+  "info": "好心情的隐藏物品游戏\u003cbr\u003e\u003cbr\u003eNetflix 会员独享。这款激动人心的隐藏物品游戏改编自人气网络漫画，隐藏了数百个古怪的人物和物品等你来发现。\u003cbr\u003e\u003cbr\u003e进入网络漫画《Krispee》的世界，体验怪诞、新奇，又渴望温暖拥抱的氛围。\u003cbr\u003e\u003cbr\u003e你的任务是为 Krispee 的世界和人物赋予勃勃生机。突破重重关卡，找出数百个四处分散的人物和物品。 定能让你展演欢笑，甚至偶尔落泪。\u003cbr\u003e\u003cbr\u003e《脆比街》将带给玩家一切前所未有的感受。\u003cbr\u003e功能包括：数百个物体和人物等你发现 \u003cbr\u003e\u003cbr\u003e• 原创音乐和音效 \u003cbr\u003e\u003cbr\u003e• 随机生成每日揭秘挑战 \u003cbr\u003e\u003cbr\u003e• 数千个手绘人物 \u003cbr\u003e\u003cbr\u003e• 七个古怪而美妙的手绘关卡等你探索 \u003cbr\u003e\u003cbr\u003e• 可收集的 Krispee 卡 \u003cbr\u003e\u003cbr\u003e• 每日自评表 \u003cbr\u003e\u003cbr\u003e• 数百个蠢萌动画等你解锁",
+  "label": "脆比街",
+  "time": 1759622400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免网飞会员验证",
+        "【可选菜单】强化道具随意使用"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.netflix.NGP.KrispeeStreet.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.netflix.NGP.KrispeeStreet",
+  "vercode": 322,
+  "vername": "1.0.15",
+  "publisher": "Netflix",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "付费会员版",
+    "休闲",
+    "寻物"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：休闲分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
