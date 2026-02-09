@@ -6,25 +6,25 @@
   "gms": 2,
   "info": "幸存者们，你们好！本次更新的新内容如下：\u003cbr\u003e- 圣诞节即将来临！为期十天的圣诞节活动从12月19日开始，在此期间玩家有机会赢得新的单位和几种单位皮肤\u003cbr\u003e- 一种处理多余物品和护符的新方式\u003cbr\u003e- 一份涵盖游戏中所有过场动画的档案\u003cbr\u003e- 适用于红帽子、农民和狙击手波利纳的新皮肤",
   "label": "死亡突围：僵尸战争",
-  "time": 1765929600008,
+  "time": 1769040000008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【可选菜单】加速、增伤、减伤、加经验、无CD、满怒、手动添加各种资源"
+        "【可选菜单】加速、增伤、减伤、加经验、无CD、满怒、手动添加各种资源（29种资源）"
       ],
       "name": "上帝模式",
       "pkgname": "com.mobirate.DeadAheadTactics.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 8
+      "vercode": 9
     }
   ],
   "pkgname": "com.mobirate.DeadAheadTactics",
-  "vercode": 481,
-  "vername": "4.2.9",
+  "vercode": 485,
+  "vername": "4.3.1",
   "publisher": "Mobirate",
   "s3": 0,
   "tags": [
