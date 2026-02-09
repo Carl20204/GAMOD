@@ -496,7 +496,6 @@
       "time": 1674777600002
     },
     {
-      "group": 3,
       "label": "无限塔防2",
       "mtime": 1752624000000,
       "pkg": "com.prineside.tdi2",
@@ -724,14 +723,12 @@
       "time": 1761264000000
     },
     {
-	  "group": 3,
       "label": "土豆兄弟：付费版",
       "mtime": 1769472000000,
       "pkg": "com.brotato.shooting.survivors.games.paid.android",
       "time": 1769472000000
     },
     {
-      "group": 3,
       "label": "崩溃大陆",
       "mtime": 1757289500000,
       "pkg": "com.bscotch.crashlands",
@@ -804,6 +801,7 @@
       "time": 1741478400000
     },
     {
+	  "group": 9,
       "label": "战魂铭人",
       "mtime": 1755475200000,
       "pkg": "com.chillyroom.zhmr.aligames",
@@ -823,7 +821,6 @@
       "time": 1760227200000
     },
     {
-      "group": 3,
       "label": "星露谷物语",
       "mtime": 1727136000000,
       "pkg": "com.chucklefish.stardewvalley",
@@ -952,7 +949,6 @@
       "time": 1764201600000
     },
     {
-      "group": 6,
       "label": "挺进地牢",
       "mtime": 1767830400000,
       "pkg": "com.devolverdigital.enterthegungeon",
@@ -1006,14 +1002,12 @@
       "time": 1770508800000
     },
     {
-      "group": 3,
       "label": "植物大战僵尸2：美版",
       "mtime": 1770508800000,
       "pkg": "com.ea.game.pvz2_row",
       "time": 1770508800000
     },
     {
-      "group": 3,
       "label": "植物大战僵尸：国际版",
       "mtime": 1765929600000,
       "pkg": "com.ea.game.pvzfree_row",
@@ -1026,7 +1020,6 @@
       "time": 1761696000000
     },
     {
-      "group": 3,
       "label": "这是我的战争",
       "mtime": 1761177600000,
       "pkg": "com.elevenbitstudios.twommobile",
@@ -1063,7 +1056,6 @@
       "time": 1766448000000
     },
     {
-      "group": 3,
       "label": "海之号角",
       "mtime": 1759708800000,
       "pkg": "com.FDGEntertainment.Oceanhorn.gp",
@@ -1327,7 +1319,6 @@
       "time": 1718928000000
     },
     {
-      "group": 3,
       "label": "家园7",
       "mtime": 1749859100009,
       "pkg": "com.hg.townsmen7free",
@@ -1358,7 +1349,6 @@
       "time": 1721433600000
     },
     {
-      "group": 3,
       "label": "杀戮尖塔",
       "mtime": 1730419200000,
       "pkg": "com.humble.SlayTheSpire",
@@ -1383,14 +1373,12 @@
       "time": 1764288000000
     },
     {
-	  "group": 2,
       "label": "钢铁战队：入侵",
       "mtime": 1764374400000,
       "pkg": "com.ironhidegames.android.ironmarines.invasion.rts",
       "time": 1763683200000
     },
     {
-      "group": 2,
       "label": "王国保卫战1",
       "mtime": 1729987200000,
       "pkg": "com.ironhidegames.android.kingdomrush",
@@ -1404,7 +1392,6 @@
       "time": 1757548800000
     },
     {
-      "group": 3,
       "label": "王国保卫战4：复仇",
       "mtime": 1755820800008,
       "pkg": "com.ironhidegames.android.kingdomrush4",
@@ -1452,7 +1439,6 @@
       "time": 1677888000000
     },
     {
-      "group": 3,
       "label": "破门而入",
       "mtime": 1765238400000,
       "pkg": "com.khg.doorkickers",
@@ -1578,6 +1564,12 @@
       "mtime": 1770249600000,
       "pkg": "com.netflix.NGP.BloonsTDSix",
       "time": 1768348800000
+    },
+    {
+      "label": "和睦森林2：灵魂营地",
+      "mtime": 1770595200000,
+      "pkg": "com.netflix.NGP.CozyGrove2",
+      "time": 1759622400000
     },
     {
       "label": "死亡门扉",
@@ -1790,7 +1782,6 @@
       "time": 1716940800000
     },
     {
-      "group": 3,
       "label": "绝境北方",
       "mtime": 1757980800000,
       "pkg": "com.PlausibleConcept.BadNorthFull",
@@ -1859,7 +1850,6 @@
       "time": 1747094400000
     },
     {
-      "group": 3,
       "label": "梦幻花园：国际版",
       "mtime": 1767052800000,
       "pkg": "com.playrix.gardenscapes",
@@ -1884,14 +1874,12 @@
       "time": 1741824000000
     },
     {
-      "group": 3,
       "label": "小丑牌",
       "mtime": 1760486400000,
       "pkg": "com.playstack.balatro.android",
       "time": 1742342400000
     },
     {
-      "group": 3,
       "label": "吸血鬼幸存者",
       "mtime": 1765756800000,
       "pkg": "com.poncle.vampiresurvivors",
@@ -1923,7 +1911,6 @@
       "time": 1769731200000
     },
     {
-      "group": 2,
       "label": "王国：八十年代",
       "mtime": 1763078400000,
       "pkg": "com.rawfury.kingdom80s",
@@ -1961,7 +1948,6 @@
       "time": 1765411200000
     },
     {
-	  "group": 3,
       "label": "哥布林弹球",
       "mtime": 1760745600000,
       "pkg": "com.RedNexusGamesInc.Peglin",
@@ -1980,7 +1966,6 @@
       "time": 1724112000000
     },
     {
-      "group": 2,
       "label": "60秒！重新裂变",
       "mtime": 1734912000001,
       "pkg": "com.RobotGentleman.game60SecondsReatomized",
@@ -2177,7 +2162,6 @@
       "time": 1764806400000
     },
     {
-      "group": 3,
       "label": "饥饿鲨：世界",
       "mtime": 1764806400000,
       "pkg": "com.ubisoft.hungrysharkworld",
@@ -2311,7 +2295,6 @@
       "time": 1769385600000
     },
     {
-      "group": 2,
       "label": "恶魔城：月下夜想曲",
       "mtime": 1725321600000,
       "pkg": "jp.konami.epjCastlevania2",
@@ -2411,7 +2394,6 @@
       "time": 1721952000000
     },
     {
-      "group": 3,
       "label": "傲气雄鹰：重装上阵",
       "mtime": 1766102400000,
       "pkg": "pl.idreams.SkyForceReloaded2016",
@@ -2453,5 +2435,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1770595200002
+  "time": 1770595200005
 }
