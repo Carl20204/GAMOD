@@ -1,12 +1,12 @@
 {
   "faqs": {
-    "游戏下载更新说明": "\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "游戏下载更新说明": "本作使用了谷歌加固，MOD不支持动态脱壳解密，希望玩MOD版请下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
     "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 2,
   "info": "生者已将你的家园：墓地夷为平地。成为死灵法师之王，从敌人的遗骸中召唤亡灵战士。每一次胜利，你的军队都会变得更加强大，你的城市也会更加稳固，让你能够应对更艰巨的挑战。夺回你的土地，释放亡灵灵魂，并为亡灵开启未来。《亡灵大军2》是一款融合角色扮演、策略和砍杀元素的死灵动作游戏。\u003cbr\u003e\u003cbr\u003e游戏特色：\u003cbr\u003e- 从敌人遗骸中召唤你选择的亡灵战士",
   "label": "亡灵大军2",
-  "time": 1765411200008,
+  "time": 1770854400008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": false,
@@ -19,14 +19,24 @@
       "pkgname": "com.the10tons.undeadhorde2.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.the10tons.undeadhorde2",
-  "vercode": 1075,
-  "vername": "1.0.7.5",
+  "vercode": 1076,
+  "vername": "1.0.7.6",
   "publisher": "10tons Ltd",
-  "s3": 0,
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4096,
   "tags": [
     "中文",
     "角色扮演",
