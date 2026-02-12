@@ -1,12 +1,12 @@
 {
   "faqs": {
-    "游戏下载更新说明": "墨魔豆与MOD不支持谷歌加固的原版安装包运行，仅支持\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的加固脱壳安装包（无广告纯净版）\u003cbr\u003e\u003cbr\u003e不介意弹出广告的话，土耳其的oyunclub、俄罗斯的pdalife也有脱壳版本提供，国内大部分网站提供的下载均搬运自两家之一",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "配合本MOD，游戏支持直装到墨魔豆（v2.4.3）沙盒中游玩，无需在手机中安装。\u003cbr\u003e\u003cbr\u003e必需用\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的加固脱壳安装包！"
+    "游戏下载更新说明": "墨魔豆与MOD不支持谷歌加固的原版付费安装包运行，仅支持\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的付费破解版安装包（无广告纯净版）",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 2,
   "info": "◈◈◈ 《瘟疫公司》之后会发生什么？◈◈◈\u003cbr\u003e\u003cbr\u003e游戏特色：\u003cbr\u003e\u003cbr\u003e● 做出艰难抉择——孩子是否是一种难以承受的奢侈品？狗是宠物还是食物来源？民主还是威权？\u003cbr\u003e\u003cbr\u003e● 探索美丽的后末日英国\u003cbr\u003e\u003cbr\u003e● 探索昔日遗迹，拾荒/收获资源\u003cbr\u003e\u003cbr\u003e● 扩展你的定居点，建造房屋、农场、伐木场等更多设施\u003cbr\u003e\u003cbr\u003e● 消灭丧尸，守护人类\u003cbr\u003e\u003cbr\u003e● 探索古老科技，研究新科技\u003cbr\u003e\u003cbr\u003e● 塑造你的社会，提供服务，让你的人民幸福快乐\u003cbr\u003e\u003cbr\u003e● 在持续不断的战役中建造多个定居点，并提升技能\u003cbr\u003e\u003cbr\u003e● 基于真实生活研究，打造超逼真的丧尸行为模型……:P\u003cbr\u003e\u003cbr\u003e● 由你的决策塑造的复杂叙事算法\u003cbr\u003e\u003cbr\u003e● 5 位能力迥异的独特领袖\u003cbr\u003e\u003cbr\u003e● 无需网络连接\u003cbr\u003e\u003cbr\u003e● 无“消耗性”微交易。扩展包“一次购买，永久畅玩”",
   "label": "劫后公司",
-  "time": 1764892800008,
+  "time": 1770854400008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -20,12 +20,12 @@
       "pkgname": "com.ndemiccreations.afterinc.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.ndemiccreations.afterinc",
-  "vercode": 151857945,
-  "vername": "1.9.1",
+  "vercode": 157720742,
+  "vername": "1.10.0",
   "publisher": "Ndemic Creations",
   "s1": [
     256,
@@ -37,7 +37,7 @@
     2048,
     4096
   ],
-  "s3": 1536,
+  "s3": 4096,
   "tags": [
     "中文",
     "策略",
