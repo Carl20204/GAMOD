@@ -6,7 +6,7 @@
   "gms": 2,
   "info": "“不再头疼的策略游戏？我们满足您的需求\u003cbr\u003e\u003cbr\u003eThronefall – 一款广受好评并获奖的PC游戏!\u003cbr\u003e\u003cbr\u003eMetacritic评分：92%。Steam：好评如潮，96%\u003cbr\u003e\u003cbr\u003e在Thronefall中，我们试图剥离经典策略游戏中所有不必要的复杂性，并将其与适量的砍杀结合起来。在白天建立你的基地，在晚上保卫它直到你的最后一口气。\u003cbr\u003e\u003cbr\u003e您能在经济和防御之间找到合适的平衡吗？您需要更多的弓箭手、更厚的城墙还是额外的磨坊？您会用长弓将敌人挡在外面，还是骑马冲向他们？今晚将是艰难的一夜，但没有什么比看到太阳升起在您的小王国上空，迎来新的一天更令人欣喜的了。",
   "label": "王权陨落",
-  "time": 1765152000008,
+  "time": 1770854400008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -19,12 +19,12 @@
       "pkgname": "com.doghowlgames.thronefall.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.doghowlgames.thronefall",
-  "vercode": 21,
-  "vername": "2.12.16",
+  "vercode": 40,
+  "vername": "2.12.18",
   "publisher": "Doghowl Games Ltd",
   "s1": [
     512,
@@ -36,7 +36,7 @@
     6144,
     10904
   ],
-  "s3": 2304,
+  "s3": 4096,
   "tags": [
     "中文",
     "策略",
