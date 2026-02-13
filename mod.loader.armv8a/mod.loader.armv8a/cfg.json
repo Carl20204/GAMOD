@@ -419,6 +419,12 @@
       "time": 1754006400000
     },
     {
+      "label": "勇敢的哈克",
+      "mtime": 1770854400000,
+      "pkg": "com.blingame.haaktestb",
+      "time": 1767744000000
+    },
+    {
       "label": "塔英雄 - 塔防",
       "pkg": "com.blockstack.tophero",
       "time": 1707609600002
@@ -2003,7 +2009,7 @@
     {
       "group": 9,
       "label": "猫咪大战争",
-      "mtime": 1770854400005,
+      "mtime": 1770854400006,
       "pkg": "jp.co.ponos.battlecatstw",
       "time": 1769385600010
     },
@@ -2148,5 +2154,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1770854400005
+  "time": 1770854400006
 }
