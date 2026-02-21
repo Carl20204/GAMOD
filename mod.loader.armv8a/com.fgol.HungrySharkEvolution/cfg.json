@@ -1,30 +1,30 @@
 {
   "faqs": {
     "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "配合本MOD，游戏支持直装到墨魔豆（v2.4.3）沙盒中游玩，无需在手机中安装。\u003cbr\u003e\u003cbr\u003e2. 开启免内购后，部分隐藏商品也会展示，但装备这些后进战场可能会卡死，重启游戏后会自动移除这些装备。\u003cbr\u003e\u003cbr\u003e3。育碧家祖传BUG，不一定就什么时候崩溃卡死，看运气了。\u003cbr\u003e\u003cbr\u003e4。游戏启动后，点击左上角设置按钮，弹出的九宫格选左下语言按钮，点击后选择中文即可"
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 1,
-  "info": "2025年12月03日\u003cbr\u003e\u003cbr\u003e全新恶魔鲨：Astaroth，这条鲨鱼即是死亡本身。他手持灵界镰刀从深渊地狱崛起，每一击都在收割灵魂。凭借死灵之力，他召唤出堕落之敌拱卫自己，组成一支受诅咒的可怕军团。他的躯体被瘟疫笼罩，这道腐朽的光环将湮灭一切阻挡道路的狂徒。",
+  "info": "演变成顶级掠食者\u003cbr\u003e\u003cbr\u003e我们是 Shark Week 的官方游戏 - 周周都活得像 Shark Week 一样精彩！\u003cbr\u003e\u003cbr\u003e控制一头饥肠辘辘的鲨鱼在海里大吃特吃！吃掉挡在你前面的任何东西，吃得愈多活得愈久！探索海底世界并让大白鲨和巨齿鲨等具代表性的鲨鱼不断进化！\u003cbr\u003e\u003cbr\u003e在这场精彩刺激的海洋冒险中，你可以：\u003cbr\u003e\u003cbr\u003e• 解开 12 头以上的独特鲨鱼和其他让人大开眼界的带鳍生物 • 探索海面上下的开放世界\u003cbr\u003e\u003cbr\u003e• 享受华丽的 3D 画面与音效\u003cbr\u003e\u003cbr\u003e• 发现并吃掉海里的神奇生物\u003cbr\u003e\u003cbr\u003e• 招募鲨鱼宝宝提升你的掠食能力\u003cbr\u003e\u003cbr\u003e• 装备雷射、喷射背包和高帽等超炫道具！\u003cbr\u003e\u003cbr\u003e• 寻找并收集沉入海底的奖励物品\u003cbr\u003e\u003cbr\u003e• 完成众多具挑战性的任务\u003cbr\u003e\u003cbr\u003e• 启动黄金冲刺活得更久、拿更多分数\u003cbr\u003e\u003cbr\u003e• 参加游戏中定期举办的活动就有机会赢得限量版奖品\u003cbr\u003e\u003cbr\u003e• 透过简易的触控或倾斜操控方式发动攻击\u003cbr\u003e\u003cbr\u003e• 没有 Wi-Fi 的时候可以玩脱机模式！",
   "label": "饥饿鲨：进化",
-  "time": 1764720000008,
+  "time": 1770768000008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【可选菜单】可调节减伤、金币、宝石收益、爆发槽无限、强化特效开关"
+        "【可选菜单】金币、宝石收益、减伤、免疫特殊伤害、爆发槽无限、强化能力"
       ],
       "name": "上帝模式",
       "pkgname": "com.fgol.HungrySharkEvolution.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 7
+      "vercode": 8
     }
   ],
   "pkgname": "com.fgol.HungrySharkEvolution",
-  "vercode": 10616,
-  "vername": "13.5.4",
+  "vercode": 10640,
+  "vername": "13.7.2",
   "publisher": "Ubisoft Entertainment",
   "s1": [
     256,
@@ -36,7 +36,7 @@
     2048,
     4096
   ],
-  "s3": 1536,
+  "s3": 4096,
   "tags": [
     "中文",
     "休闲",
