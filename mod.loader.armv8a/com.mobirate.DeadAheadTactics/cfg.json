@@ -4,9 +4,9 @@
     "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌加固脱壳安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 2,
-  "info": "幸存者们，你们好！本次更新的新内容如下：\u003cbr\u003e- 圣诞节即将来临！为期十天的圣诞节活动从12月19日开始，在此期间玩家有机会赢得新的单位和几种单位皮肤\u003cbr\u003e- 一种处理多余物品和护符的新方式\u003cbr\u003e- 一份涵盖游戏中所有过场动画的档案\u003cbr\u003e- 适用于红帽子、农民和狙击手波利纳的新皮肤",
+  "info": "幸存者们，你们好！本次更新的新内容如下：\u003cbr\u003e\u003cbr\u003e- 无尽之桥的50个新跨度\u003cbr\u003e\u003cbr\u003e- 适用于玛利亚、红帽子和米勒博士的新皮肤\u003cbr\u003e\u003cbr\u003e- 经过升级的物品和护符现在可以被摧毁\u003cbr\u003e\u003cbr\u003e- 档案菜单进行了翻新\u003cbr\u003e\u003cbr\u003e- 小漏洞修复",
   "label": "死亡突围：僵尸战争",
-  "time": 1769040000008,
+  "time": 1771632000008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -19,14 +19,24 @@
       "pkgname": "com.mobirate.DeadAheadTactics.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 9
+      "vercode": 10
     }
   ],
   "pkgname": "com.mobirate.DeadAheadTactics",
-  "vercode": 485,
-  "vername": "4.3.1",
+  "vercode": 488,
+  "vername": "4.3.2",
   "publisher": "Mobirate",
-  "s3": 0,
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4096,
   "tags": [
     "中文",
     "策略",
@@ -38,9 +48,5 @@
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
-  ],
-  "videos": {
-    "https://www.ixigua.com/7332121484430672395?logTag\u003d66b5b5e9a15e84a557f9": "最终Boss之战",
-    "https://www.douyin.com/user/self?modal_id\u003d7332127941859527946": "大锤来了！"
-  }
+  ]
 }
