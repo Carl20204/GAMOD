@@ -1,11 +1,14 @@
 {
   "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
   },
   "gms": 2,
   "info": "在这款引人入胜的动作冒险角色扮演游戏中，您可以通过组合各种元素施放强大的法术来探索随机世界，其中包含肉鸽元素和出色的像素艺术图形。\u003cbr\u003e\u003cbr\u003e利用环境并提高技能，打败潜伏在其中的成群的怪物。 寻找强大的物品，遇到奇怪的生物，并扮演不同的独特职业，解开元素世界的谜团。\u003cbr\u003e\u003cbr\u003e挑战你的朋友来一场PVP，或者让他们加入你的游戏中！\u003cbr\u003e\u003cbr\u003e✓ 随机世界和肉鸽游戏\u003cbr\u003e⚔️每一次冒险都是独一无二的， 扮演法师、猎人或浪人，肉鸽元素将考验您的技能！\u003cbr\u003e\u003cbr\u003e✓ 掌握元素\u003cbr\u003e✨将总共 6 种元素中的最多 3 种元素组合起来，向你的敌人释放毁灭性的法术！ 解锁法术卷轴以学习新法术并享受流畅的双操纵杆控制。\u003cbr\u003e\u003cbr\u003e✓ 技巧与策略\u003cbr\u003e🗝使用对您有利的响应式环境：烧草、冻结水坑或炸毁桶。 找到隐藏的通道和魔法宝藏。 探索无数怪物和强大首领的弱点，解开这些世界的秘密。",
   "label": "元素世界",
-  "time": 1761091200008,
+  "time": 1769558400008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": false,
   "mods": [
     {
@@ -17,12 +20,12 @@
       "pkgname": "julyhot.elementalworld.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 9
+      "vercode": 10
     }
   ],
   "pkgname": "julyhot.elementalworld",
-  "vercode": 73,
-  "vername": "4.0.1",
+  "vercode": 88,
+  "vername": "4.2.6",
   "publisher": "SoulGlen Games",
   "s1": [
     256,
@@ -34,14 +37,14 @@
     2048,
     4096
   ],
-  "s3": 1536,
+  "s3": 4096,
   "search": [
     "元气骑士"
   ],
   "tags": [
     "中文",
-    "肉鸽",
-    "射击"
+    "肉鸽射击",
+    "动作"
   ],
   "downloads": [
     {
