@@ -1,0 +1,43 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：冒险分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD（免网飞会员账号）\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 1,
+  "info": "一战题材的冒险故事\u003cbr\u003e\u003cbr\u003eNetflix 会员独享。\u003cbr\u003e在这款备受喜爱的一战题材冒险游戏的续作中，化身无名英雄，解开谜团、飞越乱世、治愈伤痛。\u003cbr\u003e\u003cbr\u003e第一次世界大战仍在继续，一对兄弟一边在战壕中奋力求生，一边找寻彼此。他们将遇到新的英雄，一起分享兄弟重逢的欢欣和在恐怖的西线阵地幸存的喜悦。\u003cbr\u003e\u003cbr\u003e《Valiant Hearts: Coming Home》是英国电影学院奖获奖游戏《Valiant Hearts: The Great War》的续作，将承袭原有的故事情节，继续讲述平凡人被卷入一战漩涡的非凡故事。\u003cbr\u003e\u003cbr\u003e游戏特点：\u003cbr\u003e• 全新风格的动画图像冒险：从幽深的大海和狂暴的天空，到西线阵地的战壕，兼具独特艺术和动人情感的沉浸式体验。\u003cbr\u003e\u003cbr\u003e• 可选择四个无名英雄人物进行游戏：四人的命运相互交织，并在一只忠犬的陪伴下，帮助彼此在恐怖的战壕中求得生存。\u003cbr\u003e\u003cbr\u003e• 包含探索、行动和解密：随着故事的发展，体验不同类型的游戏过程 — 解开各种谜团、潜入敌军阵线，穿越混乱战局、治愈创伤痛苦，甚至还有音乐演奏。\u003cbr\u003e\u003cbr\u003e• 大战中求生：在这个虚构故事里，您将重访第一次世界大战的战场和战役。从海上直击日德兰海战，重温默兹 - 阿尔贡攻势，体会那期盼已久的“停战日”带给人的如释重负之感。\u003cbr\u003e\u003cbr\u003e• 深入了解第一次世界大战：历史事实与真实照片细致还原了那个动荡不安的时代所发生的重大事件，尤其是“哈雷姆地狱战士”的突出事迹。这不仅仅是一款游戏，互动式的体验也让这段历史更加鲜活而灵动。\u003cbr\u003e\u003cbr\u003e- 育碧和 Old Skull Games 出品。",
+  "label": "英勇之心：战后还乡",
+  "time": 1760486400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免网飞会员验证"
+      ],
+      "name": "免会员",
+      "pkgname": "com.netflix.NGP.ValiantHearts2.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.netflix.NGP.ValiantHearts2",
+  "vercode": 1493,
+  "vername": "1.0.7",
+  "publisher": "Netflix",
+  "s3": 0,
+  "tags": [
+    "中文",
+    "付费会员版",
+    "冒险",
+    "解密"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：冒险分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
