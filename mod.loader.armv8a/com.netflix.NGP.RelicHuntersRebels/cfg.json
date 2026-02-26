@@ -1,0 +1,53 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分组】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD（免网飞会员账号）\u003cbr\u003e + 墨魔豆屏蔽谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 1,
+  "info": "射击 + 刷宝 + 角色扮演\u003cbr\u003e\u003cbr\u003eNetflix 会员独享。\u003cbr\u003e\u003cbr\u003e火力全开，冲破重重关卡。\u003cbr\u003e与此同时，制作并升级数十种武器。打败杜肯帝国，为四分五裂的星球带来和平。\u003cbr\u003e\u003cbr\u003e这款离线射击/刷宝/角色扮演游戏以一个引人入胜的故事为背景，充满各种令人眼花缭乱的美妙元素。\u003cbr\u003e在一个战火纷飞的星球上，四个部落连年交战。在这里，猎人与年轻的首领巴鲁相遇。\u003cbr\u003e玩家必须帮助这些部落放下分歧，对抗杜肯帝国，并夺回万能的虚空之石。\u003cbr\u003e\u003cbr\u003e与敌方战斗，夺取蓝图、材料和资源。\u003cbr\u003e\u003cbr\u003e使用战利品制作酷炫枪支或改进现有装备。\u003cbr\u003e\u003cbr\u003e玩家可通过提高射速、添加射弹等方式定制枪支！\u003cbr\u003e\u003cbr\u003e解锁并扮演四位不同的猎人：射手吉米、野驴艾斯、战士平基或酷妞拉芙，体验角色独一无二的数值和能力！",
+  "label": "遗迹猎人：叛军崛起",
+  "time": 1760486400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免网飞会员验证",
+        "【可选菜单】玩家减伤、无伤、弹药不减，星星、代币、钥匙收益提高"
+      ],
+      "name": "免会员",
+      "pkgname": "com.netflix.NGP.RelicHuntersRebels.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.netflix.NGP.RelicHuntersRebels",
+  "vercode": 42,
+  "vername": "1.2.2",
+  "publisher": "Netflix",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4096,
+  "tags": [
+    "中文",
+    "付费会员版",
+    "动作射击"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：射击分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
