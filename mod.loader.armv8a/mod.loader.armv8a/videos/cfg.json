@@ -3,39 +3,54 @@
   "time": 1772236800000,
   "ids": [
     {
-      "bid" : "BV14LFdzSEA7",
-	  "did" : "7606920424617823538",
+      "bid" : "BV12M6jBpEN7",
+      "did" : "7600300772617768227",
+      "title":"太空小队：生存试玩展示",
+      "pkg1": "com.rebeltwins.spacesquadsurvival"
+    },{
+      "bid" : "BV1KmAmzqEvk",
+      "did" : "7611371792950758682",
       "title":"泰拉瑞亚试玩展示3",
       "pkg1": "com.and.games505.TerrariaPaid",
       "pkg2": "com.and.games505.Terraria"
     },{
-      "bid" : "BV1KmAmzqEvk",
+      "bid" : "BV14LFdzSEA7",
+	  "did" : "7605441970865048884",
       "title":"泰拉瑞亚试玩展示2",
       "pkg1": "com.and.games505.TerrariaPaid",
       "pkg2": "com.and.games505.Terraria"
     },{
       "bid" : "BV1sH6FBzET9",
+      "did" : "7600719673264688436",
       "title":"泰拉瑞亚试玩展示1",
       "pkg1": "com.and.games505.TerrariaPaid",
       "pkg2": "com.and.games505.Terraria"
     },{
       "pkg1": "com.bscotch.crashlands2",
       "title": "崩溃大陆2试玩展示",
-      "bid": "BV1X4ZHB4EWz"
+      "bid": "BV1X4ZHB4EWz",
+      "did": "7606921501106851099"
     },{
       "bid": "BV1htZHBdEzR",
+	  "did" : "7606920424617823538",
       "title": "古墓丽影重装上阵试玩展示",
       "pkg1": "com.netflix.NGP.TombRaiderReloaded"
     },{
       "bid": "BV1YsZHBZE2n",
+      "did": "7606918462060989747",
       "title": "伊洛纳试玩展示",
       "pkg1": "com.leiting.elona.aligames"
     },{
       "bid": "BV1xSF6z3EDi",
-      "title": "猫咪大战争一键解锁全猫",
+      "title": "猫咪大战争日服一键解锁全猫",
       "pkg1": "jp.co.ponos.battlecats"
     },{
+      "bid": "BV1vkmsBmE93",
+      "title": "猫咪大战争台服一键解锁全猫",
+      "pkg1": "jp.co.ponos.battlecatstw"
+    },{
       "bid": "BV1hMr6BeEbW",
+	  "did" : "7606921735279004954",
       "title": "元气骑士满屏弹幕",
       "pkg1": "com.ChillyRoom.DungeonShooter"
     },{
@@ -54,6 +69,34 @@
       "bid": "BV1rkBDBgEeD",
       "title": "我的梦幻小岛试玩展示",
       "pkg1": "com.dream.dale"
+    },{
+      "bid": "BV1KjqoBbEKj",
+      "title": "物种战争启示录试玩展示",
+      "pkg1": "com.dawinstone.b2ba"
+    },{
+      "bid": "BV1p9qEBSES5",
+      "title": "第九黎明重制版试玩展示",
+      "pkg1": "com.Valorware.NinthDawnRemake"
+    },{
+      "bid": "BV1D4myBbEmJ",
+      "title": "深岩银河：幸存者试玩展示",
+      "pkg1": "com.ghostshippublishing.deeprockgalacticsurvivor"
+    },{
+      "bid": "BV1fWmEBvEUM",
+      "title": "无尽空间试玩展示",
+      "pkg1": "com.crescentmoongames.subdivision"
+    },{
+      "bid": "BV1jgmMBvEXR",
+      "title": "波斯王子：失落的王冠试玩展示",
+      "pkg1": "com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform"
+    },{
+      "bid": "BV1XVmKB9EbX",
+      "title": "神之亵渎试玩展示",
+      "pkg1": "com.thegamekitchen.blasphemousmobile"
+    },{
+      "bid": "BV1do2fB3E3x",
+      "title": "王权陨落试玩展示",
+      "pkg1": "com.doghowlgames.thronefall"
     }
   ]
 }
