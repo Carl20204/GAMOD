@@ -143,6 +143,12 @@
       "time": 1708646400002
     },
     {
+      "label": "天空鱼传说2",
+      "mtime": 1772409600000,
+      "pkg": "br.com.mothergaia.skyfish2",
+      "time": 1771804800000
+    },
+    {
       "label": "我渴望力量",
       "mtime": 1765756800000,
       "pkg": "bartmamzer.powerlust.actionrpg.roguelike",
@@ -2172,5 +2178,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1772323200000
+  "time": 1772409600000
 }

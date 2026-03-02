@@ -1,0 +1,53 @@
+{
+  "faqs": {
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装付费原版\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
+  },
+  "gms": 2,
+  "info": "跟随最后一位女英雄的冒险，在这个开放世界动作RPG中。\u003cbr\u003e\u003cbr\u003e潜入一个充满深渊怪物的世界，使用你的战斗鱼竿与它们对抗。\u003cbr\u003e\u003cbr\u003e帮助红钩族的战士们从深海之主Skyfish的统治中拯救王国。\u003cbr\u003e\u003cbr\u003e特点：\u003cbr\u003e\u003cbr\u003e🎣 抓钩\u003cbr\u003e\u003cbr\u003e⚔️ 砍杀风格战斗\u003cbr\u003e\u003cbr\u003e⛏️ 制作数十种武器和盔甲\u003cbr\u003e\u003cbr\u003e📜 完成任务，展开史诗般的故事\u003cbr\u003e\u003cbr\u003e此版本新内容：\u003cbr\u003e\u003cbr\u003e🏆 钓鱼比赛\u003cbr\u003e\u003cbr\u003e🧙‍♂️ 附魔\u003cbr\u003e\u003cbr\u003e🏰 镇上的众多支线任务\u003cbr\u003e\u003cbr\u003e🏹 大量武器：\u003cbr\u003e\u003cbr\u003e• 剑、斧、战锤、戟\u003cbr\u003e\u003cbr\u003e• 镰刀、弯刀、魔杖、巨剑\u003cbr\u003e\u003cbr\u003e还有：\u003cbr\u003e\u003cbr\u003e☁️ 云存档\u003cbr\u003e\u003cbr\u003e🎮 支持游戏手柄\u003cbr\u003e\u003cbr\u003e🏅 成就\u003cbr\u003e\u003cbr\u003e👪 难度设置适合所有年龄段",
+  "label": "天空鱼传说2",
+  "time": 1771804800008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】硬币、特殊硬币、物品收益多倍，消费减半，玩家无伤，敌人秒杀，满能量等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "br.com.mothergaia.skyfish2.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "br.com.mothergaia.skyfish2",
+  "vercode": 54,
+  "vername": "1.2",
+  "publisher": "Mother Gaia Studio",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    6144,
+    10904
+  ],
+  "s3": 4096,
+  "tags": [
+    "中文",
+    "付费版",
+    "动作",
+    "角色扮演"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
