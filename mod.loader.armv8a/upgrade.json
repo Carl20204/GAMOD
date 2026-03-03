@@ -1,16 +1,16 @@
 {
-  "vername": "2.4.4",
+  "vername": "2.4.5",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 244,
+  "vercode": 245,
   "min_sdk_version": 24,
   "target_sdk_version": 29,
-  "md5": "05F2DCA61421C1C3E0306697E3723E95",
-  "size": 4149153,
+  "md5": "66182DDAB29B850DB568B909778253D8",
+  "size": 4168725,
   "logs": {
-    "en": "完善部分游戏的安卓16兼容性；\n完善apk、apks、xapk直装为墨魔豆沙盒副本；\n修复沙盒副本游戏的升级安装异常；",
-    "zh": "完善部分游戏的安卓16兼容性；\n完善apk、apks、xapk直装为墨魔豆沙盒副本；\n修复沙盒副本游戏的升级安装异常；"
+    "en": "完善部分游戏的兼容性；\n增加BUG反馈活跃点奖励；\n增加游戏试玩视频；",
+    "zh": "完善部分游戏的兼容性；\n增加BUG反馈活跃点奖励；\n增加游戏试玩视频；"
   },
   "i": false
 }
