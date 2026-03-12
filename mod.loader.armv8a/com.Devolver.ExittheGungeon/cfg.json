@@ -1,12 +1,8 @@
 {
-  "faqs": {
-    "游戏下载更新说明": "墨魔豆与MOD不支持谷歌加固的原版安装包运行，仅支持\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的加固脱壳安装包（无广告纯净版）\u003cbr\u003e\u003cbr\u003e不介意弹出广告的话，土耳其的oyunclub、俄罗斯的pdalife也有脱壳版本提供，国内大部分网站提供的下载均搬运自两家之一",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的加固脱壳安装包，支持墨魔豆2.4.2版本新增的直装沙盒模式游玩，无需安装到手机"
-  },
   "gms": 2,
   "info": "“《逃出地牢》是一部弹幕地狱地牢爬升游戏，故事情节紧跟前作《挺进地牢》剧情，讲述各个“地牢探险者”来到地牢寻求个人救赎的故事。地牢的存在正在动摇，开始崩塌了！抓起各类武器、点燃劫掠决心、温习翻滚躲闪后，我们的英雄们要踏上各自不同的旅程，通过越来越艰难的电梯向上逃出地牢。本作的地牢怪为数众多、危险至极，战斗节奏紧密。同时你也可以放慢脚步与之前的熟面孔稍作闲聊……当然也有新面孔。变换的房间、敌人、Boss、诡异的武器和道具无一不确保你每次试图逃出地牢的体验都大不相同。\u003cbr\u003e\u003cbr\u003e同时，你还可以戴帽子了。谁不喜欢帽子呢？谁又不喜欢续作呢？本作就是《挺进地牢》的续作。",
   "label": "逃出地牢",
-  "time": 1764201600008,
+  "time": 1764201600018,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -20,7 +16,7 @@
       "pkgname": "com.Devolver.ExittheGungeon.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.Devolver.ExittheGungeon",
@@ -34,20 +30,23 @@
   ],
   "s2": [
     2048,
-    6144,
-    10904
+    4096,
+    8192
   ],
-  "s3": 2304,
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 3,
   "tags": [
     "中文",
-    "肉鸽",
-    "动作",
-    "射击",
-    "付费完整版"
+    "付费完整版",
+    "肉鸽射击",
+    "动作"
   ],
   "downloads": [
     {
-      "host": "网盘分享：动作分类",
+      "host": "网盘分享：射击分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
