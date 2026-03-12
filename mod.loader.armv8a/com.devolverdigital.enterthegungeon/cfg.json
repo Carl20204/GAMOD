@@ -1,12 +1,8 @@
 {
-  "faqs": {
-    "游戏下载更新说明": "墨魔豆与MOD不支持谷歌加固的原版安装包运行，仅支持\u003cbr\u003e\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e\u003cbr\u003e里的加固脱壳安装包（无广告纯净版）",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌加固脱壳安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
-  },
   "gms": 2,
   "info": "挺进地牢是弹幕+地牢探险的游戏。\u003cbr\u003e\u003cbr\u003e一群社会边缘人为完成逆袭而射击、掠夺、闪避，最终目标是获取地牢的终极宝藏：一把可以杀死过去的枪。\u003cbr\u003e\u003cbr\u003e选择一名英雄[或合作组队]，在一系列挑战中幸存，通过层层难度升级的地牢，击败地牢中危险又可敬的不死枪人和全副武装的可怕大佬。\u003cbr\u003e\u003cbr\u003e寻找珍贵的战利品，发掘隐藏的秘密，并与投机的商人和店主交谈以购买强大的物品来获取优势。",
   "label": "挺进地牢",
-  "time": 1771977600008,
+  "time": 1771977600018,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -20,7 +16,7 @@
       "pkgname": "com.devolverdigital.enterthegungeon.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 5
+      "vercode": 6
     }
   ],
   "pkgname": "com.devolverdigital.enterthegungeon",
@@ -38,6 +34,10 @@
     10904
   ],
   "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 3,
   "tags": [
     "中文",
     "肉鸽射击",
