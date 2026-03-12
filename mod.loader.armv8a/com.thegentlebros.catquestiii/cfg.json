@@ -1,0 +1,52 @@
+{
+  "gms": 2,
+  "info": "海盗鼠、战利品和猫咪冒险！\u003cbr\u003e\u003cbr\u003e在屡获殊荣的《猫咪斗恶龙》系列第三部作品《猫咪斗恶龙 3》中，开启一段精彩刺激的猫咪冒险之旅吧！\u003cbr\u003e\u003cbr\u003e在这款 2.5D 开放世界动作角色扮演游戏中，你将扮演一位英勇无畏的海盗，置身于奇幻的海盗主题世界——普里比恩群岛。这里栖息着一群海盗鼠，他们正在寻找传说中失落已久的宝藏——北极星。\u003cbr\u003e\u003cbr\u003e- 超过 100 个任务、地牢和活动！\u003cbr\u003e\u003cbr\u003e- 超过 100 种装备等你收集！\u003cbr\u003e\u003cbr\u003e- 超过 50 个强大的 Boss 等你挑战！\u003cbr\u003e\u003cbr\u003e- 无尽之塔，带来无限的重玩乐趣！\u003cbr\u003e\u003cbr\u003e- 新游戏+模式！\u003cbr\u003e\u003cbr\u003e- 为勇敢无畏的玩家准备的全新挑战模式……\u003cbr\u003e\u003cbr\u003e……以及更多精彩内容！",
+  "label": "猫咪斗恶龙 III",
+  "time": 1772496000008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】加钱、加水晶、满蓝、满子弹、解锁全法术、全装备、全特殊弹药等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.thegentlebros.catquestiii.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.thegentlebros.catquestiii",
+  "vercode": 150120,
+  "vername": "1.5.12",
+  "publisher": "The Gentlebros",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 4,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "付费版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
