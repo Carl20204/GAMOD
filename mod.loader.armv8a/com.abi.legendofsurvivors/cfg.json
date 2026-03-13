@@ -1,50 +1,52 @@
 {
-  "faqs": {
-    "游戏更新建议": "中国区玩家，会翻墙，想下载安装谷歌商店原版游戏，但没有谷歌账号，没有谷歌服务，建议使用如下谷歌商店替代品\u003cbr\u003e\u003cbr\u003e1。\u003ca href\u003dhttps://apkpure.net/cn\u003eapkpure.net\u003c/a\u003e 曾是全球最大的腾讯投资的谷歌商店替代品，优点是无需谷歌账号，通过网页直接下载安装包或旧版本安装包、缺点是部分游戏更新不太及时，或只更新32位/64位，出现遗漏。\u003cbr\u003e\u003cbr\u003e2。\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore\u003c/a\u003e，非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！",
-    "MOD更新说明": "本游戏MOD为通用型，游戏升级无需换MOD，建议直接用AuroraStore或apkpure更新游戏即可。\u003cbr\u003e\u003cbr\u003e如果游戏升级出现MOD失效或异常，可以到墨魔豆的QQ圈子里说一声，有群友会通知到作者更新"
-  },
   "gms": 2,
-  "info": "幸存者类型游戏，【吸血鬼幸存者】玩腻了，【弹壳特攻队】太商业化了，【土豆兄弟】内容不够，剔除这三款最流行的，剩下的就看谁家换皮更好看，填充的玩法多了。\u003cbr\u003e\u003cbr\u003e本作画面还行，看图标就知道是东亚二次元画风，纯3D建模非像素风。但缺点是中文翻译不全，部分文本还是英文",
+  "info": "带有英雄的 Roguelike 自动射击游戏。使用强大的技能击败强大的怪物\u003cbr\u003e\u003cbr\u003e黑暗笼罩世界，我们的英雄必须找到生存之道，对抗成群的邪恶势力，成为最后的幸存者。加入这款3D Roguelike动作角色扮演游戏，体验史诗般的战斗，积累强大的装备，并创造出无数独特的组合，超越敌人。\u003cbr\u003e\u003cbr\u003e探索各种环境，每个环境都有独特的敌人机制，并挑战极具挑战性的Boss，考验你的技能和策略。这款游戏节奏明快，玩法策略性十足，是射击游戏和Roguelike生存挑战爱好者的理想之选。\u003cbr\u003e\u003cbr\u003e玩法：\u003cbr\u003e\u003cbr\u003e- 滑动屏幕移动并攻击成群的怪物。\u003cbr\u003e\u003cbr\u003e- 收集宝石，升级技能，增强实力。\u003cbr\u003e\u003cbr\u003e- 使用各种武器、装备和技能定制你的英雄。\u003cbr\u003e\u003cbr\u003e- 与史诗级Boss战斗，成为最后的幸存者。\u003cbr\u003e\u003cbr\u003e游戏特色：\u003cbr\u003e\u003cbr\u003e- 史诗战争：率领你的英雄与势不可挡的怪物和野怪展开殊死搏斗，强化你的战略技能和强大的魔法。\u003cbr\u003e\u003cbr\u003e- 史诗级 Boss 战：在紧张刺激的战斗中直面强大的 Boss。\u003cbr\u003e\u003cbr\u003e- 轻松操控：直观的操控设计，让您在移动设备上也能享受流畅灵敏的游戏体验。\u003cbr\u003e\u003cbr\u003e- 丰富的游戏模式：畅享生存模式、限时挑战模式和挑战模式等多种游戏模式，让游戏始终保持新鲜刺激。\u003cbr\u003e\u003cbr\u003e- Roguelike 机制：程序生成的地下城。可选的永久死亡机制。基于技能的战斗。\u003cbr\u003e\u003cbr\u003e准备好迎接这款充满动作元素的免费奇幻冒险角色扮演游戏，开启一段难忘的冒险之旅吧！立即加入战斗，沉浸在充满动作的俯视角射击生存世界中吧！",
   "label": "幸存者传奇",
-  "time": 1733529600008,
+  "time": 1772064000008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免广告",
-        "可选菜单可调节技能CD、减伤、速度等"
+        "【自动激活】免广告",
+        "【可选菜单】技能CD、减伤、移动速度等"
       ],
       "name": "上帝模式",
       "pkgname": "com.abi.legendofsurvivors.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.abi.legendofsurvivors",
-  "vercode": 145,
-  "vername": "1.1.12",
+  "vercode": 254,
+  "vername": "1.3.9",
   "publisher": "ABI Games Studio",
-  "s3": 0,
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
-    "动作",
-    "肉鸽",
+    "肉鸽射击",
     "幸存者"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/gJUSGXYM",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/NjBeEeu5",
-      "var": false
-    },
-    {
-      "host": "下载页|翻墙",
-      "url": "https://apkpure.net/cn/legend-of-survivors/com.abi.legendofsurvivors",
+      "host": "网盘分享：射击分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
