@@ -1118,9 +1118,9 @@
     {
       "group": 6,
       "label": "王国保卫战5",
-      "mtime": 1759190400000,
+      "mtime": 1773360000000,
       "pkg": "com.ironhidegames.android.kingdomrush.alliance",
-      "time": 1757548800000
+      "time": 1773273600000
     },
     {
       "label": "王国保卫战4：复仇",
@@ -2202,5 +2202,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1773360000001
+  "time": 1773360000002
 }
