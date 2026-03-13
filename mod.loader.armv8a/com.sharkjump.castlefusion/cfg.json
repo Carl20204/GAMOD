@@ -1,0 +1,54 @@
+{
+  "gms": 2,
+  "info": "合并塔楼、保卫基地、登上王位并与部落战斗！\u003cbr\u003e\u003cbr\u003e在融合系列的最新一期中，跟随我们的英雄们，抵御兽人和哥布林的无情攻击，探索新的武器和地点。见证毁灭的循环，揭开这场战争背后更深层次的意义。\u003cbr\u003e\u003cbr\u003e游戏玩法\u003cbr\u003e\u003cbr\u003e拖放相同的防御塔，打造更强大的新武器。使用从阵亡敌人身上收集的碎片来升级你的防御，击败更多敌人。\u003cbr\u003e\u003cbr\u003e特色\u003cbr\u003e\u003cbr\u003e基于你最爱的《炮塔融合》玩法进行改进\u003cbr\u003e\u003cbr\u003e跟随一群新英雄的故事线\u003cbr\u003e\u003cbr\u003e易于上手，欲罢不能\u003cbr\u003e\u003cbr\u003e功能齐全的3D中世纪世界\u003cbr\u003e\u003cbr\u003e在排行榜上竞争并获得成就点数\u003cbr\u003e\u003cbr\u003e保卫皇室家族，守护数代人\u003cbr\u003e\u003cbr\u003e电池续航时间提升，让你可以更长时间地闲置\u003cbr\u003e\u003cbr\u003e合并防御塔，暂时离开并观察你的收入来源，或者在你的帝国中四处游荡。成为《城堡融合》的大亨。与由心怀不满的兽人和哥布林操控的邪恶机器人战斗，并孵化你自己的巨龙！\u003cbr\u003e\u003cbr\u003e战斗结束后，安顿下来，经营你自己的酒馆，向人类和地精开放。让你的肚子饱饱的，酒水满满的。",
+  "label": "城堡融合",
+  "time": 1764979200008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免广告",
+        "【可选菜单】碎片收益率，送宝石，加快升级"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.sharkjump.castlefusion.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.sharkjump.castlefusion",
+  "vercode": 202,
+  "vername": "2.0.2",
+  "publisher": "Shark Jump",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
+  "tags": [
+    "英文",
+    "休闲",
+    "放置",
+    "合成"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：休闲分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}

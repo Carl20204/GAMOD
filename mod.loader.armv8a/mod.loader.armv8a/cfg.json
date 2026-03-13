@@ -174,7 +174,7 @@
       "label": "光明旅者",
       "mtime": 1759622400000,
       "pkg": "com.abylight.HyperLightDrifter",
-      "time": 1758758400000
+      "time": 1758758400010
     },
     {
       "label": "糖果灾难",
@@ -1763,6 +1763,12 @@
       "time": 1724284800000
     },
     {
+      "label": "城堡融合",
+      "mtime": 1773014400000,
+      "pkg": "com.sharkjump.castlefusion",
+      "time": 1764979200000
+    },
+    {
       "label": "迷宫传奇2",
       "mtime": 1756166400000,
       "pkg": "com.ShinobiGames.InfiniteW",
@@ -2196,5 +2202,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1773360000000
+  "time": 1773360000001
 }
