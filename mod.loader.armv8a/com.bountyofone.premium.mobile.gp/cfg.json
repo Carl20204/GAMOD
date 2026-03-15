@@ -1,0 +1,56 @@
+{
+  "faqs": {
+    "\u003cfont color\u003d\"#ff0000\"\u003e中文设置\u003c/font\u003e": "进入游戏首页后\u003cbr\u003eSETTING --\u003e LANGUAGE\u003cbr\u003e点击后有简体中文可选"
+  },
+  "gms": 2,
+  "info": "狂野西部的陨落英雄，你被通缉，身败名裂！\u003cbr\u003e\u003cbr\u003e拿起你的枪，在无尽的赏金猎人大军中生存下来，为洗清你的罪名而战！\u003cbr\u003e\u003cbr\u003e《一人赏金》是一款快节奏的休闲类roguelite弹幕游戏。冲刺、躲避、射击，循环往复！\u003cbr\u003e\u003cbr\u003e《一人赏金》是一款快节奏的休闲类roguelite生存游戏，机动性至关重要。\u003cbr\u003e\u003cbr\u003e特色：\u003cbr\u003e\u003cbr\u003e· 快节奏的roguelite动作：参与激烈的程序生成的弹幕战斗，每一场战斗都独一无二。\u003cbr\u003e\u003cbr\u003e· 动态角色成长：使用独特的能力和强化道具定制你的英雄，以应对不断增加的挑战。\u003cbr\u003e\u003cbr\u003e· 狂野西部场景：沉浸在充满活力、风格独特的狂野西部世界中，这里充满了不法之徒和赏金猎人。\u003cbr\u003e\u003cbr\u003e· 无限可重玩性：每次游戏都提供全新的体验，包括不同的敌人、战利品和环境。\u003cbr\u003e\u003cbr\u003e· 挑战性的Boss战：直面强大的Boss，考验你的技能和策略。",
+  "label": "一人赏金：付费版",
+  "time": 1769904000008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自选菜单】黑市点数、增强伤害、神话级升级等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bountyofone.premium.mobile.gp.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.bountyofone.premium.mobile.gp",
+  "vercode": 1000234,
+  "vername": "1.0.234",
+  "publisher": "Erabit Studios",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 4,
+  "tags": [
+    "中文",
+    "付费版",
+    "肉鸽射击",
+    "幸存者"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：射击分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
