@@ -680,6 +680,12 @@
       "time": 1764201600010
     },
     {
+      "label": "球比伦战记",
+      "mtime": 1773705600000,
+      "pkg": "com.devolverdigital.ballxpit",
+      "time": 1773273600000
+    },
+    {
       "label": "挺进地牢",
       "mtime": 1772150400000,
       "pkg": "com.devolverdigital.enterthegungeon",
@@ -2208,5 +2214,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1773532800002
+  "time": 1773619200000
 }
