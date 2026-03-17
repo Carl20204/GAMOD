@@ -1,12 +1,11 @@
 {
   "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
+    "\u003cfont color\u003d\"#ff0000\"\u003e游戏启动黑屏等半天怎么破？\u003c/font\u003e": "断网进游戏可以跳过启动联网检查，进入首页后恢复网络即可"
   },
   "gms": 2,
   "info": "在这款离线动作类 Roguelike 游戏中体验史诗般的战斗，探索像素艺术世界\u003cbr\u003e\u003cbr\u003e第三章来啦！\u003cbr\u003e\u003cbr\u003e“一个神秘的传送门被封印多年后重新开启，诺武有机会拯救被困其中的妹妹，并重建流浪者公会。”\u003cbr\u003e\u003cbr\u003e《无尽的漫游》是一款像素风格的离线 Roguelike 角色扮演游戏。它拥有令人满意的挑战性玩法，无限的重玩价值，以及独立游戏的独特风格。\u003cbr\u003e\u003cbr\u003e终极移动 Roguelike 游戏：\u003cbr\u003e\u003cbr\u003e通过组合武器技能和魔法符文，尝试打造最佳角色配置。解锁独特的角色，升级他们，探索充满凶猛敌人的神秘世界，体验无限的 Roguelike 重玩乐趣。\u003cbr\u003e\u003cbr\u003e极具挑战性的动作战斗：\u003cbr\u003e\u003cbr\u003e体验紧张刺激的实时动作战斗，考验你的技巧。简单灵敏的触控操作，加上智能自动瞄准，让与无情敌人和 Boss 的战斗更加酣畅淋漓。\u003cbr\u003e\u003cbr\u003e惊艳的像素艺术画面：\u003cbr\u003e\u003cbr\u003e探索各种精美的手工像素艺术场景和角色。沉浸于原创配乐之中，它会随着时间和游戏进程无缝切换，完美契合游戏氛围。\u003cbr\u003e\u003cbr\u003e离线游戏\u003cbr\u003e\u003cbr\u003e无需网络连接！随时随地离线畅玩，或使用云存档在所有设备上同步游戏进度。",
   "label": "无尽漫游",
-  "time": 1762560000008,
+  "time": 1769904000008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -20,17 +19,30 @@
       "pkgname": "com.FirstPickStudios.EndlessWander.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.FirstPickStudios.EndlessWander",
-  "vercode": 364,
-  "vername": "3.0.4",
+  "vercode": 380,
+  "vername": "3.1.15",
   "publisher": "First Pick Studios",
-  "s3": 0,
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
-    "单机",
     "肉鸽",
     "动作"
   ],
