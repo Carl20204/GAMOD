@@ -1,12 +1,10 @@
 {
-  "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：创意分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "1。如果你的桌面版本可正常玩，墨魔豆带mod启动卡在启动页面，一般只要\u003cfont color\u003d\"#ff\"\u003e手机断网\u003c/font\u003e一下，进入游戏再恢复联网即可\u003cbr\u003e\u003cbr\u003e2.如果你的墨魔豆可以正常玩，桌面版本闪退，一般是因为游戏强制使用谷歌服务，你的设备没有谷歌服务导致闪退，\u003cfont color\u003d\"#ff\"\u003e使用MOD + 墨魔豆的虚拟谷歌服务\u003c/font\u003e，就可以跳过谷歌服务验证"
-  },
   "gms": 2,
   "info": "没有两次相同的肉鸽弹球游戏！屡获殊荣的肉鸽牌组构建者\u003cbr\u003e\u003cbr\u003e从你记事起，龙就一直在弹出挂钉并偷走你的所有黄金。够了，现在是时候穿过树林冒险，征服堡垒，深入龙的巢穴中心，夺回属于你的东西并教训那些龙。\u003cbr\u003e\u003cbr\u003e本游戏的玩法就像 Peggle 和【杀戮尖塔】的组合。敌人很强大，但你拥有具有特殊效果的强大弹球和神奇的圣遗物，它们会影响敌人以及改变弹球的物理规则。\u003cbr\u003e\u003cbr\u003e游戏特点：\u003cbr\u003e\u003cbr\u003e- 收集并升级强大的弹球和圣遗物，以击败挡路的怪物和Boss。\u003cbr\u003e\u003cbr\u003e- 用类似弹球盘的游戏玩法与敌人战斗 - 击中更多的钉子以造成更多的伤害。抓住关键时机使用暴击药水、刷新药水和炸弹。\u003cbr\u003e\u003cbr\u003e- 每次探索新地图，旅途中都会有不同的弹球、敌人以及惊喜。",
   "label": "哥布林弹球",
-  "time": 1759881600008,
+  "time": 1764547200008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": false,
   "mods": [
     {
@@ -18,24 +16,28 @@
       "pkgname": "com.RedNexusGamesInc.Peglin.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 9
+      "vercode": 10
     }
   ],
   "pkgname": "com.RedNexusGamesInc.Peglin",
-  "vercode": 122,
-  "vername": "1.1.17",
+  "vercode": 135,
+  "vername": "1.1.24",
   "publisher": "Red Nexus Games",
   "s1": [
-    256,
     512,
-    1024
+    1024,
+    2048
   ],
   "s2": [
-    1024,
     2048,
-    4096
+    4096,
+    8192
   ],
-  "s3": 1536,
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
     "肉鸽",
@@ -48,9 +50,5 @@
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
-  ],
-  "videos": {
-    "https://www.ixigua.com/7334581342572970522?logTag\u003d69d93870850e683ae920": "一款完美平衡的游戏，没有任何漏洞",
-    "https://www.ixigua.com/7334580651414258211?logTag\u003d9eba5aae169a893dcdfb": "每次刷新，弹球都会变得更强大!"
-  }
+  ]
 }
