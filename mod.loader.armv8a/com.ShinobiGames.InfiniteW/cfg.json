@@ -2,23 +2,26 @@
   "gms": 2,
   "info": "更新说明：新增80级以上关卡。\u003cbr\u003e◆随机生成的地下城\u003cbr\u003e地下城是随机生成的，这意味着每次进入时，地下城的布局都会发生变化！\u003cbr\u003e◆挑战强大的Boss\u003cbr\u003e随着游戏进程的推进，你将遇到强大的Boss。\u003cbr\u003e研究它们的攻击模式，然后用强大的攻击反击！\u003cbr\u003e◆丰富的机制和敌人\u003cbr\u003e每个地下城都有其独特的机制和潜伏的敌人等待着玩家。你可以将目光投向更深的地下城层级，并获得其中的稀有宝藏！\u003cbr\u003e◆丰富的武器和技能\u003cbr\u003e游戏中有各种各样的装备和技能，你的技能运用能力取决于你的技能。盔甲会改变角色的外观。使用你最喜欢的装备来定制你的角色！\u003cbr\u003e◆像素画风的奇幻世界\u003cbr\u003e游戏世界完全采用怀旧像素画风描绘。",
   "label": "迷宫传奇2",
-  "time": 1755993600008,
+  "time": 1769904000008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "激动免广告",
-        "自定义菜单，可调节无敌、多重武器、无限MP、物品掉落、加速升级等等"
+        "【自动激活】免广告",
+        "【可选菜单】满血、多重箭、无限MP、物品掉落、加速升级等等"
       ],
       "name": "上帝模式",
       "pkgname": "com.ShinobiGames.InfiniteW.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.ShinobiGames.InfiniteW",
-  "vercode": 78,
-  "vername": "1.1",
+  "vercode": 87,
+  "vername": "1.2.1",
   "publisher": "シノビゲームズ",
   "s1": [
     512,
@@ -27,10 +30,14 @@
   ],
   "s2": [
     2048,
-    6144,
-    10904
+    4096,
+    8192
   ],
-  "s3": 4608,
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
     "动作",
@@ -39,13 +46,8 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享",
+      "host": "网盘分享：动作分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/cn/labyrinth-legend-ii/com.ShinobiGames.InfiniteW",
       "var": false
     }
   ]
