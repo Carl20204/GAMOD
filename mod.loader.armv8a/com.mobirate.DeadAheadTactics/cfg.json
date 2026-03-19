@@ -1,12 +1,8 @@
 {
-  "faqs": {
-    "游戏下载更新说明": "本作使用了谷歌加固，MOD不支持动态脱壳解密，希望玩MOD版请下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：策略分类】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的脱壳包，无广告，无修改，纯净原版，配合MOD玩更爽。",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌加固脱壳安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。"
-  },
   "gms": 2,
   "info": "幸存者们，你们好！本次更新的新内容如下：\u003cbr\u003e\u003cbr\u003e- 无尽之桥的50个新跨度\u003cbr\u003e\u003cbr\u003e- 适用于玛利亚、红帽子和米勒博士的新皮肤\u003cbr\u003e\u003cbr\u003e- 经过升级的物品和护符现在可以被摧毁\u003cbr\u003e\u003cbr\u003e- 档案菜单进行了翻新\u003cbr\u003e\u003cbr\u003e- 小漏洞修复",
   "label": "死亡突围：僵尸战争",
-  "time": 1771632000008,
+  "time": 1772668800008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -19,12 +15,12 @@
       "pkgname": "com.mobirate.DeadAheadTactics.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 10
+      "vercode": 11
     }
   ],
   "pkgname": "com.mobirate.DeadAheadTactics",
-  "vercode": 488,
-  "vername": "4.3.2",
+  "vercode": 490,
+  "vername": "4.3.4",
   "publisher": "Mobirate",
   "s1": [
     512,
@@ -33,14 +29,17 @@
   ],
   "s2": [
     2048,
-    6144,
-    10904
+    4096,
+    8192
   ],
   "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 3,
   "tags": [
     "中文",
-    "策略",
-    "像素"
+    "策略"
   ],
   "downloads": [
     {
