@@ -1,45 +1,42 @@
 {
-  "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：休闲分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "为什么设置中文无效？\u003cbr\u003e\u003cbr\u003e国际版的部分内容需要科学上网才能更新，包括多语言、部分皮肤等。"
-  },
   "gms": 2,
-  "info": "- 团队成员们将前往首尔，度过一个充满霓虹灯、K-pop氛围、乐趣和活力的赛季！\u003cbr\u003e\u003cbr\u003e- Subway Surfers x Among Us联动继续：解锁其他团队成员，在这个精彩联动中找到伪装者！\u003cbr\u003e\u003cbr\u003e- 穿越未来派的街道，解锁新角色：Si Woo、Joo Won和Lucky前卫的新套装。\u003cbr\u003e- 参与趣味挑战，炫出你的精彩操作，获得奖励和独家内容。",
-  "label": "地铁跑酷：国际版",
-  "time": 1763164800008,
+  "info": "2026年03月20日‌\u003cbr\u003e\u003cbr\u003e‌团队即将前往罗马！‌ 穿越灵感源自古老遗迹与宏伟广场的壮丽“永恒之城”，解锁全新角色 ‌维托里奥（Vittorio）‌ 和 ‌恩佐（Enzo）‌！\u003cbr\u003e‌欢庆全球节日‌：体验斋月的宁静与美好，感受团聚与沉思的氛围；在圣帕特里克节期间，穿梭于节日装饰之间，冲刺奔跑，解锁全新的 ‌三叶草相框（Shamrock Frame）‌！\u003cbr\u003e‌参与棒球与篮球主题赛事‌，赢取专属运动风内容，尽享竞技乐趣！",
+  "label": "地铁跑酷",
+  "time": 1773014400008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【可选菜单】更改各种能力的持续时间，免内购"
+        "【可选菜单】更改各种能力的持续时间，可随时手动激活各种强化能力，免内购"
       ],
       "name": "上帝模式",
       "pkgname": "com.kiloo.subwaysurf.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "pkgname": "com.kiloo.subwaysurf",
-  "vercode": 87198,
-  "vername": "3.55.0",
+  "vercode": 89813,
+  "vername": "3.60.0",
   "publisher": "SYBO Games",
   "s1": [
-    256,
     512,
-    1024
+    1024,
+    2048
   ],
   "s2": [
-    1024,
     2048,
-    4096
+    4096,
+    8192
   ],
-  "s3": 1536,
-  "search": [
-    "地铁跑酷"
-  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
     "休闲",
