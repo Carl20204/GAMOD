@@ -1863,6 +1863,12 @@
       "time": 1772323200000
     },
     {
+      "label": "地铁跑酷2：城市",
+      "mtime": 1774224000000,
+      "pkg": "com.sybogames.subway.surfers.game",
+      "time": 1774051200000
+    },
+    {
       "label": "空洞骑士",
       "mtime": 1726790400005,
       "pkg": "com.TeamCherry.HollowKnight",
@@ -2243,5 +2249,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1774137600000
+  "time": 1774224000000
 }
