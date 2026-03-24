@@ -1,0 +1,54 @@
+{
+  "gms": 2,
+  "info": "用功夫消灭僵尸！经典有趣和令人兴奋的街机动作！\u003cbr\u003e\u003cbr\u003e成为功夫大师！\u003cbr\u003e\u003cbr\u003e地球正受到僵尸启示录的攻击! 我们唯一的希望是业余武术家Zak。\u003cbr\u003e\u003cbr\u003e用力打拳,用飓风踢,用头撞,穿过成群的行尸走肉。利用龙的神话力量来获得你的黑带,并一劳永逸地结束邪恶的Z博士!\u003cbr\u003e\u003cbr\u003e特征：\u003cbr\u003e\u003cbr\u003e• 利用蛇，老虎和龙的传奇力量！\u003cbr\u003e\u003cbr\u003e• 提高你的训练，以赚取传说中的黑腰带的地位！\u003cbr\u003e\u003cbr\u003e• 从许多独特和可识别的同伴们打选择！\u003cbr\u003e\u003cbr\u003e• 发现古卷轴和特殊武器！\u003cbr\u003e\u003cbr\u003e• 定制你的英雄吨的齿轮！\u003cbr\u003e\u003cbr\u003e• 战斗史诗的老板！\u003cbr\u003e\u003cbr\u003e• 经典街机动作和紧张刺激的战斗组合！\u003cbr\u003e\u003cbr\u003e• 美丽的复古音乐和图形！",
+  "label": "功夫Z",
+  "time": 1770681600008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免广告，所有广告奖励白嫖",
+        "【可选菜单】不死，无CD，金币、宝石、玉石多多"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.tinytitanstudios.kfz.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.tinytitanstudios.kfz",
+  "vercode": 301056,
+  "vername": "1.9.26",
+  "publisher": "Trophy Games",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
+  "tags": [
+    "中文",
+    "休闲",
+    "放置",
+    "点击"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：休闲分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
