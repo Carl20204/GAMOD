@@ -1949,6 +1949,12 @@
       "time": 1769904000000
     },
     {
+      "label": "卡牌地牢冒险",
+      "mtime": 1774051200000,
+      "pkg": "com.tinytouchtales.cardcrawladventure",
+      "time": 1772668800000
+    },
+    {
       "label": "霓虹魔咒风暴",
       "mtime": 1758240000000,
       "pkg": "com.topcog.neonspellstorm",
@@ -2255,5 +2261,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1774396800000
+  "time": 1774396800001
 }

@@ -1,0 +1,53 @@
+{
+  "gms": 2,
+  "info": "这是一款卡牌接龙风格的 Roguelike 牌组构建游戏。\u003cbr\u003e\u003cbr\u003e在这款单人卡牌游戏中，你要周游世界、访问舒适的酒馆、与狡猾的怪物对战、夺取闪亮的宝物。\u003cbr\u003e\u003cbr\u003e通过将你的卡牌连成一条路径，你可以将它们组合起来，创造出强大的攻击和神奇的法术。收集并改善你的卡牌、装备强大的物品、完善你的战略。每个角色都有自己的卡牌和效果，它们将挑战你的智慧、勇气和策略。\u003cbr\u003e\u003cbr\u003e所有的冒险都是随机生成的，每周你都会被邀请参加每周酒馆探秘活动，与世界各地的其他冒险者竞争，在 Card Crawl 的酒馆中展开独特的旅程。\u003cbr\u003e\u003cbr\u003e游戏特色\u003cbr\u003e\u003cbr\u003e- 访问 Card Crawls 的酒馆\u003cbr\u003e\u003cbr\u003e- 基于 Card Thiefs 的路径谜题机制\u003cbr\u003e\u003cbr\u003e- Roguelike 牌组构建\u003cbr\u003e\u003cbr\u003e- 简短而引人入胜的游戏玩法\u003cbr\u003e\u003cbr\u003e- 每周比赛",
+  "label": "卡牌地牢冒险",
+  "time": 1772668800008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】金币、生命上限、能量上限"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.tinytouchtales.cardcrawladventure.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.tinytouchtales.cardcrawladventure",
+  "vercode": 272,
+  "vername": "1.0.188",
+  "publisher": "Arnold Rauers",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
+  "tags": [
+    "中文",
+    "休闲",
+    "卡牌",
+    "肉鸽"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：休闲分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
