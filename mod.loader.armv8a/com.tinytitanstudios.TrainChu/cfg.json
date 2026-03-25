@@ -1,56 +1,54 @@
 {
   "gms": 2,
-  "info": "与大家熟悉的开罗出品的像素风模拟经营游戏类比，本游戏的玩法是在美国运营火车赚大钱\u003cbr\u003e\u003cbr\u003e喜欢此类游戏但不喜欢像素风的，可以试试《我的邮轮》，一样的模拟经营，但画质强多了",
+  "info": "忘记地铁、飞机、汽车和轮船吧，立即计划你的火车冒险策略\u003cbr\u003e\u003cbr\u003e各位请上车！🚂\u003cbr\u003e\u003cbr\u003e《Tiny Rails》冒险适合同时喜欢离线和在线游戏的玩家及售票员。\u003cbr\u003e\u003cbr\u003e延续你祖父开创的家族企业，成为经营火车、火车站和优质铁路线的全球帝国的经理。安排好你的创业旅程，从最小的乡镇进军最大的城市。\u003cbr\u003e\u003cbr\u003e这款免费的像素火车大亨模拟游戏《Tiny Rails》将带你踏上环游世界，感受奇妙的旅程。\u003cbr\u003e\u003cbr\u003e升级火车\u003cbr\u003e\u003cbr\u003e忘记地铁、飞机、汽车和轮船吧。将你自己的蒸汽火车变成子弹头列车。你可以升级和定制任何内容，如火车速度、乘客容量和车厢重量，始终按计划行事并制定出最佳的铁路策略。\u003cbr\u003e\u003cbr\u003e运输乘客\u003cbr\u003e\u003cbr\u003e让乘客与失散多年的亲人建立联系，送乘客去度假，或在乘客工作一整天后送其下班回家。为火车装备食物、娱乐或舒适设施，让乘客在旅途中保持愉快。\u003cbr\u003e\u003cbr\u003e环游世界\u003cbr\u003e\u003cbr\u003e前往纽约、东京、德里、上海和巴黎等城市，探索世界各地的古迹和奇迹。你的相机随时准备就绪，因此请一定要从拉什莫尔山、吉萨金字塔、中国长城、罗马斗兽场、泰姬陵以及更多全球奇观中捕捉精彩瞬间。\u003cbr\u003e\u003cbr\u003e收集稀有火车车厢\u003cbr\u003e\u003cbr\u003e试试你的运气，发现并收集各个时期令人惊叹的全新像素车厢。每天使用小型街机来获得最稀有的版本。\u003cbr\u003e\u003cbr\u003e交易货物和商品\u003cbr\u003e\u003cbr\u003e要发展事业帝国，你需要的不仅仅是车票销售收入。交易苹果、香蕉、土豆、胡萝卜、洋葱、钢铁和木材等商品，为你的企业奠定坚实的基础。悠闲自得地看着你的金钱和财富成倍增长。\u003cbr\u003e\u003cbr\u003e购买火车站\u003cbr\u003e\u003cbr\u003e建立火车站网络，将你的本地家族企业变成全球帝国。制定自己的策略，将城镇、道路、铁路和城市与你控制和拥有的火车站连接起来。\u003cbr\u003e\u003cbr\u003e挑战对手公司\u003cbr\u003e\u003cbr\u003e成为一名悠闲的铁路模拟大亨，并通过赶走竞争对手成为蒸汽火车经理大亨。收集各块战略拼图，完成你的游戏计划并宣告垄断火车站网络。\u003cbr\u003e\u003cbr\u003e《TINY RAILS》提供\u003cbr\u003e\u003cbr\u003e🚂离线和在线游戏\u003cbr\u003e\u003cbr\u003e🚂100多种独特的成套火车组合\u003cbr\u003e\u003cbr\u003e🚂在不使用地铁、轮船或飞机的情况下，环游全世界众多城市和古迹\u003cbr\u003e\u003cbr\u003e🚂不断升级火车和车厢\u003cbr\u003e\u003cbr\u003e🚂即使你闲着不玩也能推进进度\u003cbr\u003e\u003cbr\u003e🚂华丽的复古像素艺术和令人放松的音乐\u003cbr\u003e\u003cbr\u003e🚂在工作板上搜索激动人心的任务\u003cbr\u003e\u003cbr\u003e🚂成就和深入的统计数据\u003cbr\u003e\u003cbr\u003e🚂在各大洲设立车站，成为大亨，形成垄断\u003cbr\u003e\u003cbr\u003e🚂按你自己的方式安排各种乘车体验",
   "label": "火车大亨",
-  "time": 1724803200008,
+  "time": 1769904000008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，可调增伤、减伤、金币、宝石"
+        "【自动激活】免广告，所有广告奖励白嫖",
+        "【可选菜单】金币、宝石、会员"
       ],
       "name": "上帝模式",
       "pkgname": "com.tinytitanstudios.TrainChu.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.tinytitanstudios.TrainChu",
-  "vercode": 303209,
-  "vername": "2.10.20",
-  "publisher": "Trophy Games - Tiny Rails Train Cargo Simulator",
+  "vercode": 303233,
+  "vername": "2.14.20",
+  "publisher": "Trophy Games",
   "s1": [
-    256,
     512,
-    1024
+    1024,
+    2048
   ],
   "s2": [
-    1024,
     2048,
-    4096
+    4096,
+    8192
   ],
-  "s3": 1536,
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
+    "休闲",
     "模拟",
-    "经营",
-    "像素"
+    "经营"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/FTATSvER",
+      "host": "网盘分享：休闲分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/o9CW5yP3",
-      "var": false
-    },
-    {
-      "host": "下载页|翻墙",
-      "url": "https://apkpure.net/cn/tiny-rails-train-tycoon-2024/com.tinytitanstudios.TrainChu/download",
-      "var": true
     }
   ]
 }
