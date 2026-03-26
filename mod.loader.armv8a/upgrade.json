@@ -1,16 +1,16 @@
 {
-  "vername": "2.4.7",
+  "vername": "2.4.8",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 247,
+  "vercode": 248,
   "min_sdk_version": 24,
   "target_sdk_version": 29,
-  "md5": "20C588ACD70D91A1DD85AC56FCAE1203",
-  "size": 4200567,
+  "md5": "C223EDAC997DA76D15D68CC41D70ABB3",
+  "size": 4188138,
   "logs": {
-    "en": "完善沙盒直装游戏兼容性，例如王国保卫战系列；\n增加BUG反馈活跃点奖励；\n增加游戏试玩视频；\n完善游戏常见问题建议提示",
-    "zh": "完善沙盒直装游戏兼容性，例如王国保卫战系列；\n增加BUG反馈活跃点奖励；\n增加游戏试玩视频；\n完善游戏常见问题建议提示"
+    "en": "完善沙盒直装游戏兼容性，修复部分中国版安卓系统兼容性；\n增加BUG反馈活跃点奖励；\n增加游戏试玩视频；\n完善游戏常见问题建议提示",
+    "zh": "完善沙盒直装游戏兼容性，修复部分中国版安卓系统兼容性；\n增加BUG反馈活跃点奖励；\n增加游戏试玩视频；\n完善游戏常见问题建议提示"
   },
   "i": false
 }
