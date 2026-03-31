@@ -2,7 +2,7 @@
   "gms": 2,
   "info": "幸存者们，你们好！本次更新的新内容如下：\u003cbr\u003e\u003cbr\u003e- 无尽之桥的50个新跨度\u003cbr\u003e\u003cbr\u003e- 适用于玛利亚、红帽子和米勒博士的新皮肤\u003cbr\u003e\u003cbr\u003e- 经过升级的物品和护符现在可以被摧毁\u003cbr\u003e\u003cbr\u003e- 档案菜单进行了翻新\u003cbr\u003e\u003cbr\u003e- 小漏洞修复",
   "label": "死亡突围：僵尸战争",
-  "time": 1772668800008,
+  "time": 1774742400008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -15,12 +15,12 @@
       "pkgname": "com.mobirate.DeadAheadTactics.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 11
+      "vercode": 12
     }
   ],
   "pkgname": "com.mobirate.DeadAheadTactics",
-  "vercode": 490,
-  "vername": "4.3.4",
+  "vercode": 491,
+  "vername": "4.3.5",
   "publisher": "Mobirate",
   "s1": [
     512,
