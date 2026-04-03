@@ -1800,6 +1800,12 @@
       "time": 1764547200000
     },
     {
+      "label": "索尼克冲刺2：爆破",
+      "mtime": 1775174400000,
+      "pkg": "com.sega.sonicboomandroid",
+      "time": 1775001600000
+    },
+    {
       "label": "暗影战争",
       "mtime": 1725062400010,
       "pkg": "com.shadow.war.legend.slime.idle.rpg.survival.game",
@@ -2273,5 +2279,5 @@
       "time": 1764028800000
     }
   ],
-  "time": 1775174400000
+  "time": 1775174400001
 }
