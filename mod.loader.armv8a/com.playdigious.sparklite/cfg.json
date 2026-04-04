@@ -1,0 +1,56 @@
+{
+  "gms": 2,
+  "info": "肉鸽+塞尔达玩法融合，网盘分享的谷歌市场版本仅支持英文/日文等，中文版需到TAPTAP等第三方市场下载！\u003cbr\u003e\u003cbr\u003e做好准备去拯救艾达的朋友们\u003cbr\u003e\u003cbr\u003eSparklite 是一款 动作冒险类轻度 roguelike 游戏，故事背景设定在一个奇异多变的大陆。\u003cbr\u003e\u003cbr\u003e整装待发，开启冒险之旅，使用各种道具、枪械和装备，在俯视角的战斗中与敌人展开对战。探索程序生成的世界中危险的角落，击倒采矿业的巨头，并驾驭 Sparklite 的力量！\u003cbr\u003e\u003cbr\u003e主要特色\u003cbr\u003e\u003cbr\u003e• 探索 色彩缤纷的 Geodia 大陆\u003cbr\u003e\u003cbr\u003e• 驾驭 Sparklite 对抗怪兽和巨人\u003cbr\u003e\u003cbr\u003e• 与当地人交朋友，并帮助建造“避难所”\u003cbr\u003e\u003cbr\u003e• 发明 你的武器库，解开谜题，击败敌人，增强实力\u003cbr\u003e\u003cbr\u003e• 拯救 环境，免受贪婪男爵的侵害\u003cbr\u003e\u003cbr\u003e• 享受 精致的像素艺术美学，以及由作曲家 Dale North（传奇法师）创作的原创配乐，其灵感源自复古经典\u003cbr\u003e\u003cbr\u003e专为移动设备精心重新设计\u003cbr\u003e\u003cbr\u003e• 全新界面\u003cbr\u003e\u003cbr\u003e• 成就\u003cbr\u003e\u003cbr\u003e• 云存档 - 在 Android 设备之间共享进度\u003cbr\u003e\u003cbr\u003e• 支持手柄\u003cbr\u003e\u003cbr\u003e• 无需应用内购买！一次付费，即可享受完整的 Sparklite 体验！",
+  "label": "烁石物语",
+  "time": 1775001600008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】付费完整版",
+        "【可选菜单】无伤，能量不减，收入增加，消费不减，道具使用不减等"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.playdigious.sparklite.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.playdigious.sparklite",
+  "vercode": 105,
+  "vername": "1.8.356",
+  "publisher": "playdigious",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 4,
+  "tags": [
+    "英文",
+    "付费完整版",
+    "肉鸽",
+    "动作",
+    "塞尔达",
+    "支持手柄"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：动作分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
