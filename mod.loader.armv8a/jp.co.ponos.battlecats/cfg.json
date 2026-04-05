@@ -5,7 +5,7 @@
   "gms": 1,
   "info": "当前版本共有861张猫卡",
   "label": "猫咪大战争:日版",
-  "time": 1775001600008,
+  "time": 1775001600018,
   "lastProm": 0,
   "lastRec": 0,
   "mod": false,
@@ -18,7 +18,7 @@
       "name": "上帝模式",
       "pkgname": "jp.co.ponos.battlecats.gm64",
       "sandbox": 155,
-      "targetvc": "1502010",
+      "targetvc": "1503000",
       "vercode": 7
     }
   ],
