@@ -1,2289 +1,2295 @@
 {
-  "groups": {
-    "2": "好玩",
-    "3": "特色",
-    "6": "热门",
-    "9": "推荐"
-  },
-  "pkgname": "mod.loader.armv8a",
-  "promotions": [
-    {
-      "pkg": "com.ultraman.zd.aligames",
-      "title": "奥特曼：光之战士",
-      "url": "https://ugame.9game.cn/game/share-235275-3117059.html"
-    },
-    {
-      "pkg": "com.feimo.jxpd.aligames",
-      "title": "吉星派对",
-      "url": "https://ugame.9game.cn/game/share-235275-3123517.html"
-    },
-    {
-      "pkg": "com.hlacg.mjcq.aligames",
-      "title": "魔戒传奇0L",
-      "url": "https://ugame.9game.cn/game/share-235275-3117057.html"
-    },
-    {
-      "pkg": "com.tjbfx.union.aligames",
-      "title": "天姬变",
-      "url": "https://ugame.9game.cn/game/share-235275-1161833.html"
-    },
-    {
-      "pkg": "com.cwjj.ghtc.aligames",
-      "title": "宠物集结",
-      "url": "https://ugame.9game.cn/game/share-235275-1088352.html"
-    },
-    {
-      "pkg": "com.zhanhuo.mw.aligames",
-      "title": "现代战舰",
-      "url": "https://ugame.9game.cn/game/share-235275-3102855.html"
-    },
-    {
-      "pkg": "com.pandadastudio.ninjamustdie3.aligames",
-      "title": "忍者必须死3",
-      "url": "https://ugame.9game.cn/game/share-235275-1125009.html"
-    },
-    {
-      "pkg": "com.leiting.elona.aligames",
-      "title": "伊洛纳",
-      "url": "https://ugame.9game.cn/game/share-235275-1138873.html"
-    },
-    {
-      "pkg": "com.yy.nbalqsj.aligames",
-      "title": "NBA篮球世界",
-      "url": "https://ugame.9game.cn/game/share-235275-3115387.html"
-    },
-    {
-      "pkg": "com.chillyroom.zhmr.aligames",
-      "title": "战魂铭人",
-      "url": "https://ugame.9game.cn/game/share-235275-1151557.html"
-    },
-    {
-      "pkg": "com.bilibili.fgo.uc",
-      "title": "命运-冠位指定",
-      "url": "https://ugame.9game.cn/game/share-235275-733329.html"
-    },
-    {
-      "pkg": "com.zushi.aligames",
-      "title": "最强祖师",
-      "url": "https://ugame.9game.cn/game/share-235275-3068140.html"
-    },
-    {
-      "pkg": "com.metek.ultraman.uc",
-      "title": "奥特曼系列OL",
-      "url": "https://ugame.9game.cn/game/share-235275-575274.html"
-    },
-    {
-      "pkg": "com.hermes.h1game.aligames",
-      "title": "航海王热血航线",
-      "url": "https://ugame.9game.cn/game/share-235275-1170872.html"
-    },
-    {
-      "pkg": "com.leiting.lostcastle.aligames",
-      "title": "失落城堡",
-      "url": "https://ugame.9game.cn/game/share-235275-863055.html"
-    },
-    {
-      "pkg": "com.sy.dldlhsdj.aligames",
-      "title": "斗罗大陆：魂师对决",
-      "url": "https://ugame.9game.cn/game/share-235275-1182503.html"
-    },
-    {
-      "pkg": "com.hanjiasongshu.jianghux2.aligames",
-      "title": "汉家江湖",
-      "url": "https://ugame.9game.cn/game/share-235275-773396.html"
-    },
-    {
-      "pkg": "com.miHoYo.HSoDv22144.uc",
-      "title": "崩坏学院2",
-      "url": "https://ugame.9game.cn/game/share-235275-537921.html"
-    },
-    {
-      "pkg": "com.miHoYo.bh3.uc",
-      "title": "崩坏3",
-      "url": "https://ugame.9game.cn/game/share-235275-654463.html"
-    },
-    {
-      "pkg": "com.r2games.myhero.aligames",
-      "title": "我的勇者",
-      "url": "https://ugame.9game.cn/game/share-235275-892136.html"
-    },
-    {
-      "pkg": "com.hcg.cok.uc",
-      "title": "列王的纷争",
-      "url": "https://ugame.9game.cn/game/share-235275-537420.html"
-    },
-    {
-      "pkg": "com.bilibili.snake.aligames",
-      "title": "坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险",
-      "url": "https://ugame.9game.cn/game/share-235275-1030083.html"
-    }
-  ],
-  "search": [
-    "崩溃大陆",
-    "泰拉瑞亚",
-    "植物大战僵尸",
-    "这是我的战争",
-    "银河恶魔城",
-    "星露谷物语",
-    "死亡细胞",
-    "王国保卫战",
-    "王国",
-    "小丑牌",
-    "幸存者",
-    "塔防"
-  ],
-  "supports": [
-    {
-      "pkg": "mod.loader.armv8a",
-      "time": 1708090415002
-    },
-    {
-      "label": "亚特兰蒂斯入侵者",
-      "pkg": "atlantis.invaders.subnautica.space.shooter",
-      "time": 1708646400002
-    },
-    {
+	"groups": {
+		"2": "好玩",
+		"3": "特色",
+		"6": "热门",
+		"9": "推荐"
+	},
+	"pkgname": "mod.loader.armv8a",
+	"promotions": [
+	{
+		"pkg": "com.ultraman.zd.aligames",
+		"title": "奥特曼：光之战士",
+		"url": "https://ugame.9game.cn/game/share-235275-3117059.html"
+	},
+	{
+		"pkg": "com.feimo.jxpd.aligames",
+		"title": "吉星派对",
+		"url": "https://ugame.9game.cn/game/share-235275-3123517.html"
+	},
+	{
+		"pkg": "com.hlacg.mjcq.aligames",
+		"title": "魔戒传奇0L",
+		"url": "https://ugame.9game.cn/game/share-235275-3117057.html"
+	},
+	{
+		"pkg": "com.tjbfx.union.aligames",
+		"title": "天姬变",
+		"url": "https://ugame.9game.cn/game/share-235275-1161833.html"
+	},
+	{
+		"pkg": "com.cwjj.ghtc.aligames",
+		"title": "宠物集结",
+		"url": "https://ugame.9game.cn/game/share-235275-1088352.html"
+	},
+	{
+		"pkg": "com.zhanhuo.mw.aligames",
+		"title": "现代战舰",
+		"url": "https://ugame.9game.cn/game/share-235275-3102855.html"
+	},
+	{
+		"pkg": "com.pandadastudio.ninjamustdie3.aligames",
+		"title": "忍者必须死3",
+		"url": "https://ugame.9game.cn/game/share-235275-1125009.html"
+	},
+	{
+		"pkg": "com.leiting.elona.aligames",
+		"title": "伊洛纳",
+		"url": "https://ugame.9game.cn/game/share-235275-1138873.html"
+	},
+	{
+		"pkg": "com.yy.nbalqsj.aligames",
+		"title": "NBA篮球世界",
+		"url": "https://ugame.9game.cn/game/share-235275-3115387.html"
+	},
+	{
+		"pkg": "com.chillyroom.zhmr.aligames",
+		"title": "战魂铭人",
+		"url": "https://ugame.9game.cn/game/share-235275-1151557.html"
+	},
+	{
+		"pkg": "com.bilibili.fgo.uc",
+		"title": "命运-冠位指定",
+		"url": "https://ugame.9game.cn/game/share-235275-733329.html"
+	},
+	{
+		"pkg": "com.zushi.aligames",
+		"title": "最强祖师",
+		"url": "https://ugame.9game.cn/game/share-235275-3068140.html"
+	},
+	{
+		"pkg": "com.metek.ultraman.uc",
+		"title": "奥特曼系列OL",
+		"url": "https://ugame.9game.cn/game/share-235275-575274.html"
+	},
+	{
+		"pkg": "com.hermes.h1game.aligames",
+		"title": "航海王热血航线",
+		"url": "https://ugame.9game.cn/game/share-235275-1170872.html"
+	},
+	{
+		"pkg": "com.leiting.lostcastle.aligames",
+		"title": "失落城堡",
+		"url": "https://ugame.9game.cn/game/share-235275-863055.html"
+	},
+	{
+		"pkg": "com.sy.dldlhsdj.aligames",
+		"title": "斗罗大陆：魂师对决",
+		"url": "https://ugame.9game.cn/game/share-235275-1182503.html"
+	},
+	{
+		"pkg": "com.hanjiasongshu.jianghux2.aligames",
+		"title": "汉家江湖",
+		"url": "https://ugame.9game.cn/game/share-235275-773396.html"
+	},
+	{
+		"pkg": "com.miHoYo.HSoDv22144.uc",
+		"title": "崩坏学院2",
+		"url": "https://ugame.9game.cn/game/share-235275-537921.html"
+	},
+	{
+		"pkg": "com.miHoYo.bh3.uc",
+		"title": "崩坏3",
+		"url": "https://ugame.9game.cn/game/share-235275-654463.html"
+	},
+	{
+		"pkg": "com.r2games.myhero.aligames",
+		"title": "我的勇者",
+		"url": "https://ugame.9game.cn/game/share-235275-892136.html"
+	},
+	{
+		"pkg": "com.hcg.cok.uc",
+		"title": "列王的纷争",
+		"url": "https://ugame.9game.cn/game/share-235275-537420.html"
+	},
+	{
+		"pkg": "com.bilibili.snake.aligames",
+		"title": "坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险",
+		"url": "https://ugame.9game.cn/game/share-235275-1030083.html"
+		}
+	],
+	"search": [
+		"崩溃大陆",
+		"泰拉瑞亚",
+		"植物大战僵尸",
+		"这是我的战争",
+		"银河恶魔城",
+		"星露谷物语",
+		"死亡细胞",
+		"王国保卫战",
+		"王国",
+		"小丑牌",
+		"幸存者",
+		"塔防"
+	],
+	"supports": [
+	{
+		"pkg": "mod.loader.armv8a",
+		"time": 1708090415002
+	},
+	{
+		"label": "亚特兰蒂斯入侵者",
+		"pkg": "atlantis.invaders.subnautica.space.shooter",
+		"time": 1708646400002
+	},
+	{
 		"group": 3,
-      "label": "天空鱼传说2",
-      "mtime": 1772409600000,
-      "pkg": "br.com.mothergaia.skyfish2",
-      "time": 1771804800000
-    },
-    {
-      "label": "我渴望力量",
-      "mtime": 1765756800000,
-      "pkg": "bartmamzer.powerlust.actionrpg.roguelike",
-      "time": 1761955200000
-    },
-    {
-      "label": "折纸岛：悠游乐园",
-      "pkg": "cn.xishanju.google.origamiparadise",
-      "time": 1707350400002
-    },
-    {
-      "label": "弓箭猎手",
-      "pkg": "co.imba.archero",
-      "time": 1708905600002
-    },
-    {
-      "label": "幸存者传奇",
-      "mtime": 1773187200000,
-      "pkg": "com.abi.legendofsurvivors",
-      "time": 1772064000000
-    },
-    {
+		"label": "天空鱼传说2",
+		"mtime": 1772409600000,
+		"pkg": "br.com.mothergaia.skyfish2",
+		"time": 1771804800000
+	},
+	{
+		"label": "我渴望力量",
+		"mtime": 1765756800000,
+		"pkg": "bartmamzer.powerlust.actionrpg.roguelike",
+		"time": 1761955200000
+	},
+	{
+		"label": "折纸岛：悠游乐园",
+		"pkg": "cn.xishanju.google.origamiparadise",
+		"time": 1707350400002
+	},
+	{
+		"label": "弓箭猎手",
+		"pkg": "co.imba.archero",
+		"time": 1708905600002
+	},
+	{
+		"label": "幸存者传奇",
+		"mtime": 1773187200000,
+		"pkg": "com.abi.legendofsurvivors",
+		"time": 1772064000000
+	},
+	{
 		"group": 3,
-      "label": "光明旅者",
-      "mtime": 1759622400000,
-      "pkg": "com.abylight.HyperLightDrifter",
-      "time": 1758758400010
-    },
-    {
-      "label": "糖果灾难",
-      "mtime": 1720483200000,
-      "pkg": "com.acegames.candy.disaster.tdbattles.gp",
-      "time": 1708992000000
-    },
-    {
-      "label": "岛屿战争",
-      "pkg": "com.addictive.empire.clash.conquest",
-      "time": 1709078400002
-    },
-    {
-      "label": "战争艺术：军团",
-      "pkg": "com.addictive.strategy.army",
-      "time": 1704758400002
-    },
-    {
-      "label": "魔法围城",
-      "pkg": "com.akpublish.magicsiege",
-      "time": 1701734400002
-    },
-    {
-      "label": "末日射手",
-      "mtime": 1769126400000,
-      "pkg": "com.aldagames.zombero.bullet.hell",
-      "time": 1767398400000
-    },
-    {
-      "label": "步行僵尸2",
-      "mtime": 1774483200000,
-      "pkg": "com.aldagames.zombieshooter",
-      "time": 1774224000000
-    },
-    {
-      "label": "飞跃星球",
-      "pkg": "com.alexanderwinn.landfall",
-      "time": 1674777600002
-    },
-    {
-      "label": "无限塔防2",
-      "mtime": 1752624000000,
-      "pkg": "com.prineside.tdi2",
-      "time": 1728864000000
-    },
-    {
-      "label": "节奏弹球",
-      "mtime": 1721347200000,
-      "pkg": "com.amanotes.beathopper",
-      "time": 1721347200000
-    },
-    {
+		"label": "光明旅者",
+		"mtime": 1759622400000,
+		"pkg": "com.abylight.HyperLightDrifter",
+		"time": 1758758400010
+	},
+	{
+		"label": "糖果灾难",
+		"mtime": 1720483200000,
+		"pkg": "com.acegames.candy.disaster.tdbattles.gp",
+		"time": 1708992000000
+	},
+	{
+		"label": "岛屿战争",
+		"pkg": "com.addictive.empire.clash.conquest",
+		"time": 1709078400002
+	},
+	{
+		"label": "战争艺术：军团",
+		"pkg": "com.addictive.strategy.army",
+		"time": 1704758400002
+	},
+	{
+		"label": "魔法围城",
+		"pkg": "com.akpublish.magicsiege",
+		"time": 1701734400002
+	},
+	{
+		"label": "末日射手",
+		"mtime": 1769126400000,
+		"pkg": "com.aldagames.zombero.bullet.hell",
+		"time": 1767398400000
+	},
+	{
+		"label": "步行僵尸2",
+		"mtime": 1774483200000,
+		"pkg": "com.aldagames.zombieshooter",
+		"time": 1774224000000
+	},
+	{
+		"label": "飞跃星球",
+		"pkg": "com.alexanderwinn.landfall",
+		"time": 1674777600002
+	},
+	{
+		"label": "无限塔防2",
+		"mtime": 1752624000000,
+		"pkg": "com.prineside.tdi2",
+		"time": 1728864000000
+	},
+	{
+		"label": "节奏弹球",
+		"mtime": 1721347200000,
+		"pkg": "com.amanotes.beathopper",
+		"time": 1721347200000
+	},
+	{
 		"group": 3,
 		"label": "泰拉瑞亚",
 		"mtime": 1771632000000,
 		"pkg": "com.and.games505.Terraria",
 		"time": 1771632000000
-    },
+	},
 	{
 		"group": 9,
 		"label": "泰拉瑞亚：付费版",
 		"mtime": 1780012800000,
 		"pkg": "com.and.games505.TerrariaPaid",
 		"time": 1774656000000
-    },
-    {
-      "label": "射击英雄",
-      "pkg": "com.anglesgames.auto.shoot.hero",
-      "time": 1709251200002
-    },
-    {
-      "label": "太空农妇",
-      "mtime": 1767571200000,
-      "pkg": "com.anxiousottergames.spacefarmer",
-      "time": 1759881600000
-    },
-    {
-      "label": "繁荣合并：建造动物城",
-      "pkg": "com.apollo.boommerge",
-      "time": 1703894400002
-    },
-    {
-      "label": "苏打地牢2",
-      "pkg": "com.armorgames.sodadungeon2",
-      "time": 1666483200002
-    },
-    {
-      "label": "狩魔者：不为人知的故事",
-      "mtime": 1768867200000,
-      "pkg": "com.artifexmundi.demonhunter.gp.free",
-      "time": 1760054400000
-    },
-    {
-      "label": "狩魔者3：真相",
-      "mtime": 1768867200000,
-      "pkg": "com.artifexmundi.demonhunter3.gp.free",
-      "time": 1761782400000
-    },
-    {
-      "label": "狩魔者5：主权",
-      "mtime": 1768867200000,
-      "pkg": "com.artifexmundi.demonhunter5.gp.free",
-      "time": 1761782400000
-    },
-    {
-      "label": "翡翠少女：梦之交响曲",
-      "mtime": 1768867200000,
-      "pkg": "com.artifexmundi.emeraldmaiden.gp.free",
-      "time": 1763078400000
-    },
-    {
-      "label": "乌鸦森林之谜3：卡赫拉之影",
-      "mtime": 1768867200000,
-      "pkg": "com.artifexmundi.enigmatis3.gp.free",
-      "time": 1763078400000
-    },
-    {
-      "label": "恐怖传奇3：黑暗之城",
-      "mtime": 1768867200000,
-      "pkg": "com.artifexmundi.grimlegends3.gp.free",
-      "time": 1761177600000
-    },
-    {
-      "label": "神话探索者2：淹没之城",
-      "mtime": 1768867200000,
-      "pkg": "com.artifexmundi.themythseekers2.gp.free",
-      "time": 1761782400000
-    },
-    {
-      "label": "秘密组织6:血统",
-      "mtime": 1768867200000,
-      "pkg": "com.artifexmundi.thesecretorder6.gp.free",
-      "time": 1761350400000
-    },
-    {
-      "label": "吸血鬼传奇：血色小镇",
-      "mtime": 1768867200000,
-      "pkg": "com.artifexmundi.vampirelegends.gp.free",
-      "time": 1763164800000
-    },
-    {
-      "label": "致命空袭2",
-      "mtime": 1754179200000,
-      "pkg": "com.ArtInGames.AirAttack2f",
-      "time": 1751500800000
-    },
-    {
-      "label": "使命法则 - 永恒地牢",
-      "mtime": 1720509600000,
-      "pkg": "com.aubjective.jobmania",
-      "time": 1720509600009
-    },
-    {
+	},
+	{
+		"label": "射击英雄",
+		"pkg": "com.anglesgames.auto.shoot.hero",
+		"time": 1709251200002
+	},
+	{
+		"label": "太空农妇",
+		"mtime": 1767571200000,
+		"pkg": "com.anxiousottergames.spacefarmer",
+		"time": 1759881600000
+	},
+	{
+		"label": "繁荣合并：建造动物城",
+		"pkg": "com.apollo.boommerge",
+		"time": 1703894400002
+	},
+	{
+		"label": "制作谷",
+		"mtime": 1771632000000,
+		"pkg": "com.arcade.mine",
+		"time": 1771632000000
+	},
+	{
+		"label": "苏打地牢2",
+		"pkg": "com.armorgames.sodadungeon2",
+		"time": 1666483200002
+	},
+	{
+		"label": "狩魔者：不为人知的故事",
+		"mtime": 1768867200000,
+		"pkg": "com.artifexmundi.demonhunter.gp.free",
+		"time": 1760054400000
+	},
+	{
+		"label": "狩魔者3：真相",
+		"mtime": 1768867200000,
+		"pkg": "com.artifexmundi.demonhunter3.gp.free",
+		"time": 1761782400000
+	},
+	{
+		"label": "狩魔者5：主权",
+		"mtime": 1768867200000,
+		"pkg": "com.artifexmundi.demonhunter5.gp.free",
+		"time": 1761782400000
+	},
+	{
+		"label": "翡翠少女：梦之交响曲",
+		"mtime": 1768867200000,
+		"pkg": "com.artifexmundi.emeraldmaiden.gp.free",
+		"time": 1763078400000
+	},
+	{
+		"label": "乌鸦森林之谜3：卡赫拉之影",
+		"mtime": 1768867200000,
+		"pkg": "com.artifexmundi.enigmatis3.gp.free",
+		"time": 1763078400000
+	},
+	{
+		"label": "恐怖传奇3：黑暗之城",
+		"mtime": 1768867200000,
+		"pkg": "com.artifexmundi.grimlegends3.gp.free",
+		"time": 1761177600000
+	},
+	{
+		"label": "神话探索者2：淹没之城",
+		"mtime": 1768867200000,
+		"pkg": "com.artifexmundi.themythseekers2.gp.free",
+		"time": 1761782400000
+	},
+	{
+		"label": "秘密组织6:血统",
+		"mtime": 1768867200000,
+		"pkg": "com.artifexmundi.thesecretorder6.gp.free",
+		"time": 1761350400000
+	},
+	{
+		"label": "吸血鬼传奇：血色小镇",
+		"mtime": 1768867200000,
+		"pkg": "com.artifexmundi.vampirelegends.gp.free",
+		"time": 1763164800000
+	},
+	{
+		"label": "致命空袭2",
+		"mtime": 1754179200000,
+		"pkg": "com.ArtInGames.AirAttack2f",
+		"time": 1751500800000
+	},
+	{
+		"label": "使命法则 - 永恒地牢",
+		"mtime": 1720509600000,
+		"pkg": "com.aubjective.jobmania",
+		"time": 1720509600009
+	},
+	{
 		"group": 3,
 		"label": "骷髅女孩",
 		"mtime": 1761782400000,
 		"pkg": "com.autumn.skullgirls",
 		"time": 1759708800000
-    },
-    {
+	},
+	{
 		"group": 6,
-      "label": "贪婪洞窟：国际版",
-      "mtime": 1770076800000,
-      "pkg": "com.avalon.cave",
-      "time": 1769904000000
-    },
-    {
-      "label": "帝国守卫战",
-      "mtime": 1733702400000,
-      "pkg": "com.babeltimeus.legendstd",
-      "time": 1720396800000
-    },
-    {
-      "label": "龙珠激战传说",
-      "pkg": "com.bandainamcoent.dblegends_ww",
-      "time": 1709251200002
-    },
-    {
-      "label": "疾病",
-      "mtime": 1733788800000,
-      "pkg": "com.BeardyBird.Ailment",
-      "time": 1729641600000
-    },
-    {
+		"label": "贪婪洞窟：国际版",
+		"mtime": 1770076800000,
+		"pkg": "com.avalon.cave",
+		"time": 1769904000000
+	},
+	{
+		"label": "帝国守卫战",
+		"mtime": 1733702400000,
+		"pkg": "com.babeltimeus.legendstd",
+		"time": 1720396800000
+	},
+	{
+		"label": "龙珠激战传说",
+		"pkg": "com.bandainamcoent.dblegends_ww",
+		"time": 1709251200002
+	},
+	{
+		"label": "疾病",
+		"mtime": 1733788800000,
+		"pkg": "com.BeardyBird.Ailment",
+		"time": 1729641600000
+	},
+	{
 		"group": 3,
-      "label": "差不多英雄",
-      "mtime": 1767571200000,
-      "pkg": "com.beesquare.almostahero",
-      "time": 1760918400000
-    },
-    {
-      "label": "钟表匠",
-      "pkg": "com.belkatechnologies.clockmaker",
-      "time": 1709596800002
-    },
-    {
-      "label": "自我剑：剑闲置唱首歌",
-      "pkg": "com.betdon.egosword",
-      "time": 1709856000002
-    },
-    {
-      "label": "毁灭战士(DOOM)",
-      "mtime": 1725062300000,
-      "pkg": "com.bethsoft.ubu",
-      "time": 1708473600000
-    },
-    {
-      "label": "辐射避难所",
-      "mtime": 1711843200000,
-      "pkg": "com.bethsoft.falloutshelter",
-      "time": 1709856000000
-    },
-    {
-      "label": "生存RPG4：幽灵庄园",
-      "mtime": 1755820800000,
-      "pkg": "com.bewgames.hauntedmanor",
-      "time": 1750464000000
-    },
-    {
-      "label": "生存RPG3：失落时空",
-      "mtime": 1755820800000,
-      "pkg": "com.bewgames.lostintime",
-      "time": 1750464000000
-    },
-    {
-      "label": "生存RPG：开放世界",
-      "mtime": 1755820800000,
-      "pkg": "com.bewgames.openworld",
-      "time": 1750464000000
-    },
-    {
-      "label": "生存RPG5：决战海贼宝藏",
-      "mtime": 1755820800000,
-      "pkg": "com.bewgames.pirate",
-      "time": 1754611200000
-    },
-    {
-      "label": "生存RPG2：神庙废墟",
-      "pkg": "com.bewgames.templeruins",
-      "time": 1705968000002
-    },
-    {
-      "label": "我的邮轮",
-	  "mtime": 1767052800000,
-      "pkg": "com.big.my.cruise.ship",
-      "time": 1766793600000
-    },
-    {
-      "label": "暖雪",
-      "mtime": 1754006400000,
-      "pkg": "com.bilibili.warmsnow.aligames",
-      "time": 1754006400000
-    },
-    {
+		"label": "差不多英雄",
+		"mtime": 1767571200000,
+		"pkg": "com.beesquare.almostahero",
+		"time": 1760918400000
+	},
+	{
+		"label": "钟表匠",
+		"pkg": "com.belkatechnologies.clockmaker",
+		"time": 1709596800002
+	},
+	{
+		"label": "自我剑：剑闲置唱首歌",
+		"pkg": "com.betdon.egosword",
+		"time": 1709856000002
+	},
+	{
+		"label": "毁灭战士(DOOM)",
+		"mtime": 1725062300000,
+		"pkg": "com.bethsoft.ubu",
+		"time": 1708473600000
+	},
+	{
+		"label": "辐射避难所",
+		"mtime": 1711843200000,
+		"pkg": "com.bethsoft.falloutshelter",
+		"time": 1709856000000
+	},
+	{
+		"label": "生存RPG4：幽灵庄园",
+		"mtime": 1755820800000,
+		"pkg": "com.bewgames.hauntedmanor",
+		"time": 1750464000000
+	},
+	{
+		"label": "生存RPG3：失落时空",
+		"mtime": 1755820800000,
+		"pkg": "com.bewgames.lostintime",
+		"time": 1750464000000
+	},
+	{
+		"label": "生存RPG：开放世界",
+		"mtime": 1755820800000,
+		"pkg": "com.bewgames.openworld",
+		"time": 1750464000000
+	},
+	{
+		"label": "生存RPG5：决战海贼宝藏",
+		"mtime": 1755820800000,
+		"pkg": "com.bewgames.pirate",
+		"time": 1754611200000
+	},
+	{
+		"label": "生存RPG2：神庙废墟",
+		"pkg": "com.bewgames.templeruins",
+		"time": 1705968000002
+	},
+	{
+		"label": "我的邮轮",
+		"mtime": 1767052800000,
+		"pkg": "com.big.my.cruise.ship",
+		"time": 1766793600000
+	},
+	{
+		"label": "暖雪",
+		"mtime": 1754006400000,
+		"pkg": "com.bilibili.warmsnow.aligames",
+		"time": 1754006400000
+	},
+	{
 		"group": 9,
-      "label": "勇敢的哈克",
-      "mtime": 1773187200000,
-      "pkg": "com.blingame.haaktestb",
-      "time": 1771977600050
-    },
-    {
-      "label": "塔英雄 - 塔防",
-      "pkg": "com.blockstack.tophero",
-      "time": 1707609600002
-    },
-    {
-      "label": "战巡大作战",
-      "mtime": 1767052800000,
-      "pkg": "com.Bluebottle.Battlecruisers",
-      "time": 1762646400000
-    },
-    {
+		"label": "勇敢的哈克",
+		"mtime": 1773187200000,
+		"pkg": "com.blingame.haaktestb",
+		"time": 1771977600050
+	},
+	{
+		"label": "塔英雄 - 塔防",
+		"pkg": "com.blockstack.tophero",
+		"time": 1707609600002
+	},
+	{
+		"label": "战巡大作战",
+		"mtime": 1767052800000,
+		"pkg": "com.Bluebottle.Battlecruisers",
+		"time": 1762646400000
+	},
+	{
 		"label": "一人赏金",
 		"mtime": 1773532800000,
 		"pkg": "com.bountyofone.premium.mobile.gp",
 		"time": 1769904000000
-    },
-    {
+	},
+	{
 		"group": 3,
 		"label": "土豆兄弟",
 		"mtime": 1774656000000,
 		"pkg": "com.brotato.shooting.survivors.games.paid.android",
 		"time": 1774569600000
-    },
-    {
+	},
+	{
 		"group": 3,
-      "label": "崩溃大陆",
-      "mtime": 1772323200000,
-      "pkg": "com.bscotch.crashlands",
-      "time": 1771977600000
-    },
-    {
-      "group": 9,
-      "label": "崩溃大陆2",
-      "mtime": 1772064000000,
-      "pkg": "com.bscotch.crashlands2",
-      "time": 1771977600000
-    },
-    {
-      "label": "偶像制作人",
-      "pkg": "com.buildupstudio.idolproducer",
-      "time": 1710115200002
-    },
-    {
-      "label": "地牢编年史",
-      "mtime": 1724630400000,
-      "pkg": "com.BUNKERim.DC",
-      "time": 1716940800000
-    },
-    {
-      "label": "死神",
-      "mtime": 1736208000000,
-      "pkg": "net.hexage.reaper",
-      "time": 1735344000000
-    },
-    {
-      "label": "创意蛋糕店",
-      "mtime": 1717977600004,
-      "pkg": "net.kairosoft.android.okashi_en",
-      "time": 1717977600003
-    },
-    {
-      "label": "幸福公寓物语",
-      "mtime": 1729641600004,
-      "pkg": "net.kairosoft.android.apart_en",
-      "time": 1729641600003
-    },
-    {
-      "label": "楼下的早餐店",
-      "pkg": "com.ccyiyo.story",
-      "time": 1708992000002
-    },
-    {
-      "group": 9,
-      "label": "元气骑士",
-      "mtime": 1773446400000,
-      "pkg": "com.ChillyRoom.DungeonShooter",
-      "time": 1770163200000
-    },
-    {
+		"label": "崩溃大陆",
+		"mtime": 1772323200000,
+		"pkg": "com.bscotch.crashlands",
+		"time": 1771977600000
+	},
+	{
+		"group": 9,
+		"label": "崩溃大陆2",
+		"mtime": 1772064000000,
+		"pkg": "com.bscotch.crashlands2",
+		"time": 1771977600000
+	},
+	{
+		"label": "偶像制作人",
+		"pkg": "com.buildupstudio.idolproducer",
+		"time": 1710115200002
+	},
+	{
+		"label": "地牢编年史",
+		"mtime": 1724630400000,
+		"pkg": "com.BUNKERim.DC",
+		"time": 1716940800000
+	},
+	{
+		"label": "死神",
+		"mtime": 1736208000000,
+		"pkg": "net.hexage.reaper",
+		"time": 1735344000000
+	},
+	{
+		"label": "创意蛋糕店",
+		"mtime": 1717977600004,
+		"pkg": "net.kairosoft.android.okashi_en",
+		"time": 1717977600003
+	},
+	{
+		"label": "幸福公寓物语",
+		"mtime": 1729641600004,
+		"pkg": "net.kairosoft.android.apart_en",
+		"time": 1729641600003
+	},
+	{
+		"label": "楼下的早餐店",
+		"pkg": "com.ccyiyo.story",
+		"time": 1708992000002
+	},
+	{
+		"group": 9,
+		"label": "元气骑士",
+		"mtime": 1773446400000,
+		"pkg": "com.ChillyRoom.DungeonShooter",
+		"time": 1770163200000
+	},
+	{
 		"group": 3,
-      "label": "绝地鸭卫：国际版",
-      "mtime": 1765497600000,
-      "pkg": "com.chillyroom.jdyw.gp",
-      "time": 1764720000000
-    },
-    {
-      "label": "深渊之影：国际版",
-      "mtime": 1761436800000,
-      "pkg": "com.chillyroom.sotd.gp",
-      "time": 1761004800000
-    },
-    {
-      "label": "异星指令",
-      "mtime": 1754697500000,
-      "pkg": "com.chillyroom.xenocmd",
-      "time": 1741478400000
-    },
-    {
-	  "group": 9,
-      "label": "战魂铭人",
-      "mtime": 1771545600000,
-      "pkg": "com.chillyroom.zhmr.aligames",
-      "time": 1755475200000
-    },
-    {
-      "group": 6,
-      "label": "战魂铭人：国际版",
-      "mtime": 1761350400000,
-      "pkg": "com.chillyroom.zhmr.gp",
-      "time": 1761004800000
-    },
-    {
+		"label": "绝地鸭卫：国际版",
+		"mtime": 1765497600000,
+		"pkg": "com.chillyroom.jdyw.gp",
+		"time": 1764720000000
+	},
+	{
+		"label": "深渊之影：国际版",
+		"mtime": 1761436800000,
+		"pkg": "com.chillyroom.sotd.gp",
+		"time": 1761004800000
+	},
+	{
+		"label": "异星指令",
+		"mtime": 1754697500000,
+		"pkg": "com.chillyroom.xenocmd",
+		"time": 1741478400000
+	},
+	{
+		"group": 9,
+		"label": "战魂铭人",
+		"mtime": 1771545600000,
+		"pkg": "com.chillyroom.zhmr.aligames",
+		"time": 1755475200000
+	},
+	{
+		"group": 6,
+		"label": "战魂铭人：国际版",
+		"mtime": 1761350400000,
+		"pkg": "com.chillyroom.zhmr.gp",
+		"time": 1761004800000
+	},
+	{
 		"group": 3,
-      "label": "烛火地牢2：猫咪的诅咒",
-      "mtime": 1760745600000,
-      "pkg": "com.ChrisMcFarland.Tallowmere2",
-      "time": 1760227200000
-    },
-    {
+		"label": "烛火地牢2：猫咪的诅咒",
+		"mtime": 1760745600000,
+		"pkg": "com.ChrisMcFarland.Tallowmere2",
+		"time": 1760227200000
+	},
+	{
 		"group": 3,
-      "label": "星露谷物语",
-      "mtime": 1727136000000,
-      "pkg": "com.chucklefish.stardewvalley",
-      "time": 1698624000000
-    },
-    {
-      "label": "不算英雄",
-      "mtime": 1749772800000,
-      "pkg": "com.cobby.lonelysurvivor",
-      "time": 1734566400000
-    },
-    {
+		"label": "星露谷物语",
+		"mtime": 1727136000000,
+		"pkg": "com.chucklefish.stardewvalley",
+		"time": 1698624000000
+	},
+	{
+		"label": "不算英雄",
+		"mtime": 1749772800000,
+		"pkg": "com.cobby.lonelysurvivor",
+		"time": 1734566400000
+	},
+	{
 		"group": 3,
-      "label": "暴徒猎手/追捕",
-      "mtime": 1768003200000,
-      "pkg": "com.coffeestain.huntdown",
-      "time": 1759622400010
-    },
-    {
+		"label": "暴徒猎手/追捕",
+		"mtime": 1768003200000,
+		"pkg": "com.coffeestain.huntdown",
+		"time": 1759622400010
+	},
+	{
 		"group": 3,
 		"label": "征服之歌：移动版",
 		"mtime": 1774915200000,
 		"pkg": "com.coffeestain.songsofconquestmobile",
 		"time": 1774742400000
-    },
-    {
-      "label": "从细胞到奇点：进化永无止境",
-      "pkg": "com.computerlunch.evolution",
-      "time": 1708560000002
-    },
-    {
-      "label": "落日山丘",
-      "mtime": 1767225600000,
-      "pkg": "com.cottongame.sunsethills",
-      "time": 1738713600000
-    },
-    {
-      "label": "无尽空间",
-      "mtime": 1765497600000,
-      "pkg": "com.crescentmoongames.subdivision",
-      "time": 1764547200000
-    },
-    {
-      "label": "怪兽黎明",
-      "mtime": 1760572800000,
-      "pkg": "com.crunchyroll.gv.dawnofmonsters.game",
-      "time": 1744934400000
-    },
-    {
-      "label": "永恒之夜",
-      "mtime": 1758931200000,
-      "pkg": "com.crunchyroll.gv.eternights.game",
-      "time": 1732320000000
-    },
-    {
-      "label": "热血少女物语2",
-      "mtime": 1758585600000,
-      "pkg": "com.crunchyroll.gv.rcg2.game",
-      "time": 1745625600000
-    },
-    {
-      "label": "热血少女物语",
-      "mtime": 1758499200000,
-      "pkg": "com.crunchyroll.gv.rivercitygirls.game",
-      "time": 1745625600000
-    },
-    {
+	},
+	{
+		"label": "从细胞到奇点：进化永无止境",
+		"pkg": "com.computerlunch.evolution",
+		"time": 1708560000002
+	},
+	{
+		"label": "落日山丘",
+		"mtime": 1767225600000,
+		"pkg": "com.cottongame.sunsethills",
+		"time": 1738713600000
+	},
+	{
+		"label": "无尽空间",
+		"mtime": 1765497600000,
+		"pkg": "com.crescentmoongames.subdivision",
+		"time": 1764547200000
+	},
+	{
+		"label": "怪兽黎明",
+		"mtime": 1760572800000,
+		"pkg": "com.crunchyroll.gv.dawnofmonsters.game",
+		"time": 1744934400000
+	},
+	{
+		"label": "永恒之夜",
+		"mtime": 1758931200000,
+		"pkg": "com.crunchyroll.gv.eternights.game",
+		"time": 1732320000000
+	},
+	{
+		"label": "热血少女物语2",
+		"mtime": 1758585600000,
+		"pkg": "com.crunchyroll.gv.rcg2.game",
+		"time": 1745625600000
+	},
+	{
+		"label": "热血少女物语",
+		"mtime": 1758499200000,
+		"pkg": "com.crunchyroll.gv.rivercitygirls.game",
+		"time": 1745625600000
+	},
+	{
 		"group": 3,
-      "label": "桑塔和七赛莲",
-      "mtime": 1766102400000,
-      "pkg": "com.crunchyroll.gv.shantae7sirens.game",
-      "time": 1760659200000
-    },
-    {
-      "label": "幕府将军对决",
-      "mtime": 1766102400000,
-      "pkg": "com.crunchyroll.gv.shogunshowdown.game",
-      "time": 1765497600000
-    },
-    {
-      "label": "异端诸神",
-      "mtime": 1772841600000,
-      "pkg": "com.curacha.hereticgods",
-      "time": 1772150400000
-    },
-    {
-      "label": "世界的一半",
-      "pkg": "com.cyberxgames.herotower2",
-      "time": 1709942400002
-    },
-    {
-      "label": "女巫骑士",
-      "pkg": "com.daerigame.witchglobal",
-      "time": 1710288000002
-    },
-    {
-      "label": "物种战争：DELTA",
-      "pkg": "com.dawinstone.b2b",
-      "time": 1704326400002
-    },
-    {
+		"label": "桑塔和七赛莲",
+		"mtime": 1766102400000,
+		"pkg": "com.crunchyroll.gv.shantae7sirens.game",
+		"time": 1760659200000
+	},
+	{
+		"label": "幕府将军对决",
+		"mtime": 1766102400000,
+		"pkg": "com.crunchyroll.gv.shogunshowdown.game",
+		"time": 1765497600000
+	},
+	{
+		"label": "异端诸神",
+		"mtime": 1772841600000,
+		"pkg": "com.curacha.hereticgods",
+		"time": 1772150400000
+	},
+	{
+		"label": "世界的一半",
+		"pkg": "com.cyberxgames.herotower2",
+		"time": 1709942400002
+	},
+	{
+		"label": "女巫骑士",
+		"pkg": "com.daerigame.witchglobal",
+		"time": 1710288000002
+	},
+	{
+		"label": "物种战争：DELTA",
+		"pkg": "com.dawinstone.b2b",
+		"time": 1704326400002
+	},
+	{
 		"group": 3,
-      "label": "物种战争3：启示录",
-      "mtime": 1765756800000,
-      "pkg": "com.dawinstone.b2ba",
-      "time": 1764028800000
-    },
-    {
-      "label": "物种战争：灭绝",
-      "mtime": 1765756800000,
-      "pkg": "com.dawinstone.b2be",
-      "time": 1764892800000
-    },
-    {
-      "label": "国王之血：防御",
-	  "mtime": 1765756800000,
-      "pkg": "com.dawinstone.kb",
-      "time": 1764892800000
-    },
-    {
-      "label": "牛奶可乐：苏打之王",
-	  "mtime": 1765756800000,
-      "pkg": "com.dawinstone.milkacola",
-      "time": 1764892800000
-    },
-    {
-      "label": "逃出地牢",
-      "mtime": 1764547200000,
-      "pkg": "com.Devolver.ExittheGungeon",
-      "time": 1764201600010
-    },
-    {
+		"label": "物种战争3：启示录",
+		"mtime": 1765756800000,
+		"pkg": "com.dawinstone.b2ba",
+		"time": 1764028800000
+	},
+	{
+		"label": "物种战争：灭绝",
+		"mtime": 1765756800000,
+		"pkg": "com.dawinstone.b2be",
+		"time": 1764892800000
+	},
+	{
+		"label": "国王之血：防御",
+		"mtime": 1765756800000,
+		"pkg": "com.dawinstone.kb",
+		"time": 1764892800000
+	},
+	{
+		"label": "牛奶可乐：苏打之王",
+		"mtime": 1765756800000,
+		"pkg": "com.dawinstone.milkacola",
+		"time": 1764892800000
+	},
+	{
+		"label": "逃出地牢",
+		"mtime": 1764547200000,
+		"pkg": "com.Devolver.ExittheGungeon",
+		"time": 1764201600010
+	},
+	{
 		"group": 3,
-      "label": "球比伦战记",
-      "mtime": 1773878400000,
-      "pkg": "com.devolverdigital.ballxpit",
-      "time": 1773705600000
-    },
-    {
+		"label": "球比伦战记",
+		"mtime": 1773878400000,
+		"pkg": "com.devolverdigital.ballxpit",
+		"time": 1773705600000
+	},
+	{
 		"group": 3,
-      "label": "挺进地牢",
-      "mtime": 1772150400000,
-      "pkg": "com.devolverdigital.enterthegungeon",
-      "time": 1771977600010
-    },
-    {
-      "label": "我的朋友佩德罗",
-      "pkg": "com.devolverdigital.myfriendpedro",
-      "time": 1670976000002
-    },
-    {
-      "label": "原界之罪：国际版",
-      "mtime": 1772150400000,
-      "pkg": "com.direlight.grimvalor",
-      "time": 1771977600000
-    },
-    {
+		"label": "挺进地牢",
+		"mtime": 1772150400000,
+		"pkg": "com.devolverdigital.enterthegungeon",
+		"time": 1771977600010
+	},
+	{
+		"label": "我的朋友佩德罗",
+		"pkg": "com.devolverdigital.myfriendpedro",
+		"time": 1670976000002
+	},
+	{
+		"label": "原界之罪：国际版",
+		"mtime": 1772150400000,
+		"pkg": "com.direlight.grimvalor",
+		"time": 1771977600000
+	},
+	{
 		"group": 3,
-      "label": "王权陨落",
-      "mtime": 1770854400000,
-      "pkg": "com.doghowlgames.thronefall",
-      "time": 1770854400000
-    },
-    {
+		"label": "王权陨落",
+		"mtime": 1770854400000,
+		"pkg": "com.doghowlgames.thronefall",
+		"time": 1770854400000
+	},
+	{
 		"group": 3,
 		"label": "我的梦幻小岛",
 		"mtime": 1775088000000,
 		"pkg": "com.dream.dale",
 		"time": 1775088000000
-    },
-    {
-      "label": "皇室三消",
-      "mtime": 1732320000000,
-      "pkg": "com.dreamgames.royalmatch",
-      "time": 1731542400000
-    },
-    {
-      "label": "浪人：末代武士",
-      "mtime": 1710633600000,
-      "pkg": "com.dreamotion.ronin",
-      "time": 1704412800002
-    },
-    {
-      "label": "猎魔勇士3",
-      "mtime": 1733875200000,
-      "pkg": "com.droidhen.defender3",
-      "time": 1732492800000
-    },
-    {
+	},
+	{
+		"label": "皇室三消",
+		"mtime": 1732320000000,
+		"pkg": "com.dreamgames.royalmatch",
+		"time": 1731542400000
+	},
+	{
+		"label": "浪人：末代武士",
+		"mtime": 1710633600000,
+		"pkg": "com.dreamotion.ronin",
+		"time": 1704412800002
+	},
+	{
+		"label": "猎魔勇士3",
+		"mtime": 1733875200000,
+		"pkg": "com.droidhen.defender3",
+		"time": 1732492800000
+	},
+	{
 		"group": 3,
-      "label": "植物大战僵尸2：国际版",
-      "mtime": 1773187200000,
-      "pkg": "com.ea.game.pvz2_na",
-      "time": 1773100800000
-    },
-    {
-      "label": "植物大战僵尸2：美版",
-      "mtime": 1773187200000,
-      "pkg": "com.ea.game.pvz2_row",
-      "time": 1773100800000
-    },
-    {
+		"label": "植物大战僵尸2：国际版",
+		"mtime": 1773187200000,
+		"pkg": "com.ea.game.pvz2_na",
+		"time": 1773100800000
+	},
+	{
+		"label": "植物大战僵尸2：美版",
+		"mtime": 1773187200000,
+		"pkg": "com.ea.game.pvz2_row",
+		"time": 1773100800000
+	},
+	{
 		"group": 3,
-      "label": "植物大战僵尸：国际版",
-      "mtime": 1765929600000,
-      "pkg": "com.ea.game.pvzfree_row",
-      "time": 1765756800000
-    },
-    {
-      "label": "植物大战僵尸3：幼苗建造",
-      "mtime": 1761696000000,
-      "pkg": "com.ea.gp.pvzn3xt",
-      "time": 1761696000000
-    },
-    {
+		"label": "植物大战僵尸：国际版",
+		"mtime": 1765929600000,
+		"pkg": "com.ea.game.pvzfree_row",
+		"time": 1765756800000
+	},
+	{
+		"label": "植物大战僵尸3：幼苗建造",
+		"mtime": 1761696000000,
+		"pkg": "com.ea.gp.pvzn3xt",
+		"time": 1761696000000
+	},
+	{
 		"group": 3,
-      "label": "这是我的战争",
-      "mtime": 1761177600000,
-      "pkg": "com.elevenbitstudios.twommobile",
-      "time": 1758585600000
-    },
-    {
-      "label": "这是我的战争：父亲的承诺",
-      "mtime": 1727222400001,
-      "pkg": "com.elevenbitstudios.twomstoriesmobile",
-      "time": 1698624000000
-    },
-    {
-      "label": "成长帝国·罗马",
-      "mtime": 1765065600000,
-      "pkg": "com.empire.grow.rome",
-      "time": 1765065600000
-    },
-    {
-      "label": "生物进化论",
-      "mtime": 1772064000000,
-      "pkg": "com.evolution.hyper",
-      "time": 1772064000000
-    },
-    {
-      "label": "最终前哨",
-      "mtime": 1759017600000,
-      "pkg": "com.ExabyteGames.FinalOutpost",
-      "time": 1756425600000
-    },
-    {
-      "label": "阿尼玛：灵魂",
-      "mtime": 1765756800000,
-      "pkg": "com.ExiliumGames.Anima",
-      "time": 1765152000000
-    },
-    {
-      "label": "EPIC火柴人：放置RPG战争",
-      "mtime": 1767139200000,
-      "pkg": "com.fansipan.epic.stickman.survival.rpg.idle.game",
-      "time": 1766448000000
-    },
-    {
+		"label": "这是我的战争",
+		"mtime": 1761177600000,
+		"pkg": "com.elevenbitstudios.twommobile",
+		"time": 1758585600000
+	},
+	{
+		"label": "这是我的战争：父亲的承诺",
+		"mtime": 1727222400001,
+		"pkg": "com.elevenbitstudios.twomstoriesmobile",
+		"time": 1698624000000
+	},
+	{
+		"label": "成长帝国·罗马",
+		"mtime": 1765065600000,
+		"pkg": "com.empire.grow.rome",
+		"time": 1765065600000
+	},
+	{
+		"label": "生物进化论",
+		"mtime": 1772064000000,
+		"pkg": "com.evolution.hyper",
+		"time": 1772064000000
+	},
+	{
+		"label": "最终前哨",
+		"mtime": 1759017600000,
+		"pkg": "com.ExabyteGames.FinalOutpost",
+		"time": 1756425600000
+	},
+	{
+		"label": "阿尼玛：灵魂",
+		"mtime": 1765756800000,
+		"pkg": "com.ExiliumGames.Anima",
+		"time": 1765152000000
+	},
+	{
+		"label": "EPIC火柴人：放置RPG战争",
+		"mtime": 1767139200000,
+		"pkg": "com.fansipan.epic.stickman.survival.rpg.idle.game",
+		"time": 1766448000000
+	},
+	{
 		"group": 2,
-      "label": "海之号角",
-      "mtime": 1759708800000,
-      "pkg": "com.FDGEntertainment.Oceanhorn.gp",
-      "time": 1758067200000
-    },
-    {
-      "label": "海之号角：柯罗诺斯地下城",
-      "mtime": 1759708800000,
-      "pkg": "com.FDGEntertainment.OceanhornChronosDungeon.gp",
-      "time": 1756944000000
-    },
-    {
-      "label": "僵尸前线4",
-      "mtime": 1753056000000,
-      "pkg": "com.feelingtouch.zfsniper",
-      "time": 1751587200000
-    },
-    {
-      "label": "饥饿鲨：进化",
-      "mtime": 1771632000000,
-      "pkg": "com.fgol.HungrySharkEvolution",
-      "time": 1770768000000
-    },
-    {
+		"label": "海之号角",
+		"mtime": 1759708800000,
+		"pkg": "com.FDGEntertainment.Oceanhorn.gp",
+		"time": 1758067200000
+	},
+	{
+		"label": "海之号角：柯罗诺斯地下城",
+		"mtime": 1759708800000,
+		"pkg": "com.FDGEntertainment.OceanhornChronosDungeon.gp",
+		"time": 1756944000000
+	},
+	{
+		"label": "僵尸前线4",
+		"mtime": 1753056000000,
+		"pkg": "com.feelingtouch.zfsniper",
+		"time": 1751587200000
+	},
+	{
+		"label": "饥饿鲨：进化",
+		"mtime": 1771632000000,
+		"pkg": "com.fgol.HungrySharkEvolution",
+		"time": 1770768000000
+	},
+	{
 		"group": 2,
-      "label": "无尽漫游",
-      "mtime": 1773619200000,
-      "pkg": "com.FirstPickStudios.EndlessWander",
-      "time": 1769904000000
-    },
-    {
-	  "group": 3,
-      "label": "黎明前20分钟",
-      "mtime": 1775174400000,
-      "pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
-      "time": 1775088000000
-    },
-    {
-      "label": "僵尸炮艇：生存",
-      "mtime": 1742342400000,
-      "pkg": "com.flaregames.zgs",
-      "time": 1741046400000
-    },
-    {
-      "label": "幽暗地域防线",
-      "mtime": 1744588800000,
-      "pkg": "com.FreeDust.UnderDark",
-      "time": 1743984000000
-    },
-    {
-      "label": "地牢求生2：巨像传说",
-      "mtime": 1725321600007,
-      "pkg": "com.frozenfrog.Dungeon2",
-      "time": 1724803200000
-    },
-    {
-      "label": "循环刷刷刷",
-      "mtime": 1730851200000,
-      "pkg": "com.funovus.pocket.quest",
-      "time": 1725062400000
-    },
-    {
-      "label": "猫meme塔防",
-      "mtime": 1765324800000,
-      "pkg": "com.funovus.wildcastle2",
-      "time": 1764201600000
-    },
-    {
-      "label": "合并花园",
-      "mtime": 1772841600000,
-      "pkg": "com.futureplay.mergematch",
-      "time": 1772668800000
-    },
-    {
-      "label": "花花大战僵尸",
-      "mtime": 1721692800000,
-      "pkg": "com.g4fun.hoaquadaichien",
-      "time": 1721692800000
-    },
-    {
-      "label": "史诗征服2",
-      "mtime": 1763164800000,
-      "pkg": "com.GacoGames.EC2",
-      "time": 1761955200000
-    },
-    {
-      "label": "史诗征服",
-      "mtime": 1763164800000,
-      "pkg": "com.gacogames.epiccon",
-      "time": 1761782400000
-    },
-    {
-      "label": "阿尔法小队",
-      "mtime": 1747872000000,
-      "pkg": "com.game.missioncrit",
-      "time": 1740528000000
-    },
-    {
+		"label": "无尽漫游",
+		"mtime": 1773619200000,
+		"pkg": "com.FirstPickStudios.EndlessWander",
+		"time": 1769904000000
+	},
+	{
 		"group": 3,
-      "label": "空洞骑士：丝之歌",
-      "mtime": 1773273600001,
-      "pkg": "com.game.silksong",
-      "time": 1772755200000
-    },
-    {
-      "label": "漫游小镇",
-      "mtime": 1743120000000,
-      "pkg": "com.gamedots.seasideescape",
-      "time": 1742428800000
-    },
-    {
-      "label": "点杀泰坦2",
-      "mtime": 1773187200000,
-      "pkg": "com.gamehivecorp.taptitans2",
-      "time": 1773187200000
-    },
-    {
-      "label": "火柴人联盟2",
-      "pkg": "com.games.hcr2.acing.aligames",
-      "time": 1698278400002
-    },
-    {
-      "label": "塔防传奇5",
-      "mtime": 1752969600000,
-      "pkg": "com.Gcenter.DefenseLegend.TowerDefense.TD.survivor.V5",
-      "time": 1745107200000
-    },
-    {
-      "label": "塔防传奇4",
-      "mtime": 1752969500000,
-      "pkg": "com.Gcenter.DefenselegendX.TowerDefense.TD",
-      "time": 1752624000000
-    },
-    {
-      "label": "科幻幸存者",
-      "mtime": 1753142400000,
-      "pkg": "com.Gcenter.SciFi.Survivor.io.Firenow",
-      "time": 1752796800000
-    },
-    {
+		"label": "黎明前20分钟",
+		"mtime": 1775174400000,
+		"pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
+		"time": 1775088000000
+	},
+	{
+		"label": "僵尸炮艇：生存",
+		"mtime": 1742342400000,
+		"pkg": "com.flaregames.zgs",
+		"time": 1741046400000
+	},
+	{
+		"label": "幽暗地域防线",
+		"mtime": 1744588800000,
+		"pkg": "com.FreeDust.UnderDark",
+		"time": 1743984000000
+	},
+	{
+		"label": "地牢求生2：巨像传说",
+		"mtime": 1725321600007,
+		"pkg": "com.frozenfrog.Dungeon2",
+		"time": 1724803200000
+	},
+	{
+		"label": "循环刷刷刷",
+		"mtime": 1730851200000,
+		"pkg": "com.funovus.pocket.quest",
+		"time": 1725062400000
+	},
+	{
+		"label": "猫meme塔防",
+		"mtime": 1765324800000,
+		"pkg": "com.funovus.wildcastle2",
+		"time": 1764201600000
+	},
+	{
+		"label": "合并花园",
+		"mtime": 1772841600000,
+		"pkg": "com.futureplay.mergematch",
+		"time": 1772668800000
+	},
+	{
+		"label": "花花大战僵尸",
+		"mtime": 1721692800000,
+		"pkg": "com.g4fun.hoaquadaichien",
+		"time": 1721692800000
+	},
+	{
+		"label": "史诗征服2",
+		"mtime": 1763164800000,
+		"pkg": "com.GacoGames.EC2",
+		"time": 1761955200000
+	},
+	{
+		"label": "史诗征服",
+		"mtime": 1763164800000,
+		"pkg": "com.gacogames.epiccon",
+		"time": 1761782400000
+	},
+	{
+		"label": "阿尔法小队",
+		"mtime": 1747872000000,
+		"pkg": "com.game.missioncrit",
+		"time": 1740528000000
+	},
+	{
+		"group": 3,
+		"label": "空洞骑士：丝之歌",
+		"mtime": 1773273600001,
+		"pkg": "com.game.silksong",
+		"time": 1772755200000
+	},
+	{
+		"label": "漫游小镇",
+		"mtime": 1743120000000,
+		"pkg": "com.gamedots.seasideescape",
+		"time": 1742428800000
+	},
+	{
+		"label": "点杀泰坦2",
+		"mtime": 1773187200000,
+		"pkg": "com.gamehivecorp.taptitans2",
+		"time": 1773187200000
+	},
+	{
+		"label": "火柴人联盟2",
+		"pkg": "com.games.hcr2.acing.aligames",
+		"time": 1698278400002
+	},
+	{
+		"label": "塔防传奇5",
+		"mtime": 1752969600000,
+		"pkg": "com.Gcenter.DefenseLegend.TowerDefense.TD.survivor.V5",
+		"time": 1745107200000
+	},
+	{
+		"label": "塔防传奇4",
+		"mtime": 1752969500000,
+		"pkg": "com.Gcenter.DefenselegendX.TowerDefense.TD",
+		"time": 1752624000000
+	},
+	{
+		"label": "科幻幸存者",
+		"mtime": 1753142400000,
+		"pkg": "com.Gcenter.SciFi.Survivor.io.Firenow",
+		"time": 1752796800000
+	},
+	{
 		"group": 3,
 		"label": "深岩银河：幸存者",
 		"mtime": 1774915200000,
 		"pkg": "com.ghostshippublishing.deeprockgalacticsurvivor",
 		"time": 1774742400000
-    },
-    {
-      "label": "高殿战记",
-      "mtime": 1773964800000,
-      "pkg": "com.GordianGP",
-      "time": 1773705600000
-    },
-    {
-      "label": "合成魔法",
-      "mtime": 1767744000000,
-      "pkg": "com.gramgames.mergemagic",
-      "time": 1764892800000
-    },
-    {
-      "label": "豪华弹珠：重装上阵",
-      "mtime": 1767744000000,
-      "pkg": "com.greencod.pinballdeluxereloaded",
-      "time": 1764892800000
-    },
-    {
-      "label": "弓箭传说：国际版",
-      "mtime": 1768176000001,
-      "pkg": "com.habby.archero",
-      "time": 1766966400000
-    },
-    {
-      "label": "卡皮巴拉 Go!",
-      "mtime": 1732147200001,
-      "pkg": "com.habby.capybara",
-      "time": 1732147200000
-    },
-    {
-      "label": "砰砰法师：国际版",
-      "mtime": 1761436800000,
-      "pkg": "com.habby.punball",
-      "time": 1754870400000
-    },
-    {
-      "label": "砰砰法师",
-      "mtime": 1719964800000,
-      "pkg": "com.habby.punballcn.aligames",
-      "time": 1719964800000
-    },
-    {
-      "label": "蛇蛇贪吃",
-      "mtime": 1745452800000,
-      "pkg": "com.habby.sssnaker",
-      "time": 1745452800000
-    },
-    {
+	},
+	{
+		"label": "高殿战记",
+		"mtime": 1773964800000,
+		"pkg": "com.GordianGP",
+		"time": 1773705600000
+	},
+	{
+		"label": "合成魔法",
+		"mtime": 1767744000000,
+		"pkg": "com.gramgames.mergemagic",
+		"time": 1764892800000
+	},
+	{
+		"label": "豪华弹珠：重装上阵",
+		"mtime": 1767744000000,
+		"pkg": "com.greencod.pinballdeluxereloaded",
+		"time": 1764892800000
+	},
+	{
+		"label": "弓箭传说：国际版",
+		"mtime": 1768176000001,
+		"pkg": "com.habby.archero",
+		"time": 1766966400000
+	},
+	{
+		"label": "卡皮巴拉 Go!",
+		"mtime": 1732147200001,
+		"pkg": "com.habby.capybara",
+		"time": 1732147200000
+	},
+	{
+		"label": "砰砰法师：国际版",
+		"mtime": 1761436800000,
+		"pkg": "com.habby.punball",
+		"time": 1754870400000
+	},
+	{
+		"label": "砰砰法师",
+		"mtime": 1719964800000,
+		"pkg": "com.habby.punballcn.aligames",
+		"time": 1719964800000
+	},
+	{
+		"label": "蛇蛇贪吃",
+		"mtime": 1745452800000,
+		"pkg": "com.habby.sssnaker",
+		"time": 1745452800000
+	},
+	{
 		"group": 3,
-      "label": "庞然巨物",
-      "mtime": 1751673600000,
-      "pkg": "com.halfbrick.colossatron",
-      "time": 1734048000010
-    },
-    {
-      "label": "英雄丹：经典版",
-      "mtime": 1751673600000,
-      "pkg": "com.halfbrick.danthemanplus",
-      "time": 1748390400000
-    },
-    {
-      "label": "水果忍者：经典版",
-      "mtime": 1751673600000,
-      "pkg": "com.halfbrick.fruitninja",
-      "time": 1749513600000
-    },
-    {
-      "label": "帝国神鹰：飞行中队 扩展版",
-      "mtime": 1766361600000,
-      "pkg": "com.hg.aotls",
-      "time": 1761177600000
-    },
-    {
-      "label": "1944燃烧的桥梁",
-      "mtime": 1749859100006,
-      "pkg": "com.hg.burningbridgesfree",
-      "time": 1731888000000
-    },
-    {
-      "label": "1943死亡沙漠",
-      "mtime": 1749859100004,
-      "pkg": "com.hg.deadlydesertfree",
-      "time": 1724716800000
-    },
-    {
-      "label": "1941冰封前线",
-      "mtime": 1749859100000,
-      "pkg": "com.hg.frozenfrontfree",
-      "time": 1715731200000
-    },
-    {
-      "label": "枪之荣耀3：英雄",
-      "mtime": 1749859100000,
-      "pkg": "com.hg.gunsandglory3free",
-      "time": 1741305600000
-    },
-    {
-      "label": "枪之荣耀4：僵尸",
-      "mtime": 1749859100001,
-      "pkg": "com.hg.gunsandglory4free",
-      "time": 1741219200000
-    },
-    {
+		"label": "庞然巨物",
+		"mtime": 1751673600000,
+		"pkg": "com.halfbrick.colossatron",
+		"time": 1734048000010
+	},
+	{
+		"label": "英雄丹：经典版",
+		"mtime": 1751673600000,
+		"pkg": "com.halfbrick.danthemanplus",
+		"time": 1748390400000
+	},
+	{
+		"label": "水果忍者：经典版",
+		"mtime": 1751673600000,
+		"pkg": "com.halfbrick.fruitninja",
+		"time": 1749513600000
+	},
+	{
+		"label": "帝国神鹰：飞行中队 扩展版",
+		"mtime": 1766361600000,
+		"pkg": "com.hg.aotls",
+		"time": 1761177600000
+	},
+	{
+		"label": "1944燃烧的桥梁",
+		"mtime": 1749859100006,
+		"pkg": "com.hg.burningbridgesfree",
+		"time": 1731888000000
+	},
+	{
+		"label": "1943死亡沙漠",
+		"mtime": 1749859100004,
+		"pkg": "com.hg.deadlydesertfree",
+		"time": 1724716800000
+	},
+	{
+		"label": "1941冰封前线",
+		"mtime": 1749859100000,
+		"pkg": "com.hg.frozenfrontfree",
+		"time": 1715731200000
+	},
+	{
+		"label": "枪之荣耀3：英雄",
+		"mtime": 1749859100000,
+		"pkg": "com.hg.gunsandglory3free",
+		"time": 1741305600000
+	},
+	{
+		"label": "枪之荣耀4：僵尸",
+		"mtime": 1749859100001,
+		"pkg": "com.hg.gunsandglory4free",
+		"time": 1741219200000
+	},
+	{
 		"group": 3,
-      "label": "神奇工厂",
-      "mtime": 1760400000000,
-      "pkg": "com.hg.lbw",
-      "time": 1759276800010
-    },
-    {
-      "label": "1942太平洋前线",
-      "mtime": 1749859100002,
-      "pkg": "com.hg.pacificfrontfree",
-      "time": 1718928000000
-    },
-    {
-      "label": "家园7",
-      "mtime": 1749859100009,
-      "pkg": "com.hg.townsmen7free",
-      "time": 1711843200000
-    },
-    {
-      "label": "海盗：加勒比海亨特",
-      "mtime": 1725321600000,
-      "pkg": "com.HomeNetGames.Pirates",
-      "time": 1721433600000
-    },
-    {
-      "label": "海盗：死亡瘟疫",
-      "mtime": 1725321600003,
-      "pkg": "com.HomeNetGames.Pirates2",
-      "time": 1721347200000
-    },
-    {
-      "label": "二战战机：狗斗",
-      "mtime": 1725321600004,
-      "pkg": "com.HomeNetGames.Warplanes",
-      "time": 1721433600000
-    },
-    {
-      "label": "一战战机：空中王牌",
-      "mtime": 1725321600000,
-      "pkg": "com.HomeNetGames.WW1",
-      "time": 1721433600000
-    },
-    {
-      "label": "杀戮尖塔",
-      "mtime": 1730419200000,
-      "pkg": "com.humble.SlayTheSpire",
-      "time": 1712102400000
-    },
-    {
-      "label": "传说法师",
-      "mtime": 1715644800000,
-      "pkg": "com.humblebundle.wizardoflegend",
-      "time": 1704672000000
-    },
-    {
-      "label": "沼泽激战2",
-      "mtime": 1747872000000,
-      "pkg": "com.hyperdotstudios.swampattack2",
-      "time": 1746662400000
-    },
-    {
-      "label": "钢铁战队",
-      "mtime": 1764460800000,
-      "pkg": "com.ironhidegames.android.ironmarines",
-      "time": 1764288000000
-    },
-    {
+		"label": "神奇工厂",
+		"mtime": 1760400000000,
+		"pkg": "com.hg.lbw",
+		"time": 1759276800010
+	},
+	{
+		"label": "1942太平洋前线",
+		"mtime": 1749859100002,
+		"pkg": "com.hg.pacificfrontfree",
+		"time": 1718928000000
+	},
+	{
+		"label": "家园7",
+		"mtime": 1749859100009,
+		"pkg": "com.hg.townsmen7free",
+		"time": 1711843200000
+	},
+	{
+		"label": "海盗：加勒比海亨特",
+		"mtime": 1725321600000,
+		"pkg": "com.HomeNetGames.Pirates",
+		"time": 1721433600000
+	},
+	{
+		"label": "海盗：死亡瘟疫",
+		"mtime": 1725321600003,
+		"pkg": "com.HomeNetGames.Pirates2",
+		"time": 1721347200000
+	},
+	{
+		"label": "二战战机：狗斗",
+		"mtime": 1725321600004,
+		"pkg": "com.HomeNetGames.Warplanes",
+		"time": 1721433600000
+	},
+	{
+		"label": "一战战机：空中王牌",
+		"mtime": 1725321600000,
+		"pkg": "com.HomeNetGames.WW1",
+		"time": 1721433600000
+	},
+	{
+		"label": "杀戮尖塔",
+		"mtime": 1730419200000,
+		"pkg": "com.humble.SlayTheSpire",
+		"time": 1712102400000
+	},
+	{
+		"label": "传说法师",
+		"mtime": 1715644800000,
+		"pkg": "com.humblebundle.wizardoflegend",
+		"time": 1704672000000
+	},
+	{
+		"label": "沼泽激战2",
+		"mtime": 1747872000000,
+		"pkg": "com.hyperdotstudios.swampattack2",
+		"time": 1746662400000
+	},
+	{
+		"label": "钢铁战队",
+		"mtime": 1764460800000,
+		"pkg": "com.ironhidegames.android.ironmarines",
+		"time": 1764288000000
+	},
+	{
 		"group": 3,
-      "label": "钢铁战队：入侵",
-      "mtime": 1764374400000,
-      "pkg": "com.ironhidegames.android.ironmarines.invasion.rts",
-      "time": 1763683200000
-    },
-    {
-      "label": "王国保卫战1",
-      "mtime": 1729987200000,
-      "pkg": "com.ironhidegames.android.kingdomrush",
-      "time": 1723420800000
-    },
-    {
-      "group": 6,
-      "label": "王国保卫战5",
-      "mtime": 1773360000000,
-      "pkg": "com.ironhidegames.android.kingdomrush.alliance",
-      "time": 1773273600000
-    },
-    {
-      "label": "王国保卫战4：复仇",
-      "mtime": 1755820800008,
-      "pkg": "com.ironhidegames.android.kingdomrush4",
-      "time": 1754006400000
-    },
-    {
-      "label": "王国保卫战2：前线",
-      "mtime": 1729987200001,
-      "pkg": "com.ironhidegames.android.kingdomrushfrontiers",
-      "time": 1723420800000
-    },
-    {
-      "label": "王国保卫战3：起源",
-      "mtime": 1764374400000,
-      "pkg": "com.ironhidegames.android.kingdomrushorigins",
-      "time": 1760486400000
-    },
-    {
-      "label": "放置魔法学院",
-      "mtime": 1766707200000,
-      "pkg": "com.IdleMagicSchool.jlyt",
-      "time": 1766707200000
-    },
-    {
-      "label": "疯狂大兵",
-      "pkg": "cc.jasfun.soldier",
-      "time": 1683849600002
-    },
-    {
-      "label": "死亡崛起",
-      "mtime": 1742947200001,
-      "pkg": "com.jlyt.deadrising",
-      "time": 1741910400000
-    },
-    {
-      "label": "幸存者岛屿",
-      "mtime": 1742947200000,
-      "pkg": "com.jlyt.SurvivorIsland",
-      "time": 1741910400000
-    },
-    {
-      "label": "残缺宇宙：塔防",
-      "mtime": 1740009600000,
-      "pkg": "com.jinthreestudio.brokenuniverse",
-      "time": 1677888000000
-    },
-    {
-      "label": "破门而入",
-      "mtime": 1765238400000,
-      "pkg": "com.khg.doorkickers",
-      "time": 1764547200000
-    },
-    {
-      "label": "地铁跑酷",
-      "mtime": 1774137600000,
-      "pkg": "com.kiloo.subwaysurf",
-      "time": 1774051200000
-    },
-    {
+		"label": "钢铁战队：入侵",
+		"mtime": 1764374400000,
+		"pkg": "com.ironhidegames.android.ironmarines.invasion.rts",
+		"time": 1763683200000
+	},
+	{
+		"label": "王国保卫战1",
+		"mtime": 1729987200000,
+		"pkg": "com.ironhidegames.android.kingdomrush",
+		"time": 1723420800000
+	},
+	{
+		"group": 6,
+		"label": "王国保卫战5",
+		"mtime": 1773360000000,
+		"pkg": "com.ironhidegames.android.kingdomrush.alliance",
+		"time": 1773273600000
+	},
+	{
+		"label": "王国保卫战4：复仇",
+		"mtime": 1755820800008,
+		"pkg": "com.ironhidegames.android.kingdomrush4",
+		"time": 1754006400000
+	},
+	{
+		"label": "王国保卫战2：前线",
+		"mtime": 1729987200001,
+		"pkg": "com.ironhidegames.android.kingdomrushfrontiers",
+		"time": 1723420800000
+	},
+	{
+		"label": "王国保卫战3：起源",
+		"mtime": 1764374400000,
+		"pkg": "com.ironhidegames.android.kingdomrushorigins",
+		"time": 1760486400000
+	},
+	{
+		"label": "放置魔法学院",
+		"mtime": 1766707200000,
+		"pkg": "com.IdleMagicSchool.jlyt",
+		"time": 1766707200000
+	},
+	{
+		"label": "疯狂大兵",
+		"pkg": "cc.jasfun.soldier",
+		"time": 1683849600002
+	},
+	{
+		"label": "死亡崛起",
+		"mtime": 1742947200001,
+		"pkg": "com.jlyt.deadrising",
+		"time": 1741910400000
+	},
+	{
+		"label": "幸存者岛屿",
+		"mtime": 1742947200000,
+		"pkg": "com.jlyt.SurvivorIsland",
+		"time": 1741910400000
+	},
+	{
+		"label": "残缺宇宙：塔防",
+		"mtime": 1740009600000,
+		"pkg": "com.jinthreestudio.brokenuniverse",
+		"time": 1677888000000
+	},
+	{
+		"label": "破门而入",
+		"mtime": 1765238400000,
+		"pkg": "com.khg.doorkickers",
+		"time": 1764547200000
+	},
+	{
+		"label": "地铁跑酷",
+		"mtime": 1774137600000,
+		"pkg": "com.kiloo.subwaysurf",
+		"time": 1774051200000
+	},
+	{
 		"group": 3,
-      "label": "暴政3K",
-      "mtime": 1771632000000,
-      "pkg": "com.KonfaGames.Despotism3k",
-      "time": 1770940800000
-    },
-    {
+		"label": "暴政3K",
+		"mtime": 1771632000000,
+		"pkg": "com.KonfaGames.Despotism3k",
+		"time": 1770940800000
+	},
+	{
 		"group": 3,
-      "label": "暴君的游戏",
-      "mtime": 1771632000000,
-      "pkg": "com.KonfaGames.DespotsGame",
-      "time": 1770940800000
-    },
-    {
-      "label": "植物大战僵尸：融合版",
-      "mtime": 1749859200000,
-      "pkg": "com.LanPiaoPiao.PlantsVsZombiesRH",
-      "time": 1749859200000
-    },
-    {
-      "label": "伊洛纳",
-      "mtime": 1762732800001,
-      "pkg": "com.leiting.elona.aligames",
-      "time": 1755129600050
-    },
-    {
-      "label": "黑暗幸存者",
-      "mtime": 1726963200010,
-      "pkg": "com.LiberalDust.DarkSurvival",
-      "time": 1725235200000
-    },
-    {
-      "label": "死亡板机2",
-      "mtime": 1766361600000,
-      "pkg": "com.madfingergames.deadtrigger2",
-      "time": 1759968000000
-    },
-    {
-      "label": "火星幸存者：火星归来",
-      "mtime": 1725321600000,
-      "pkg": "com.mars.leguas.a",
-      "time": 1725235200000
-    },
-    {
-      "label": "时代战争2",
-      "mtime": 1761609600000,
-      "pkg": "com.maxgames.aow2",
-      "time": 1761609600000
-    },
-    {
-      "label": "火柴人战争：遗产",
-      "mtime": 1766620800000,
-      "pkg": "com.maxgames.stickwarlegacy",
-      "time": 1766448000000
-    },
-    {
-      "label": "我的咖啡厅",
-      "mtime": 1764288000000,
-      "pkg": "com.melesta.coffeeshop",
-      "time": 1764288000000
-    },
-    {
-      "label": "绯闻港口",
-      "mtime": 1743120000000,
-      "pkg": "com.mergegames.gossipharbor",
-      "time": 1742342400000
-    },
-    {
-      "label": "童话融合记",
-      "mtime": 1743638400000,
-      "pkg": "com.mergegames.myth",
-      "time": 1742774400000
-    },
-    {
-      "label": "合成神奇岛",
-      "mtime": 1743638400000,
-      "pkg": "com.mf.town",
-      "time": 1742515200010
-    },
-    {
-      "label": "瘟疫公司",
-      "mtime": 1711584000000,
-      "pkg": "com.miniclip.plagueinc",
-      "time": 1707264000000
-    },
-    {
-      "group": 6,
-      "label": "死亡突围：僵尸战争",
-      "mtime": 1774915200001,
-      "pkg": "com.mobirate.DeadAheadTactics",
-      "time": 1774742400000
-    },
-    {
-      "label": "格里克：阿祖尔的回忆",
-      "mtime": 1763251200000,
-      "pkg": "com.navegante.greak",
-      "time": 1761868800000
-    },
-    {
-      "label": "劫后公司",
-      "mtime": 1770854400000,
-      "pkg": "com.ndemiccreations.afterinc",
-      "time": 1770854400000
-    },
-    {
-      "label": "叛军公司",
-      "mtime": 1764979200000,
-      "pkg": "com.ndemiccreations.rebelinc",
-      "time": 1764288000000
-    },
-    {
-      "label": "编曲者",
-      "mtime": 1770249600000,
-      "pkg": "com.netflix.NGP.Arranger",
-      "time": 1759622400000
-    },
-    {
+		"label": "暴君的游戏",
+		"mtime": 1771632000000,
+		"pkg": "com.KonfaGames.DespotsGame",
+		"time": 1770940800000
+	},
+	{
+		"label": "植物大战僵尸：融合版",
+		"mtime": 1749859200000,
+		"pkg": "com.LanPiaoPiao.PlantsVsZombiesRH",
+		"time": 1749859200000
+	},
+	{
+		"label": "伊洛纳",
+		"mtime": 1762732800001,
+		"pkg": "com.leiting.elona.aligames",
+		"time": 1755129600050
+	},
+	{
+		"label": "黑暗幸存者",
+		"mtime": 1726963200010,
+		"pkg": "com.LiberalDust.DarkSurvival",
+		"time": 1725235200000
+	},
+	{
+		"label": "死亡板机2",
+		"mtime": 1766361600000,
+		"pkg": "com.madfingergames.deadtrigger2",
+		"time": 1759968000000
+	},
+	{
+		"label": "火星幸存者：火星归来",
+		"mtime": 1725321600000,
+		"pkg": "com.mars.leguas.a",
+		"time": 1725235200000
+	},
+	{
+		"label": "时代战争2",
+		"mtime": 1761609600000,
+		"pkg": "com.maxgames.aow2",
+		"time": 1761609600000
+	},
+	{
+		"label": "火柴人战争：遗产",
+		"mtime": 1766620800000,
+		"pkg": "com.maxgames.stickwarlegacy",
+		"time": 1766448000000
+	},
+	{
+		"label": "我的咖啡厅",
+		"mtime": 1764288000000,
+		"pkg": "com.melesta.coffeeshop",
+		"time": 1764288000000
+	},
+	{
+		"label": "绯闻港口",
+		"mtime": 1743120000000,
+		"pkg": "com.mergegames.gossipharbor",
+		"time": 1742342400000
+	},
+	{
+		"label": "童话融合记",
+		"mtime": 1743638400000,
+		"pkg": "com.mergegames.myth",
+		"time": 1742774400000
+	},
+	{
+		"label": "合成神奇岛",
+		"mtime": 1743638400000,
+		"pkg": "com.mf.town",
+		"time": 1742515200010
+	},
+	{
+		"label": "瘟疫公司",
+		"mtime": 1711584000000,
+		"pkg": "com.miniclip.plagueinc",
+		"time": 1707264000000
+	},
+	{
+		"group": 6,
+		"label": "死亡突围：僵尸战争",
+		"mtime": 1774915200001,
+		"pkg": "com.mobirate.DeadAheadTactics",
+		"time": 1774742400000
+	},
+	{
+		"label": "格里克：阿祖尔的回忆",
+		"mtime": 1763251200000,
+		"pkg": "com.navegante.greak",
+		"time": 1761868800000
+	},
+	{
+		"label": "劫后公司",
+		"mtime": 1770854400000,
+		"pkg": "com.ndemiccreations.afterinc",
+		"time": 1770854400000
+	},
+	{
+		"label": "叛军公司",
+		"mtime": 1764979200000,
+		"pkg": "com.ndemiccreations.rebelinc",
+		"time": 1764288000000
+	},
+	{
+		"label": "编曲者",
+		"mtime": 1770249600000,
+		"pkg": "com.netflix.NGP.Arranger",
+		"time": 1759622400000
+	},
+	{
 		"group": 3,
-      "label": "猴子塔防6",
-      "mtime": 1771027200000,
-      "pkg": "com.netflix.NGP.BloonsTDSix",
-      "time": 1770940800000
-    },
-    {
-      "label": "和睦森林2：灵魂营地",
-      "mtime": 1770595200000,
-      "pkg": "com.netflix.NGP.CozyGrove2",
-      "time": 1759622400000
-    },
-    {
-      "label": "死亡门扉",
-      "mtime": 1715731200000,
-      "pkg": "com.netflix.NGP.DeathsDoor",
-      "time": 1711411200000
-    },
-    {
-      "label": "尘烟霓虹",
-      "mtime": 1770249600000,
-      "pkg": "com.netflix.NGP.DustNeon",
-      "time": 1759449600000
-    },
-    {
-      "label": "水隐之城",
-      "mtime": 1770249600000,
-      "pkg": "com.netflix.NGP.Highwater",
-      "time": 1759536000000
-    },
-    {
-      "label": "陷阵之志",
-      "mtime": 1715126400001,
-      "pkg": "com.netflix.NGP.IntoTheBreach",
-      "time": 1698796800000
-    },
-    {
+		"label": "猴子塔防6",
+		"mtime": 1771027200000,
+		"pkg": "com.netflix.NGP.BloonsTDSix",
+		"time": 1770940800000
+	},
+	{
+		"label": "和睦森林2：灵魂营地",
+		"mtime": 1770595200000,
+		"pkg": "com.netflix.NGP.CozyGrove2",
+		"time": 1759622400000
+	},
+	{
+		"label": "死亡门扉",
+		"mtime": 1715731200000,
+		"pkg": "com.netflix.NGP.DeathsDoor",
+		"time": 1711411200000
+	},
+	{
+		"label": "尘烟霓虹",
+		"mtime": 1770249600000,
+		"pkg": "com.netflix.NGP.DustNeon",
+		"time": 1759449600000
+	},
+	{
+		"label": "水隐之城",
+		"mtime": 1770249600000,
+		"pkg": "com.netflix.NGP.Highwater",
+		"time": 1759536000000
+	},
+	{
+		"label": "陷阵之志",
+		"mtime": 1715126400001,
+		"pkg": "com.netflix.NGP.IntoTheBreach",
+		"time": 1698796800000
+	},
+	{
 		"group": 3,
-      "label": "武士零",
-      "mtime": 1770249600000,
-      "pkg": "com.netflix.NGP.KatanaZero",
-      "time": 1738972800000
-    },
-    {
-      "label": "脆比街",
-      "mtime": 1770249600000,
-      "pkg": "com.netflix.NGP.KrispeeStreet",
-      "time": 1759622400000
-    },
-    {
-      "label": "幸运的露娜",
-      "mtime": 1770249600000,
-      "pkg": "com.netflix.NGP.LuckyLuna",
-      "time": 1765324800000
-    },
-    {
-      "label": "纪念碑谷3",
-      "mtime": 1770249600000,
-      "pkg": "com.netflix.NGP.MonumentValley3",
-      "time": 1746576000000
-    },
-    {
-      "label": "夜勤人",
-      "mtime": 1715817600000,
-      "pkg": "com.netflix.NGP.Moonlighter",
-      "time": 1709078400000
-    },
-    {
-      "label": "遗迹猎人：叛军崛起",
-      "mtime": 1771977600000,
-      "pkg": "com.netflix.NGP.RelicHuntersRebels",
-      "time": 1760486400000
-    },
-    {
+		"label": "武士零",
+		"mtime": 1770249600000,
+		"pkg": "com.netflix.NGP.KatanaZero",
+		"time": 1738972800000
+	},
+	{
+		"label": "脆比街",
+		"mtime": 1770249600000,
+		"pkg": "com.netflix.NGP.KrispeeStreet",
+		"time": 1759622400000
+	},
+	{
+		"label": "幸运的露娜",
+		"mtime": 1770249600000,
+		"pkg": "com.netflix.NGP.LuckyLuna",
+		"time": 1765324800000
+	},
+	{
+		"label": "纪念碑谷3",
+		"mtime": 1770249600000,
+		"pkg": "com.netflix.NGP.MonumentValley3",
+		"time": 1746576000000
+	},
+	{
+		"label": "夜勤人",
+		"mtime": 1715817600000,
+		"pkg": "com.netflix.NGP.Moonlighter",
+		"time": 1709078400000
+	},
+	{
+		"label": "遗迹猎人：叛军崛起",
+		"mtime": 1771977600000,
+		"pkg": "com.netflix.NGP.RelicHuntersRebels",
+		"time": 1760486400000
+	},
+	{
 		"group": 3,
-      "label": "空中乱战",
-      "mtime": 1770249600000,
-      "pkg": "com.netflix.NGP.SkiesOfChaos",
-      "time": 1735689600000
-    },
-    {
-      "label": "索尼克冲刺",
-      "mtime": 1770249600000,
-      "pkg": "com.netflix.NGP.SonicDash",
-      "time": 1760400000000
-    },
-    {
-      "label": "怪奇物语：1984",
-      "mtime": 1770249600000,
-      "pkg": "com.netflix.NGP.StrangerThings",
-      "time": 1768176000000
-    },
-    {
-      "label": "伊始之地",
-      "mtime": 1770249600000,
-      "pkg": "com.netflix.NGP.TerraNil",
-      "time": 1760486400000
-    },
-    {
-      "label": "古墓丽影：重装上阵",
-      "mtime": 1770422400000,
-      "pkg": "com.netflix.NGP.TombRaiderReloaded",
-      "time": 1760400000000
-    },
-    {
-      "label": "家园：重建王国",
-      "mtime": 1715040000000,
-      "pkg": "com.netflix.NGP.TownsmenAKingdomRebuilt",
-      "time": 1698710400000
-    },
-    {
-      "label": "英勇之心：战后还乡",
-      "mtime": 1715040000000,
-      "pkg": "com.netflix.NGP.ValiantHearts2",
-      "time": 1760486400000
-    },
-    {
-      "label": "阿尔托的冒险",
-      "mtime": 1769904000000,
-      "pkg": "com.noodlecake.altosadventure",
-      "time": 1760659200000
-    },
-    {
-      "label": "阿尔托的奥德赛",
-      "mtime": 1769904000000,
-      "pkg": "com.noodlecake.altosodyssey",
-      "time": 1760659200000
-    },
-    {
-      "label": "夏日捕手",
-      "mtime": 1769904000000,
-      "pkg": "com.noodlecake.summercatchers",
-      "time": 1768953600000
-    },
-    {
-      "label": "地牢杀手",
-      "mtime": 1753833600000,
-      "pkg": "com.nspgames.dungeonslasher",
-      "time": 1753401600000
-    },
-    {
-      "label": "地牢旅者",
-      "mtime": 1744761600000,
-      "pkg": "com.nspgames.ProjectDT",
-      "time": 1744588800000
-    },
-    {
-      "label": "埃比尼泽与无形世界",
-      "mtime": 1760313600000,
-      "pkg": "com.OrbitStudio.EbenezerAndTheInvisibleWorld",
-      "time": 1757980800000
-    },
-    {
-      "label": "主播模拟器",
-      "mtime": 1768780800000,
-      "pkg": "com.outerminds.tubular",
-      "time": 1768176000000
-    },
-    {
-      "label": "异星入侵\n围剿外星客",
-      "mtime": 1732579200000,
-      "pkg": "com.outplayentertainment.aliencreeps",
-      "time": 1724976000000
-    },
-    {
-      "label": "弃船逃生",
-      "mtime": 1713965544012,
-      "pkg": "com.pid.abandonship",
-      "time": 1710115200000
-    },
-    {
-      "label": "秘堡埃德兰",
-      "mtime": 1765238400000,
-      "pkg": "com.pid.elderand",
-      "time": 1764633600000
-    },
-    {
-      "label": "帕拉贝伦：传奇围攻",
-      "mtime": 1761523200000,
-      "pkg": "com.pid.parabellum",
-      "time": 1760572800000
-    },
-    {
-      "label": "西格玛理论",
-      "mtime": 1768694400000,
-      "pkg": "com.pid.sigmatheory",
-      "time": 1767916800000
-    },
-    {
-      "label": "异形工厂",
-      "mtime": 1734048000000,
-      "pkg": "com.pixelbite.mutant",
-      "time": 1616198400000
-    },
-    {
-      "label": "太空刑警2",
-      "mtime": 1734048000000,
-      "pkg": "com.pixelbite.sm2",
-      "time": 1693785600000
-    },
-    {
+		"label": "空中乱战",
+		"mtime": 1770249600000,
+		"pkg": "com.netflix.NGP.SkiesOfChaos",
+		"time": 1735689600000
+	},
+	{
+		"label": "索尼克冲刺",
+		"mtime": 1770249600000,
+		"pkg": "com.netflix.NGP.SonicDash",
+		"time": 1760400000000
+	},
+	{
+		"label": "怪奇物语：1984",
+		"mtime": 1770249600000,
+		"pkg": "com.netflix.NGP.StrangerThings",
+		"time": 1768176000000
+	},
+	{
+		"label": "伊始之地",
+		"mtime": 1770249600000,
+		"pkg": "com.netflix.NGP.TerraNil",
+		"time": 1760486400000
+	},
+	{
+		"label": "古墓丽影：重装上阵",
+		"mtime": 1770422400000,
+		"pkg": "com.netflix.NGP.TombRaiderReloaded",
+		"time": 1760400000000
+	},
+	{
+		"label": "家园：重建王国",
+		"mtime": 1715040000000,
+		"pkg": "com.netflix.NGP.TownsmenAKingdomRebuilt",
+		"time": 1698710400000
+	},
+	{
+		"label": "英勇之心：战后还乡",
+		"mtime": 1715040000000,
+		"pkg": "com.netflix.NGP.ValiantHearts2",
+		"time": 1760486400000
+	},
+	{
+		"label": "阿尔托的冒险",
+		"mtime": 1769904000000,
+		"pkg": "com.noodlecake.altosadventure",
+		"time": 1760659200000
+	},
+	{
+		"label": "阿尔托的奥德赛",
+		"mtime": 1769904000000,
+		"pkg": "com.noodlecake.altosodyssey",
+		"time": 1760659200000
+	},
+	{
+		"label": "夏日捕手",
+		"mtime": 1769904000000,
+		"pkg": "com.noodlecake.summercatchers",
+		"time": 1768953600000
+	},
+	{
+		"label": "地牢杀手",
+		"mtime": 1753833600000,
+		"pkg": "com.nspgames.dungeonslasher",
+		"time": 1753401600000
+	},
+	{
+		"label": "地牢旅者",
+		"mtime": 1744761600000,
+		"pkg": "com.nspgames.ProjectDT",
+		"time": 1744588800000
+	},
+	{
+		"label": "埃比尼泽与无形世界",
+		"mtime": 1760313600000,
+		"pkg": "com.OrbitStudio.EbenezerAndTheInvisibleWorld",
+		"time": 1757980800000
+	},
+	{
+		"label": "主播模拟器",
+		"mtime": 1768780800000,
+		"pkg": "com.outerminds.tubular",
+		"time": 1768176000000
+	},
+	{
+		"label": "异星入侵\n围剿外星客",
+		"mtime": 1732579200000,
+		"pkg": "com.outplayentertainment.aliencreeps",
+		"time": 1724976000000
+	},
+	{
+		"label": "弃船逃生",
+		"mtime": 1713965544012,
+		"pkg": "com.pid.abandonship",
+		"time": 1710115200000
+	},
+	{
+		"label": "秘堡埃德兰",
+		"mtime": 1765238400000,
+		"pkg": "com.pid.elderand",
+		"time": 1764633600000
+	},
+	{
+		"label": "帕拉贝伦：传奇围攻",
+		"mtime": 1761523200000,
+		"pkg": "com.pid.parabellum",
+		"time": 1760572800000
+	},
+	{
+		"label": "西格玛理论",
+		"mtime": 1768694400000,
+		"pkg": "com.pid.sigmatheory",
+		"time": 1767916800000
+	},
+	{
+		"label": "异形工厂",
+		"mtime": 1734048000000,
+		"pkg": "com.pixelbite.mutant",
+		"time": 1616198400000
+	},
+	{
+		"label": "太空刑警2",
+		"mtime": 1734048000000,
+		"pkg": "com.pixelbite.sm2",
+		"time": 1693785600000
+	},
+	{
 		"group": 3,
-      "label": "太空刑警3",
-      "mtime": 1734048000000,
-      "pkg": "com.pixelbite.sm3",
-      "time": 1616198400000
-    },
-    {
-      "label": "培养地牢英雄",
-      "mtime": 1767139200000,
-      "pkg": "com.pixelstar.DNPH",
-      "time": 1765411200000
-    },
-    {
-      "label": "最强弓箭手",
-      "mtime": 1767139200000,
-      "pkg": "com.pixelstar.gam",
-      "time": 1762387200000
-    },
-    {
-      "label": "养剑大师",
-      "mtime": 1767139200000,
-      "pkg": "com.pixelstar.gsm",
-      "time": 1763769600000
-    },
-    {
-      "label": "像素刀片：革命",
-      "mtime": 1721692800005,
-      "pkg": "com.pixelstar.pbr",
-      "time": 1721692800000
-    },
-    {
-      "label": "像素刀片M",
-      "mtime": 1721692800001,
-      "pkg": "com.pixelstar.PixelFBlade",
-      "time": 1716940800000
-    },
-    {
-      "label": "绝境北方",
-      "mtime": 1757980800000,
-      "pkg": "com.PlausibleConcept.BadNorthFull",
-      "time": 1737763200000
-    },
-    {
-      "label": "莫塔守山人",
-      "mtime": 1758067200000,
-      "pkg": "com.playdigious.childrenofmorta",
-      "time": 1753228800000
-    },
-    {
-      "group": 9,
-      "label": "死亡细胞",
-      "mtime": 1757980800001,
-      "pkg": "com.playdigious.deadcells.mobile",
-      "time": 1757289600000
-    },
-    {
-      "label": "无尽地牢",
-      "mtime": 1765670400000,
-      "pkg": "com.playdigious.dungeonoftheendless",
-      "time": 1760313600010
-    },
-    {
-      "label": "守护者传奇",
-      "mtime": 1761177600002,
-      "pkg": "com.playdigious.legendofkeepers",
-      "time": 1759968000000
-    },
-    {
-      "label": "循环英雄",
-      "mtime": 1727827200000,
-      "pkg": "com.playdigious.loophero",
-      "time": 1722470400000
-    },
-    {
-      "label": "烁石物语",
-      "mtime": 1775260800000,
-      "pkg": "com.playdigious.sparklite",
-      "time": 1775001600000
-    },
-    {
-      "label": "小骨：英雄杀手",
-      "mtime": 1766102400000,
-      "pkg": "com.playdigious.skul",
-      "time": 1761177600000
-    },
-    {
-      "group": 3,
-      "label": "怒之铁拳4",
-      "mtime": 1727654400000,
-      "pkg": "com.playdigious.sor4",
-      "time": 1721606400000
-    },
-    {
-      "label": "弓箭大师",
-      "mtime": 1769558400000,
-      "pkg": "com.playgendary.bowmasters",
-      "time": 1769558400000
-    },
-    {
-      "label": "弓箭大师：终极版",
-      "mtime": 1769644800000,
-      "pkg": "com.playgendary.bowmastersremastered",
-      "time": 1764806400000
-    },
-    {
-      "label": "梦幻水族箱",
-      "mtime": 1751311000000,
-      "pkg": "com.playrix.fishdomdd.gplay",
-      "time": 1747094400000
-    },
-    {
-      "label": "梦幻花园",
-      "mtime": 1774915200000,
-      "pkg": "com.playrix.gardenscapes",
-      "time": 1774742400000
-    },
-    {
-      "label": "梦幻家园：国际版",
-      "mtime": 1765670400000,
-      "pkg": "com.playrix.homescapes",
-      "time": 1764806400000
-    },
-    {
-      "label": "奇屋寻踪",
-      "mtime": 1741564800000,
-      "pkg": "com.playrix.manormatters",
-      "time": 1741478400000
-    },
-    {
-      "label": "梦想小镇",
-      "mtime": 1742256000000,
-      "pkg": "com.playrix.township",
-      "time": 1741824000000
-    },
-    {
-      "label": "小丑牌",
-      "mtime": 1760486400000,
-      "pkg": "com.playstack.balatro.android",
-      "time": 1742342400000
-    },
-    {
-      "label": "塔楼命运：生存",
-      "mtime": 1774483200000,
-      "pkg": "com.playstrom.hero.tower",
-      "time": 1774483200000
-    },
-    {
-      "label": "吸血鬼幸存者",
-      "mtime": 1765756800000,
-      "pkg": "com.poncle.vampiresurvivors",
-      "time": 1765497600000
-    },
-    {
-      "label": "植物大战僵尸2",
-      "mtime": 1731369600004,
-      "pkg": "com.popcap.pvz2cthdbk",
-      "time": 1731369600003
-    },
-    {
-      "label": "梦跃国度",
-      "mtime": 1711843200000,
-      "pkg": "com.protostar.hopper",
-      "time": 1706486400000
-    },
-    {
-      "label": "成长城堡",
-      "mtime": 1767052800000,
-      "pkg": "com.raongames.growcastle",
-      "time": 1766534400000
-    },
-    {
-      "group": 9,
-      "label": "王国：两位君主",
-      "mtime": 1769990400000,
-      "pkg": "com.rawfury.kingdom2crowns",
-      "time": 1769731200010
-    },
-    {
-      "label": "王国：八十年代",
-      "mtime": 1763078400000,
-      "pkg": "com.rawfury.kingdom80s",
-      "time": 1761868800010
-    },
-    {
-      "label": "疯狂外星人",
-      "mtime": 1743120000001,
-      "pkg": "com.rebeltwins.aliensdrivemecrazy",
-      "time": 1741910400000
-    },
-    {
-      "label": "城堡大师",
-      "mtime": 1743120000003,
-      "pkg": "com.rebeltwins.castlemastertd",
-      "time": 1721865600000
-    },
-    { 
-      "label": "曲奇必死",
-      "mtime": 1743120000002,
-      "pkg": "com.rebeltwins.cookiesmustdie",
-      "time": 1737676800000
-    },
-    {
-      "label": "龙之丘2",
-      "mtime": 1743120000001,
-      "pkg": "com.rebeltwins.dragonhills2",
-      "time": 1721433600001
-    },
-    {
-	  "group": 3,
-      "label": "太空小队：生存",
-      "mtime": 1769472000000,
-      "pkg": "com.rebeltwins.spacesquadsurvival",
-      "time": 1765411200000
-    },
-    {
-      "label": "哥布林弹球",
-      "mtime": 1773619200000,
-      "pkg": "com.RedNexusGamesInc.Peglin",
-      "time": 1764547200000
-    },
-    {
-      "label": "黑暗地牢",
-      "mtime": 1739404800000,
-      "pkg": "com.redzaam.dsd",
-      "time": 1724803200000
-    },
-    {
-      "label": "60秒！避难所",
-      "mtime": 1734912000000,
-      "pkg": "com.robotgentleman.game60seconds",
-      "time": 1724112000000
-    },
-    {
-      "label": "60秒！重新裂变",
-      "mtime": 1734912000001,
-      "pkg": "com.RobotGentleman.game60SecondsReatomized",
-      "time": 1724112000000
-    },
-    {
-      "label": "60秒差距",
-      "mtime": 1769472000000,
-      "pkg": "com.RobotGentleman.sixtyParsecs.mobile",
-      "time": 1764720000000
-    },
-    {
-      "label": "赤色要塞/豺狼部队",
-      "mtime": 1768780800000,
-      "pkg": "com.rocket.jackal.squad",
-      "time": 1757548800000
-    },
-    {
-      "label": "黑暗崛起",
-      "mtime": 1768867200000,
-      "pkg": "com.Roika.Darkrise",
-      "time": 1767398400000
-    },
-    {
-      "label": "愤怒的小鸟：泡泡大战",
-      "mtime": 1752710400000,
-      "pkg": "com.rovio.ABstellapop",
-      "time": 1751932800000
-    },
-    {
-      "label": "愤怒的小鸟：梦幻爆破",
-      "mtime": 1752710400000,
-      "pkg": "com.rovio.dream",
-      "time": 1752624000000
-    },
-    {
-      "label": "我的小宇宙",
-      "mtime": 1766534400000,
-      "pkg": "com.savetheworld.game",
-      "time": 1764547200010
-    },
-    {
-      "label": "索尼克冲刺2：爆破",
-      "mtime": 1775174400000,
-      "pkg": "com.sega.sonicboomandroid",
-      "time": 1775001600000
-    },
-    {
-      "label": "暗影战争",
-      "mtime": 1725062400010,
-      "pkg": "com.shadow.war.legend.slime.idle.rpg.survival.game",
-      "time": 1724284800000
-    },
-    {
-      "label": "城堡融合",
-      "mtime": 1773014400000,
-      "pkg": "com.sharkjump.castlefusion",
-      "time": 1764979200000
-    },
-    {
-      "label": "迷宫传奇2",
-      "mtime": 1773705600000,
-      "pkg": "com.ShinobiGames.InfiniteW",
-      "time": 1769904000000
-    },
-    {
-      "label": "孤单枪手：丧尸",
-      "pkg": "com.sigmateam.zombieshooter.free",
-      "time": 1692662400000
-    },
-    {
-      "label": "孤胆枪手：世界",
-      "mtime": 1713916800000,
-      "pkg": "com.sigmateam.alienshootermobile.free",
-      "time": 1709856000000
-    },
-    {
-      "label": "孤胆枪手：塔防",
-      "pkg": "com.sigmateam.alienshooter.towerdefence",
-      "time": 1692748800000
-    },
-    {
-      "label": "孤胆枪手2：传奇",
-      "pkg": "com.sigmateam.alienshooter2",
-      "time": 1692921600000
-    },
-    {
-      "label": "孤胆枪手2：重制版",
-      "mtime": 1726963200000,
-      "pkg": "com.sigmateam.alienshooter2reloaded",
-      "time": 1692921600000
-    },
-    {
-      "label": "奥咕和秘密森林",
-      "mtime": 1749859100000,
-      "pkg": "com.SinkHoleStudio.OguForest",
-      "time": 1737072000000
-    },
-    {
-      "label": "魔塔",
-      "mtime": 1761436800000,
-      "pkg": "com.SmokymonkeyS.Triglav",
-      "time": 1761264000000
-    },
-    {
-      "label": "潜行大师",
-      "mtime": 1753401600000,
-      "pkg": "com.stealthgame.master",
-      "time": 1752192000000
-    },
-    {
-      "label": "刀锋酷跑",
-      "mtime": 1774137600000,
-      "pkg": "com.sybogames.brim",
-      "time": 1772323200000
-    },
-    {
-      "label": "地铁跑酷2：城市",
-      "mtime": 1774224000000,
-      "pkg": "com.sybogames.subway.surfers.game",
-      "time": 1774051200000
-    },
-    {
-      "label": "空洞骑士",
-      "mtime": 1726790400005,
-      "pkg": "com.TeamCherry.HollowKnight",
-      "time": 1710806400003
-    },
-    {
-      "label": "血腥大地",
-      "mtime": 1766016000000,
-      "pkg": "com.the10tons.crimsonland",
-      "time": 1764028800000
-    },
-    {
-      "label": "末日后53天",
-      "mtime": 1766016000000,
-      "pkg": "com.the10tons.dysmantle",
-      "time": 1759276800000
-    },
-    {
-      "label": "朋克大暴走",
-      "mtime": 1766016000000,
-      "pkg": "com.the10tons.neonchrome",
-      "time": 1764028800000
-    },
-    {
-      "label": "亡灵大军",
-      "mtime": 1766016000000,
-      "pkg": "com.the10tons.UndeadHorde",
-      "time": 1764892800000
-    },
-    {
-      "label": "亡灵大军2",
-      "mtime": 1770854400000,
-      "pkg": "com.the10tons.undeadhorde2",
-      "time": 1770854400000
-    },
-    {
-      "group": 9,
-      "label": "神之亵渎",
-      "mtime": 1772064000000,
-      "pkg": "com.thegamekitchen.blasphemousmobile",
-      "time": 1771977600000
-    },
-    {
-      "label": "猫咪斗恶龙",
-      "mtime": 1769385600000,
-      "pkg": "com.thegentlebros.catquest",
-      "time": 1770249600000
-    },
-    {
-      "label": "猫咪斗恶龙 II",
-      "mtime": 1773532800000,
-      "pkg": "com.thegentlebros.catquestii",
-      "time": 1773273600000
-    },
-    {
+		"label": "太空刑警3",
+		"mtime": 1734048000000,
+		"pkg": "com.pixelbite.sm3",
+		"time": 1616198400000
+	},
+	{
+		"label": "培养地牢英雄",
+		"mtime": 1767139200000,
+		"pkg": "com.pixelstar.DNPH",
+		"time": 1765411200000
+	},
+	{
+		"label": "最强弓箭手",
+		"mtime": 1767139200000,
+		"pkg": "com.pixelstar.gam",
+		"time": 1762387200000
+	},
+	{
+		"label": "养剑大师",
+		"mtime": 1767139200000,
+		"pkg": "com.pixelstar.gsm",
+		"time": 1763769600000
+	},
+	{
+		"label": "像素刀片：革命",
+		"mtime": 1721692800005,
+		"pkg": "com.pixelstar.pbr",
+		"time": 1721692800000
+	},
+	{
+		"label": "像素刀片M",
+		"mtime": 1721692800001,
+		"pkg": "com.pixelstar.PixelFBlade",
+		"time": 1716940800000
+	},
+	{
+		"label": "绝境北方",
+		"mtime": 1757980800000,
+		"pkg": "com.PlausibleConcept.BadNorthFull",
+		"time": 1737763200000
+	},
+	{
+		"label": "莫塔守山人",
+		"mtime": 1758067200000,
+		"pkg": "com.playdigious.childrenofmorta",
+		"time": 1753228800000
+	},
+	{
+		"group": 9,
+		"label": "死亡细胞",
+		"mtime": 1757980800001,
+		"pkg": "com.playdigious.deadcells.mobile",
+		"time": 1757289600000
+	},
+	{
+		"label": "无尽地牢",
+		"mtime": 1765670400000,
+		"pkg": "com.playdigious.dungeonoftheendless",
+		"time": 1760313600010
+	},
+	{
+		"label": "守护者传奇",
+		"mtime": 1761177600002,
+		"pkg": "com.playdigious.legendofkeepers",
+		"time": 1759968000000
+	},
+	{
+		"label": "循环英雄",
+		"mtime": 1727827200000,
+		"pkg": "com.playdigious.loophero",
+		"time": 1722470400000
+	},
+	{
+		"label": "烁石物语",
+		"mtime": 1775260800000,
+		"pkg": "com.playdigious.sparklite",
+		"time": 1775001600000
+	},
+	{
+		"label": "小骨：英雄杀手",
+		"mtime": 1766102400000,
+		"pkg": "com.playdigious.skul",
+		"time": 1761177600000
+	},
+	{
 		"group": 3,
-      "label": "猫咪斗恶龙 III",
-      "mtime": 1773273600000,
-      "pkg": "com.thegentlebros.catquestiii",
-      "time": 1772496000000
-    },
-    {
-      "label": "神枪手强尼",
-      "mtime": 1774051200000,
-      "pkg": "com.time.trigger",
-      "time": 1774051200000
-    },
-    {
-      "label": "功夫Z",
-      "mtime": 1774051200000,
-      "pkg": "com.tinytitanstudios.kfz",
-      "time": 1770681600000
-    },
-    {
-      "label": "火车大亨",
-      "mtime": 1774051200000,
-      "pkg": "com.tinytitanstudios.TrainChu",
-      "time": 1769904000000
-    },
-    {
-      "label": "卡牌地牢冒险",
-      "mtime": 1774051200000,
-      "pkg": "com.tinytouchtales.cardcrawladventure",
-      "time": 1772668800000
-    },
-    {
-      "label": "霓虹魔咒风暴",
-      "mtime": 1758240000000,
-      "pkg": "com.topcog.neonspellstorm",
-      "time": 1756857600000
-    },
-    {
-      "label": "点击巫师2",
-      "mtime": 1758240000000,
-      "pkg": "com.topcog.tapwizard2",
-      "time": 1772323200000
-    },
-    {
-      "label": "沉默的档案员",
-      "mtime": 1774051200000,
-      "pkg": "com.TownSoft.soulsofadventure",
-      "time": 1774224000000
-    },
-    {
-      "label": "魔劍傳說",
-      "mtime": 1725062400000,
-      "pkg": "com.trefle.dashero",
-      "time": 1698710400000
-    },
-    {
-      "label": "刺客信条：燎原",
-      "mtime": 1764892800000,
-      "pkg": "com.ubisoft.accovenant",
-      "time": 1764374400000
-    },
-    {
-      "label": "饥饿龙",
-      "mtime": 1773273600000,
-      "pkg": "com.ubisoft.hungrydragon",
-      "time": 1772582400000
-    },
-    {
+		"label": "怒之铁拳4",
+		"mtime": 1727654400000,
+		"pkg": "com.playdigious.sor4",
+		"time": 1721606400000
+	},
+	{
+		"label": "弓箭大师",
+		"mtime": 1769558400000,
+		"pkg": "com.playgendary.bowmasters",
+		"time": 1769558400000
+	},
+	{
+		"label": "弓箭大师：终极版",
+		"mtime": 1769644800000,
+		"pkg": "com.playgendary.bowmastersremastered",
+		"time": 1764806400000
+	},
+	{
+		"label": "梦幻水族箱",
+		"mtime": 1751311000000,
+		"pkg": "com.playrix.fishdomdd.gplay",
+		"time": 1747094400000
+	},
+	{
+		"label": "梦幻花园",
+		"mtime": 1774915200000,
+		"pkg": "com.playrix.gardenscapes",
+		"time": 1774742400000
+	},
+	{
+		"label": "梦幻家园：国际版",
+		"mtime": 1765670400000,
+		"pkg": "com.playrix.homescapes",
+		"time": 1764806400000
+	},
+	{
+		"label": "奇屋寻踪",
+		"mtime": 1741564800000,
+		"pkg": "com.playrix.manormatters",
+		"time": 1741478400000
+	},
+	{
+		"label": "梦想小镇",
+		"mtime": 1742256000000,
+		"pkg": "com.playrix.township",
+		"time": 1741824000000
+	},
+	{
+		"label": "小丑牌",
+		"mtime": 1760486400000,
+		"pkg": "com.playstack.balatro.android",
+		"time": 1742342400000
+	},
+	{
+		"label": "塔楼命运：生存",
+		"mtime": 1774483200000,
+		"pkg": "com.playstrom.hero.tower",
+		"time": 1774483200000
+	},
+	{
+		"label": "吸血鬼幸存者",
+		"mtime": 1765756800000,
+		"pkg": "com.poncle.vampiresurvivors",
+		"time": 1765497600000
+	},
+	{
+		"label": "植物大战僵尸2",
+		"mtime": 1731369600004,
+		"pkg": "com.popcap.pvz2cthdbk",
+		"time": 1731369600003
+	},
+	{
+		"label": "梦跃国度",
+		"mtime": 1711843200000,
+		"pkg": "com.protostar.hopper",
+		"time": 1706486400000
+	},
+	{
+		"label": "成长城堡",
+		"mtime": 1767052800000,
+		"pkg": "com.raongames.growcastle",
+		"time": 1766534400000
+	},
+	{
+		"group": 9,
+		"label": "王国：两位君主",
+		"mtime": 1769990400000,
+		"pkg": "com.rawfury.kingdom2crowns",
+		"time": 1769731200010
+	},
+	{
+		"label": "王国：八十年代",
+		"mtime": 1763078400000,
+		"pkg": "com.rawfury.kingdom80s",
+		"time": 1761868800010
+	},
+	{
+		"label": "疯狂外星人",
+		"mtime": 1743120000001,
+		"pkg": "com.rebeltwins.aliensdrivemecrazy",
+		"time": 1741910400000
+	},
+	{
+		"label": "城堡大师",
+		"mtime": 1743120000003,
+		"pkg": "com.rebeltwins.castlemastertd",
+		"time": 1721865600000
+	},
+	{ 
+		"label": "曲奇必死",
+		"mtime": 1743120000002,
+		"pkg": "com.rebeltwins.cookiesmustdie",
+		"time": 1737676800000
+	},
+	{
+		"label": "龙之丘2",
+		"mtime": 1743120000001,
+		"pkg": "com.rebeltwins.dragonhills2",
+		"time": 1721433600001
+	},
+	{
 		"group": 3,
-      "label": "饥饿鲨：世界",
-      "mtime": 1773273600000,
-      "pkg": "com.ubisoft.hungrysharkworld",
-      "time": 1773014400000
-    },
-    {
-      "group": 9,
-      "label": "波斯王子：失落的王冠",
-      "mtime": 1773273600003,
-      "pkg": "com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform",
-      "time": 1772064000010
-    },
-    {
-      "label": "油管主播的生活2",
-      "mtime": 1767657600000,
-      "pkg": "com.UPlayOnline.YoutubersLife2",
-      "time": 1746057600000
-    },
-    {
-      "label": "第九黎明：重制版",
-      "mtime": 1765843200000,
-      "pkg": "com.Valorware.NinthDawnRemake",
-      "time": 1761955200000
-    },
-    {
-      "label": "暴民控制",
-      "mtime": 1744675200000,
-      "pkg": "com.vincentb.MobControl",
-      "time": 1743984000000
-    },
-    {
-      "label": "魔幻模拟战争",
-      "mtime": 1767657600000,
-      "pkg": "com.vkslrzm.Zombie",
-      "time": 1763856000000
-    },
-    {
-      "label": "杀戮目标",
-      "mtime": 1767657600000,
-      "pkg": "com.vng.g6.a.zombie",
-      "time": 1767225600000
-    },
-    {
-      "label": "荒野天空：塔防",
-      "mtime": 1754611200000,
-      "pkg": "com.wildsky.td",
-      "time": 1754611200000
-    },
-    {
-      "label": "合成战争：超级军团指挥官",
-      "mtime": 1733961600000,
-      "pkg": "com.wildsky.wildarmydraft",
-      "time": 1733529600000
-    },
-    {
-      "label": "狂野城堡塔防：王国统治",
-      "mtime": 1763337600000,
-      "pkg": "com.wildsky.wildcastle",
-      "time": 1762905600000
-    },
-    {
-      "label": "全面战争模拟器",
-      "mtime": 1765929600000,
-      "pkg": "com.xd.tabs.google",
-      "time": 1765152000000
-    },
-    {
-      "label": "篝火：被遗忘的土地",
-      "pkg": "com.xigmagames.thebonfireFL",
-      "time": 1696982400000
-    },
-    {
-      "label": "篝火2：未知彼岸",
-	  "mtime": 1768694400000,
-      "pkg": "com.xigmaGames.thebonfire2",
-      "time": 1766707200000
-    },
-    {
-      "label": "最终命运：穿越世界的尽头",
-      "mtime": 1711411200000,
-      "pkg": "com.YEMA.FinalDestiny",
-      "time": 1706313600000
-    },
-    {
-      "label": "因狄斯的谎言",
-      "mtime": 1720742400000,
-      "pkg": "com.yokagame.ProjectS",
-      "time": 1715817600000
-    },
-    {
-      "label": "英雄冒险",
-      "mtime": 1711411200000,
-      "pkg": "com.z1.projectx.idle",
-      "time": 1681516800000
-    },
-    {
-      "label": "火柴人传奇",
-      "mtime": 1725148800000,
-      "pkg": "com.zitga.ninja.stickman.legends",
-      "time": 1725148800000
-    },
-    {
-      "label": "暗影格斗：死亡之影",
-      "mtime": 1772496000000,
-      "pkg": "com.Zonmob.Stickman.FightingGames.ShadowOfDeath",
-      "time": 1771891200000
-    },
-    {
-      "label": "冷酷灵魂：黑暗幻想",
-      "mtime": 1711411200000,
-      "pkg": "fantasy.survival.game.rpg",
-      "time": 1710460800000
-    },
-    {
-      "label": "几日之后",
-      "mtime": 1711411200000,
-      "pkg": "games.alternativa.projectv.test",
-      "time": 1710460800000
-    },
-    {
-      "label": "猫咪大战争:日版",
-      "mtime": 1775347200000,
-      "pkg": "jp.co.ponos.battlecats",
-      "time": 1775001600010
-    },
-    {
-      "group": 9,
-      "label": "猫咪大战争",
-      "mtime": 1774915200000,
-      "pkg": "jp.co.ponos.battlecatstw",
-      "time": 1774828800000
-    },
-    {
-      "label": "恶魔城：月下夜想曲",
-      "mtime": 1725321600000,
-      "pkg": "jp.konami.epjCastlevania2",
-      "time": 1661126400000
-    },
-    {
-      "label": "元素世界",
-      "mtime": 1771632000000,
-      "pkg": "julyhot.elementalworld",
-      "time": 1769558400000
-    },
-    {
-      "label": "火柴人联盟:竞技场",
-      "mtime": 1733075200000,
-      "pkg": "me.dreamsky.leagueofstickman",
-      "time": 1626393600000
-    },
-    {
-      "label": "艾洛伊：防卫战争",
-      "mtime": 1711670400000,
-      "pkg": "net.ekgames.elroi",
-      "time": 1698278400000
-    },
-    {
-      "label": "游戏厅物语：加强版",
-      "pkg": "net.kairosoft.android.gamecenterdx",
-      "time": 1701043200000
-    },
-    {
-      "label": "王都创世物语",
-      "mtime": 1711238400000,
-      "pkg": "net.kairosoft.android.kingdom_en",
-      "time": 1706832000000
-    },
-    {
-      "label": "箱庭都市",
-      "pkg": "net.kairosoft.android.miniature_en",
-      "time": 1706054400000
-    },
-    {
-      "label": "开罗拉面店全国篇",
-      "pkg": "net.kairosoft.android.noodle2_en",
-      "time": 1706745600000
-    },
-    {
-      "label": "创意蛋糕店",
-      "mtime": 1717977600004,
-      "pkg": "net.kairosoft.android.okashi_en",
-      "time": 1717977600003
-    },
-    {
-      "label": "冲刺！赛车物语2",
-      "mtime": 1711238400000,
-      "pkg": "net.kairosoft.android.paddock2_en",
-      "time": 1703030400000
-    },
-    {
-      "label": "冠军足球2",
-      "mtime": 1711238400000,
-      "pkg": "net.kairosoft.android.soccer2_en",
-      "time": 1695254400000
-    },
-    {
-      "label": "梦想商店街物语SP",
-      "mtime": 1711238400000,
-      "pkg": "net.kairosoft.android.townshopsp",
-      "time": 1703635200000
-    },
-    {
-      "label": "王国：新大陆",
-      "mtime": 1763078400000,
-      "pkg": "nl.noio.kingdom",
-      "time": 1761868800000
-    },
-    {
+		"label": "太空小队：生存",
+		"mtime": 1769472000000,
+		"pkg": "com.rebeltwins.spacesquadsurvival",
+		"time": 1765411200000
+	},
+	{
+		"label": "哥布林弹球",
+		"mtime": 1773619200000,
+		"pkg": "com.RedNexusGamesInc.Peglin",
+		"time": 1764547200000
+	},
+	{
+		"label": "黑暗地牢",
+		"mtime": 1739404800000,
+		"pkg": "com.redzaam.dsd",
+		"time": 1724803200000
+	},
+	{
+		"label": "60秒！避难所",
+		"mtime": 1734912000000,
+		"pkg": "com.robotgentleman.game60seconds",
+		"time": 1724112000000
+	},
+	{
+		"label": "60秒！重新裂变",
+		"mtime": 1734912000001,
+		"pkg": "com.RobotGentleman.game60SecondsReatomized",
+		"time": 1724112000000
+	},
+	{
+		"label": "60秒差距",
+		"mtime": 1769472000000,
+		"pkg": "com.RobotGentleman.sixtyParsecs.mobile",
+		"time": 1764720000000
+	},
+	{
+		"label": "赤色要塞/豺狼部队",
+		"mtime": 1768780800000,
+		"pkg": "com.rocket.jackal.squad",
+		"time": 1757548800000
+	},
+	{
+		"label": "黑暗崛起",
+		"mtime": 1768867200000,
+		"pkg": "com.Roika.Darkrise",
+		"time": 1767398400000
+	},
+	{
+		"label": "愤怒的小鸟：泡泡大战",
+		"mtime": 1752710400000,
+		"pkg": "com.rovio.ABstellapop",
+		"time": 1751932800000
+	},
+	{
+		"label": "愤怒的小鸟：梦幻爆破",
+		"mtime": 1752710400000,
+		"pkg": "com.rovio.dream",
+		"time": 1752624000000
+	},
+	{
+		"label": "我的小宇宙",
+		"mtime": 1766534400000,
+		"pkg": "com.savetheworld.game",
+		"time": 1764547200010
+	},
+	{
+		"label": "索尼克冲刺2：爆破",
+		"mtime": 1775174400000,
+		"pkg": "com.sega.sonicboomandroid",
+		"time": 1775001600000
+	},
+	{
+		"label": "暗影战争",
+		"mtime": 1725062400010,
+		"pkg": "com.shadow.war.legend.slime.idle.rpg.survival.game",
+		"time": 1724284800000
+	},
+	{
+		"label": "城堡融合",
+		"mtime": 1773014400000,
+		"pkg": "com.sharkjump.castlefusion",
+		"time": 1764979200000
+	},
+	{
+		"label": "迷宫传奇2",
+		"mtime": 1773705600000,
+		"pkg": "com.ShinobiGames.InfiniteW",
+		"time": 1769904000000
+	},
+	{
+		"label": "孤单枪手：丧尸",
+		"pkg": "com.sigmateam.zombieshooter.free",
+		"time": 1692662400000
+	},
+	{
+		"label": "孤胆枪手：世界",
+		"mtime": 1713916800000,
+		"pkg": "com.sigmateam.alienshootermobile.free",
+		"time": 1709856000000
+	},
+	{
+		"label": "孤胆枪手：塔防",
+		"pkg": "com.sigmateam.alienshooter.towerdefence",
+		"time": 1692748800000
+	},
+	{
+		"label": "孤胆枪手2：传奇",
+		"pkg": "com.sigmateam.alienshooter2",
+		"time": 1692921600000
+	},
+	{
+		"label": "孤胆枪手2：重制版",
+		"mtime": 1726963200000,
+		"pkg": "com.sigmateam.alienshooter2reloaded",
+		"time": 1692921600000
+	},
+	{
+		"label": "奥咕和秘密森林",
+		"mtime": 1749859100000,
+		"pkg": "com.SinkHoleStudio.OguForest",
+		"time": 1737072000000
+	},
+	{
+		"label": "魔塔",
+		"mtime": 1761436800000,
+		"pkg": "com.SmokymonkeyS.Triglav",
+		"time": 1761264000000
+	},
+	{
+		"label": "潜行大师",
+		"mtime": 1753401600000,
+		"pkg": "com.stealthgame.master",
+		"time": 1752192000000
+	},
+	{
+		"label": "刀锋酷跑",
+		"mtime": 1774137600000,
+		"pkg": "com.sybogames.brim",
+		"time": 1772323200000
+	},
+	{
+		"label": "地铁跑酷2：城市",
+		"mtime": 1774224000000,
+		"pkg": "com.sybogames.subway.surfers.game",
+		"time": 1774051200000
+	},
+	{
+		"label": "空洞骑士",
+		"mtime": 1726790400005,
+		"pkg": "com.TeamCherry.HollowKnight",
+		"time": 1710806400003
+	},
+	{
+		"label": "血腥大地",
+		"mtime": 1766016000000,
+		"pkg": "com.the10tons.crimsonland",
+		"time": 1764028800000
+	},
+	{
+		"label": "末日后53天",
+		"mtime": 1766016000000,
+		"pkg": "com.the10tons.dysmantle",
+		"time": 1759276800000
+	},
+	{
+		"label": "朋克大暴走",
+		"mtime": 1766016000000,
+		"pkg": "com.the10tons.neonchrome",
+		"time": 1764028800000
+	},
+	{
+		"label": "亡灵大军",
+		"mtime": 1766016000000,
+		"pkg": "com.the10tons.UndeadHorde",
+		"time": 1764892800000
+	},
+	{
+		"label": "亡灵大军2",
+		"mtime": 1770854400000,
+		"pkg": "com.the10tons.undeadhorde2",
+		"time": 1770854400000
+	},
+	{
+		"group": 9,
+		"label": "神之亵渎",
+		"mtime": 1772064000000,
+		"pkg": "com.thegamekitchen.blasphemousmobile",
+		"time": 1771977600000
+	},
+	{
+		"label": "猫咪斗恶龙",
+		"mtime": 1769385600000,
+		"pkg": "com.thegentlebros.catquest",
+		"time": 1770249600000
+	},
+	{
+		"label": "猫咪斗恶龙 II",
+		"mtime": 1773532800000,
+		"pkg": "com.thegentlebros.catquestii",
+		"time": 1773273600000
+	},
+	{
 		"group": 3,
-      "label": "木筏生存：海洋游牧",
-      "mtime": 1775174400000,
-      "pkg": "ocean.nomad.survival.simulator",
-      "time": 1774742400000
-    },
-    {
-      "label": "苹果骑士2",
-      "mtime": 1769644800000,
-      "pkg": "online.limitless.appleknight.dungeons",
-      "time": 1763424000000
-    },
-    {
-      "label": "深海垂钓",
-      "mtime": 1711324800000,
-      "pkg": "pl.idreams.cotd",
-      "time": 1710460800000
-    },
-    {
-      "label": "傲气雄鹰2014",
-      "mtime": 1728432000000,
-      "pkg": "pl.idreams.skyforcehd",
-      "time": 1721952000000
-    },
-    {
+		"label": "猫咪斗恶龙 III",
+		"mtime": 1773273600000,
+		"pkg": "com.thegentlebros.catquestiii",
+		"time": 1772496000000
+	},
+	{
+		"label": "神枪手强尼",
+		"mtime": 1774051200000,
+		"pkg": "com.time.trigger",
+		"time": 1774051200000
+	},
+	{
+		"label": "功夫Z",
+		"mtime": 1774051200000,
+		"pkg": "com.tinytitanstudios.kfz",
+		"time": 1770681600000
+	},
+	{
+		"label": "火车大亨",
+		"mtime": 1774051200000,
+		"pkg": "com.tinytitanstudios.TrainChu",
+		"time": 1769904000000
+	},
+	{
+		"label": "卡牌地牢冒险",
+		"mtime": 1774051200000,
+		"pkg": "com.tinytouchtales.cardcrawladventure",
+		"time": 1772668800000
+	},
+	{
+		"label": "霓虹魔咒风暴",
+		"mtime": 1758240000000,
+		"pkg": "com.topcog.neonspellstorm",
+		"time": 1756857600000
+	},
+	{
+		"label": "点击巫师2",
+		"mtime": 1758240000000,
+		"pkg": "com.topcog.tapwizard2",
+		"time": 1772323200000
+	},
+	{
+		"label": "沉默的档案员",
+		"mtime": 1774051200000,
+		"pkg": "com.TownSoft.soulsofadventure",
+		"time": 1774224000000
+	},
+	{
+		"label": "魔劍傳說",
+		"mtime": 1725062400000,
+		"pkg": "com.trefle.dashero",
+		"time": 1698710400000
+	},
+	{
+		"label": "刺客信条：燎原",
+		"mtime": 1764892800000,
+		"pkg": "com.ubisoft.accovenant",
+		"time": 1764374400000
+	},
+	{
+		"label": "饥饿龙",
+		"mtime": 1773273600000,
+		"pkg": "com.ubisoft.hungrydragon",
+		"time": 1772582400000
+	},
+	{
 		"group": 3,
-      "label": "傲气雄鹰：重装上阵",
-      "mtime": 1766102400000,
-      "pkg": "pl.idreams.SkyForceReloaded2016",
-      "time": 1766016000000
-    },
-    {
-      "label": "僵尸洞穴",
-      "mtime": 1768003200000,
-      "pkg": "ru.antkarlov.zombotron",
-      "time": 1765670400010
-    },
-    {
-      "label": "丧尸狙击手",
-      "mtime": 1721347200000,
-      "pkg": "sniper.gun.zombie.shooting",
-      "time": 1721088000000
-    },
-    {
-      "label": "放置僵尸防御",
-      "mtime": 1720483200000,
-      "pkg": "tdcgame.zombie.idle.defense",
-      "time": 1720224000000
-    },
-    {
-      "label": "命运的秩序",
-      "pkg": "tech.studio3.bestcave",
-      "time": 1710633600000
-    },
-    {
-      "label": "西部狙击手",
-      "mtime": 1721347200000,
-      "pkg": "wild.west.sniper",
-      "time": 1721347200000
-    },
-    {
-      "label": "丧尸猎人",
-      "mtime": 1767571200000,
-      "pkg": "zombie.survival.dead.shooting",
-      "time": 1764028800000
-    }
-  ],
-  "time": 1775347200004
+		"label": "饥饿鲨：世界",
+		"mtime": 1773273600000,
+		"pkg": "com.ubisoft.hungrysharkworld",
+		"time": 1773014400000
+	},
+	{
+		"group": 9,
+		"label": "波斯王子：失落的王冠",
+		"mtime": 1773273600003,
+		"pkg": "com.ubisoft.princeofpersia.thelostcrown.mobile.action.adventure.platform",
+		"time": 1772064000010
+	},
+	{
+		"label": "油管主播的生活2",
+		"mtime": 1767657600000,
+		"pkg": "com.UPlayOnline.YoutubersLife2",
+		"time": 1746057600000
+	},
+	{
+		"label": "第九黎明：重制版",
+		"mtime": 1765843200000,
+		"pkg": "com.Valorware.NinthDawnRemake",
+		"time": 1761955200000
+	},
+	{
+		"label": "暴民控制",
+		"mtime": 1744675200000,
+		"pkg": "com.vincentb.MobControl",
+		"time": 1743984000000
+	},
+	{
+		"label": "魔幻模拟战争",
+		"mtime": 1767657600000,
+		"pkg": "com.vkslrzm.Zombie",
+		"time": 1763856000000
+	},
+	{
+		"label": "杀戮目标",
+		"mtime": 1767657600000,
+		"pkg": "com.vng.g6.a.zombie",
+		"time": 1767225600000
+	},
+	{
+		"label": "荒野天空：塔防",
+		"mtime": 1754611200000,
+		"pkg": "com.wildsky.td",
+		"time": 1754611200000
+	},
+	{
+		"label": "合成战争：超级军团指挥官",
+		"mtime": 1733961600000,
+		"pkg": "com.wildsky.wildarmydraft",
+		"time": 1733529600000
+	},
+	{
+		"label": "狂野城堡塔防：王国统治",
+		"mtime": 1763337600000,
+		"pkg": "com.wildsky.wildcastle",
+		"time": 1762905600000
+	},
+	{
+		"label": "全面战争模拟器",
+		"mtime": 1765929600000,
+		"pkg": "com.xd.tabs.google",
+		"time": 1765152000000
+	},
+	{
+		"label": "篝火：被遗忘的土地",
+		"pkg": "com.xigmagames.thebonfireFL",
+		"time": 1696982400000
+	},
+	{
+		"label": "篝火2：未知彼岸",
+		"mtime": 1768694400000,
+		"pkg": "com.xigmaGames.thebonfire2",
+		"time": 1766707200000
+	},
+	{
+		"label": "最终命运：穿越世界的尽头",
+		"mtime": 1711411200000,
+		"pkg": "com.YEMA.FinalDestiny",
+		"time": 1706313600000
+	},
+	{
+		"label": "因狄斯的谎言",
+		"mtime": 1720742400000,
+		"pkg": "com.yokagame.ProjectS",
+		"time": 1715817600000
+	},
+	{
+		"label": "英雄冒险",
+		"mtime": 1711411200000,
+		"pkg": "com.z1.projectx.idle",
+		"time": 1681516800000
+	},
+	{
+		"label": "火柴人传奇",
+		"mtime": 1725148800000,
+		"pkg": "com.zitga.ninja.stickman.legends",
+		"time": 1725148800000
+	},
+	{
+		"label": "暗影格斗：死亡之影",
+		"mtime": 1772496000000,
+		"pkg": "com.Zonmob.Stickman.FightingGames.ShadowOfDeath",
+		"time": 1771891200000
+	},
+	{
+		"label": "冷酷灵魂：黑暗幻想",
+		"mtime": 1711411200000,
+		"pkg": "fantasy.survival.game.rpg",
+		"time": 1710460800000
+	},
+	{
+		"label": "几日之后",
+		"mtime": 1711411200000,
+		"pkg": "games.alternativa.projectv.test",
+		"time": 1710460800000
+	},
+	{
+		"label": "猫咪大战争:日版",
+		"mtime": 1775347200000,
+		"pkg": "jp.co.ponos.battlecats",
+		"time": 1775001600010
+	},
+	{
+		"group": 9,
+		"label": "猫咪大战争",
+		"mtime": 1774915200000,
+		"pkg": "jp.co.ponos.battlecatstw",
+		"time": 1774828800000
+	},
+	{
+		"label": "恶魔城：月下夜想曲",
+		"mtime": 1725321600000,
+		"pkg": "jp.konami.epjCastlevania2",
+		"time": 1661126400000
+	},
+	{
+		"label": "元素世界",
+		"mtime": 1771632000000,
+		"pkg": "julyhot.elementalworld",
+		"time": 1769558400000
+	},
+	{
+		"label": "火柴人联盟:竞技场",
+		"mtime": 1733075200000,
+		"pkg": "me.dreamsky.leagueofstickman",
+		"time": 1626393600000
+	},
+	{
+		"label": "艾洛伊：防卫战争",
+		"mtime": 1711670400000,
+		"pkg": "net.ekgames.elroi",
+		"time": 1698278400000
+	},
+	{
+		"label": "游戏厅物语：加强版",
+		"pkg": "net.kairosoft.android.gamecenterdx",
+		"time": 1701043200000
+	},
+	{
+		"label": "王都创世物语",
+		"mtime": 1711238400000,
+		"pkg": "net.kairosoft.android.kingdom_en",
+		"time": 1706832000000
+	},
+	{
+		"label": "箱庭都市",
+		"pkg": "net.kairosoft.android.miniature_en",
+		"time": 1706054400000
+	},
+	{
+		"label": "开罗拉面店全国篇",
+		"pkg": "net.kairosoft.android.noodle2_en",
+		"time": 1706745600000
+	},
+	{
+		"label": "创意蛋糕店",
+		"mtime": 1717977600004,
+		"pkg": "net.kairosoft.android.okashi_en",
+		"time": 1717977600003
+	},
+	{
+		"label": "冲刺！赛车物语2",
+		"mtime": 1711238400000,
+		"pkg": "net.kairosoft.android.paddock2_en",
+		"time": 1703030400000
+	},
+	{
+		"label": "冠军足球2",
+		"mtime": 1711238400000,
+		"pkg": "net.kairosoft.android.soccer2_en",
+		"time": 1695254400000
+	},
+	{
+		"label": "梦想商店街物语SP",
+		"mtime": 1711238400000,
+		"pkg": "net.kairosoft.android.townshopsp",
+		"time": 1703635200000
+	},
+	{
+		"label": "王国：新大陆",
+		"mtime": 1763078400000,
+		"pkg": "nl.noio.kingdom",
+		"time": 1761868800000
+	},
+	{
+		"group": 3,
+		"label": "木筏生存：海洋游牧",
+		"mtime": 1775174400000,
+		"pkg": "ocean.nomad.survival.simulator",
+		"time": 1774742400000
+	},
+	{
+		"label": "苹果骑士2",
+		"mtime": 1769644800000,
+		"pkg": "online.limitless.appleknight.dungeons",
+		"time": 1763424000000
+	},
+	{
+		"label": "深海垂钓",
+		"mtime": 1711324800000,
+		"pkg": "pl.idreams.cotd",
+		"time": 1710460800000
+	},
+	{
+		"label": "傲气雄鹰2014",
+		"mtime": 1728432000000,
+		"pkg": "pl.idreams.skyforcehd",
+		"time": 1721952000000
+	},
+	{
+		"group": 3,
+		"label": "傲气雄鹰：重装上阵",
+		"mtime": 1766102400000,
+		"pkg": "pl.idreams.SkyForceReloaded2016",
+		"time": 1766016000000
+	},
+	{
+		"label": "僵尸洞穴",
+		"mtime": 1768003200000,
+		"pkg": "ru.antkarlov.zombotron",
+		"time": 1765670400010
+	},
+	{
+		"label": "丧尸狙击手",
+		"mtime": 1721347200000,
+		"pkg": "sniper.gun.zombie.shooting",
+		"time": 1721088000000
+	},
+	{
+		"label": "放置僵尸防御",
+		"mtime": 1720483200000,
+		"pkg": "tdcgame.zombie.idle.defense",
+		"time": 1720224000000
+	},
+	{
+		"label": "命运的秩序",
+		"pkg": "tech.studio3.bestcave",
+		"time": 1710633600000
+	},
+	{
+		"label": "西部狙击手",
+		"mtime": 1721347200000,
+		"pkg": "wild.west.sniper",
+		"time": 1721347200000
+	},
+	{
+		"label": "丧尸猎人",
+		"mtime": 1767571200000,
+		"pkg": "zombie.survival.dead.shooting",
+		"time": 1764028800000
+		}
+	],
+	"time": 1775433600000
 }
