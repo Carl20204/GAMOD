@@ -1,12 +1,11 @@
 {
   "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：塔防分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 墨魔豆2.4.3版本支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e2x/3x倍速按钮在哪里？\u003cbr\u003e夜间模式第二关后，才会出现加速按钮。"
+    "\u003cfont color\u003d\"#ff0000\"\u003e加速按钮在哪儿？\u003c/font\u003e": "夜间模式第二关后，才会出现加速按钮。"
   },
   "gms": 1,
-  "info": "\u003cfont color\u003d\"#ff0000\"\u003e经典中的经典\u003c/font\u003e，建议手机常驻。\u003cbr\u003e\u003cbr\u003e赞一下，2025年了，EA还在持续进行更新维护。官方新增加速，2x倍速、3x倍速",
+  "info": "\u003cfont color\u003d\"#ff0000\"\u003e经典中的经典\u003c/font\u003e，建议手机常驻。2025官方新增2x倍速、3x倍速",
   "label": "植物大战僵尸：国际版",
-  "time": 1765756800008,
+  "time": 1773273600008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": false,
@@ -18,25 +17,29 @@
       "name": "上帝模式",
       "pkgname": "com.ea.game.pvzfree_row.gm64",
       "sandbox": 155,
-      "targetvc": "3140",
-      "vercode": 18
+      "targetvc": "3150",
+      "vercode": 19
     }
   ],
   "pkgname": "com.ea.game.pvzfree_row",
-  "vercode": 3140,
-  "vername": "3.14.0",
+  "vercode": 3150,
+  "vername": "3.15.0",
   "publisher": "EA（美国艺电）",
   "s1": [
-    256,
     512,
-    1024
+    1024,
+    2048
   ],
   "s2": [
-    1024,
     2048,
-    4096
+    4096,
+    8192
   ],
-  "s3": 1536,
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 2,
+  "source": 1,
   "tags": [
     "英文",
     "塔防"
