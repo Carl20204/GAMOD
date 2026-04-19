@@ -1876,6 +1876,12 @@
 		"time": 1761264000000
 	},
 	{
+		"label": "茶杯头",
+		"mtime": 1776556800000,
+		"pkg": "com.SpanishFreddy.Cuphead",
+		"time": 1775001600000
+	},
+	{
 		"label": "潜行大师",
 		"mtime": 1753401600000,
 		"pkg": "com.stealthgame.master",
@@ -2292,5 +2298,5 @@
 		"time": 1764028800000
 		}
 	],
-	"time": 1776384000000
+	"time": 1776556800000
 }
