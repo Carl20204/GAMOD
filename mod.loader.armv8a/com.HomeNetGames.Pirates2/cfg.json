@@ -1,28 +1,30 @@
 {
   "faqs": {
-    "进游戏是英文？": "游戏需手动该为中文，一进入游戏，点击主菜单第二个选项，可以看到【中文】按钮，点击即可。",
-    "本作和《海盗：加勒比海亨特》有什么区别？": "本作是二代，加勒比海亨特是一代，两者在海战方面的差异不大。\u003cbr\u003e\u003cbr\u003e部分小细节上，包括UI，本作会更完善一些。"
+    "进游戏是英文？": "游戏需手动该为中文，一进入游戏，点击主菜单第二个选项，可以看到【中文】按钮，点击即可。"
   },
   "gms": 1,
-  "info": "中世纪海战游戏，玩家作为加勒比海盗，率领船队，四处打劫、交易赚钱建设据点、升级船只。\u003cbr\u003e\u003cbr\u003e游戏安装包虽小，但海水的画质很高，剔除简陋的据点建设与剧情过场，单论海战还是值得一玩的",
+  "info": "号令让人闻风丧胆的海盗，开启加勒比海冒险。\u003cbr\u003e\u003cbr\u003e掌舵起航，叱咤加勒比海！\u003cbr\u003e\u003cbr\u003e《海盗：死亡瘟疫》是一款沙盒游戏，让您化身凶猛的海盗首领，扬起海盗旗，感受八面威风的气势！扮演传奇海盗船长 John Rackham，使出神秘位巫术召集不死族飞翔帮。与史诗海盗团成员联手迎战恐怖圣裁者。\u003cbr\u003e\u003cbr\u003e每位复活船长拥有特殊技能，可提高战船属性，增加金币，为战斗增添优势，甚至可以召唤强大的海妖！\u003cbr\u003e\u003cbr\u003e开放游戏世界，日夜交替，天气变化莫测，无任何加载画面，为每位移动玩家营造难忘体验。\u003cbr\u003e\u003cbr\u003e《死亡瘟疫》是全新《海盗》系列游戏，继《加勒比海追猎者》大热游戏后的又一力作，获得大批游戏玩家青睐。\u003cbr\u003e\u003cbr\u003e抢先体验海盗大冒险：\u003cbr\u003e\u003cbr\u003e- 完成激动人心的战役，解锁海盗黄金时代特色战船和历史知名船长。\u003cbr\u003e\u003cbr\u003e- 探索在开放世界中的未知和已知水域，与敌人交战，寻找藏宝岛、走私者前哨、城镇和其他神奇领域，无任何加载画面。\u003cbr\u003e\u003cbr\u003e- 探索加勒比海，征服城市，发展贸易，寻找宝藏和隐蔽地点。\u003cbr\u003e\u003cbr\u003e- 洗劫船只，从事贸易，建设城镇。游戏中加入了经济系统，让您赚取金币，升级战船。\u003cbr\u003e\u003cbr\u003e- 壮大私人舰队，成为激烈海战中不容忽视的武装力量。\u003cbr\u003e\u003cbr\u003e- 体验震撼视效画面，逼真物理特效，以及动态日夜和天气变换系统。",
   "label": "海盗：死亡瘟疫",
-  "time": 1721347200008,
+  "time": 1776470400008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动加载免广告",
-        "MOD自选菜单，可调节减伤、增伤、收益率，折扣，装弹速度"
+        "【自动激活】免广告",
+        "【可选菜单】减伤、增伤、收益率，折扣，装弹速度等"
       ],
       "name": "上帝模式",
-      "pkgname": "com.HomeNetGames.Pirates2.gm64",
+      "pkgname": "com.HomeNetGames.Pirates.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.HomeNetGames.Pirates2",
-  "vercode": 304,
-  "vername": "3.0.4",
+  "vercode": 310,
+  "vername": "3.1.0",
   "publisher": "Home Net Games",
   "s1": [
     512,
@@ -31,30 +33,25 @@
   ],
   "s2": [
     2048,
-    6144,
-    10904
+    4096,
+    8192
   ],
-  "s3": 4608,
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
+    "车辆射击",
     "海战",
-    "射击"
+    "贸易"
   ],
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/FTATSvER",
+      "host": "网盘分享：射击分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/SsBxSZB9",
-      "var": false
-    },
-    {
-      "host": "apkpure[翻墙]",
-      "url": "https://apkpure.net/cn/the-pirate-plague-of-the-dead/com.HomeNetGames.Pirates2/download",
-      "var": true
     }
   ]
 }

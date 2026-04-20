@@ -1,28 +1,30 @@
 {
   "faqs": {
-    "进游戏是英文？": "游戏需手动该为中文，一进入游戏，点击主菜单第二个选项，可以看到【中文】按钮，点击即可。",
-    "本作和《海盗：死亡瘟疫》有什么区别？": "本作是一代，死亡瘟疫是二代，两者在海战方面的差异不大，都是玩家在指挥作战时，同时控制旗舰去单挑或群殴。\u003cbr\u003e\u003cbr\u003e部分小细节上，包括UI，二代会更完善一些。"
+    "进游戏是英文？": "进入游戏，点击主菜单第二个选项，可以更改语言为【中文】"
   },
   "gms": 1,
-  "info": "中世纪海战游戏，玩家作为加勒比海盗，率领船队，四处打劫、交易赚钱建设据点、升级船只。\u003cbr\u003e\u003cbr\u003e游戏安装包虽小，但海水的画质很高，剔除简陋的据点建设与剧情过场，单论海战还是值得一玩的",
+  "info": "指挥一个海盗舰队击沉船只，攻击城镇和走私商品。\u003cbr\u003e\u003cbr\u003e海盗的时代-黑色旗帜、白色头骨、碧波荡漾和黄金机会的时代，航行到加勒比海的心脏。\u003cbr\u003e\u003cbr\u003e升起骷髅旗并抓住方向盘航行通过战役和袭击，赎金和宝物，成为安的列斯群岛的绯红色国王！\u003cbr\u003e\u003cbr\u003e- 20种类的舰艇，\u003cbr\u003e\u003cbr\u003e- 无限的舰队规模\u003cbr\u003e\u003cbr\u003e- 在战斗中可控制多个舰艇\u003cbr\u003e\u003cbr\u003e- 航行至堡垒与重迫击炮战斗。\u003cbr\u003e\u003cbr\u003e- 5种类型的弹药 - 炮弹，链球，霰弹炸弹，双炮弹，\u003cbr\u003e\u003cbr\u003e- 特殊武器：爆炸桶，燃烧石油，攻城槌，预先登临攻击\u003cbr\u003e\u003cbr\u003e- 30种船只升级\u003cbr\u003e\u003cbr\u003e- 人物发展，获得经验和升级\u003cbr\u003e\u003cbr\u003e- 20种队长技能 - 解锁新的游戏特色和可能性\u003cbr\u003e\u003cbr\u003e- 逼真的航海模型，距离和时间推移\u003cbr\u003e\u003cbr\u003e- 数百个岛屿和几十个港口\u003cbr\u003e\u003cbr\u003e- 昼/夜周期\u003cbr\u003e\u003cbr\u003e- 建筑和升级\u003cbr\u003e\u003cbr\u003e- 多个玩家持有基地\u003cbr\u003e\u003cbr\u003e- 无限数量的海战（商人，走私，运输队，军事）\u003cbr\u003e\u003cbr\u003e- 故事驱动的活动设定在充满人的世界。\u003cbr\u003e\u003cbr\u003e- 在5个国家的声誉",
   "label": "海盗：加勒比海亨特",
-  "time": 1721433600008,
+  "time": 1776470400008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动加载免广告",
-        "MOD自选菜单，可调节减伤、增伤、收益率，折扣，装弹速度"
+        "【自动激活】免广告",
+        "【可选菜单】减伤、增伤、收益率，折扣，装弹速度等"
       ],
       "name": "上帝模式",
       "pkgname": "com.HomeNetGames.Pirates.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.HomeNetGames.Pirates",
-  "vercode": 1026,
-  "vername": "10.2.6",
+  "vercode": 1030,
+  "vername": "10.3",
   "publisher": "Home Net Games",
   "s1": [
     512,
@@ -31,30 +33,25 @@
   ],
   "s2": [
     2048,
-    6144,
-    10904
+    4096,
+    8192
   ],
-  "s3": 4608,
+  "s3": 4096,
+  "extra": 0,
+  "install": 0,
+  "mod_tvc": 0,
+  "source": 0,
   "tags": [
     "中文",
+    "车辆射击",
     "海战",
-    "射击"
+    "贸易"
   ],
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/FTATSvER",
+      "host": "网盘分享：射击分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/SsBxSZB9",
-      "var": false
-    },
-    {
-      "host": "apkpure[翻墙]",
-      "url": "https://apkpure.net/cn/the-pirate-caribbean-hunt/com.HomeNetGames.Pirates/download",
-      "var": true
     }
   ]
 }
