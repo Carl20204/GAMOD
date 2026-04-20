@@ -1,43 +1,51 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 2,
-  "info": "像素风2D复古RPG游戏，3代会更好玩些……",
+  "info": "奇幻类 RPG （角色扮演）冒险游戏，在复古的2D世界里收集、采矿、制作物品。\u003cbr\u003e\u003cbr\u003e** 重制版 **\u003cbr\u003e\u003cbr\u003eSurvival RPG 2: 神庙废墟 是第一款复古游戏：Survival RPG - 失落的宝藏 的续集。这是一款免费的2D经典RPG复古（角色扮演）游戏。这款生存+探索的 RPG 冒险游戏，结合任务、挖矿、制作工艺，让你在复古风格的2D像素奇幻宇宙中展开探险。\u003cbr\u003e\u003cbr\u003e你在第一款游戏中探寻失落的宝藏。历经多次战斗、成为觅食专家、制作物品和重重冒险，最后你成功回来了。\u003cbr\u003e\u003cbr\u003e现在，你听到关于神庙废墟中一件神奇圣物的传闻。于是，你决定在这款复古游戏中踏上新的旅程，前往丛林深处一座神秘的寺庙。\u003cbr\u003e\u003cbr\u003e为了成功回来，你将必须探索不同的环境：沙漠、丛林、森林、地洞，并完成任务、解决难题、帮助其他角色、成为觅食专家、收集材料、挖矿、制作物品并击退怪物。多种精采冒险，就在这款复古RPG（角色扮演）游戏中等着你。\u003cbr\u003e\u003cbr\u003e特色：\u003cbr\u003e\u003cbr\u003e- 7章不同故事，带你往圣物的方向前进\u003cbr\u003e\u003cbr\u003e- 探索超过30个地洞、洞穴、丛林、神庙和小屋\u003cbr\u003e\u003cbr\u003e- 收集、开采和制作超过180种物品\u003cbr\u003e\u003cbr\u003e- 多个角色和任务帮助你完成旅程\u003cbr\u003e\u003cbr\u003e- 70种制物工艺，让你在冒险和探索中解锁\u003cbr\u003e\u003cbr\u003e- 制作工具来帮助自己\u003cbr\u003e\u003cbr\u003e- 用斧头砍树\u003cbr\u003e\u003cbr\u003e- 用铲子完成不同的工作\u003cbr\u003e\u003cbr\u003e- 制作蜡烛或灯笼，在黑暗地洞中看清楚\u003cbr\u003e\u003cbr\u003e- 用锄头采集不同的矿石\u003cbr\u003e\u003cbr\u003e- 还有更多...\u003cbr\u003e\u003cbr\u003e- 发现隐藏的物品\u003cbr\u003e\u003cbr\u003e- 收集食物，成为觅食专家\u003cbr\u003e\u003cbr\u003e- 用藏宝图寻找隐藏的宝藏\u003cbr\u003e\u003cbr\u003e- 对战超过35种不同的怪物和头目\u003cbr\u003e\u003cbr\u003e- 探索、解决多重难题\u003cbr\u003e\u003cbr\u003e- 老派的经典RPG复古游戏\u003cbr\u003e\u003cbr\u003e- 免费的复古RPG（角色扮演）游戏\u003cbr\u003e\u003cbr\u003e畅玩 Survival RPG 2: 神庙废墟。一款免费的冒险类复古RPG（角色扮演）游戏，使用2D像素艺术制作。探索森林、雨林、神庙和地洞等各种环境，收集并制作物品，求生并找寻圣物！",
   "label": "生存RPG2：神庙废墟",
-  "time": 1705968000008,
+  "time": 1776470400008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，可调节无伤，移速，加钻石"
+        "【可选菜单】无伤，移速，加钻石"
       ],
       "name": "上帝模式",
       "pkgname": "com.bewgames.templeruins.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.bewgames.templeruins",
-  "vercode": 40090007,
-  "vername": "4.9.7",
+  "vercode": 70000003,
+  "vername": "7.0.3",
   "publisher": "Bew Games inc",
-  "signmd5": "9ACC6849D45495FD00B71331D6CD4C84",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
-    "像素",
-    "冒险",
-    "角色扮演"
+    "角色扮演",
+    "像素"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.bewgames.templeruins?versionCode\u003d40090007\u0026nc\u003darm64-v8a\u0026sv\u003d21",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/survival-rpg-2-temple-ruins-2d/com.bewgames.templeruins/download",
+      "host": "网盘分享：生存分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]

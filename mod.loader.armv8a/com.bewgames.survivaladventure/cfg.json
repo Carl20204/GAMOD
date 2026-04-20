@@ -1,0 +1,52 @@
+{
+  "gms": 2,
+  "info": "冒险类 RPG （角色扮演）游戏，探索并逃离失落的荒岛。\u003cbr\u003e\u003cbr\u003e** 重制版 **\u003cbr\u003e\u003cbr\u003eSurvival RPG: 失落的宝藏 是一款复古的免费 2D 经典 RPG（角色扮演）游戏。这款野外生存+探索的复古 RPG 游戏，让你在2D像素的奇幻宇宙中，展开冒险、逃生和幻想故事，全部一次体验！同时支援离线畅玩。\u003cbr\u003e\u003cbr\u003e你在出发寻找失落宝藏的路上，被卷入一场风暴，搁浅在一个失落的荒岛，你逃出你的船，发现自己被困住了。你必须要生存下来，探索地洞、制作物品、觅食求生、寻找失落的宝藏并逃离小岛，找到回家的路。在这个令人上瘾的复古RPG（角色扮演）游戏中免费体验。\u003cbr\u003e\u003cbr\u003e为了生存并逃离失落的荒岛，英雄将必须探索荒岛和地洞，成为一个觅食专家，收集材料制造各种新物品，并和怪物对战。在这个充满奇幻艺术感的复古的2D像素宇宙中展开冒险。\u003cbr\u003e\u003cbr\u003e特色：\u003cbr\u003e\u003cbr\u003e- 探索多个岛屿\u003cbr\u003e\u003cbr\u003e- 发现超过70项物品\u003cbr\u003e\u003cbr\u003e- 40种制物工艺，让你在冒险和探索中解锁\u003cbr\u003e\u003cbr\u003e- 制作物品和工具帮助你探索\u003cbr\u003e\u003cbr\u003e- 用斧头砍树\u003cbr\u003e\u003cbr\u003e- 用铲子完成不同的工作\u003cbr\u003e\u003cbr\u003e- 制造蜡烛探索黑暗的地洞\u003cbr\u003e\u003cbr\u003e- 还有更多...\u003cbr\u003e\u003cbr\u003e- 发现隐藏的物品\u003cbr\u003e\u003cbr\u003e- 你被困在一个岛上\u003cbr\u003e\u003cbr\u003e- 收集食物，成为觅食专家\u003cbr\u003e\u003cbr\u003e- 打怪，对战终极的头目\u003cbr\u003e\u003cbr\u003e- 发现地底洞穴\u003cbr\u003e\u003cbr\u003e- 探索并解决难题\u003cbr\u003e\u003cbr\u003e- 老派的经典RPG复古游戏\u003cbr\u003e\u003cbr\u003e- 寻找宝藏\u003cbr\u003e\u003cbr\u003e- 免费的离线复古RPG（角色扮演）游戏\u003cbr\u003e\u003cbr\u003e畅玩 Survival RPG: 失落的宝藏。一款免费的冒险类复古RPG（角色扮演）游戏，使用2D像素艺术制作。在荒岛上探索、求生，并在失落的岛上找到宝藏! 让你畅玩数小时的幻想游戏，并可选择男或女角色的英雄。",
+  "label": "生存RPG1：失落的宝藏",
+  "time": 1776470400008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】无伤，移速，加钻石"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.bewgames.survivaladventure.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.bewgames.survivaladventure",
+  "vercode": 90000003,
+  "vername": "9.0.3",
+  "publisher": "Bew Games inc",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
+  "tags": [
+    "中文",
+    "角色扮演",
+    "像素"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享：生存分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
