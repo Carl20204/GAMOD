@@ -5,7 +5,7 @@
   "gms": 1,
   "info": "驾驶AC-130，空中炮艇，死亡天使，从空中打击丧尸\u003cbr\u003e\u003cbr\u003e说实话，和俄乌战争中无人机视角下的高空打击很类似……",
   "label": "僵尸炮艇：生存",
-  "time": 1776729600008,
+  "time": 1776729600018,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -18,7 +18,7 @@
       "pkgname": "com.flaregames.zgs.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 5
+      "vercode": 6
     }
   ],
   "pkgname": "com.flaregames.zgs",
@@ -47,7 +47,7 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享-\u003e射击组-\u003e模拟组",
+      "host": "网盘分享-\u003e射击目录-\u003e模拟目录",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
