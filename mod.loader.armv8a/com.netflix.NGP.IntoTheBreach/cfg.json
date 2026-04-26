@@ -1,48 +1,52 @@
 {
-  "faqs": {
-    "没有网飞Netflix账号怎么玩": "MOD有免网飞账号功能，没有安装Netflix，没有账号，不会翻墙的，务必使用MOD运行游戏",
-    "进游戏为什么是英文的": "网飞会员版游戏的中文化是做的最好的，如果进游戏是英文，可以手动点击Option --\u003eSelect Language，选择繁体中文或简体中文"
-  },
   "gms": 2,
-  "info": "在8x8格的地图上，各种地形，机甲、虫族、友军、护卫要素巨多，而高难度模式，也给硬核玩家更爽的烧脑体验",
+  "info": "8 x 8 战术作战\u003cbr\u003e\u003cbr\u003eNetflix 会员独享。\u003cbr\u003e\u003cbr\u003e文明岌岌可危，需要你来捍卫。\u003cbr\u003e在这款回合制策略游戏中，带领队伍抵御外星威胁，拯救世界。\u003cbr\u003e巨型生物在地下繁殖，残存的人类生命受到威胁。\u003cbr\u003e玩家需要谨慎选择强劲的驾驶和机甲小队，保卫自己的领土。\u003cbr\u003e在这款被《PC Gamer》杂志评选为“2018 年度终极游戏”的科幻战斗游戏中，与敌方的每一次交锋都将迎来新的挑战。\u003cbr\u003e\u003cbr\u003e游戏特点： \u003cbr\u003e保卫城市：民用建筑可为机甲提供动力。玩家要抵御敌方攻击，保护建筑物，同时注意己方火力！\u003cbr\u003e\u003cbr\u003e• 完善策略：在极简回合制战斗中，敌方攻击一览无余。\u003cbr\u003e在各回合中，玩家要分析对手的攻击特点，然后完美反击。 \u003cbr\u003e\u003cbr\u003e• 打造终极机甲：寻找威力强大的新武器和独一无二的驾驶员，穿梭于各个岛屿，抵御外星入侵。 \u003cbr\u003e\u003cbr\u003e• 多次机会：战斗不容失败。如果被打败，玩家可以回到过去请求支援，拯救另一条时间线。\u003cbr\u003e\u003cbr\u003e• 高阶版内容：最新扩展版游戏包含高阶武器、机甲、驾驶员、敌人和任务等。",
   "label": "陷阵之志",
-  "time": 1698796800008,
+  "time": 1776816000008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单可调节增伤、减伤、声望获取、建筑无伤"
+        "【可选菜单】声望获取、增伤、减伤、电力无损"
       ],
       "name": "上帝模式",
       "pkgname": "com.netflix.NGP.IntoTheBreach.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.netflix.NGP.IntoTheBreach",
-  "vercode": 65,
-  "vername": "1.2.92",
+  "vercode": 76,
+  "vername": "1.2.100",
   "publisher": "Netflix",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
-    "单机",
     "策略",
-    "战旗"
+    "战棋",
+    "付费会员版"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
+      "host": "网盘分享-\u003e策略目录-\u003e战棋目录",
       "url": "https://share.feijipan.com/s/UOAmQ8kx",
-      "var": false
-    },
-    {
-      "host": "翻墙|直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.netflix.NGP.IntoTheBreach?versionCode\u003d65\u0026nc\u003darm64-v8a\u0026sv\u003d26",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/cn/into-the-breach/com.netflix.NGP.IntoTheBreach/download",
       "var": false
     }
   ]
