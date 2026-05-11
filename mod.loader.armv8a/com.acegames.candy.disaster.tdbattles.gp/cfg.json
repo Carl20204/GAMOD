@@ -1,39 +1,51 @@
 {
   "gms": 2,
-  "info": "非常有创意的塔防，以陷阱为核心，而非传统的炮塔模式",
+  "info": "穿梭在3张地图中，与疯狂的科学家Jick展开一场超过100小时的塔防体验之旅\u003cbr\u003e\u003cbr\u003e故事内容体验\u003cbr\u003e\u003cbr\u003e※简介\u003cbr\u003e\u003cbr\u003e使用强力陷阱组合+连续击杀技巧“肢解”你的敌人\u003cbr\u003e\u003cbr\u003e穿越夜总会、沙漠、雪地公墓等风格迥异的地图收集各种成就。\u003cbr\u003e\u003cbr\u003e※背景故事\u003cbr\u003e\u003cbr\u003e作为一名银河系知名“精神分裂学派”科学家\u003cbr\u003e\u003cbr\u003e突然有一天你收到了来自宇宙深处的神秘邀请——收集M89KD 型能量糖果\u003cbr\u003e\u003cbr\u003e当然，可能还要顺手处理掉一些小麻烦~\u003cbr\u003e\u003cbr\u003e干掉那些蜂拥而至的敌人，用你的陷阱告诉他们没人能动你的东西！\u003cbr\u003e\u003cbr\u003e※ 游戏特质\u003cbr\u003e\u003cbr\u003e◈独特、野蛮又可爱的视效画面+音乐\u003cbr\u003e\u003cbr\u003e◈使用上百种陷阱组合，慢慢“调教”你的敌人\u003cbr\u003e\u003cbr\u003e◈在3种风格不一的超大地图上展示你的组合技\u003cbr\u003e\u003cbr\u003e◈和全球玩家同台竞技，比比看咯谁才是真正的老大！",
   "label": "糖果灾难",
-  "time": 1708992000008,
+  "time": 1778284800008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免广告，所有广告奖励白嫖就行",
-        "可选菜单，可按喜好调整全部陷阱的各项指标"
+        "【自动激活、免广告",
+        "【可选菜单】可按喜好调整全部陷阱的各项指标"
       ],
       "name": "上帝模式",
       "pkgname": "com.acegames.candy.disaster.tdbattles.gp.gm64",
-      "targetvc": "85",
-      "vercode": 2
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 3
     }
   ],
   "pkgname": "com.acegames.candy.disaster.tdbattles.gp",
-  "vercode": 85,
-  "vername": "3.4.9",
+  "vercode": 87,
+  "vername": "2.1.2",
   "publisher": "Erabit Studios",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 1,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
-    "塔防",
-    "弱联网"
+    "塔防"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘分享",
-      "url": "https://share.feijipan.com/s/AcAyQw9W",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/candy-disaster-td/com.acegames.candy.disaster.tdbattles.gp/download",
+      "host": "网盘分享 ➡ 塔防分类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
