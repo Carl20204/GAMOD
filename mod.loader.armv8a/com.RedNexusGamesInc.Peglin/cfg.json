@@ -2,7 +2,7 @@
   "gms": 2,
   "info": "没有两次相同的肉鸽弹球游戏！屡获殊荣的肉鸽牌组构建者\u003cbr\u003e\u003cbr\u003e从你记事起，龙就一直在弹出挂钉并偷走你的所有黄金。够了，现在是时候穿过树林冒险，征服堡垒，深入龙的巢穴中心，夺回属于你的东西并教训那些龙。\u003cbr\u003e\u003cbr\u003e本游戏的玩法就像 Peggle 和【杀戮尖塔】的组合。敌人很强大，但你拥有具有特殊效果的强大弹球和神奇的圣遗物，它们会影响敌人以及改变弹球的物理规则。\u003cbr\u003e\u003cbr\u003e游戏特点：\u003cbr\u003e\u003cbr\u003e- 收集并升级强大的弹球和圣遗物，以击败挡路的怪物和Boss。\u003cbr\u003e\u003cbr\u003e- 用类似弹球盘的游戏玩法与敌人战斗 - 击中更多的钉子以造成更多的伤害。抓住关键时机使用暴击药水、刷新药水和炸弹。\u003cbr\u003e\u003cbr\u003e- 每次探索新地图，旅途中都会有不同的弹球、敌人以及惊喜。",
   "label": "哥布林弹球",
-  "time": 1764547200008,
+  "time": 1777593600008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": false,
@@ -16,12 +16,12 @@
       "pkgname": "com.RedNexusGamesInc.Peglin.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 10
+      "vercode": 11
     }
   ],
   "pkgname": "com.RedNexusGamesInc.Peglin",
-  "vercode": 135,
-  "vername": "1.1.24",
+  "vercode": 138,
+  "vername": "2.0.12",
   "publisher": "Red Nexus Games",
   "s1": [
     512,
@@ -46,7 +46,7 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享：创意分类",
+      "host": "网盘分享 ➡ 创意目录",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
