@@ -1,13 +1,13 @@
 {
-  "vername": "2.4.9",
+  "vername": "2.5.0",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 249,
+  "vercode": 250,
   "min_sdk_version": 24,
   "target_sdk_version": 29,
-  "md5": "0B9463AF93AD6FB800050AFB7EF8C802",
-  "size": 4188550,
+  "md5": "AD1E8D71971281D55A48654DF418A8DA",
+  "size": 4188666,
   "logs": {
     "en": "完善沙盒直装游戏兼容性，修复部分中国版安卓系统兼容性；\n增加BUG反馈活跃点奖励；\n增加游戏试玩视频；\n完善游戏常见问题建议提示",
     "zh": "完善沙盒直装游戏兼容性，修复部分中国版安卓系统兼容性；\n增加BUG反馈活跃点奖励；\n增加游戏试玩视频；\n完善游戏常见问题建议提示"
