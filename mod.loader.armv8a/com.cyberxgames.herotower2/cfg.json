@@ -1,45 +1,50 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 1,
-  "info": "CyberX出品的游戏，从剧情到套路，就算是放置休闲品类，也能一眼看出那浓郁的JRPG的模子",
+  "info": "放置勇者游戏\u003cbr\u003e\u003cbr\u003e魔王「我把半个世界分......给你，求你留......留我一命吧！」\u003cbr\u003e\u003cbr\u003e他明明是这样说的，但明显地我是被骗了......！\u003cbr\u003e\u003cbr\u003e故事:\u003cbr\u003e\u003cbr\u003e魔王「真不简单，居然找到这里。」\u003cbr\u003e\u003cbr\u003e魔王「我要用我魔王的双手亲手将你埋葬！」\u003cbr\u003e\u003cbr\u003e勇者「......」\u003cbr\u003e\u003cbr\u003e决战中勇者表现了压倒性的胜利！\u003cbr\u003e\u003cbr\u003e在追赶魔王的途中得到了魔王惊人的交易......\u003cbr\u003e\u003cbr\u003e......勇者和魔王决战后的半年\u003cbr\u003e\u003cbr\u003e完全没有减退的魔怪，\u003cbr\u003e\u003cbr\u003e一直在增长。\u003cbr\u003e\u003cbr\u003e已经习以为常的勇者，决定再度和魔王会面！\u003cbr\u003e\u003cbr\u003e\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003cbr\u003e\u003cbr\u003e游戏特色\u003cbr\u003e\u003cbr\u003e- 为了要得到交易中提及的半个世界，再度踏上和魔王会面的征途！\u003cbr\u003e\u003cbr\u003e打听回来的消息指魔王一定就在魔王城的顶层。没办法了，那就登上这座城吧！\u003cbr\u003e\u003cbr\u003e- 将各界的同伴集合在一起，制霸魔王城吧！\u003cbr\u003e\u003cbr\u003e集合不同个性的同伴攻占魔王城吧！\u003cbr\u003e\u003cbr\u003e-如果敌人太强大，就使用复生术吧！\u003cbr\u003e\u003cbr\u003e勇者和同伴们重生的话力量会比以前更强大！\u003cbr\u003e\u003cbr\u003e-战斗时带着召唤兽会更有利！\u003cbr\u003e\u003cbr\u003e虽然使用时间比较短，但使用召唤兽效果是非常强烈的！",
   "label": "世界的一半",
-  "time": 1709942400008,
-  "mtime": 0,
+  "time": 1778544000008,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "自动激活免广告",
-        "可选菜单，可调节英雄移动速度与收益率，钻石、素材随便拿"
+        "【自动激活】免广告",
+        "【可选菜单】更多奖励，免内购"
       ],
       "name": "上帝模式",
       "pkgname": "com.cyberxgames.herotower2.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "pkgname": "com.cyberxgames.herotower2",
-  "vercode": 309,
-  "vername": "1.0.251",
+  "vercode": 421,
+  "vername": "1.0.352",
   "publisher": "CyberX Games",
-  "signmd5": "5A7061A619540B3C3A68DE391E243D42",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
     "放置",
-    "像素风",
     "休闲"
   ],
   "downloads": [
     {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/APK/com.cyberxgames.herotower2?versionCode\u003d309",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/you-said-give-me-half-of-world/com.cyberxgames.herotower2/download",
+      "host": "网盘分享 ➡ 休闲 ➡ 放置挂机类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
