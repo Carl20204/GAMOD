@@ -1,12 +1,8 @@
 {
-  "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "1。仅建议刷单机任务，PVP、竞技场之类的后果自负\u003cbr\u003e\u003cbr\u003e2.本游戏强制要求谷歌服务，如果你的设备没有谷歌服务，桌面版本是无法运行的。\u003cbr\u003e\u003cfont color\u003d\"#ff\"\u003eMOD + 墨魔豆的虚拟谷歌服务\u003c/font\u003e，可以跳过谷歌服务验证，正常游玩"
-  },
   "gms": 2,
-  "info": "2025年10月06日\u003cbr\u003e全新后台通行证，奖励更加丰厚\u003cbr\u003e新增6位白银战士\u003cbr\u003e主菜单新增诡异音乐\u003cbr\u003e优化每月角色的掉落几率\u003cbr\u003e- 各种平衡性调整\u003cbr\u003e\u003cbr\u003e人人可玩的格斗游戏\u003cbr\u003e\u003cbr\u003e- 专为移动设备设计的自定义控件，让你只需轻轻一点或一滑，就能使出各种惊人的招式和连击。\u003cbr\u003e\u003cbr\u003e- 格斗游戏的新手？你只需专注于战略决策，其它交给战斗辅助即可。\u003cbr\u003e\u003cbr\u003e- 格斗游戏的老手？你可深入探究战术选择、独特的连击、浮空技巧等等！\u003cbr\u003e\u003cbr\u003e- 一款人人都能玩的格斗游戏，终于来了！\u003cbr\u003e\u003cbr\u003e完整的RPG进度\u003cbr\u003e\u003cbr\u003e- RPG玩家将会得心应手！\u003cbr\u003e\u003cbr\u003e- 收集数十个角色，且每个角色都可以各种方式定制，从而适合你的游戏风格！\u003cbr\u003e\u003cbr\u003e- 升级并进化你的斗士，使其发挥最大潜能\u003cbr\u003e\u003cbr\u003e- 解锁每场战斗之前可以升级和配备的特别招式和绝招，并选出最佳的装备！\u003cbr\u003e\u003cbr\u003e- 组建最多3名斗士的团队，寻找能最大限度发挥协同作用的最佳组合！\u003cbr\u003e\u003cbr\u003e- 探索不断增长的角色集合",
+  "info": "终极手机格斗游戏！真实格斗+角色扮演游戏！收集、升级、自定义和格斗！\u003cbr\u003e\u003cbr\u003e“超凡脱俗，绝对是市面上最棒的移动端格斗游戏。” - Toucharcade\u003cbr\u003e\u003cbr\u003e“这个游戏无比适合格斗游戏爱好者。” - Dispatch\u003cbr\u003e\u003cbr\u003e《骷髅女孩》是一款2D格斗角色扮演游戏，拥有独特而鲜明的角色，让你在寻找神秘的骷髅女孩的过程中，可进行收集、升级和自定义！\u003cbr\u003e\u003cbr\u003e令人惊艳的2D动画\u003cbr\u003e\u003cbr\u003e成千上万帧精心手绘的2D动画为你奉上了一款拥有绝佳视觉美化效果的手机游戏！\u003cbr\u003e\u003cbr\u003e人人可玩的格斗游戏\u003cbr\u003e\u003cbr\u003e- 专为移动设备设计的自定义控件，让你只需轻轻一点或一滑，就能使出各种惊人的招式和连击。\u003cbr\u003e\u003cbr\u003e- 格斗游戏的新手？你只需专注于战略决策，其它交给战斗辅助即可。\u003cbr\u003e\u003cbr\u003e- 格斗游戏的老手？你可深入探究战术选择、独特的连击、浮空技巧等等！\u003cbr\u003e\u003cbr\u003e- 一款人人都能玩的格斗游戏，终于来了！\u003cbr\u003e\u003cbr\u003e完整的RPG进度\u003cbr\u003e\u003cbr\u003e- RPG玩家将会得心应手！\u003cbr\u003e\u003cbr\u003e- 收集数十个角色，且每个角色都可以各种方式定制，从而适合你的游戏风格！\u003cbr\u003e\u003cbr\u003e- 升级并进化你的斗士，使其发挥最大潜能\u003cbr\u003e\u003cbr\u003e- 解锁每场战斗之前可以升级和配备的特别招式和绝招，并选出最佳的装备！\u003cbr\u003e\u003cbr\u003e- 组建最多3名斗士的团队，寻找能最大限度发挥协同作用的最佳组合！\u003cbr\u003e\u003cbr\u003e- 探索不断增长的角色集合",
   "label": "骷髅女孩",
-  "time": 1759708800008,
+  "time": 1778716800008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
@@ -15,32 +11,42 @@
       "descs": [
         "【可选菜单】无限必杀，减伤、增伤等等"
       ],
-      "name": "上帝是个女孩",
+      "name": "上帝模式",
       "pkgname": "com.autumn.skullgirls.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 6
+      "vercode": 7
     }
   ],
   "pkgname": "com.autumn.skullgirls",
-  "vercode": 140,
-  "vername": "7.6.2",
+  "vercode": 218,
+  "vername": "8.6.2",
   "publisher": "Autumn Games, LLC",
-  "s3": 0,
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
     "格斗",
-    "RPG"
+    "动作"
   ],
   "downloads": [
     {
-      "host": "网盘分享：动作分类",
+      "host": "网盘分享 ➡ 动作分类",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
-  ],
-  "videos": {
-    "https://www.ixigua.com/7330926763301995035?logTag\u003da01ec9f0eab34d26cf52": "全大招演示",
-    "https://www.ixigua.com/7332081493776269876?logTag\u003dba17eb2de94741bc7eac": "EVO 2022总决赛"
-  }
+  ]
 }
