@@ -1,39 +1,53 @@
 {
   "gms": 2,
-  "info": "DBG爱好者推荐\u003cbr\u003e肉鸽卡牌无尽爬塔，角色养成、卡牌、职业系统。规则极多，可组合出各种Build玩法。",
+  "info": "角色扮演 + 肉鸽 + 卡牌构筑 + 扭蛋 集于一身的游戏！\u003cbr\u003e\u003cbr\u003e选择您喜爱的英雄和职业并踏上一个永恒的地下城冒险。\u003cbr\u003e\u003cbr\u003e在冒险中随机获得技能与职业，创造一个属于您独一无二的战队吧。\u003cbr\u003e\u003cbr\u003e您究竟能不能战胜自己的极限呢？\u003cbr\u003e\u003cbr\u003e游戏特点\u003cbr\u003e\u003cbr\u003e1）Rogue lite游戏, 随机地遭遇敌人和特殊事件。\u003cbr\u003e\u003cbr\u003e2）探索地下城, 尽可能地深入探险这神秘的地下城。\u003cbr\u003e\u003cbr\u003e3）战略卡组构筑系统，从宝箱和敌人身上取得技能并加入自己的卡组来构筑属于你的独特卡组。\u003cbr\u003e\u003cbr\u003e4）角色扮演回合制战斗，游戏复杂但容易上手。挑战千奇百怪的敌人，有难度但令人上瘾。\u003cbr\u003e\u003cbr\u003e5）同时装备三个职业, 切换并使用其技能来施展强大的化学反应吧。\u003cbr\u003e\u003cbr\u003e6）使用职业和素材来合成不同独特的新职业。\u003cbr\u003e\u003cbr\u003e7）召唤您所喜爱的英雄吧！在地下城中被您击败的敌人将有一定几率从一个特别的召唤卡池里被召唤！\u003cbr\u003e\u003cbr\u003e8）收集不同的遗物来额外加强的构筑。\u003cbr\u003e\u003cbr\u003e9）游戏中含有很多各式各样的迷因, 动漫和电影元素！\u003cbr\u003e\u003cbr\u003e10）可购买以移除所有广告, 终身享有！\u003cbr\u003e\u003cbr\u003e11）能用一只手玩的游戏, 为什么要用两只手?",
   "label": "使命法则 - 永恒地牢",
-  "time": 1720569600008,
+  "time": 1779148800008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，可调节战斗减伤、增伤、AP消耗"
+        "【自动激活】免广告",
+        "【可选菜单】战斗减伤、增伤、AP无消耗"
       ],
       "name": "上帝模式",
       "pkgname": "com.aubjective.jobmania.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "com.aubjective.jobmania",
-  "vercode": 582,
-  "vername": "2.24.3",
+  "vercode": 678,
+  "vername": "2.45.0",
   "publisher": "Aubjective Technology",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
-    "单机",
-    "肉鸽",
+    "策略",
+    "卡牌",
     "DBG"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/NjBeEeu5",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/jobmania-eternal-dungeon/com.aubjective.jobmania/download",
+      "host": "网盘分享 ➡ 策略目录 ➡ 卡牌",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
