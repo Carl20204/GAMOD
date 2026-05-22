@@ -1,25 +1,43 @@
 {
   "gms": 2,
-  "info": "休闲版的狙击手，没有乱七八糟的养成培养之类的，纯粹的狙击、射击，小游戏启动快碎片时间没事打俩把就挺好的",
+  "info": "化身为狂野西部的牛仔快枪手，消灭所有的通缉强盗！\u003cbr\u003e\u003cbr\u003e在这款史诗狂野西部射击游戏中消灭所有的布娃娃强盗！快来试试《西部狙击手：狂野西部》FPS射击游戏，来感受在荒野中扮演一名为正义而战的牛仔是什么感觉吧！进入各种地点之中并准备消灭他们！\u003cbr\u003e\u003cbr\u003e《西部狙击手：狂野西部》FPS射击游戏的最佳特色包含：\u003cbr\u003e\u003cbr\u003e-最具动感的 FPS 射击游戏之一\u003cbr\u003e\u003cbr\u003e-写实的狂野西部氛围\u003cbr\u003e\u003cbr\u003e-枪械与左轮手枪射击模式：瞄准并在瞄准镜中看见布娃娃强盗\u003cbr\u003e\u003cbr\u003e-各式各样具挑战性的地点。尝试在火车、船上、酒吧和古老小镇中消灭他们，这太简单了！\u003cbr\u003e\u003cbr\u003e-游戏商店中有各种步枪供你挑选\u003cbr\u003e\u003cbr\u003e-写实的音乐与音效来重建西部氛围\u003cbr\u003e\u003cbr\u003e看见了强盗？那就快干掉他们，砰砰砰！",
   "label": "西部狙击手",
-  "time": 1721347200008,
+  "time": 1778630400008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "无广告",
-        "可选菜单，可无敌、加钱、子弹无限、快速瞄准等"
+        "【自动激活】无广告",
+        "【可选菜单】无敌、加钱、子弹无限、快速瞄准等"
       ],
       "name": "上帝模式",
       "pkgname": "wild.west.sniper.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "wild.west.sniper",
-  "vercode": 198,
-  "vername": "2.8.5",
+  "vercode": 318,
+  "vername": "3.3.8",
   "publisher": "CASUAL AZUR GAMES",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "英文",
     "休闲",
@@ -28,13 +46,8 @@
   ],
   "downloads": [
     {
-      "host": "小飞机网盘分享",
-      "url": "https://share.feijipan.com/s/jQAbnNGS",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/western-sniper-wild-west-fps/wild.west.sniper/download",
+      "host": "网盘分享 ➡ 休闲目录 ➡ 射击目录",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
