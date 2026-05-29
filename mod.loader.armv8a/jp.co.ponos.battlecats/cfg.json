@@ -5,26 +5,24 @@
   "gms": 1,
   "info": "当前版本共有861张猫卡",
   "label": "猫咪大战争:日版",
-  "time": 1777334400008,
-  "lastProm": 0,
-  "lastRec": 0,
+  "time": 1779667200008,
   "mod": false,
   "mods": [
     {
       "descs": [
-        "【专用版】本MOD仅支持15.3.1",
+        "【专用版】本MOD仅支持15.4.0",
         "【可选菜单】加速，全物品，全卡牌，满级，无限猫罐头"
       ],
       "name": "上帝模式",
       "pkgname": "jp.co.ponos.battlecats.gm64",
       "sandbox": 155,
-      "targetvc": "1503010",
-      "vercode": 8
+      "targetvc": "1504000",
+      "vercode": 9
     }
   ],
   "pkgname": "jp.co.ponos.battlecats",
-  "vercode": 1503010,
-  "vername": "15.3.1",
+  "vercode": 1504000,
+  "vername": "15.4.0",
   "publisher": "PONOS",
   "s1": [
     512,
@@ -37,10 +35,6 @@
     8192
   ],
   "s3": 4096,
-  "extra": 0,
-  "install": 0,
-  "mod_tvc": 0,
-  "source": 0,
   "tags": [
     "日文",
     "塔防",
