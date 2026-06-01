@@ -1,11 +1,11 @@
 {
   "faqs": {
-    "\u003cfont color\u003d\"#ff0000\"\u003e加速按钮在哪儿？\u003c/font\u003e": "夜间模式第二关后，才会出现加速按钮。"
+    "\u003cfont color\u003d\"#ff0000\"\u003e建议！建议！建议！\u003c/font\u003e": "仅建议安装网盘分享的版本3.15.0（谷歌市场原版），专用MOD已移除游戏的强制更新，免广告。\u003cbr\u003e\u003cbr\u003e除非大版本/内容更新或谷歌市场/安卓系统强制要求，之后此游戏不再更新MOD"
   },
   "gms": 1,
   "info": "\u003cfont color\u003d\"#ff0000\"\u003e经典中的经典\u003c/font\u003e，建议手机常驻。2025官方新增2x倍速、3x倍速",
   "label": "植物大战僵尸：国际版",
-  "time": 1773273600008,
+  "time": 1780272000008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": false,
@@ -18,7 +18,7 @@
       "pkgname": "com.ea.game.pvzfree_row.gm64",
       "sandbox": 155,
       "targetvc": "3150",
-      "vercode": 19
+      "vercode": 20
     }
   ],
   "pkgname": "com.ea.game.pvzfree_row",
@@ -46,7 +46,7 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享：塔防分类",
+      "host": "网盘分享 ➡ 塔防目录 ➡ 植物大战僵尸",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
