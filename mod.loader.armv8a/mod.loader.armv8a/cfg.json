@@ -13,6 +13,11 @@
 		"url": "https://ugame.9game.cn/game/share-235275-3117059.html"
 	},
 	{
+		"pkg": "com.bilibili.blhx.uc",
+		"title": "碧蓝航线",
+		"url": "https://ugame.9game.cn/game/share-235275-739263.html"
+	},
+	{
 		"pkg": "com.feimo.jxpd.aligames",
 		"title": "吉星派对",
 		"url": "https://ugame.9game.cn/game/share-235275-3123517.html"
@@ -231,9 +236,9 @@
 	{
 		"group": 3,
 		"label": "泰拉瑞亚",
-		"mtime": 1771632000000,
+		"mtime": 1781913600000,
 		"pkg": "com.and.games505.Terraria",
-		"time": 1771632000000
+		"time": 1776643200000
 	},
 	{
 		"group": 9,
@@ -2339,5 +2344,5 @@
 		"mtime": 1778544000007
 	}
 	],
-	"time": 1780272000001
+	"time": 1780358400000
 }
