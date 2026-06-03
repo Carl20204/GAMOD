@@ -1,57 +1,51 @@
 {
-  "faqs": {
-    "为啥日常活动没了？": "游戏升级后，旧版本虽然可以继续玩，但没有日常活动，只有升级到游戏最新版本才有全部的日常活动。"
-  },
   "gms": 1,
-  "info": "【王国保卫战】模式的塔防，终于有一个不是中世纪剑与魔法题材的了，科幻+现代战争题材，玩起来激烈火爆多了。",
-  "label": "异星入侵\n围剿外星客",
-  "time": 1724976000008,
+  "info": "《异星入侵》：谷歌商店中最刺激有趣的塔防策略游戏！\u003cbr\u003e\u003cbr\u003e《异星入侵TD》这个塔防游拥有一切你希望的元素：疯狂的战斗！超多的狡猾敌人！闪电攻击！直升机！爆炸！\u003cbr\u003e\u003cbr\u003e用强大的防御塔炸死外星入侵者！用强壮的步兵编队和全副武装的英雄们歼灭它们！用超高能量的电浆塔杀死它们！升级你的武器，制定你的战略，时刻准备战斗！\u003cbr\u003e\u003cbr\u003e超赞特色：\u003cbr\u003e\u003cbr\u003e• 战斗激烈的50关\u003cbr\u003e\u003cbr\u003e• 令人兴奋的免费塔防战斗，一起保卫地球\u003cbr\u003e\u003cbr\u003e• 3种超强游戏模式，更具挑战，战略更完美\u003cbr\u003e\u003cbr\u003e• 在多种多样的艰难地形中部署英雄和步兵\u003cbr\u003e\u003cbr\u003e• 用极强攻击力的防御塔组合设计出终极防御\u003cbr\u003e\u003cbr\u003e• 解锁强大的新防御塔和技能来增强你的防御\u003cbr\u003e\u003cbr\u003e• 邀请盟友参加全方位的战斗，共享空袭和援军支援！\u003cbr\u003e\u003cbr\u003e• 额外的58个疯狂的两分钟挑战让手游体验更加完美\u003cbr\u003e\u003cbr\u003e• 借助快速前进功能展开闪电战，应对外星入侵者的袭击",
+  "label": "异星入侵",
+  "time": 1759276800008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "可选菜单，可调节各种收益率、消费打折、战场强化等"
+        "【可选菜单】各种收益率、消费打折、战场强化等"
       ],
       "name": "上帝模式",
       "pkgname": "com.outplayentertainment.aliencreeps.gm64",
-      "targetvc": "1724082938",
-      "vercode": 1
+      "sandbox": 155,
+      "targetvc": "1758795696",
+      "vercode": 2
     }
   ],
   "pkgname": "com.outplayentertainment.aliencreeps",
-  "vercode": 1724082938,
-  "vername": "2.32.7",
+  "vercode": 1758795696,
+  "vername": "2.32.10",
   "publisher": "Outplay Entertainment Ltd",
   "s1": [
-    256,
     512,
-    1024
+    1024,
+    2048
   ],
   "s2": [
-    1024,
     2048,
-    4096
+    4096,
+    8192
   ],
-  "s3": 1536,
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
     "塔防",
-    "单机"
+    "王国保卫战"
   ],
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/OHUROPi7",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/AcAyQw9W",
-      "var": false
-    },
-    {
-      "host": "下载页|翻墙",
-      "url": "https://apkpure.com/cn/alien-creeps-td/com.outplayentertainment.aliencreeps/download",
+      "host": "网盘分享 ➡ 塔防目录 ➡ 王国保卫战目录",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
