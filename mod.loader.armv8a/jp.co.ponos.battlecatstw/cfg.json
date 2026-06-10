@@ -3,11 +3,9 @@
     "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "MOD屏蔽了所有的警告提示与活动网页弹窗，例如断网、无谷歌服务、封号等，想看警告弹窗的，可以在MOD里将【屏蔽弹窗】打开"
   },
   "gms": 1,
-  "info": "2026年4月21日更新",
+  "info": "2026年6月10日更新",
   "label": "猫咪大战争",
-  "time": 1776729600008,
-  "lastProm": 0,
-  "lastRec": 0,
+  "time": 1781049600008,
   "mod": false,
   "mods": [
     {
@@ -18,13 +16,13 @@
       "name": "上帝模式",
       "pkgname": "jp.co.ponos.battlecatstw.gm64",
       "sandbox": 155,
-      "targetvc": "1503000",
-      "vercode": 28
+      "targetvc": "1504000",
+      "vercode": 29
     }
   ],
   "pkgname": "jp.co.ponos.battlecatstw",
-  "vercode": 1503000,
-  "vername": "15.3.0",
+  "vercode": 1504000,
+  "vername": "15.4.0",
   "publisher": "PONOS",
   "s1": [
     512,
