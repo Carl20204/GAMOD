@@ -1,13 +1,13 @@
 {
-  "vername": "2.5.2",
+  "vername": "2.5.3",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 252,
+  "vercode": 253,
   "min_sdk_version": 24,
-  "target_sdk_version": 34,
-  "md5": "53AEE38D33ADD7B5E5C4904918FF60E2",
-  "size": 4125363,
+  "target_sdk_version": 31,
+  "md5": "FA0D64EE7E46F994E489047B37EB2E30",
+  "size": 4125311,
   "logs": {
     "en": "游戏详情页新增实验室模块，针对魔改安卓，例如ColorOS 16.0.7，可针对性修复部分游戏的特殊异常",
     "zh": "游戏详情页新增实验室模块，针对魔改安卓，例如ColorOS 16.0.7，可针对性修复部分游戏的特殊异常"
