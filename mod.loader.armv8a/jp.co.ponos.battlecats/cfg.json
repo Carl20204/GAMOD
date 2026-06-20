@@ -1,28 +1,28 @@
 {
   "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。\u003cfont color\u003d\"#ff\"\u003e中国区域用户，可以下载\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：塔防分类】\u003c/a\u003e里的安装包，搬运自谷歌市场的原版\u003c/font\u003e"
+    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号或者被锁区的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。\u003cfont color\u003d\"#ff\"\u003e中国区域用户，可以下载\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：塔防分类】\u003c/a\u003e里的安装包，搬运自谷歌市场的原版\u003c/font\u003e"
   },
   "gms": 1,
-  "info": "当前版本共有861张猫卡",
+  "info": "当前版本共有866张猫卡",
   "label": "猫咪大战争:日版",
-  "time": 1780012800008,
+  "time": 1781481600008,
   "mod": false,
   "mods": [
     {
       "descs": [
-        "【专用版】本MOD仅支持15.4.1",
+        "【专用版】本MOD仅支持15.4.2",
         "【可选菜单】加速，全物品，全卡牌，满级，无限猫罐头"
       ],
       "name": "上帝模式",
       "pkgname": "jp.co.ponos.battlecats.gm64",
       "sandbox": 155,
-      "targetvc": "1504010",
-      "vercode": 10
+      "targetvc": "1504020",
+      "vercode": 11
     }
   ],
   "pkgname": "jp.co.ponos.battlecats",
-  "vercode": 1504010,
-  "vername": "15.4.1",
+  "vercode": 1504020,
+  "vername": "15.4.2",
   "publisher": "PONOS",
   "s1": [
     512,
