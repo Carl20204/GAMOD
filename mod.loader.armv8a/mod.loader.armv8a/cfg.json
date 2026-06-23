@@ -1640,6 +1640,13 @@
 		"time": 1775001600000
 	},
 	{
+		"group": 9,
+		"label": "星之海",
+		"mtime": 1782864000000,
+		"pkg": "com.playdigious.seaofstars",
+		"time": 1780272000000
+	},
+	{
 		"label": "小骨：英雄杀手",
 		"mtime": 1766102400000,
 		"pkg": "com.playdigious.skul",
@@ -2344,5 +2351,5 @@
 		"mtime": 1778544000007
 	}
 	],
-	"time": 1782172800001
+	"time": 1782172800002
 }
