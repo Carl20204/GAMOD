@@ -1,0 +1,58 @@
+{
+  "faqs": {
+    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "进游戏非中文的话，点击设置，语言可选择简体/繁体中文"
+  },
+  "gms": 1,
+  "info": "超级黑暗詭計是热门恐怖游戏黑暗詭計的 2D 重制版！\n\n《超级黑暗欺骗》是一款趣味十足的复古恐怖游戏，是对热门恐怖游戏《黑暗欺骗》的全新演绎！你被困在一个充满迷宫的黑暗世界，这里栖息着噩梦般的怪物，无处可藏。逃跑还是死亡——选择权在你手中！目前包含第一章和第二章的内容。\n\n即将推出的第三章内容已包含在售价中，并将于发布后立即通过更新添加！",
+  "label": "超级黑暗欺骗",
+  "time": 1782000000008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【可选菜单】调整玩家移动速度，敌人移动速度，全屏眩晕，解锁全部内容"
+      ],
+      "name": "上帝模式",
+      "pkgname": "com.GlowstickEntertainment.SuperDD.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 1
+    }
+  ],
+  "pkgname": "com.GlowstickEntertainment.SuperDD",
+  "vercode": 21,
+  "vername": "2.1.2",
+  "publisher": "Glowstick Entertainment, Inc.",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 4,
+  "tags": [
+    "中文",
+    "付费版",
+    "动作",
+    "街机",
+    "恐怖",
+    "支持手柄"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享 ➡ 动作分组",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
