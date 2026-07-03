@@ -1,58 +1,52 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 2,
-  "info": "开罗出品的模拟经营游戏之一，也是其中最经典的之一",
+  "info": "在游戏世界中成为国王吧　率领直属部队，让小岛恢复和平，武器店、旅馆、饭馆还有兵营…完善城市设施，打倒怪物吧。\u003cbr\u003e\u003cbr\u003e这里曾经……有一座王国，但如今在怪物的侵略下，周边一带时刻被阴云笼罩着。\u003cbr\u003e\u003cbr\u003e当您作为国王后裔回到这不安定的小岛时，冒险便将拉开帷幕。\u003cbr\u003e\u003cbr\u003e绞尽脑汁，建造新的王国吧！\u003cbr\u003e\u003cbr\u003e首先招募战士和魔法师等强力的职业成为伙伴吧。\u003cbr\u003e\u003cbr\u003e然后向着周围的阴云展开冒险，这样一定能有全新的发现。\u003cbr\u003e\u003cbr\u003e不光是战斗，城市还需要武器店、道具店、旅馆以及餐馆……等各种各样的设施。\u003cbr\u003e\u003cbr\u003e随着王国的规模逐渐扩大，就能招募更多富有魅力的职业，他们一定能让城市变得充满活力。\u003cbr\u003e\u003cbr\u003e与伙伴互相协助，持续锻炼，打倒强大的敌人吧！\u003cbr\u003e\u003cbr\u003e羊 敬上",
   "label": "王都创世物语",
-  "time": 1706832000008,
-  "mtime": 0,
+  "time": 1769385600008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": false,
   "mods": [
     {
       "descs": [
-        "自动免广告。其它功能请谨慎使用，防止破坏游戏乐趣！"
+        "【自动激活】免广告",
+        "【可选菜单】资金、满意度、票券、道具等收益率与消费折扣"
       ],
       "name": "上帝模式",
       "pkgname": "net.kairosoft.android.kingdom_en.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "net.kairosoft.android.kingdom_en",
-  "vercode": 247,
-  "vername": "2.4.7",
+  "vercode": 262,
+  "vername": "2.6.2",
   "publisher": "Kairosoft",
-  "signmd5": "9D60707A73290B53F7CFBAD50554C9EB",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
-    "国际版",
     "模拟经营"
   ],
   "downloads": [
     {
-      "host": "apkpure直链下载[翻墙]",
-      "url": "https://d.apkpure.net/b/APK/net.kairosoft.android.kingdom_en?versionCode\u003d247",
-      "var": false
-    },
-    {
-      "host": "apkpure[翻墙]",
-      "url": "https://apkpure.net/cn/kingdom-adventurers/net.kairosoft.android.kingdom_en/download",
-      "var": true
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/fOURoItL",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/EmURed86",
+      "host": "网盘分享 ➡ 策略 ➡ 模拟经营",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
-  ],
-  "videos": {
-    "https://www.ixigua.com/7332349649954538038?logTag\u003d402fe6a1f065b004eef5": "游戏攻略第1部分",
-    "https://www.ixigua.com/7332349909297234467?logTag\u003d2615aad4d2249de705cd": "游戏攻略第2部分"
-  }
+  ]
 }
