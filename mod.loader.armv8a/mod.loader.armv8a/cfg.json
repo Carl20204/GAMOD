@@ -1458,6 +1458,12 @@
 		"time": 1768176000000
 	},
 	{
+		"label": "怪奇物语3：游戏",
+		"mtime": 1783036800000,
+		"pkg": "com.netflix.NGP.StrangerThings3",
+		"time": 1780272000000
+	},
+	{
 		"label": "伊始之地",
 		"mtime": 1770249600000,
 		"pkg": "com.netflix.NGP.TerraNil",
@@ -2364,5 +2370,5 @@
 		"mtime": 1778544000007
 	}
 	],
-	"time": 1783036800001
+	"time": 1783036800002
 }

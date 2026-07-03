@@ -1,0 +1,54 @@
+{
+  "gms": 1,
+  "info": "重温《怪奇物语》第三季\u003cbr\u003e\u003cbr\u003e单枪匹马或联手合作，化身《怪奇物语》第三季中的 12 个角色闯入“颠倒世界”，在像素化的霍金斯小镇中杀出重围。\u003cbr\u003e\u003cbr\u003e《Stranger Things 3: The Game》是这部热门原创剧集第三季的官方配套游戏。\u003cbr\u003e体验剧集中熟悉的事件，同时开启史无前例的探寻之旅，体验前所未有的角色互动，揭开闻所未闻的惊天秘密！\u003cbr\u003e\u003cbr\u003e这款冒险游戏将独特的复古艺术风格与现代游戏玩法机制相结合，让玩家重温旧梦，同时体验全新剧情。\u003cbr\u003e就如在剧中一样，团队合作是《Stranger Things 3: The Game》的核心。\u003cbr\u003e\u003cbr\u003e 玩家可在本地两人合作模式下组队，从剧集中倍受喜爱的十二个角色中任选一个进行操作，探索霍金斯的世界，解开重重谜团，与“颠倒世界”中的邪恶势力战斗。",
+  "label": "怪奇物语3：游戏",
+  "time": 1780272000008,
+  "lastProm": 0,
+  "lastRec": 0,
+  "mod": true,
+  "mods": [
+    {
+      "descs": [
+        "【自动激活】免网飞会员验证",
+        "【可选菜单】无敌、无CD、满能量、加速跑、物品使用不减"
+      ],
+      "name": "免会员",
+      "pkgname": "com.netflix.NGP.StrangerThings3.gm64",
+      "sandbox": 155,
+      "targetvc": "*",
+      "vercode": 2
+    }
+  ],
+  "pkgname": "com.netflix.NGP.StrangerThings3",
+  "vercode": 28051401,
+  "vername": "1.4.7",
+  "publisher": "Netflix",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
+  "tags": [
+    "中文",
+    "动作",
+    "角色扮演",
+    "付费会员版"
+  ],
+  "downloads": [
+    {
+      "host": "网盘分享 ➡ 角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
+      "var": false
+    }
+  ]
+}
