@@ -1,53 +1,50 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
   "gms": 2,
-  "info": "开罗出品的模拟经营游戏之一，除了传统的模拟经营建设玩法，还专门设计了实时赛车系统",
+  "info": "GOGO！闪电！ 启动加速器，全力开发赛车！\u003cbr\u003e\u003cbr\u003e这是一款可以细细品味的 车队经营游戏 让只属于你的赛车在跑道上飞驰吧\u003cbr\u003e\u003cbr\u003e启动加速器打开所有气阀！这是一款车队经营游戏哦。\u003cbr\u003e\u003cbr\u003e选择喜欢的车型，开始开发！\u003cbr\u003e\u003cbr\u003e培养天才机械师，设计特别的赛车吧。\u003cbr\u003e\u003cbr\u003e也不要忘记训练赛车手。菜鸟般的操作技术可是要往墙上撞的哦。\u003cbr\u003e\u003cbr\u003e根据赛车类型的不同，它们有擅长和不擅长的赛道种类。\u003cbr\u003e\u003cbr\u003e不过可以通过替换部件，来解决这个问题哦！就算在原本不擅长的赛道上，也自信地从头跑到尾吧！\u003cbr\u003e\u003cbr\u003e另外还可以强化部件和赛车哦。\u003cbr\u003e\u003cbr\u003e比赛中还能使用增压专用的燃料。\u003cbr\u003e\u003cbr\u003e看准关键时刻使用，一下子跑完赛道，那可真是酣畅淋漓啊！\u003cbr\u003e\u003cbr\u003e打造最强的车队，努力夺取F1级别的世界第一吧！",
   "label": "冲刺！赛车物语2",
-  "time": 1703030400008,
-  "mtime": 0,
+  "time": 1769385600008,
+  "lastProm": 0,
+  "lastRec": 0,
   "mod": false,
   "mods": [
     {
       "descs": [
-        "请谨慎使用，防止破坏游戏乐趣！"
+        "【可选菜单】金钱、奖币、氮气、科技"
       ],
       "name": "上帝模式",
       "pkgname": "net.kairosoft.android.paddock2_en.gm64",
+      "sandbox": 155,
       "targetvc": "*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "pkgname": "net.kairosoft.android.paddock2_en",
-  "vercode": 163,
-  "vername": "2.6.3",
+  "vercode": 171,
+  "vername": "2.7.1",
   "publisher": "Kairosoft",
-  "signmd5": "9D60707A73290B53F7CFBAD50554C9EB",
+  "s1": [
+    512,
+    1024,
+    2048
+  ],
+  "s2": [
+    2048,
+    4096,
+    8192
+  ],
+  "s3": 4096,
+  "extra": 0,
+  "install": 2,
+  "mod_tvc": 1,
+  "source": 1,
   "tags": [
     "中文",
-    "国际版",
     "模拟经营"
   ],
   "downloads": [
     {
-      "host": "apkpure直链下载[翻墙]",
-      "url": "https://d.apkpure.net/b/APK/net.kairosoft.android.paddock2_en?versionCode\u003d163",
-      "var": false
-    },
-    {
-      "host": "apkpure[翻墙]",
-      "url": "https://apkpure.net/cn/grand-prix-story-2/net.kairosoft.android.paddock2_en/download",
-      "var": true
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/EmURed86",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/fOURoItL",
+      "host": "网盘分享 ➡ 策略 ➡ 模拟经营",
+      "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
   ]
