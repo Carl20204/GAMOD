@@ -1,60 +1,41 @@
 {
-  "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装付费原版\u003cbr\u003e\u003cbr\u003e2。\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：角色扮演】\u003c/a\u003e\u003c/font\u003e里的安装包，是大神订制的付费破解版，无广告，无修改，谷歌市场原版体验",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的付费破解包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e备注：无限跳功能，【下+跳】下平台时会异常，请关闭后再下跳。未装备圣物【金丝布】别乱跳"
-  },
-  "gms": 2,
-  "info": "- 最后几个版本更新全面优化了平板体验！\u003cbr\u003e\u003cbr\u003e- 主机和 PC 版本的相同内容登陆移动设备！\u003cbr\u003e\u003cbr\u003e- 包含从第 1 天开始发布的全部可下载内容。\u003cbr\u003e\u003cbr\u003e- 可搭配游戏手柄或触摸屏游玩。\u003cbr\u003e\n银河恶魔城类型的佳作",
+  "time": 1771977600019,
   "label": "神之亵渎",
-  "time": 1771977600008,
-  "lastProm": 0,
-  "lastRec": 0,
+  "pkgname": "com.thegamekitchen.blasphemousmobile",
+  "vername": "1.9",
+  "vercode": 39,
+  "publisher": "The Game Kitchen",
+  "gms":2,
+  "install":2,
+  "source":4,
+  "extra":0,
+  "mod_tvc":1,
+  "tags": ["中文","动作","银河恶魔城","付费版","支持手柄"],
+  "search": ["渎神","恶魔城","银河战士","银河恶魔城"],
+  "info": "- 最后几个版本更新全面优化了平板体验！<br><br>- 主机和 PC 版本的相同内容登陆移动设备！<br><br>- 包含从第 1 天开始发布的全部可下载内容。<br><br>- 可搭配游戏手柄或触摸屏游玩。<br>\n银河恶魔城类型的佳作",
+  "faqs": {
+    "<font color=\"#ff0000\">常见问题解答</font>":  "开启无限跳后，【下+跳】下平台时会异常，必需先关闭再跳下平台。"
+  },
+  "downloads": [
+    {
+      "host": "网盘分享【动作 ➡ 银河战士恶魔城类】",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+  "archs": ["arm64-v8a"],
   "mod": true,
   "mods": [
     {
+      "name": "上帝模式",
       "descs": [
         "【可选菜单】可调节无伤、无限冲、无限跳、无限钱、技能强化、全装备、全物品、舞空术、祷文无限制、陷阱无效"
       ],
-      "name": "上帝模式",
       "pkgname": "com.thegamekitchen.blasphemousmobile.gm64",
-      "sandbox": 155,
-      "targetvc": "*",
+      "targetvc":"*",
       "vercode": 5
     }
   ],
-  "pkgname": "com.thegamekitchen.blasphemousmobile",
-  "vercode": 39,
-  "vername": "1.9",
-  "publisher": "The Game Kitchen",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    6144,
-    10904
-  ],
-  "s3": 4096,
-  "search": [
-    "渎神",
-    "恶魔城",
-    "银河战士",
-    "银河恶魔城"
-  ],
-  "tags": [
-    "中文",
-    "动作",
-    "银河恶魔城",
-    "付费版",
-    "支持手柄"
-  ],
-  "downloads": [
-    {
-      "host": "网盘分享：角色扮演",
-      "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 6144, 10904],
+  "s3": 4096
 }
