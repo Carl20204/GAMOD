@@ -5,26 +5,26 @@
   "gms": 2,
   "info": "在这款离线动作类 Roguelike 游戏中体验史诗般的战斗，探索像素艺术世界\u003cbr\u003e\u003cbr\u003e第三章来啦！\u003cbr\u003e\u003cbr\u003e“一个神秘的传送门被封印多年后重新开启，诺武有机会拯救被困其中的妹妹，并重建流浪者公会。”\u003cbr\u003e\u003cbr\u003e《无尽的漫游》是一款像素风格的离线 Roguelike 角色扮演游戏。它拥有令人满意的挑战性玩法，无限的重玩价值，以及独立游戏的独特风格。\u003cbr\u003e\u003cbr\u003e终极移动 Roguelike 游戏：\u003cbr\u003e\u003cbr\u003e通过组合武器技能和魔法符文，尝试打造最佳角色配置。解锁独特的角色，升级他们，探索充满凶猛敌人的神秘世界，体验无限的 Roguelike 重玩乐趣。\u003cbr\u003e\u003cbr\u003e极具挑战性的动作战斗：\u003cbr\u003e\u003cbr\u003e体验紧张刺激的实时动作战斗，考验你的技巧。简单灵敏的触控操作，加上智能自动瞄准，让与无情敌人和 Boss 的战斗更加酣畅淋漓。\u003cbr\u003e\u003cbr\u003e惊艳的像素艺术画面：\u003cbr\u003e\u003cbr\u003e探索各种精美的手工像素艺术场景和角色。沉浸于原创配乐之中，它会随着时间和游戏进程无缝切换，完美契合游戏氛围。\u003cbr\u003e\u003cbr\u003e离线游戏\u003cbr\u003e\u003cbr\u003e无需网络连接！随时随地离线畅玩，或使用云存档在所有设备上同步游戏进度。",
   "label": "无尽漫游",
-  "time": 1769904000008,
+  "time": 1783123200008,
   "lastProm": 0,
   "lastRec": 0,
   "mod": true,
   "mods": [
     {
       "descs": [
-        "【免广告】自动激活，所有广告奖励可白嫖",
+        "【自动激活】免广告，所有广告奖励可白嫖",
         "【自选菜单】可调节减伤、增伤、无CD、解锁全角色、收获增加、消费打折等"
       ],
       "name": "上帝模式",
       "pkgname": "com.FirstPickStudios.EndlessWander.gm64",
       "sandbox": 155,
       "targetvc": "*",
-      "vercode": 4
+      "vercode": 5
     }
   ],
   "pkgname": "com.FirstPickStudios.EndlessWander",
-  "vercode": 380,
-  "vername": "3.1.15",
+  "vercode": 396,
+  "vername": "4.0.13",
   "publisher": "First Pick Studios",
   "s1": [
     512,
@@ -48,7 +48,7 @@
   ],
   "downloads": [
     {
-      "host": "网盘分享：动作分类",
+      "host": "网盘分享【动作 ➡ 肉鸽地牢类】",
       "url": "https://share.feijipan.com/s/QMHuh4gc",
       "var": false
     }
