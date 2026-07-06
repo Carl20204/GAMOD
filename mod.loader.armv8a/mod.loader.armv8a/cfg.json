@@ -2345,6 +2345,7 @@
 		"time": 1766016000000
 	},
 	{
+		"group": 3,
 		"label": "僵尸洞穴：重启",
 		"mtime": 1783296000000,
 		"pkg": "ru.antkarlov.zombotron",
