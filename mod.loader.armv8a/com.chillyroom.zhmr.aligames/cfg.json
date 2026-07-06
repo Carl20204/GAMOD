@@ -1,35 +1,36 @@
 {
-  "gms": 1,
-  "info": "凉屋出品的《元气骑士》是地下城肉鸽射击\u003cbr\u003e本作则是\u003cfont color\u003d\"#ff0000\"\u003e地下城肉鸽动作\u003c/font\u003e",
+  "time": 1782864000009,
   "label": "战魂铭人",
-  "time": 1755475200008,
-  "mod": false,
+  "pkgname": "com.chillyroom.zhmr.aligames",
+  "publisher": "凉屋（ChillyRoom）",
+  "vername": "3.3.1",
+  "vercode": 20660,
+  "gms":1,
+  "install":2,
+  "source":5,
+  "extra":0,
+  "mod_tvc":1,
+  "tags": ["中文", "肉鸽", "动作","支持手柄"],
+  "info": "凉屋出品的《元气骑士》是地下城肉鸽射击<br>本作则是<font color=\"#ff0000\">地下城肉鸽动作</font>",
+  "downloads": [
+    {
+      "var" : true,
+      "host": "九游服",
+      "url": "https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=235275&pack.id=48812704"
+    }
+  ],
   "mods": [
     {
-      "descs": [
-        "嘿嘿嘿，懂得都懂"
-      ],
       "name": "用户模式",
+      "descs": [
+        "懂得都懂"
+      ],
       "pkgname": "com.chillyroom.zhmr.aligames.gm64",
-      "targetvc": "*",
+      "targetvc":"*",
       "vercode": 8
     }
   ],
-  "pkgname": "com.chillyroom.zhmr.aligames",
-  "vercode": 20605,
-  "vername": "2.12.0",
-  "publisher": "凉屋（ChillyRoom）",
-  "s3": 0,
-  "tags": [
-    "中文",
-    "肉鸽",
-    "动作"
-  ],
-  "downloads": [
-    {
-      "host": "九游服",
-      "url": "https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId\u003d235275\u0026pack.id\u003d48812704",
-      "var": true
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
