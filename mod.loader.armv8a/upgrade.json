@@ -1,16 +1,16 @@
 {
-  "vername": "2.5.3",
+  "vername": "2.5.4",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 253,
+  "vercode": 254,
   "min_sdk_version": 24,
-  "target_sdk_version": 31,
-  "md5": "FA0D64EE7E46F994E489047B37EB2E30",
-  "size": 4125311,
+  "target_sdk_version": 29,
+  "md5": "9D1499CFEB2D7CE8830F40236DCD69C8",
+  "size": 4126568,
   "logs": {
-    "en": "游戏详情页新增实验室模块，针对魔改安卓，例如ColorOS 16.0.7，可针对性修复部分游戏的特殊异常",
-    "zh": "游戏详情页新增实验室模块，针对魔改安卓，例如ColorOS 16.0.7，可针对性修复部分游戏的特殊异常"
+    "en": "游戏详情页新增实验室模块，针对一加15、红米K70，首次运行植物大战僵尸1、2、3，猫咪大战争等游戏，弹出确认年龄窗口时闪退或卡死问题修复",
+    "zh": "游戏详情页新增实验室模块，针对一加15、红米K70，首次运行植物大战僵尸1、2、3，猫咪大战争等游戏，弹出确认年龄窗口时闪退或卡死问题修复"
   },
   "i": false
 }
