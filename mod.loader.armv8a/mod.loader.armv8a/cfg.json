@@ -143,11 +143,6 @@
 		"time": 1708090415002
 	},
 	{
-		"label": "亚特兰蒂斯入侵者",
-		"pkg": "atlantis.invaders.subnautica.space.shooter",
-		"time": 1708646400002
-	},
-	{
 		"group": 3,
 		"label": "天空鱼传说2",
 		"mtime": 1772409600000,
@@ -159,16 +154,6 @@
 		"mtime": 1765756800000,
 		"pkg": "bartmamzer.powerlust.actionrpg.roguelike",
 		"time": 1761955200000
-	},
-	{
-		"label": "折纸岛：悠游乐园",
-		"pkg": "cn.xishanju.google.origamiparadise",
-		"time": 1707350400002
-	},
-	{
-		"label": "弓箭猎手",
-		"pkg": "co.imba.archero",
-		"time": 1708905600002
 	},
 	{
 		"label": "幸存者传奇",
@@ -386,20 +371,9 @@
 		"time": 1776988800010
 	},
 	{
-		"label": "钟表匠",
-		"pkg": "com.belkatechnologies.clockmaker",
-		"time": 1709596800002
-	},
-	{
 		"label": "自我剑：剑闲置唱首歌",
 		"pkg": "com.betdon.egosword",
 		"time": 1709856000002
-	},
-	{
-		"label": "毁灭战士(DOOM)",
-		"mtime": 1725062300000,
-		"pkg": "com.bethsoft.ubu",
-		"time": 1708473600000
 	},
 	{
 		"label": "辐射避难所",
@@ -651,6 +625,12 @@
 		"time": 1772150400000
 	},
 	{
+		"label": "世界的一半",
+		"pkg": "com.cyberxgames.herotower2",
+		"time": 1778544000007,
+		"mtime": 1778544000007
+	},
+	{
 		"label": "女巫骑士",
 		"pkg": "com.daerigame.witchglobal",
 		"time": 1710288000002
@@ -808,6 +788,12 @@
 		"time": 1772064000000
 	},
 	{
+		"label": "矿石工艺：兽人采矿营地",
+		"mtime": 1782864000009,
+		"pkg": "com.evrika.miner.camp",
+		"time": 1782864000009
+	},
+	{
 		"label": "最终前哨",
 		"mtime": 1759017600000,
 		"pkg": "com.ExabyteGames.FinalOutpost",
@@ -883,18 +869,6 @@
 		"time": 1724803200000
 	},
 	{
-		"label": "循环刷刷刷",
-		"mtime": 1730851200000,
-		"pkg": "com.funovus.pocket.quest",
-		"time": 1725062400000
-	},
-	{
-		"label": "猫meme塔防",
-		"mtime": 1765324800000,
-		"pkg": "com.funovus.wildcastle2",
-		"time": 1764201600000
-	},
-	{
 		"label": "合并花园",
 		"mtime": 1779321600000,
 		"pkg": "com.futureplay.mergematch",
@@ -949,12 +923,6 @@
 		"time": 1698278400002
 	},
 	{
-		"label": "塔防传奇5",
-		"mtime": 1752969600000,
-		"pkg": "com.Gcenter.DefenseLegend.TowerDefense.TD.survivor.V5",
-		"time": 1745107200000
-	},
-	{
 		"label": "塔防传奇4：科幻塔防",
 		"mtime": 1782864000000,
 		"pkg": "com.Gcenter.DefenselegendX.TowerDefense.TD",
@@ -1002,12 +970,6 @@
 		"mtime": 1776729600000,
 		"pkg": "com.habby.archero",
 		"time": 1776643200000
-	},
-	{
-		"label": "卡皮巴拉 Go!",
-		"mtime": 1732147200001,
-		"pkg": "com.habby.capybara",
-		"time": 1732147200000
 	},
 	{
 		"label": "砰砰法师：国际版",
@@ -1502,18 +1464,6 @@
 		"time": 1768953600000
 	},
 	{
-		"label": "地牢杀手",
-		"mtime": 1753833600000,
-		"pkg": "com.nspgames.dungeonslasher",
-		"time": 1753401600000
-	},
-	{
-		"label": "地牢旅者",
-		"mtime": 1744761600000,
-		"pkg": "com.nspgames.ProjectDT",
-		"time": 1744588800000
-	},
-	{
 		"label": "埃比尼泽与无形世界",
 		"mtime": 1760313600000,
 		"pkg": "com.OrbitStudio.EbenezerAndTheInvisibleWorld",
@@ -1755,12 +1705,6 @@
 		"time": 1731369600003
 	},
 	{
-		"label": "梦跃国度",
-		"mtime": 1711843200000,
-		"pkg": "com.protostar.hopper",
-		"time": 1706486400000
-	},
-	{
 		"label": "成长城堡",
 		"mtime": 1767052800000,
 		"pkg": "com.raongames.growcastle",
@@ -1839,12 +1783,6 @@
 		"mtime": 1769472000000,
 		"pkg": "com.RobotGentleman.sixtyParsecs.mobile",
 		"time": 1764720000000
-	},
-	{
-		"label": "赤色要塞/豺狼部队",
-		"mtime": 1768780800000,
-		"pkg": "com.rocket.jackal.squad",
-		"time": 1757548800000
 	},
 	{
 		"label": "黑暗崛起",
@@ -2124,24 +2062,6 @@
 		"time": 1767225600000
 	},
 	{
-		"label": "荒野天空：塔防",
-		"mtime": 1754611200000,
-		"pkg": "com.wildsky.td",
-		"time": 1754611200000
-	},
-	{
-		"label": "合成战争：超级军团指挥官",
-		"mtime": 1733961600000,
-		"pkg": "com.wildsky.wildarmydraft",
-		"time": 1733529600000
-	},
-	{
-		"label": "狂野城堡塔防：王国统治",
-		"mtime": 1763337600000,
-		"pkg": "com.wildsky.wildcastle",
-		"time": 1762905600000
-	},
-	{
 		"label": "全面战争模拟器",
 		"mtime": 1765929600000,
 		"pkg": "com.xd.tabs.google",
@@ -2385,13 +2305,7 @@
 		"mtime": 1767571200000,
 		"pkg": "zombie.survival.dead.shooting",
 		"time": 1764028800000
-		},
-	{
-		"label": "世界的一半",
-		"pkg": "com.cyberxgames.herotower2",
-		"time": 1778544000007,
-		"mtime": 1778544000007
 	}
 	],
-	"time": 1783382400002
+	"time": 1783382400003
 }
