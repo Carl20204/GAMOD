@@ -1348,6 +1348,12 @@
 		"time": 1759449600000
 	},
 	{
+		"label": "足球经理2026",
+		"mtime": 1784505600000,
+		"pkg": "com.netflix.NGP.FootballManagerMobile",
+		"time": 1782864000009
+	},
+	{
 		"label": "水隐之城",
 		"mtime": 1770249600000,
 		"pkg": "com.netflix.NGP.Highwater",
@@ -2301,5 +2307,5 @@
 		"time": 1764028800000
 	}
 	],
-	"time": 1784073600000
+	"time": 1784073600001
 }
