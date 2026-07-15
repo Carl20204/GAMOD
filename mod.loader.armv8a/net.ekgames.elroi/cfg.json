@@ -1,50 +1,41 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
-  "gms": 2,
-  "info": "左右对战类塔防，例如「猫咪大战争」「成长城堡」「合金弹头：进攻/防御」\u003cbr\u003e\u003cbr\u003e本作画风为日韩系，偏二次元，最唯美的画面是在十连抽的时候……",
+  "time": 1783641600009,
   "label": "艾洛伊：防卫战争",
-  "time": 1698278400008,
-  "mtime": 0,
-  "mod": true,
-  "mods": [
-    {
-      "descs": [
-        "自动免广告，所有广告激励可白嫖",
-        "可选菜单可调节召唤同伴的各项属性"
-      ],
-      "name": "上帝模式",
-      "pkgname": "net.ekgames.elroi.gm64",
-      "targetvc": "*",
-      "vercode": 1
-    }
-  ],
   "pkgname": "net.ekgames.elroi",
-  "vercode": 120000,
-  "vername": "1.20.00",
   "publisher": "Ninetap",
-  "signmd5": "E811BBBBC046807DBD7D6A95D66A9AC7",
-  "tags": [
-    "中文",
-    "塔防",
-    "对战"
-  ],
+  "vername": "1.21.06",
+  "vercode": 121060,
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": ["中文","塔防","对战"],
+  "archs": ["arm64-v8a"],
+  "mod": true,
+  "info": "「猫咪大战争」类型<br><br>超轻松对战！踏上探险之旅，开拓新大陆！<br><br>培养强大角色，执行多种战略，开拓新大陆！<br><br>挑战巨型首领并获得超棒遗物。<br><br>★特点<br><br>- 人人都能轻松上手的塔防类角色扮演游戏！<br><br>- 开放多种地区！超过500个关卡！<br><br>- 攻占、防守、计时战，还有首领战！<br><br>- 各种巨型首领！<br><br>- 收集隐藏神器，激活强大神器效果！<br><br>- 超过200位独特角色！<br><br>- 操作简单，角色轻松成长！<br><br>- 开放未知新大陆等您来探索……<br><br>游戏玩法简单，即使是新手也可以轻松享受对战乐趣！<br><br>轻触屏幕即可召唤角色。击败怪物，推倒敌方塔楼，寻找无与伦比的神器。<br><br>收集神器，增强队伍实力，雇佣并培养实力强大的英雄和大师级角色。",
+  "faqs": {
+    "<font color=\"#ff0000\">常见问题解答</font>":  "使用MOD，战力悬殊过大赢局，有封号风险。"
+  },
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/OHUROPi7",
-      "var": false
-    },
-    {
-      "host": "翻墙|直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/net.ekgames.elroi?versionCode\u003d120000\u0026nc\u003darm64-v8a\u0026sv\u003d22",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/cn/elroi-defense-war/net.ekgames.elroi/download",
-      "var": false
+      "host": "网盘分享【塔防】",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
-  ]
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "【自动激活】免广告，所有广告激励可白嫖",
+        "【可选菜单】召唤兽的攻速、移速、攻击距离、召唤费用、CD、增伤、减伤"
+      ],
+      "pkgname": "net.ekgames.elroi.gm64",
+      "targetvc":"*",
+      "vercode": 2
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
