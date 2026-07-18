@@ -1,58 +1,36 @@
 {
-  "faqs": {
-    "游戏更新建议": "中国区玩家，会翻墙，想下载安装谷歌商店原版游戏，但没有谷歌账号，建议使用极光应用商店\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e，非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，又快又全！"
-  },
-  "gms": 2,
-  "info": "素质很高的塔防游戏，【植物大战僵尸】【保卫萝卜】【王国保卫战】这些塔防都在做减法，虽然内容多，但玩法策略性上很简单\u003cbr\u003e\u003cbr\u003e本作除了内容很多（剧情、地图、建筑、技能、卡片等等），玩法策略性上更是设计了很多花样，初次玩可能会有点懵，但上手后，就算开着MOD玩，也不会出现无聊、加速跳过的感觉",
+  "time": 1677888000019,
   "label": "残缺宇宙：塔防",
-  "time": 1677888000008,
+  "pkgname": "com.jinthreestudio.brokenuniverse",
+  "vername": "1.0.9",
+  "vercode": 54,
+  "publisher": "Jinthree Studio",
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": ["中文","塔防"],
+  "info": "请享乐充满独具特色的全新塔防游戏<br><br>独具特色的策略防御游戏闪亮登场！<br><br>请筑起壁垒堵住道路，或者修建迷宫来抵御怪兽的攻击！根据您的策略打法，丰富多彩的关卡会随之发生变化。<br><br>■ 策略塔防游戏<br><br>请在馈赠全新玩法的防御游戏中，尽情展开自己的专属策略，赢得战斗吧！可以按照您的想法和喜好进行游戏。从着陆地点的选择开始，可以按照自己的兴趣自由发挥哦！<br><br>■ 独具特色的玩法<br><br>玩家可以实施用壁垒堵住道路，在其后方顶住攻势的策略，或者让怪兽绕远路，利用远程攻击消灭怪兽的策略。在这基础上，利用独具特色的防御塔和壁垒，成就自己丰富多彩的玩法和挑战！用强大的击退术让怪兽无法靠近，或者扰乱怪兽们的秩序，使其无法正常行动，或者着重于防御和恢复，建立攻不破的防线，都是可取的策略。用强大的范围攻击智取聚集在一起的怪兽，或者利用远程射击逐个儿击杀怪兽，也是不错的选择哦！<br><br>■ 多样化的内容<br><br>＊多彩多姿的行星<br><br>＊升级与技术<br><br>＊各种模块与融合塔<br><br>＊强大的技能与高效率的道具",
+  "downloads": [
+    {
+      "host": "网盘分享【塔防】",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
   "mod": true,
   "mods": [
     {
-      "descs": [
-        "可选菜单，可调节金币、零件、票券等各项游戏内经济体系的收益率与折扣，可调节战场建造资源消耗比"
-      ],
       "name": "上帝模式",
+      "descs": [
+        "【可选菜单】金币、零件、票券等各项游戏内经济体系的收益率与折扣，可调节战场建造资源消耗比"
+      ],
       "pkgname": "com.jinthreestudio.brokenuniverse.gm64",
-      "targetvc": "*",
+      "targetvc":"*",
       "vercode": 1
     }
   ],
-  "pkgname": "com.jinthreestudio.brokenuniverse",
-  "vercode": 54,
-  "vername": "1.0.9",
-  "publisher": "Jinthree Studio",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    6144,
-    10904
-  ],
-  "s3": 1024,
-  "tags": [
-    "中文",
-    "单机",
-    "塔防"
-  ],
-  "downloads": [
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/AcAyQw9W",
-      "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/OHUROPi7",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/broken-universe-tower-defense/com.jinthreestudio.brokenuniverse/download",
-      "var": true
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
