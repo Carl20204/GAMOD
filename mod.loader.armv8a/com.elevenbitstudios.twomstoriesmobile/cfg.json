@@ -1,59 +1,37 @@
 {
-  "gms": 1,
-  "info": "一位父亲，在战争中拯救女儿的的故事\u003cbr\u003e\u003cbr\u003e网盘分享的版本，为大神订制版，国内手机也能正常玩",
+  "time": 1759276800009,
   "label": "这是我的战争：父亲的承诺",
-  "time": 1698624000008,
+  "pkgname": "com.elevenbitstudios.twomstoriesmobile",
+  "publisher": "11 bit studios",
+  "vername": "1.0.4",
+  "vercode": 291,
+  "gms":2,
+  "install":2,
+  "source":4,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": ["中文","生存","付费版"],
+  "info": "指挥幸存者，并打理避难所。打造武器和物品。<br><br>通过《这是我的战争：故事集第一章：父亲的承诺》拓展《这是我的战争》之旅。这是一款独立游戏，既提供了全新且独特的体验，又包含了额外的游戏机制和数小时引人深思的游戏内容。它讲述了一个家庭在绝望与残酷的时代中，努力守护最后一丝人性的故事。<br><br>亚当—一位渴望带着女儿远离战争恐惧、逃出围城的父亲。跟随他们的脚步，感受发生在最黑暗的日子里、充斥着爱恨得失的故事。",
+  "downloads": [
+    {
+      "host": "网盘分享【生存】",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
   "mod": true,
   "mods": [
     {
-      "descs": [
-        "自动激活完整版，所有DLC解锁",
-        "可选菜单，自定义调节时间、物资、背包、移动速度等"
-      ],
       "name": "上帝模式",
+      "descs": [
+        "【自动激活】完整版，所有DLC解锁",
+        "【可选菜单】调节时间、物资、背包、移动速度等"
+      ],
       "pkgname": "com.elevenbitstudios.twomstoriesmobile.gm64",
-      "targetvc": "*",
+      "targetvc":"*",
       "vercode": 1
     }
   ],
-  "pkgname": "com.elevenbitstudios.twomstoriesmobile",
-  "vercode": 291,
-  "vername": "1.0.4",
-  "publisher": "11 bit studios",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    6144,
-    10904
-  ],
-  "s3": 4608,
-  "tags": [
-    "中文",
-    "单机",
-    "生存",
-    "收集",
-    "剧情",
-    "付费版"
-  ],
-  "downloads": [
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/h2C2gW6I",
-      "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/K1AbQBjG",
-      "var": false
-    },
-    {
-      "host": "翻墙|直链页",
-      "url": "https://apkpure.net/cn/this-war-of-mine/com.elevenbitstudios.twomstoriesmobile",
-      "var": false
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
