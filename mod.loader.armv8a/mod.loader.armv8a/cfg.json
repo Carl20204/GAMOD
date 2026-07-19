@@ -1813,6 +1813,12 @@
 		"time": 1775001600000
 	},
 	{
+		"label": "塔之征服",
+		"mtime": 1784160000000,
+		"pkg": "com.sgiggle.towerconquest",
+		"time": 1772323200009
+	},
+	{
 		"label": "暗影战争",
 		"mtime": 1725062400010,
 		"pkg": "com.shadow.war.legend.slime.idle.rpg.survival.game",
@@ -2122,14 +2128,14 @@
 		"label": "猫咪大战争:日版",
 		"mtime": 1783036800000,
 		"pkg": "jp.co.ponos.battlecats",
-		"time": 1782691200010
+		"time": 1782691200020
 	},
 	{
 		"group": 9,
 		"label": "猫咪大战争",
 		"mtime": 1781049600000,
 		"pkg": "jp.co.ponos.battlecatstw",
-		"time": 1781049600007
+		"time": 1781049600010
 	},
 	{
 		"label": "恶魔城：月下夜想曲",
@@ -2165,7 +2171,7 @@
 		"label": "艾洛伊：防卫战争",
 		"mtime": 1784505600000,
 		"pkg": "net.ekgames.elroi",
-		"time": 1783641600009
+		"time": 1783641600010
 	},
 	{
 		"label": "死神",
@@ -2299,5 +2305,5 @@
 		"time": 1764028800000
 	}
 	],
-	"time": 1784419200000
+	"time": 1784419200001
 }

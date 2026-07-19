@@ -1,53 +1,35 @@
 {
-  "gms": 1,
-  "info": "当前版本共有871张猫卡",
+  "time": 1782691200020,
   "label": "猫咪大战争:日版",
-  "time": 1782691200018,
-  "lastProm": 0,
-  "lastRec": 0,
-  "mod": false,
+  "pkgname": "jp.co.ponos.battlecats",
+  "publisher": "PONOS",
+  "vername": "15.5.0",
+  "vercode": 1505000,
+  "gms":1,
+  "install":2,
+  "mod_tvc":2,
+  "source":1,
+  "extra":0,
+  "tags": ["日文","塔防","对战塔防","恶搞"],
+  "info": "当前版本共有871张猫卡",
+  "downloads": [
+    {
+      "host": "网盘分享【塔防 ➡ 对战塔防】",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
   "mods": [
     {
+      "name": "上帝模式",
       "descs": [
         "【可选菜单】加速，全物品，全卡牌，满级，无限猫罐头"
       ],
-      "name": "上帝模式",
       "pkgname": "jp.co.ponos.battlecats.gm64",
-      "sandbox": 155,
-      "targetvc": "1505000",
+      "targetvc":"1505000",
       "vercode": 13
     }
   ],
-  "pkgname": "jp.co.ponos.battlecats",
-  "vercode": 1505000,
-  "vername": "15.5.0",
-  "publisher": "PONOS",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    4096,
-    8192
-  ],
-  "s3": 4096,
-  "extra": 0,
-  "install": 2,
-  "mod_tvc": 2,
-  "source": 1,
-  "tags": [
-    "日文",
-    "塔防",
-    "对战塔防",
-    "恶搞"
-  ],
-  "downloads": [
-    {
-      "host": "网盘分享 ➡ 塔防",
-      "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
