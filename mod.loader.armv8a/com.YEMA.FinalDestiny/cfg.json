@@ -1,50 +1,37 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
-  "gms": 2,
-  "info": "韩国的游戏，标准的韩系二次元像素画风，有其它同类手游很少见的搓照连招体系",
+  "time": 1772323200009,
   "label": "最终命运：穿越世界的尽头",
-  "time": 1706313600008,
-  "mtime": 0,
-  "mod": true,
-  "mods": [
-    {
-      "descs": [
-        "自动免广告，所有广告激励可白嫖",
-        "可选菜单可自由加钱，调节战斗爽度"
-      ],
-      "name": "上帝模式",
-      "pkgname": "com.YEMA.FinalDestiny.gm64",
-      "targetvc": "*",
-      "vercode": 1
-    }
-  ],
   "pkgname": "com.YEMA.FinalDestiny",
-  "vercode": 366,
-  "vername": "1.74",
   "publisher": "YEMA GAMES",
-  "signmd5": "FEF1DB66618131282C599D758CB60DEB",
-  "tags": [
-    "中文",
-    "动作",
-    "ACT"
-  ],
+  "vername": "1.80",
+  "vercode": 404,
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": ["中文","动作","角色扮演"],
+  "mod": true,
+  "info": "动作RPG！与邪恶的怪物战斗！少女守护婴儿的激战<br><br>最终命运 - 超越世界尽头<br><br>一个婴儿意外被发现。<br><br>女孩必须保护婴儿。这绝非易事。<br><br>动作角色扮演游戏 - 最终命运<br><br>加入女孩和婴儿的旅程，探索世界尽头。<br><br>消灭所有怪物，感受动态战斗系统。<br><br>- 移动和闪避，双击方向键快速移动。<br><br>在战斗中，使用闪避检定来躲避敌人的攻击至关重要。<br><br>- 攻击<br><br>只需按住按钮即可继续攻击。<br><br>使用连击快速击倒敌人！<br><br>- 不惜一切代价守护婴儿！<br><br>被敌人攻击时，你有可能会失去婴儿。<br><br>如果失去婴儿，在找到它之前你将无法攻击！<br><br>- 技能<br><br>通过简单的解谜关卡可以获得技能书。<br><br>获得所有技能符文将提升你的技能！<br><br>- 矿山<br><br>开采强化石并使用它们来升级装备。<br><br>我的是自动播放的。<br><br>- 物品<br><br>物品的等级和排名对物品的影响很大。<br><br>追寻终极古代传奇物品！<br><br>- 挑战者之塔<br><br>你可以利用在挑战者之塔中获得的经验来升级挑战者。<br><br>每次升级，你都会获得挑战者积分。<br><br>积分可以提升玩家的能力值。<br><br>激烈的行动！消灭所有敌人！<br><br>最终命运——超越世界尽头",
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/PuURFwt8",
-      "var": false
-    },
-    {
-      "host": "翻墙|直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.YEMA.FinalDestiny?versionCode\u003d366\u0026nc\u003darm64-v8a\u0026sv\u003d19",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/cn/final-destiny/com.YEMA.FinalDestiny/download",
-      "var": false
+      "host": "网盘分享【动作 ➡ 角色扮演】",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
-  ]
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "【自动激活】免广告，所有广告激励可白嫖",
+        "【可选菜单】加钱，调节战斗爽度"
+      ],
+      "pkgname": "com.YEMA.FinalDestiny.gm64",
+      "targetvc":"*",
+      "vercode": 2
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
