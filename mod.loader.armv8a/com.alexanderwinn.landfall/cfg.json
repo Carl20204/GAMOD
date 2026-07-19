@@ -1,45 +1,36 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
-  "gms": 1,
-  "info": "在火星上建设太空基地。\u003cbr\u003e模拟城市类型，喜欢建设的进",
+  "time": 1764547200009,
   "label": "飞跃星球",
-  "time": 1674777600008,
+  "pkgname": "com.alexanderwinn.landfall",
+  "vername": "2.92",
+  "vercode": 183,
+  "publisher": "Tilting Point",
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": ["中文","模拟经营","策略"],
+  "info": "将生命带到另一个世界，在太空中建造人类定居点<br><br>由《TerraGenesis》的制作团队打造的《TERRAGENESIS: OPERATION LANDFALL》是一款太空城建生存游戏，你可以在其中建造、设计并管理属于自己的太空城市，为人类的存续而奋斗。在这款游戏里，你将为异星注入生机，为人类铺就全新的未来之路。建设并扩张你的城市，助力它蓬勃发展；升级城市等级、搭建全新建筑、统筹各类资源，通过修建丰富多样的设施，让居民保持愉悦的状态与健康的体魄。在这款生存城建模拟游戏中，人类的首个太空文明将由你亲手缔造。<br><br>创造生命，为人类构建全新世界<br>在游戏中，你将在太空创建并搭建一个全新的社会。脱离地球后，建设、培育并管理水、氧气与食物资源，是人类存续的必要条件。这款游戏依托真实的NASA科学依据，支持你在宇宙中探索、创建并扩张城市。在荒芜恶劣的星球上拓展你的文明影响力与生存能力，实现超乎想象的目标！<br><br>免费城建模拟游戏：根据不断壮大的社区需求与生存目标，平衡各类资源的生产节奏！<br>向宇宙各处播撒生命：在这款城建模拟游戏中，将火星、太空及其他荒芜星球改造为繁荣的现代文明！<br>制定并调整策略，攻克重重难关以维系太空生命：保障珍贵物资的供给与安全，让你亲手打造的原创城市中的居民得以生存！<br>探索、建设、求生，在外太空开拓全新城市与世界：宇宙始终在不断演化，而你正是这场变革的参与者！<br>向全新世界扩张人口<br>未来的核心主题是演化与存续。你将借助最新技术完成建设与资源生产，把生命带到不同的星球。在这款城建生存模拟游戏中，让你的社会人口与城市版图在整个银河系中不断发展壮大！<br><br>参与随机事件<br>太空充满了高度的不可预测性，这要求人们采用全新的生存方式。从搭建全新城市到守护人类存续，《TERRAGENESIS: OPERATION LANDFALL》是一款生存城建模拟游戏，你可以在其中建设、管理并引领属于自己的外太空城市。",
+  "downloads": [
+    {
+      "host": "网盘分享【策略 ➡ 模拟经营】",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
   "mod": true,
   "mods": [
     {
-      "descs": [
-        "可选菜单，可调节资源，调节火箭，调节建筑。实在玩累了，就稍微开个功能算了"
-      ],
       "name": "上帝模式",
+      "descs": [
+        "【可选菜单】调节资源收益，火箭发射，建筑需求。"
+      ],
       "pkgname": "com.alexanderwinn.landfall.gm64",
-      "targetvc": "*",
-      "vercode": 1
+      "targetvc":"*",
+      "vercode": 2
     }
   ],
-  "pkgname": "com.alexanderwinn.landfall",
-  "vercode": 174,
-  "vername": "2.92",
-  "publisher": "Tilting Point",
-  "signmd5": "DFCDACD495B86412AA2581C5269CAE45",
-  "tags": [
-    "中文",
-    "单机",
-    "模拟经营",
-    "建设",
-    "经典"
-  ],
-  "downloads": [
-    {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.alexanderwinn.landfall?versionCode\u003d174\u0026nc\u003d\u0026sv\u003d26",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/terragenesis-landfall/com.alexanderwinn.landfall/download",
-      "var": false
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
