@@ -1,57 +1,35 @@
 {
-  "gms": 1,
-  "info": "Roguelike玩法加英雄培养和装备收集的爆肝之旅",
+  "time": 1784246400009,
   "label": "地牢求生2：巨像传说",
-  "time": 1724803200008,
-  "mod": false,
-  "mods": [
-    {
-      "descs": [
-        "可选菜单：可调节游戏速度，调节玩家与敌人的各项属性"
-      ],
-      "name": "上帝模式",
-      "pkgname": "com.frozenfrog.Dungeon2.gm64",
-      "targetvc": "*",
-      "vercode": 1
-    }
-  ],
   "pkgname": "com.frozenfrog.Dungeon2",
-  "vercode": 2020403,
-  "vername": "2.2.4.3",
   "publisher": "Frozen Frog",
-  "s1": [
-    256,
-    512,
-    1024
-  ],
-  "s2": [
-    1024,
-    2048,
-    4096
-  ],
-  "s3": 536,
-  "tags": [
-    "中文",
-    "单机",
-    "地牢",
-    "剧情",
-    "肉鸽"
-  ],
+  "vername": "2.3.1.7",
+  "vercode": 2030107,
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": ["中文","地牢","角色扮演","肉鸽"],
+  "info": "數值少一點，策略多一點。套路少一點，樂趣多一點。<br><br>可爆肝，可休閒，不逼氪，不內卷。<br><br>如果你在尋找一款能夠內容足夠豐富，但是又不僅僅是依賴數值堆砌的策略類RPG，就是這兒了，沒錯的！<br><br>1、Roguelike加橫版策略類遊戲，你將遭遇豐富到爆的敵人挑戰：7種地牢，40+怪物頭目，100+怪物陣容。<br><br>2、劇情模式、隨機地圖模式、試煉模式、無盡關挑戰，平衡PVP天梯賽，應有盡有，份大量足!<br><br>3、地圖中可隨機遭遇100+種設備和事件，驚喜不斷，驚嚇連連。<br><br>4、多達100+英雄特質，60+魔改技能，打造只屬於你的個性英雄。<br><br>5、海量裝備，60+套裝盡享刷刷刷的樂趣!",
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/f8USV6Yl",
-      "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/NjBeEeu5",
-      "var": false
-    },
-    {
-      "host": "下载页[翻墙]",
-      "url": "https://apkpure.net/cn/dungeon-survival-2/com.frozenfrog.Dungeon2/download",
-      "var": true
+      "host": "网盘分享【角色扮演】",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
-  ]
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "【可选菜单】游戏速度，玩家与敌人的8项属性值"
+      ],
+      "pkgname": "com.frozenfrog.Dungeon2.gm64",
+      "targetvc":"*",
+      "vercode": 2
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
