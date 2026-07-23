@@ -1579,6 +1579,13 @@
 		"time": 1759276800009
 	},
 	{
+		"group": 3,
+		"label": "饥荒：联机版",
+		"mtime": 1785888000000,
+		"pkg": "com.playdigious.dst",
+		"time": 1784678400009
+	},
+	{
 		"label": "无尽地牢",
 		"mtime": 1765670400000,
 		"pkg": "com.playdigious.dungeonoftheendless",
@@ -2307,5 +2314,5 @@
 		"time": 1764028800000
 	}
 	],
-	"time": 1784678400001
+	"time": 1784764800000
 }
