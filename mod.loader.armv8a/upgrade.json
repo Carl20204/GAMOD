@@ -1,13 +1,13 @@
 {
-  "vername": "2.5.4",
+  "vername": "2.5.5",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 254,
+  "vercode": 255,
   "min_sdk_version": 24,
   "target_sdk_version": 29,
-  "md5": "9D1499CFEB2D7CE8830F40236DCD69C8",
-  "size": 4126568,
+  "md5": "92128FAE7E19F97EE4E929869A4683C8",
+  "size": 4142888,
   "logs": {
     "en": "游戏详情页新增实验室模块，针对一加15、红米K70，首次运行植物大战僵尸1、2、3，猫咪大战争等游戏，弹出确认年龄窗口时闪退或卡死问题修复",
     "zh": "游戏详情页新增实验室模块，针对一加15、红米K70，首次运行植物大战僵尸1、2、3，猫咪大战争等游戏，弹出确认年龄窗口时闪退或卡死问题修复"
