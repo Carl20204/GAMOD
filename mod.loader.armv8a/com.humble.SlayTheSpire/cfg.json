@@ -1,46 +1,36 @@
 {
-  "gms": 1,
-  "info": "肉鸽卡牌，爬塔模式的开创者，跟风者无数。国内版和谐后译名【尖塔奇兵】",
+  "time": 1784937600009,
   "label": "杀戮尖塔",
-  "time": 1712102400008,
-  "mod": true,
-  "mods": [
-    {
-      "descs": [
-        "可选菜单，可调节金币获取、折扣、无伤、能量无限"
-      ],
-      "name": "上帝模式",
-      "pkgname": "com.humble.SlayTheSpire.gm64",
-      "targetvc": "*",
-      "vercode": 1
-    }
-  ],
   "pkgname": "com.humble.SlayTheSpire",
-  "vercode": 2034,
-  "vername": "2.3.15",
   "publisher": "Humble Games",
-  "s3": 0,
-  "tags": [
-    "中文",
-    "卡牌",
-    "肉鸽",
-    "DBG"
-  ],
+  "vername": "2.6.1",
+  "vercode": 2057,
+  "gms":1,
+  "source":2,
+  "install":2,
+  "mod_tvc":1,
+  "extra":0,
+  "mod": true,
+  "tags": ["中文","卡牌","肉鸽","策略","付费版","DBG"],
+  "info": "肉鸽卡牌，爬塔模式的开创者，跟风者无数。国内版和谐后译名【尖塔奇兵】",
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/f8USV6Yl",
-      "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/NjBeEeu5",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://play.google.com/store/apps/details?id\u003dcom.humble.SlayTheSpire",
-      "var": false
+      "host": "网盘分享【策略 ➡ 卡牌】",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
-  ]
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "【可选菜单】金币获取、折扣、无伤、能量无限"
+      ],
+      "pkgname": "com.humble.SlayTheSpire.gm64",
+      "targetvc":"*",
+      "vercode": 2
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }

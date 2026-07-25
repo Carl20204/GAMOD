@@ -487,14 +487,12 @@
 		"time": 1708992000002
 	},
 	{
-		"group": 9,
 		"label": "元气骑士",
 		"mtime": 1773446400000,
 		"pkg": "com.ChillyRoom.DungeonShooter",
 		"time": 1770163200000
 	},
 	{
-		"group": 3,
 		"label": "绝地鸭卫：国际版",
 		"mtime": 1775606400000,
 		"pkg": "com.chillyroom.jdyw.gp",
@@ -534,7 +532,6 @@
 		"time": 1761955200009
 	},
 	{
-		"group": 3,
 		"label": "星露谷物语",
 		"mtime": 1727136000000,
 		"pkg": "com.chucklefish.stardewvalley",
@@ -1092,10 +1089,11 @@
 		"time": 1776470400000
 	},
 	{
+		"group": 6,
 		"label": "杀戮尖塔",
-		"mtime": 1730419200000,
+		"mtime": 1787616000000,
 		"pkg": "com.humble.SlayTheSpire",
-		"time": 1712102400000
+		"time": 1784937600009
 	},
 	{
 		"group": 6,
@@ -2326,5 +2324,5 @@
 		"time": 1764028800000
 	}
 	],
-	"time": 1784851200001
+	"time": 1784937600000
 }
