@@ -1,22 +1,22 @@
 {
-  "time": 1782864000009,
+  "time": 1784937600009,
   "label": "杜里亚诺：榴莲战神",
   "pkgname": "com.adisoft.duriano",
   "publisher": "Adisoft Gaming",
-  "vername": "1.1.3",
-  "vercode": 50,
+  "vername": "1.2.1",
+  "vercode": 59,
   "gms":2,
   "install":2,
   "source":1,
-  "extra":0,
   "mod_tvc":1,
+  "extra":0,
   "tags": ["中文","射击","肉鸽","幸存者","付费完整版"],
   "archs": ["arm64-v8a"],
   "mod": true,
   "info": "《Duriano》讲述了一个脑洞大开的故事：<br>在“诸神黄昏”之后，世界重启，但生命都被诅咒，变成了形态各异的蔬菜水果。<br><br>你将扮演一位复活为榴莲的战士，肩负使命前往火焰之地“穆斯贝尔海姆”，寻找解除诅咒的方法，并挑战众神与巨人。",
   "downloads": [
     {
-      "host": "网盘分享【射击 ➡ 肉鸽射击：幸存者】",
+      "host": "网盘分享【射击 ➡ 幸存者】",
       "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
   ],
@@ -29,7 +29,7 @@
       ],
       "pkgname": "com.adisoft.duriano.gm64",
       "targetvc":"*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "s1": [512, 1024, 2048],
