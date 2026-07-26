@@ -1,0 +1,38 @@
+{
+  "time": 1780272000009,
+  "label": "成长僵尸",
+  "pkgname": "com.pixelstar.GrowZombies",
+  "vername": "36.9.7",
+  "vercode": 2026051402,
+  "publisher": "pixelstar",
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": [ "中文", "休闲","合成", "合并", "放置/挂机" ],
+  "search": [ "城主"],
+  "info": "[更新]<br>- 新增幸存者<br>- 新增幸存者收藏<br>- 新增幸存者召唤<br>- 平衡性调整<br><br>通过合成僵尸 创建自己强大的僵尸部队！<br><br>被遗弃+综合+策略游戏<br><br>上瘾综合战略战<br><br>创造和培养僵尸，征服世界<br><br>将僵尸们合成,开发出更强地僵尸<br><br>强化了各种武器,坦克,宇宙飞船,<br><br>\"请捕猎外星人、突然变异!\"<br><br>[游戏特点]<br><br>◈合成僵尸,开发出高等级的僵尸<br><br>◈唤醒僵尸,学习特殊能力<br><br>◈建立僵尸部队开始打猎<br><br>◈各种老板、外星人、突然变异<br><br>◈研究所开发出古代遗迹,提高僵尸的能力<br><br>◈多种类型的僵尸(外星人僵尸、特大僵尸、表彰僵尸等)",
+  "downloads": [
+    {
+      "host": "网盘分享【休闲 ➡ 放置挂机】",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+  "mod": true,
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "【自动激活】免广告，所有激励广告点击白送",
+        "【可选菜单】狩猎金币、宝石、材料收益大幅提高"
+      ],
+      "pkgname": "com.pixelstar.GrowZombies.gm64",
+      "targetvc":"*",
+      "vercode": 1
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
+}
