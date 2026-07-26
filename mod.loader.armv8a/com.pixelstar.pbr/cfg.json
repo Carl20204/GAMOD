@@ -1,46 +1,38 @@
 {
-  "gms": 2,
-  "info": "可以看作《像素刀片M》2代，大幅优化了画质，完善了各项细节，喜欢PixelStar系列游戏的不可不玩。",
+  "time": 1784937600009,
   "label": "像素刀片：革命",
-  "time": 1721692800008,
-  "mod": true,
-  "mods": [
-    {
-      "descs": [
-        "自动激活免广告",
-        "可选菜单可调节战斗速度与技能，加金币、宝石、钻石等"
-      ],
-      "name": "上帝模式",
-      "pkgname": "com.pixelstar.pbr.gm64",
-      "targetvc": "*",
-      "vercode": 1
-    }
-  ],
   "pkgname": "com.pixelstar.pbr",
-  "vercode": 2024072301,
-  "vername": "2.3.5",
   "publisher": "pixelstar",
-  "tags": [
-    "中文",
-    "动作",
-    "收集",
-    "养成"
-  ],
+  "vername": "2.5.0",
+  "vercode": 2026072408,
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "mod": true,
+  "tags": ["中文","动作","放置/挂机","休闲"],
+  "archs": ["arm64-v8a"],
+  "info": "征服地牢并收集各种传奇武器，打造最好的套装。<br><br>[游戏特色]<br><br>-激动人心的动作<br><br>-各种武器装备<br><br>-各种技能和特殊能力<br><br>-使用生产系统进行武器生产<br><br>-采矿系统<br><br>-英雄系统（各种统计数据）",
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/iQBzg6lM",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/fPBzg9Hw",
-      "var": false
-    },
-    {
-      "host": "下载页|翻墙",
-      "url": "https://apkpure.net/cn/pixel-blade-r-revolution/com.pixelstar.pbr/download",
-      "var": false
+      "host": "网盘分享【休闲 ➡ 放置挂机】",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
-  ]
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "【自动激活】免广告",
+        "【可选菜单】战斗速度、技能CD，金币、蓝宝石、红宝石、黑宝石、各种材料额外收益"
+      ],
+      "pkgname": "com.pixelstar.pbr.gm64",
+      "targetvc":"*",
+      "vercode": 2
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
