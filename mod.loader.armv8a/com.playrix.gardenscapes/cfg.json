@@ -1,10 +1,10 @@
 {
-  "time": 1783468800009,
+  "time": 1785171600009,
   "label": "梦幻花园",
   "pkgname": "com.playrix.gardenscapes",
   "publisher": "Playrix",
-  "vername": "9.7.5",
-  "vercode": 109750,
+  "vername": "9.8.0",
+  "vercode": 109800,
   "gms":1,
   "install":2,
   "source":1,
@@ -26,8 +26,8 @@
         "【可选菜单】金币收益率、道具无消耗、加速"
       ],
       "pkgname": "com.playrix.gardenscapes.gm64",
-      "targetvc":"109750",
-      "vercode": 30
+      "targetvc":"109800",
+      "vercode": 32
     }
   ],
   "s1": [512, 1024, 2048],
