@@ -1,5 +1,5 @@
 {
-  "time": 1785024000009,
+  "time": 1785024000019,
   "label": "饥荒：联机版",
   "pkgname": "com.playdigious.dst",
   "publisher": "playdigious",
@@ -26,7 +26,7 @@
       ],
       "pkgname": "com.playdigious.dst.gm64",
       "targetvc":"*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "s1": [512, 1024, 2048],
