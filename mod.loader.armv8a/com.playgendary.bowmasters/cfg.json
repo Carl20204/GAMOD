@@ -1,55 +1,37 @@
 {
-  "gms": 1,
-  "info": "注意1：愤怒的小鸟休闲玩法，但游戏过于血腥，未成年入坑需谨慎\u003cbr\u003e\u003cbr\u003e注意2：此类游戏语言不影响游戏乐趣，想玩中文的，可以点击发行商标签找终极版玩\u003cbr\u003e\u003cbr\u003e畅玩顶级箭术游戏\u003cbr\u003e\u003cbr\u003e全新版本的举世闻名的弓箭手多人游戏 - 精彩的射击目标和射击游戏，弓箭手为您整装待发:\u003cbr\u003e\u003cbr\u003e• 60名免费全方位疯狂角色！\u003cbr\u003e\u003cbr\u003e• 在线倍增器！\u003cbr\u003e\u003cbr\u003e• 大混乱、配布娃娃系统的事故中60种不同武器！\u003cbr\u003e\u003cbr\u003e• 与您的朋友进行史诗般决斗。带上您的伙伴，展示自己的价值！\u003cbr\u003e\u003cbr\u003e• 多种游戏模式。射击鸟或水果，在决斗中打败敌人，获取钱财！\u003cbr\u003e\u003cbr\u003e• 凭借精湛的技能即可获取源源不断的奖赏！\u003cbr\u003e\u003cbr\u003e乐趣多多，不要错过！抢先获取！",
+  "time": 1785369600009,
   "label": "弓箭大师",
-  "time": 1778198400008,
-  "lastProm": 0,
-  "lastRec": 0,
+  "pkgname": "com.playgendary.bowmasters",
+  "publisher": "Playgendary Limited",
+  "vername": "11.5.0",
+  "vercode": 14787,
+  "gms":1,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
   "mod": true,
+  "tags": ["英文","休闲","血腥","搞笑","弹道射击"],
+  "info": "注意1：愤怒的小鸟休闲玩法，但游戏过于血腥，未成年入坑需谨慎<br><br>注意2：此类游戏语言不影响游戏乐趣，想玩中文的，可以点击发行商标签找终极版玩<br><br>畅玩顶级箭术游戏<br><br>全新版本的举世闻名的弓箭手多人游戏 - 精彩的射击目标和射击游戏，弓箭手为您整装待发:<br><br>• 60名免费全方位疯狂角色！<br><br>• 在线倍增器！<br><br>• 大混乱、配布娃娃系统的事故中60种不同武器！<br><br>• 与您的朋友进行史诗般决斗。带上您的伙伴，展示自己的价值！<br><br>• 多种游戏模式。射击鸟或水果，在决斗中打败敌人，获取钱财！<br><br>• 凭借精湛的技能即可获取源源不断的奖赏！<br><br>乐趣多多，不要错过！抢先获取！",
+  "downloads": [
+    {
+      "host": "网盘分享：休闲 ➡ 射击",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
   "mods": [
     {
+      "name": "上帝模式",
       "descs": [
         "【自动激活】免广告",
         "【可选菜单】无伤、全角色解锁等"
       ],
-      "name": "上帝模式",
       "pkgname": "com.playgendary.bowmasters.gm64",
-      "sandbox": 155,
-      "targetvc": "*",
-      "vercode": 2
+      "targetvc":"*",
+      "vercode": 3
     }
   ],
-  "pkgname": "com.playgendary.bowmasters",
-  "vercode": 14437,
-  "vername": "11.1.6",
-  "publisher": "Playgendary Limited",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    4096,
-    8192
-  ],
-  "s3": 4096,
-  "extra": 0,
-  "install": 2,
-  "mod_tvc": 1,
-  "source": 1,
-  "tags": [
-    "英文",
-    "休闲",
-    "血腥",
-    "搞笑",
-    "弹道射击"
-  ],
-  "downloads": [
-    {
-      "host": "网盘分享：创意分类",
-      "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
