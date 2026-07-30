@@ -1430,6 +1430,13 @@
 		"time": 1780272000000
 	},
 	{
+		"group": 6,
+		"label": "街霸4：冠军版",
+		"mtime": 1786320000000,
+		"pkg": "com.netflix.NGP.StreetFighterIVCE",
+		"time": 1785369600009
+	},
+	{
 		"label": "伊始之地",
 		"mtime": 1770249600000,
 		"pkg": "com.netflix.NGP.TerraNil",
@@ -2330,5 +2337,5 @@
 		"time": 1764028800000
 	}
 	],
-	"time": 1785369600002
+	"time": 1785369600003
 }
