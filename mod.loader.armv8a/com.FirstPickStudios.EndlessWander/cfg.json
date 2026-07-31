@@ -1,15 +1,15 @@
 {
-  "time": 1784246400009,
+  "time": 1785484860009,
   "label": "无尽漫游",
   "pkgname": "com.FirstPickStudios.EndlessWander",
   "publisher": "First Pick Studios",
-  "vername": "4.0.20",
-  "vercode": 405,
+  "vername": "4.0.23",
+  "vercode": 408,
   "gms":2,
   "install":2,
   "source":1,
-  "extra":0,
   "mod_tvc":1,
+  "extra":0,
   "mod": true,
   "tags": ["中文","肉鸽","动作"],
   "archs": ["arm64-v8a"],
@@ -19,7 +19,7 @@
   },
   "downloads": [
     {
-      "host": "网盘分享【动作 ➡ 肉鸽地牢类】",
+      "host": "网盘分享：动作 ➡ 肉鸽地牢类",
       "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
   ],
@@ -32,7 +32,7 @@
       ],
       "pkgname": "com.FirstPickStudios.EndlessWander.gm64",
       "targetvc":"*",
-      "vercode": 6
+      "vercode": 7
     }
   ],
   "s1": [512, 1024, 2048],
