@@ -1,0 +1,40 @@
+{
+  "time": 1785974400008,
+  "label": "苍翼：混沌效应",
+  "pkgname": "com.actgames.bbee",
+  "publisher": "91Act",
+  "vername": "1.1.6",
+  "vercode": 36,
+  "gms":1,
+  "install":2,
+  "source":5,
+  "mod_tvc":1,
+  "extra":0,
+  "archs": ["arm64-v8a"],
+  "tags": ["中文","动作"],
+  "info": "",
+  "faqs": {
+
+  },
+  "downloads": [
+    {
+      "host": "网盘分享【动作 ➡ 苍翼：混沌效应】",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+  "mod": true,
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "【可选菜单】增伤，免伤，无CD，无限跳 "
+      ],
+      "pkgname": "com.actgames.bbee.gm64",
+      "targetvc":"*",
+      "vercode": 1
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
+}

@@ -2341,7 +2341,13 @@
 		"mtime": 1767571200000,
 		"pkg": "zombie.survival.dead.shooting",
 		"time": 1764028800000
+	},
+	{
+		"label": "苍翼：混沌效应",
+		"pkg": "com.actgames.bbee",
+		"time": 1785974400007,
+		"mtime": 1785974400007
 	}
 	],
-	"time": 1785573471813
+	"time": 1786013928582
 }
