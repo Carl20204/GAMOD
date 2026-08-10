@@ -1,10 +1,10 @@
 {
-  "time": 1781740800019,
+  "time": 1786320000008,
   "label": "猴子塔防6",
   "pkgname": "com.netflix.NGP.BloonsTDSix",
   "publisher": "Netflix",
-  "vername": "55.2",
-  "vercode": 10954,
+  "vername": "56.0",
+  "vercode": 11226,
   "gms":1,
   "install":2,
   "source":1,
@@ -31,7 +31,7 @@
       ],
       "pkgname": "com.netflix.NGP.BloonsTDSix.gm64",
       "targetvc":"*",
-      "vercode": 5
+      "vercode": 6
     }
   ],
   "s1": [512, 1024, 2048],
