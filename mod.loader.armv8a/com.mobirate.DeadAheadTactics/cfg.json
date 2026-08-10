@@ -1,51 +1,38 @@
 {
-  "gms": 2,
-  "info": "幸存者们，你们好！以下是此次更新的新增内容：\u003cbr\u003e- 单位收藏\u003cbr\u003e- 一个新单位，莎拉\u003cbr\u003e- 适用于特工部队、米勒博士和收银员的新皮肤\u003cbr\u003e- 一个新的过关动画\u003cbr\u003e- 制作菜单\u003cbr\u003e以及其他小更改！",
+  "time": 1786320000008,
   "label": "死亡突围：僵尸战争",
-  "time": 1781568000008,
-  "lastProm": 0,
-  "lastRec": 0,
+  "pkgname": "com.mobirate.DeadAheadTactics",
+  "publisher": "Mobirate",
+  "vername": "4.4.2",
+  "vercode": 503,
+  "gms":2,
+  "source":3,
+  "install":2,
+  "mod_tvc":1,
+  "extra":0,
   "mod": true,
+  "tags": ["中文","策略"],
+  "archs": ["arm64-v8a"],
+  "info": "幸存者们，你们好！以下是此次更新的新增内容：<br>- 单位收藏<br>- 一个新单位，莎拉<br>- 适用于特工部队、米勒博士和收银员的新皮肤<br>- 一个新的过关动画<br>- 制作菜单<br>以及其他小更改！",
+  "downloads": [
+    {
+      "host": "网盘分享：策略",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
   "mods": [
     {
+      "name": "上帝模式",
       "descs": [
         "【可选菜单】加速、增伤、减伤、加经验、无CD、满怒、手动添加各种资源（29种资源）"
       ],
-      "name": "上帝模式",
       "pkgname": "com.mobirate.DeadAheadTactics.gm64",
-      "sandbox": 155,
-      "targetvc": "*",
-      "vercode": 14
+      "targetvc":"*",
+      "vercode": 15
     }
   ],
-  "pkgname": "com.mobirate.DeadAheadTactics",
-  "vercode": 497,
-  "vername": "4.4.0",
-  "publisher": "Mobirate",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    4096,
-    8192
-  ],
-  "s3": 4096,
-  "extra": 0,
-  "install": 2,
-  "mod_tvc": 1,
-  "source": 3,
-  "tags": [
-    "中文",
-    "策略"
-  ],
-  "downloads": [
-    {
-      "host": "网盘分享 ➡ 策略目录",
-      "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    }
-  ]
+
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
