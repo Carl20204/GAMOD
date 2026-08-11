@@ -1,44 +1,38 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
-  "gms": 2,
-  "info": "同类游戏的话，【成长城堡】会更好玩，但本款有机翻中文，总比纯英文稍好些",
+  "time": 1785888000008,
   "label": "塔英雄 - 塔防",
-  "time": 1707609600008,
+  "pkgname": "com.blockstack.tophero",
+  "vername": "1.12.08",
+  "vercode": 11211,
+  "publisher": "Block Stack2",
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": ["中文","休闲","放置/挂机","塔防"],
+  "info": "抵御入侵村庄的怪物，救出被掳走的伙伴！收集并培养英雄的策略塔防RPG，支持自动战斗。<br><br>▣ 英雄守护村庄的塔防RPG ▣<br><br>怪物烧毁了你的村庄，掳走了你的伙伴。<br><br>重建村庄、强化城堡、召集强大的英雄，<br><br>抵挡一波又一波涌来的敌人。<br><br>击败首领，救回所有被掳走的伙伴！<br><br>以策略性塔防布置和深度英雄养成为核心，<br><br>并融入放置成长元素的正统塔防RPG。<br><br>▣ 游戏特色 ▣<br><br>\uD83D\uDD38 英雄收集与养成 — 每位英雄独有的技能与进化系统<br><br>\uD83D\uDD38 自动战斗 / 手动战斗 自由切换<br><br>\uD83D\uDD38 通过发展村庄、升级城堡来强化战力<br><br>\uD83D\uDD38 召唤兽系统拓展战术深度<br><br>\uD83D\uDD38 与救出伙伴的好感度系统，普通结局与真结局<br><br>\uD83D\uDD38 实时排行榜（波次战斗 / 救援战斗）<br><br>\uD83D\uDD38 丰富的战斗模式 — 地下城、世界树、首领地下城（深渊/巨型/无限）、部族征服等<br><br>\uD83D\uDD38 玩家与伙伴皮肤，打造专属个性<br><br>\uD83D\uDD38 支持离线游玩 — 没有网络也能畅玩<br><br>如果你喜欢策略游戏、塔防和放置RPG，<br><br>现在就在塔防英雄中守护你的村庄吧！",
+  "downloads": [
+    {
+      "host": "网盘分享：休闲 ➡ 放置挂机",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+  "archs": ["arm64-v8a"],
   "mod": true,
   "mods": [
     {
-      "descs": [
-        "可选菜单，可调节金币、钻石，战场上增伤减伤无CD等"
-      ],
       "name": "上帝模式",
+      "descs": [
+        "【自动激活】免广告",
+        "【可选菜单】金币、钻石，增伤，减伤，无CD等"
+      ],
       "pkgname": "com.blockstack.tophero.gm64",
-      "targetvc": "*",
-      "vercode": 1
+      "targetvc":"*",
+      "vercode": 2
     }
   ],
-  "pkgname": "com.blockstack.tophero",
-  "vercode": 11205,
-  "vername": "1.12.05",
-  "publisher": "Block Stack2",
-  "signmd5": "351427D628FEBFD7B7E7F96BB6CBE5C9",
-  "tags": [
-    "中文",
-    "休闲",
-    "放置",
-    "塔防"
-  ],
-  "downloads": [
-    {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.blockstack.tophero?versionCode\u003d11205",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/tower-hero-tower-defense/com.blockstack.tophero/download",
-      "var": false
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
