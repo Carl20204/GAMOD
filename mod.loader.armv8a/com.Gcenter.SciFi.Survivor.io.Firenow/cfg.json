@@ -1,56 +1,39 @@
 {
-  "faqs": {
-    "游戏更新建议": "如果网盘分享里没有最新安装包，可到墨魔豆的QQ圈子里问问。\u003cbr\u003e\u003cbr\u003e建议使用\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore极光应用商店\u003c/a\u003e来升级安装\u003cbr\u003e\u003cbr\u003e这是非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！\u003cbr\u003e\u003cbr\u003e中国区玩家需要自备梯子翻墙"
-  },
-  "gms": 2,
-  "info": "幸存者类型的游戏，玩腻了剑与魔法、大兵射击，可以试试本作的战车，带着无人机，拖着一群军车像贪吃蛇一样四处乱窜",
+  "time": 1786320000008,
   "label": "科幻幸存者",
-  "time": 1752796800008,
-  "mod": false,
+  "pkgname": "com.Gcenter.SciFi.Survivor.io.Firenow",
+  "publisher": "GCenter",
+  "vername": "5.1",
+  "vercode": 5012,
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": [ "中文","幸存者","肉鸽","射击"],
+  "info": "在末世中生存下来，消灭所有怪物。<br><br>当太空怪物大军登陆地球时，它们摧毁了一切。作为最后的幸存者之一，你必须战斗并消灭亡灵怪物，才能重建和平的世界。开启冒险，尝试逃生，同时保护最后的幸存者。<br><br>亡灵之类的怪物无处不在。它们追捕人类并发动攻击。救援任务变得愈发艰难，为玩家带来令人窒息的挑战。<br><br>这是一款融合了多种游戏类型的作品，既有生存游戏与冒险游戏的结合，也有动作游戏与塔防游戏的碰撞。整个世界都在等待你去拯救。<br><br>▶ 特色<br><br>在包围你的怪物中生存下来<br><br>用尽一切手段延长生存时间<br><br>你选择的物品越好，生存的几率就越大<br><br>为每种类型的英雄划分不同的技能组合<br><br>制定灵活的策略<br><br>消灭怪物，成为最后的幸存者。<br><br>▶ 如何游玩<br><br>要击败亡灵怪物，请触摸、按住并移动英雄。<br><br>选择辅助道具来延长生存时间。<br><br>在冒险途中尽可能多地收集装备，以提升你的战斗技能。<br><br>",
+  "downloads": [
+    {
+      "host": "夸克网盘：射击 ➡ 幸存者",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：射击 ➡ 幸存者",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
   "mods": [
     {
+      "name": "上帝模式",
       "descs": [
-        "【通用版】基于游戏在谷歌商店2025年7月版本开发，理论上兼容之后的游戏版本，如果出现游戏升级功能失效现象，可在墨魔豆的QQ圈子里吱一声",
         "【自动激活】免广告，所有广告奖励可以直接白嫖。",
         "【可选菜单】手动调节各代币的收益率、消费折扣，解锁全部英雄、无人机，战场上10倍磁铁、高速移动，伤害减轻"
       ],
-      "name": "上帝模式",
       "pkgname": "com.Gcenter.SciFi.Survivor.io.Firenow.gm64",
-      "targetvc": "*",
-      "vercode": 1
+      "targetvc":"*",
+      "vercode": 2
     }
   ],
-  "pkgname": "com.Gcenter.SciFi.Survivor.io.Firenow",
-  "vercode": 120,
-  "vername": "1.0.64",
-  "publisher": "GCenter",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    6144,
-    10904
-  ],
-  "s3": 4608,
-  "tags": [
-    "中文",
-    "幸存者",
-    "肉鸽",
-    "射击"
-  ],
-  "downloads": [
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    },
-    {
-      "host": "apkpure[翻墙]",
-      "url": "https://apkpure.net/cn/scifi-survivor/com.Gcenter.SciFi.Survivor.io.Firenow",
-      "var": true
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
