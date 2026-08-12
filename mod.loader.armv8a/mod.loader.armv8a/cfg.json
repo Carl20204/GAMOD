@@ -170,6 +170,12 @@
 		"time": 1778284800000
 	},
 	{
+		"label": "苍翼：混沌效应",
+		"mtime": 1785974400007,
+		"pkg": "com.actgames.bbee",
+		"time": 1785974400007
+	},
+	{
 		"label": "岛屿战争",
 		"pkg": "com.addictive.empire.clash.conquest",
 		"time": 1709078400002
@@ -575,6 +581,12 @@
 		"mtime": 1767225600000,
 		"pkg": "com.cottongame.sunsethills",
 		"time": 1738713600000
+	},
+	{
+		"label": "鳄鱼侦探布罗格",
+		"mtime": 1786320000007,
+		"pkg": "com.cowcat.brok",
+		"time": 1786320000007
 	},
 	{
 		"label": "无尽空间",
@@ -2342,13 +2354,7 @@
 		"mtime": 1767571200000,
 		"pkg": "zombie.survival.dead.shooting",
 		"time": 1764028800000
-	},
-	{
-		"label": "苍翼：混沌效应",
-		"pkg": "com.actgames.bbee",
-		"time": 1785974400007,
-		"mtime": 1785974400007
 	}
 	],
-	"time": 1786510079078
+	"time": 1786524070294
 }
