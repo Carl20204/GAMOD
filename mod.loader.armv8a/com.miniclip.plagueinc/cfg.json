@@ -1,51 +1,41 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
-  "gms": 1,
-  "info": "新的解药模式扩展包来了，化身各国政府，消灭肆虐全球的瘟疫吧",
+  "time": 1786492800008,
   "label": "瘟疫公司",
-  "time": 1707264000008,
-  "mtime": 0,
-  "mod": true,
-  "mods": [
-    {
-      "descs": [
-        "自动解锁全部扩展包",
-        "自选菜单可调节DNA出现频率"
-      ],
-      "name": "完整版",
-      "pkgname": "com.miniclip.plagueinc.gm64",
-      "targetvc": "*",
-      "vercode": 1
-    }
-  ],
   "pkgname": "com.miniclip.plagueinc",
-  "vercode": 1537,
-  "vername": "1.19.17",
   "publisher": "Ndemic Creations",
-  "signmd5": "A790B002E89C475C17C6D2FB6472EF6F",
-  "tags": [
-    "中文",
-    "单机",
-    "模拟",
-    "经营"
-  ],
+  "vername": "1.25.2",
+  "vercode": 173356872,
+  "gms":1,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "mod": true,
+  "archs": ["arm64-v8a"],
+  "tags": ["中文","模拟","经营","付费完整版"],
+  "info": "你能感染世界吗？<br><br>瘟疫公司（Plague Inc.）是一款战略模拟游戏，玩家需要控制一种病原体，目标是感染并消灭全人类。<br><br>从\"零号病人\"开始，玩家必须在应对人类防御措施的同时让瘟疫不断进化。<br><br>该游戏由Ndemic Creations开发，具有超现实的世界观和先进的人工智能系统，包含12种不同类型的疾病，以及超过50个可供感染的国家。<br><br>玩家可以进化数百种特征，并对数千个世界事件做出响应，以实现全球感染的目标。<br><br>游戏的科学准确性获得了主要机构的认可，开发商曾受邀在疾病控制中心演讲，并在新冠疫情期间与世界卫生组织合作。<br><br>游戏的主要特色包括全面的教程、完整的存档/读档功能、引入神经虫和尸毒病毒等新病原体类型的扩展更新，以及最近新增的让玩家体验相反挑战——拯救人类免于致命瘟疫的玩法。",
   "downloads": [
     {
-      "host": "小飞机云盘",
-      "url": "https://share.feijipan.com/s/FTATSvER",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/plague-inc/com.miniclip.plagueinc/download",
-      "var": false
-    },
-    {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/APK/com.miniclip.plagueinc?versionCode\u003d1537\u0026nc\u003darm64-v8a\u0026sv\u003d19",
-      "var": false
+      "host": "夸克网盘：策略",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：策略",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
-  ]
+  ],
+  "mods": [
+    {
+      "name": "完整版",
+      "descs": [
+        "【自动激活】解锁全部付费内容",
+        "【可选菜单】调节DNA出现频率"
+      ],
+      "pkgname": "com.miniclip.plagueinc.gm64",
+      "targetvc":"*",
+      "vercode": 2
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
