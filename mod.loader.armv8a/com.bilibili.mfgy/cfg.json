@@ -1,0 +1,34 @@
+{
+  "time": 1786665600008,
+  "label": "魔法工艺",
+  "pkgname": "com.bilibili.mfgy",
+  "publisher": "波浪游戏",
+  "vername": "1.2.2.f1",
+  "vercode": 36,
+  "gms":1,
+  "install":2,
+  "source":5,
+  "mod_tvc":1,
+  "extra":0,
+  "archs": ["arm64-v8a"],
+  "tags": ["中文","单机"],
+  "info": "",
+  "faqs": {
+
+  },
+  "mod": true,
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "【可选菜单】增伤，移速，满法力值，生命恢复，资源获取倍率 "
+      ],
+      "pkgname": "com.bilibili.mfgy.gm64",
+      "targetvc":"*",
+      "vercode": 1
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
+}
