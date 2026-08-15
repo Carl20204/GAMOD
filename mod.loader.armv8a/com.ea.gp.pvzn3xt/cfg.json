@@ -1,10 +1,10 @@
 {
-  "time": 1785369600009,
+  "time": 1786665600009,
   "label": "植物大战僵尸3：进化",
   "pkgname": "com.ea.gp.pvzn3xt",
   "publisher": "EA（美国艺电）",
-  "vername": "30.3.9",
-  "vercode": 30,
+  "vername": "30.4.9",
+  "vercode": 31,
   "gms":1,
   "install":2,
   "source":1,
@@ -18,7 +18,10 @@
   },
   "downloads": [
     {
-      "host": "网盘分享【塔防 ➡ 植物大战僵尸】",
+      "host": "夸克网盘：塔防 ➡ 植物大战僵尸",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：塔防 ➡ 植物大战僵尸",
       "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
   ],
