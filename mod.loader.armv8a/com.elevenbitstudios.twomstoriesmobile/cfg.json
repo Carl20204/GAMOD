@@ -1,5 +1,5 @@
 {
-  "time": 1759276800009,
+  "time": 1759276800018,
   "label": "这是我的战争：父亲的承诺",
   "pkgname": "com.elevenbitstudios.twomstoriesmobile",
   "publisher": "11 bit studios",
@@ -14,7 +14,10 @@
   "info": "指挥幸存者，并打理避难所。打造武器和物品。<br><br>通过《这是我的战争：故事集第一章：父亲的承诺》拓展《这是我的战争》之旅。这是一款独立游戏，既提供了全新且独特的体验，又包含了额外的游戏机制和数小时引人深思的游戏内容。它讲述了一个家庭在绝望与残酷的时代中，努力守护最后一丝人性的故事。<br><br>亚当—一位渴望带着女儿远离战争恐惧、逃出围城的父亲。跟随他们的脚步，感受发生在最黑暗的日子里、充斥着爱恨得失的故事。",
   "downloads": [
     {
-      "host": "网盘分享【生存】",
+      "host": "夸克网盘：生存",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：生存",
       "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
   ],
@@ -24,11 +27,11 @@
       "name": "上帝模式",
       "descs": [
         "【自动激活】完整版，所有DLC解锁",
-        "【可选菜单】调节时间、物资、背包、移动速度等"
+        "【可选菜单】调节时间、全物资、背包、移动速度等"
       ],
       "pkgname": "com.elevenbitstudios.twomstoriesmobile.gm64",
       "targetvc":"*",
-      "vercode": 1
+      "vercode": 2
     }
   ],
   "s1": [512, 1024, 2048],
