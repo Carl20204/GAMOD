@@ -171,7 +171,7 @@
 	},
 	{
 		"label": "苍翼：混沌效应",
-		"mtime": 1785974400007,
+		"mtime": 1787184000000,
 		"pkg": "com.actgames.bbee",
 		"time": 1785974400007
 	},
@@ -424,6 +424,12 @@
 		"mtime": 1767052800000,
 		"pkg": "com.big.my.cruise.ship",
 		"time": 1766793600000
+	},
+	{
+		"label": "魔法工艺",
+		"mtime": 1788220800000,
+		"pkg": "com.bilibili.mfgy",
+		"time": 1786752000007
 	},
 	{
 		"label": "暖雪",
@@ -1747,7 +1753,7 @@
 	},
 	{
 		"label": "不寐之境",
-		"mtime": 1786320000007,
+		"mtime": 1787184000000,
 		"pkg": "com.Pocketpair.NeverGrave",
 		"time": 1786320000007
 	},
@@ -2367,13 +2373,7 @@
 		"mtime": 1767571200000,
 		"pkg": "zombie.survival.dead.shooting",
 		"time": 1764028800000
-	},
-	{
-		"label": "魔法工艺",
-		"pkg": "com.bilibili.mfgy",
-		"time": 1786752000007,
-		"mtime": 1786752000007
 	}
 	],
-	"time": 1786963720277
+	"time": 1786963720278
 }
