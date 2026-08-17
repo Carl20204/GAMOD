@@ -1746,6 +1746,12 @@
 		"time": 1782864000000
 	},
 	{
+		"label": "不寐之境",
+		"mtime": 1786320000007,
+		"pkg": "com.Pocketpair.NeverGrave",
+		"time": 1786320000007
+	},
+	{
 		"label": "吸血鬼幸存者",
 		"mtime": 1784937600006,
 		"pkg": "com.poncle.vampiresurvivors",
@@ -2369,5 +2375,5 @@
 		"mtime": 1786752000007
 	}
 	],
-	"time": 1786893227953
+	"time": 1786963720277
 }
