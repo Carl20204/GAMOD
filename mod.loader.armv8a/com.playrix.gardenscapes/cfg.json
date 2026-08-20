@@ -1,36 +1,39 @@
-{
-  "time": 1785171600009,
-  "label": "梦幻花园",
-  "pkgname": "com.playrix.gardenscapes",
-  "publisher": "Playrix",
-  "vername": "9.8.0",
-  "vercode": 109800,
-  "gms":1,
-  "install":2,
-  "source":1,
-  "extra":0,
-  "mod_tvc":2,
-  "mod": true,
-  "tags": ["中文","休闲","三消"],
-  "info": "● 深受数百万玩家喜爱的游戏机制！玩三消游戏，装饰花园，同时体验精彩剧情！<br>● 超过 16000 个令人爱不释手的关卡，另有爆炸加速道具、实用增强道具和酷炫的关卡元素。<br>● 精彩活动！踏上精彩的探险之旅，在各式各样的挑战中与其他玩家比拼，赢取丰厚奖品！<br>● 独一无二的花园区域，布局独特，从喷泉景观到岛屿景观。<br>● 许多个性独特的角色：认识奥斯汀的朋友和邻居！<br>● 可爱的宠物将成为你忠实的伙伴！<br><br>在游戏社区中结交新朋友！",
-  "downloads": [
-    {
-      "host": "网盘分享【休闲 ➡ 消除/三消】",
-      "url": "https://share.feijipan.com/s/QMHuh4gc"
-    }
-  ],
-  "mods": [
-    {
-      "name": "休闲模式",
-      "descs": [
-        "【可选菜单】金币收益率、道具无消耗、加速"
-      ],
-      "pkgname": "com.playrix.gardenscapes.gm64",
-      "targetvc":"109800",
-      "vercode": 32
-    }
-  ],
-  "s1": [512, 1024, 2048],
-  "s2": [2048, 4096, 8192],
-  "s3": 4096
-}
+{
+  "time": 1787184000008,
+  "label": "梦幻花园",
+  "pkgname": "com.playrix.gardenscapes",
+  "publisher": "Playrix",
+  "vername": "9.8.5",
+  "vercode": 109850,
+  "gms":1,
+  "install":2,
+  "source":1,
+  "extra":0,
+  "mod_tvc":2,
+  "mod": true,
+  "tags": ["中文","休闲","三消"],
+  "info": "● 深受数百万玩家喜爱的游戏机制！玩三消游戏，装饰花园，同时体验精彩剧情！<br>● 超过 16000 个令人爱不释手的关卡，另有爆炸加速道具、实用增强道具和酷炫的关卡元素。<br>● 精彩活动！踏上精彩的探险之旅，在各式各样的挑战中与其他玩家比拼，赢取丰厚奖品！<br>● 独一无二的花园区域，布局独特，从喷泉景观到岛屿景观。<br>● 许多个性独特的角色：认识奥斯汀的朋友和邻居！<br>● 可爱的宠物将成为你忠实的伙伴！<br><br>在游戏社区中结交新朋友！",
+  "downloads": [
+    {
+      "host": "夸克网盘：休闲 ➡ 消除/三消",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：休闲 ➡ 消除/三消",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+  "mods": [
+    {
+      "name": "休闲模式",
+      "descs": [
+        "【可选菜单】金币收益率、道具无消耗、加速"
+      ],
+      "pkgname": "com.playrix.gardenscapes.gm64",
+      "targetvc":"109850",
+      "vercode": 33
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
+}
