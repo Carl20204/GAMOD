@@ -1,5 +1,5 @@
 {
-  "time": 1787616000008,
+  "time": 1787656160008,
   "label": "苍翼：混沌效应",
   "pkgname": "com.actgames.bbee",
   "publisher": "91Act",
@@ -31,7 +31,7 @@
       ],
       "pkgname": "com.actgames.bbee.gm64",
       "targetvc":"*",
-      "vercode": 2
+      "vercode": 3
     }
   ],
   "s1": [512, 1024, 2048],
