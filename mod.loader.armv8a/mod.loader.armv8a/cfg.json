@@ -853,9 +853,9 @@
 	{
 		"group": 3,
 		"label": "黎明前20分钟",
-		"mtime": 1782172800000,
+		"mtime": 1787907006837,
 		"pkg": "com.Flanne.MinutesTillDawn.roguelike.shooting.gp",
-		"time": 1780272000000
+		"time": 1787875200007
 	},
 	{
 		"label": "僵尸炮艇：生存",
@@ -1784,9 +1784,9 @@
 	{
 		"group": 9,
 		"label": "王国：两位君主",
-		"mtime": 1769990400000,
+		"mtime": 1787907006837,
 		"pkg": "com.rawfury.kingdom2crowns",
-		"time": 1769731200010
+		"time": 1775001600007
 	},
 	{
 		"label": "王国：八十年代",
@@ -2381,5 +2381,5 @@
 		"time": 1764028800000
 	}
 	],
-	"time": 1787893621896
+	"time": 1787907006837
 }
