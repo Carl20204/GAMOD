@@ -1,10 +1,10 @@
 {
-  "time": 1786665600009,
+  "time": 1788220800008,
   "label": "植物大战僵尸3：进化",
   "pkgname": "com.ea.gp.pvzn3xt",
   "publisher": "EA（美国艺电）",
-  "vername": "30.4.9",
-  "vercode": 31,
+  "vername": "32.0.10",
+  "vercode": 32,
   "gms":1,
   "install":2,
   "source":1,
@@ -30,11 +30,11 @@
     {
       "name": "上帝模式",
       "descs": [
-        "【可选菜单】阳光，增伤，减伤，种植CD"
+        "【可选菜单】阳光，增伤，减伤，种植CD，全合成植物可用，植物等级20（解锁植物天赋）"
       ],
       "pkgname": "com.ea.gp.pvzn3xt.gm64",
       "targetvc":"*",
-      "vercode": 11
+      "vercode": 12
     }
   ],
   "s1": [512, 1024, 2048],
