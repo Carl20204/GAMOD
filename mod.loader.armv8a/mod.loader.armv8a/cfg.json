@@ -2385,7 +2385,13 @@
 		"mtime": 1767571200000,
 		"pkg": "zombie.survival.dead.shooting",
 		"time": 1764028800000
+	},
+	{
+		"label": "伊洛纳",
+		"pkg": "com.leiting.elona",
+		"time": 1788998400007,
+		"mtime": 1788998400007
 	}
 	],
-	"time": 1789028280006
+	"time": 1789032541075
 }

@@ -1,0 +1,27 @@
+{
+  "time": 1788998400008,
+  "label": "伊洛纳",
+  "pkgname": "com.leiting.elona",
+  "publisher": "雷霆",
+  "vername": "1.1.28",
+  "vercode": 50,
+  "gms":1,
+  "install":1,
+  "source":5,
+  "extra":0,
+  "mod_tvc":1,
+  "tags": ["中文","肉鸽","角色扮演"],
+  "mod": true,
+  "info": "肉鸽+角色扮演",
+  "mods": [
+    {
+      "name": "上帝模式",
+      "descs": [
+        "懂得都懂"
+      ],
+      "pkgname": "com.leiting.elona.gm64",
+      "targetvc":"*",
+      "vercode": 10
+    }
+  ]
+}
