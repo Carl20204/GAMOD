@@ -1,38 +1,27 @@
 {
-  "gms": 1,
-  "info": "肉鸽+角色扮演",
+  "time": 1788998400028,
   "label": "伊洛纳",
-  "time": 1755129600058,
-  "lastProm": 0,
-  "lastRec": 0,
+  "pkgname": "com.leiting.elona.aligames",
+  "publisher": "雷霆",
+  "vername": "1.1.28",
+  "vercode": 50,
+  "gms":1,
+  "install":1,
+  "source":5,
+  "extra":0,
+  "mod_tvc":1,
+  "tags": ["中文","肉鸽","角色扮演"],
   "mod": true,
+  "info": "肉鸽+角色扮演",
   "mods": [
     {
+      "name": "上帝模式",
       "descs": [
         "懂得都懂"
       ],
-      "name": "上帝模式",
       "pkgname": "com.leiting.elona.aligames.gm64",
-      "sandbox": 155,
-      "targetvc": "*",
-      "vercode": 8
-    }
-  ],
-  "pkgname": "com.leiting.elona.aligames",
-  "vercode": 47,
-  "vername": "1.1.25",
-  "publisher": "雷霆",
-  "s3": 0,
-  "tags": [
-    "中文",
-    "肉鸽",
-    "角色扮演"
-  ],
-  "downloads": [
-    {
-      "host": "阿里游戏",
-      "url": "https://ugame.9game.cn/game/share-235275-1138873.html",
-      "var": false
+      "targetvc":"*",
+      "vercode": 11
     }
   ]
 }
