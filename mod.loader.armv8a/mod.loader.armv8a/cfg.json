@@ -1248,7 +1248,13 @@
 		"time": 1749859200000
 	},
 	{
-		"label": "伊洛纳",
+		"label": "伊洛纳：官服",
+		"pkg": "com.leiting.elona",
+		"time": 1788998400017,
+		"mtime": 1788998400017
+	},
+	{
+		"label": "伊洛纳：九游服",
 		"mtime": 1788998400027,
 		"pkg": "com.leiting.elona.aligames",
 		"time": 1788998400027
@@ -2327,9 +2333,9 @@
 	{
 		"group": 3,
 		"label": "木筏生存：海洋游牧",
-		"mtime": 1775174400000,
+		"mtime": 1788912000009,
 		"pkg": "ocean.nomad.survival.simulator",
-		"time": 1774742400000
+		"time": 1788912000009
 	},
 	{
 		"label": "苹果骑士2",
@@ -2385,13 +2391,7 @@
 		"mtime": 1767571200000,
 		"pkg": "zombie.survival.dead.shooting",
 		"time": 1764028800000
-	},
-	{
-		"label": "伊洛纳",
-		"pkg": "com.leiting.elona",
-		"time": 1788998400017,
-		"mtime": 1788998400017
 	}
 	],
-	"time": 1789049258408
+	"time": 1789049258409
 }
