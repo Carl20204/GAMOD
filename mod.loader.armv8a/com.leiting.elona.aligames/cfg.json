@@ -1,5 +1,5 @@
 {
-  "time": 1788998400028,
+  "time": 1789171200008,
   "label": "伊洛纳",
   "pkgname": "com.leiting.elona.aligames",
   "publisher": "雷霆",
@@ -21,7 +21,7 @@
       ],
       "pkgname": "com.leiting.elona.aligames.gm64",
       "targetvc":"*",
-      "vercode": 11
+      "vercode": 12
     }
   ]
 }
