@@ -1,5 +1,5 @@
 {
-  "time": 1789430400008,
+  "time": 1789430400018,
   "label": "猫咪大战争",
   "pkgname": "jp.co.ponos.battlecatstw",
   "publisher": "PONOS",
@@ -32,7 +32,7 @@
         "【护肝】卡牌强化等级直接开的太高，可能会导致部分卡牌的3转、4转不出现，所以有一个等级清零的选项，有心仪的卡牌出现转职Bug，就清空卡牌等级手动升级吧"
       ],
       "pkgname": "jp.co.ponos.battlecatstw.gm64",
-      "targetvc":"1505000",
+      "targetvc":"1506000",
       "vercode": 32
     }
   ],
