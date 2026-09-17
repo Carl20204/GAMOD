@@ -1,54 +1,40 @@
 {
-  "gms": 2,
-  "info": "化身为狂野西部的牛仔快枪手，消灭所有的通缉强盗！\u003cbr\u003e\u003cbr\u003e在这款史诗狂野西部射击游戏中消灭所有的布娃娃强盗！快来试试《西部狙击手：狂野西部》FPS射击游戏，来感受在荒野中扮演一名为正义而战的牛仔是什么感觉吧！进入各种地点之中并准备消灭他们！\u003cbr\u003e\u003cbr\u003e《西部狙击手：狂野西部》FPS射击游戏的最佳特色包含：\u003cbr\u003e\u003cbr\u003e-最具动感的 FPS 射击游戏之一\u003cbr\u003e\u003cbr\u003e-写实的狂野西部氛围\u003cbr\u003e\u003cbr\u003e-枪械与左轮手枪射击模式：瞄准并在瞄准镜中看见布娃娃强盗\u003cbr\u003e\u003cbr\u003e-各式各样具挑战性的地点。尝试在火车、船上、酒吧和古老小镇中消灭他们，这太简单了！\u003cbr\u003e\u003cbr\u003e-游戏商店中有各种步枪供你挑选\u003cbr\u003e\u003cbr\u003e-写实的音乐与音效来重建西部氛围\u003cbr\u003e\u003cbr\u003e看见了强盗？那就快干掉他们，砰砰砰！",
+  "time": 1789171200008,
   "label": "西部狙击手",
-  "time": 1778630400008,
-  "lastProm": 0,
-  "lastRec": 0,
+  "pkgname": "wild.west.sniper",
+  "vername": "3.4.8",
+  "vercode": 347,
+  "publisher": "CASUAL AZUR GAMES",
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": ["英文","休闲","狙击","FPS"],
+  "info": "化身为狂野西部的牛仔快枪手，消灭所有的通缉强盗！<br><br>在这款史诗狂野西部射击游戏中消灭所有的布娃娃强盗！快来试试《西部狙击手：狂野西部》FPS射击游戏，来感受在荒野中扮演一名为正义而战的牛仔是什么感觉吧！进入各种地点之中并准备消灭他们！<br><br>《西部狙击手：狂野西部》FPS射击游戏的最佳特色包含：<br><br>-最具动感的 FPS 射击游戏之一<br><br>-写实的狂野西部氛围<br><br>-枪械与左轮手枪射击模式：瞄准并在瞄准镜中看见布娃娃强盗<br><br>-各式各样具挑战性的地点。尝试在火车、船上、酒吧和古老小镇中消灭他们，这太简单了！<br><br>-游戏商店中有各种步枪供你挑选<br><br>-写实的音乐与音效来重建西部氛围<br><br>看见了强盗？那就快干掉他们，砰砰砰！",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "1.【自动激活】无广告<br><br>2.【可选菜单】无敌、加钱、子弹无限、快速瞄准等"
+  },
+  "downloads": [
+    {
+      "host": "夸克网盘：休闲 ➡ 射击",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：休闲 ➡ 射击",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+  "archs": ["arm64-v8a"],
   "mod": true,
   "mods": [
     {
-      "descs": [
-        "【自动激活】无广告",
-        "【可选菜单】无敌、加钱、子弹无限、快速瞄准等"
-      ],
       "name": "上帝模式",
       "pkgname": "wild.west.sniper.gm64",
-      "sandbox": 155,
-      "targetvc": "*",
-      "vercode": 3
+      "targetvc":"*",
+      "vercode": 4
     }
   ],
-  "pkgname": "wild.west.sniper",
-  "vercode": 318,
-  "vername": "3.3.8",
-  "publisher": "CASUAL AZUR GAMES",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    4096,
-    8192
-  ],
-  "s3": 4096,
-  "extra": 0,
-  "install": 2,
-  "mod_tvc": 1,
-  "source": 1,
-  "tags": [
-    "英文",
-    "休闲",
-    "狙击",
-    "FPS"
-  ],
-  "downloads": [
-    {
-      "host": "网盘分享 ➡ 休闲目录 ➡ 射击目录",
-      "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
