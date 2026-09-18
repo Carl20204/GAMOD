@@ -1,5 +1,5 @@
 {
-  "time": 1789344000008,
+  "time": 1789689600008,
   "label": "伊洛纳",
   "pkgname": "com.leiting.elona",
   "publisher": "雷霆",
@@ -21,7 +21,7 @@
       ],
       "pkgname": "com.leiting.elona.gm64",
       "targetvc":"*",
-      "vercode": 13
+      "vercode": 14
     }
   ]
 }
