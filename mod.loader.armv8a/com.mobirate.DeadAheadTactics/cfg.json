@@ -1,10 +1,10 @@
 {
-  "time": 1786320000008,
+  "time": 1789862400009,
   "label": "死亡突围：僵尸战争",
   "pkgname": "com.mobirate.DeadAheadTactics",
   "publisher": "Mobirate",
-  "vername": "4.4.2",
-  "vercode": 503,
+  "vername": "4.4.3",
+  "vercode": 504,
   "gms":2,
   "source":3,
   "install":2,
@@ -12,20 +12,22 @@
   "extra":0,
   "mod": true,
   "tags": ["中文","策略"],
-  "archs": ["arm64-v8a"],
   "info": "幸存者们，你们好！以下是此次更新的新增内容：<br>- 单位收藏<br>- 一个新单位，莎拉<br>- 适用于特工部队、米勒博士和收银员的新皮肤<br>- 一个新的过关动画<br>- 制作菜单<br>以及其他小更改！",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "【可选菜单】加速、增伤、减伤、加经验、无CD、满怒、手动添加各种资源（29种资源）"
+  },
   "downloads": [
     {
-      "host": "网盘分享：策略",
+      "host": "夸克网盘：策略",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：策略",
       "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
   ],
   "mods": [
     {
       "name": "上帝模式",
-      "descs": [
-        "【可选菜单】加速、增伤、减伤、加经验、无CD、满怒、手动添加各种资源（29种资源）"
-      ],
       "pkgname": "com.mobirate.DeadAheadTactics.gm64",
       "targetvc":"*",
       "vercode": 15
