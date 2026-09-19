@@ -1,10 +1,10 @@
 {
-  "time": 1789689600008,
+  "time": 1789776000008,
   "label": "伊洛纳",
   "pkgname": "com.leiting.elona.aligames",
   "publisher": "雷霆",
-  "vername": "1.1.28",
-  "vercode": 50,
+  "vername": "1.1.29",
+  "vercode": 51,
   "gms":1,
   "install":1,
   "source":5,
@@ -21,7 +21,7 @@
       ],
       "pkgname": "com.leiting.elona.aligames.gm64",
       "targetvc":"*",
-      "vercode": 14
+      "vercode": 15
     }
   ]
 }
