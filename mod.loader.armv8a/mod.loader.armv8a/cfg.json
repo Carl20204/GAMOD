@@ -1505,6 +1505,12 @@
 		"time": 1760486400000
 	},
 	{
+		"label": "我的世界：地下城",
+		"mtime": 1790985600000,
+		"pkg": "com.nintendosss.spice",
+		"time": 1789603200007
+	},
+	{
 		"label": "阿尔托的冒险",
 		"mtime": 1769904000000,
 		"pkg": "com.noodlecake.altosadventure",
@@ -2393,5 +2399,5 @@
 		"time": 1764028800000
 	}
 	],
-	"time": 1789812942765
+	"time": 1789812942767
 }

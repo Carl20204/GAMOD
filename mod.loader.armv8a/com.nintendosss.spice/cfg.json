@@ -1,0 +1,39 @@
+{
+  "time": 1789603200008,
+  "label": "我的世界：地下城",
+  "pkgname": "com.nintendosss.spice",
+  "publisher": "Mojang / Xbox Game Studios",
+  "vername": "1.0",
+  "vercode": 1,
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": [ "英文", "动作", "RPG"],
+  "info": "在这款以经典的地下城爬行者为灵感、以《我的世界》为背景的全新动作冒险游戏中杀出一条血路！<br><br>独自挑战地下城，或者和好友一起组队！<br><br>至多四名玩家可以组队，一起通关惊险刺激、宝藏满满且风格各异的各个关卡，而这一切都是为了一项史诗级的使命：拯救村民，打倒邪恶的大掠夺兽！",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "【可选菜单】隐身无敌，营地开箱购物不花钱，技能无CD，技能强化，装备强化免消耗"
+  },
+  "downloads": [
+    {
+      "host": "夸克网盘：动作",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：动作",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+  "mod": true,
+  "mods": [
+    {
+      "name": "上帝模式",
+      "pkgname": "com.nintendosss.spice.gm64",
+      "targetvc":"*",
+      "vercode": 1
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
+}
