@@ -1,52 +1,40 @@
 {
-  "gms": 2,
-  "info": "2026年03月20日\u003cbr\u003e\u003cbr\u003e团队即将前往罗马！ 穿越灵感源自古老遗迹与宏伟广场的壮丽“永恒之城”，解锁全新角色 维托里奥（Vittorio） 和 恩佐（Enzo）！\u003cbr\u003e\u003cbr\u003e欢庆全球节日：体验斋月的宁静与美好，感受团聚与沉思的氛围；在圣帕特里克节期间，穿梭于节日装饰之间，冲刺奔跑，解锁全新的 三叶草相框（Shamrock Frame）！\u003cbr\u003e\u003cbr\u003e参与棒球与篮球主题赛事，赢取专属运动风内容，尽享竞技乐趣！",
+  "time": 1789862400008,
   "label": "地铁跑酷",
-  "time": 1774051200008,
-  "lastProm": 0,
-  "lastRec": 0,
+  "pkgname": "com.kiloo.subwaysurf",
+  "vername": "3.69.0",
+  "vercode": 95456,
+  "publisher": "SYBO Games",
+  "gms":2,
+  "install":2,
+  "source":1,
+  "extra":0,
+  "mod_tvc":1,
+  "tags": [ "中文", "休闲", "跑酷" ],
+  "info": "新变化<br>——布宜诺斯艾利斯在召唤，团队已准备就绪！探索一个充满鲜艳色彩、有趣音乐和全新内容的季度。<br>——聚光灯亮起，bbno$登上轨道！加入对决挑战，解锁这位榜首艺术家，让他的标志性风格融入每一次奔跑。这是你不容错过的联动！<br>——认识极限角色Santi Grafito，参加季度狩猎解锁Matilda，然后加入季度挑战以赢取Matilda的漫画核心套装。<br><br>尽情地飞奔!<br>躲开迎面而来的火车!<br><br>帮助Jake、Tricky和Fresh逃出坏警察和他的大狗的追赶。<br><br>★ 与你的伙伴们在火车间穿行!<br>★ 鲜艳生动的高清画质！<br>★ 冲浪滑板!<br>★ 颜色动力飞行器!<br>★ 闪电般快速的飞行技巧!<br>★ 接受挑战并帮助恁的伙伴!<br><br>快来加入最为刺激的追逐！",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "<font color=\"#ff0000\">设置里切换中文时以及下载额外内容时，都需要科学上网</font><br><br>【可选菜单】更改各种能力的持续时间，可随时手动激活各种强化能力，免内购"
+  },
+  "downloads": [
+    {
+      "host": "夸克网盘：休闲 ➡ 跑酷",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：休闲 ➡ 跑酷",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+  "archs": ["arm64-v8a"],
   "mod": true,
   "mods": [
     {
-      "descs": [
-        "【可选菜单】更改各种能力的持续时间，可随时手动激活各种强化能力，免内购"
-      ],
       "name": "上帝模式",
       "pkgname": "com.kiloo.subwaysurf.gm64",
-      "sandbox": 155,
-      "targetvc": "*",
-      "vercode": 5
+      "targetvc":"*",
+      "vercode": 6
     }
   ],
-  "pkgname": "com.kiloo.subwaysurf",
-  "vercode": 90187,
-  "vername": "3.60.1",
-  "publisher": "SYBO Games",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    4096,
-    8192
-  ],
-  "s3": 4096,
-  "extra": 0,
-  "install": 2,
-  "mod_tvc": 1,
-  "source": 1,
-  "tags": [
-    "中文",
-    "休闲",
-    "跑酷"
-  ],
-  "downloads": [
-    {
-      "host": "网盘分享：休闲分类",
-      "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
