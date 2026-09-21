@@ -1,5 +1,5 @@
 {
-  "time": 1788220800009,
+  "time": 1788220800019,
   "label": "辐射避难所",
   "pkgname": "com.bethsoft.falloutshelter",
   "vername": "2.6.0",
@@ -10,7 +10,7 @@
   "install":2,
   "source":1,
   "mod_tvc":1,
-  "extra":0,
+  "extra":1,
   "tags": ["英文","模拟经营","策略"],
   "info": "国际版，纯英文，汉化版等改版请自行百度<br><br>未改过包名的改版可以直接用MOD",
   "faqs": {
