@@ -1,56 +1,40 @@
 {
-  "faqs": {
-    "游戏更新建议": "网盘分享没有最新版的话，建议使用极光应用商店下载更新游戏。\u003cbr\u003e\u003cbr\u003e\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore（极光应用商店）\u003c/a\u003e，非常好用的谷歌商店替代品，无需谷歌账号、无需谷歌服务、无广告，但需要翻墙使用\u003cbr\u003e官网是英文，拖到最底部下载安装就行，APP支持中文，可同步下载安装升级谷歌市场所有应用与游戏，与谷歌商店完全实时同步，又快又全！",
-    "MOD更新说明": "本MOD基于游戏在谷歌商店2025年3月更新的3.2.3版本，理论上也支持后续版本，请自行去应用商店更新游戏，无需升级MOD。\u003cbr\u003e\u003cbr\u003e未来如果出现游戏更新，使用当前版本MOD功能失效的话，可以到墨魔豆的QQ圈子里吱一声，作者看到会处理"
-  },
-  "gms": 1,
-  "info": "欧洲波兰经常出创意之作，Rebel Twins出品的【龙之丘】【老爸曾是小偷】【曲奇必死】，加上本作，各个都是特色十足，没玩过就太遗憾了",
+  "time": 1789862400008,
   "label": "疯狂外星人",
-  "time": 1741910400008,
+  "pkgname": "com.rebeltwins.aliensdrivemecrazy",
+  "vername": "3.2.10",
+  "vercode": 50,
+  "publisher": "Rebel Twins",
+  "gms":1,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": [ "中文",  "搞笑", "动作" , "休闲" , "射击" ],
+  "info": "一些外星人飞船没有警告进入地球轨道。<br>全球卫星通信的损失将危害世界。<br>幸存者必须利用游击战术打击...<br><br>控制好你的车，爆破前进，通过城市到达外星人基地！<br>打败入侵者，威胁boss们以获得强大的武器、汽车和物品！<br><br><br>特征：<br><br>- 在这疯狂、混乱、简单而具有挑战性的有趣游戏中摧毁一切！<br>- 解锁特殊武器、进行空袭和其他，在不可预知的旅程中给予你帮助。<br>- 随着游戏深入定制你的角色，解锁汽车。<br>- 与你的朋友比较分数和成绩。<br>- 准备好大冒险，立即开始这简单易操控的游戏。<br><br>记住你必须要拯救你的城市。",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "【可选菜单】移动速度2.5x，跳跃高度1.5x，无限连击、无限子弹，无限氮气、无限生命、金币收获大幅增加"
+  },
+  "downloads": [
+    {
+      "host": "夸克网盘：休闲 ➡ 射击",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：休闲 ➡ 射击",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+  "archs": ["arm64-v8a"],
   "mod": true,
   "mods": [
     {
-      "descs": [
-        "已自动激活免广告，所有激励广告点击白送",
-        "自选开关，可手动加金币、加钞票、装置特效、满血、快速射击等"
-      ],
       "name": "上帝模式",
       "pkgname": "com.rebeltwins.aliensdrivemecrazy.gm64",
-      "targetvc": "*",
-      "vercode": 1
+      "targetvc":"*",
+      "vercode": 2
     }
   ],
-  "pkgname": "com.rebeltwins.aliensdrivemecrazy",
-  "vercode": 42,
-  "vername": "3.2.3",
-  "publisher": "Rebel Twins",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    6144,
-    10904
-  ],
-  "s3": 1024,
-  "tags": [
-    "中文",
-    "国际版",
-    "搞笑",
-    "动作"
-  ],
-  "downloads": [
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/RoC10pGf",
-      "var": false
-    },
-    {
-      "host": "翻墙|下载页",
-      "url": "https://apkpure.net/cn/cookies-must-die/com.rebeltwins.aliensdrivemecrazy",
-      "var": false
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
