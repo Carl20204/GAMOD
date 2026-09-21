@@ -1,9 +1,9 @@
 {
-  "time": 1785024000009,
+  "time": 1788220800009,
   "label": "辐射避难所",
   "pkgname": "com.bethsoft.falloutshelter",
-  "vername": "2.5.1",
-  "vercode": 227,
+  "vername": "2.6.0",
+  "vercode": 232,
   "publisher": "Bethesda Softworks LLC",
   "mod": true,
   "gms":2,
@@ -13,18 +13,21 @@
   "extra":0,
   "tags": ["英文","模拟经营","策略"],
   "info": "国际版，纯英文，汉化版等改版请自行百度<br><br>未改过包名的改版可以直接用MOD",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "【可选菜单】免费获取商店购买的各种午餐盒开箱"
+  },
   "downloads": [
     {
-      "host": "网盘分享【策略 ➡ 模拟经营】",
+      "host": "夸克网盘：策略 ➡ 模拟经营",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：策略 ➡ 模拟经营",
       "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
   ],
   "mods": [
     {
       "name": "上帝模式",
-      "descs": [
-        "【可选功能】随意获取商店购买的午餐盒来开箱，可设置快速生产"
-      ],
       "pkgname": "com.bethsoft.falloutshelter.gm64",
       "targetvc":"*",
       "vercode": 2
