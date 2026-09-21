@@ -1,56 +1,39 @@
 {
-  "gms": 2,
-  "info": "《火柴人联盟1/2》带火了火柴人动作游戏，本作就是海量同类游戏中品质不错的一作。",
+  "time": 1789948800008,
   "label": "火柴人传奇",
-  "time": 1725148800008,
-  "mod": true,
-  "mods": [
-    {
-      "descs": [
-        "自动激活免广告，所有广告激励可以直接白嫖",
-        "可选菜单，可调节减伤、技能CD、冲刺CD、资源消耗等等"
-      ],
-      "name": "上帝模式",
-      "pkgname": "com.zitga.ninja.stickman.legends.gm64",
-      "targetvc": "*",
-      "vercode": 1
-    }
-  ],
   "pkgname": "com.zitga.ninja.stickman.legends",
-  "vercode": 6053,
-  "vername": "7.0.0",
   "publisher": "ZITGA",
-  "s1": [
-    256,
-    512,
-    1024
-  ],
-  "s2": [
-    1024,
-    2048,
-    4096
-  ],
-  "s3": 1536,
-  "tags": [
-    "中文",
-    "火柴人",
-    "动作"
-  ],
+  "vername": "7.0.16",
+  "vercode": 70163,
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "mod": true,
+  "tags": ["中文","火柴人","动作"],
+  "info": "Stickman Legends 是一款离线免费游玩的火柴人影子格斗游戏，完美融合了动作游戏、角色扮演游戏 (RPG) 和玩家对战 (PvP)。加入史诗级影子战斗，体验黑暗战争的幻想，与残忍的敌人、邪恶的怪物和强大的首领战斗。<br><br>▶ 火柴人格斗游戏中的史诗影子战争<br>在每场影子战斗中，化身为暗黑骑士，踏上征服黑暗世界的旅程，对抗危险的怪物联盟。击败敌人，羞辱邪恶的首领，从影子战争中拯救幻想世界！<br><br>▶ 收集多种火柴人影子战士<br>选择并训练你的影子战士，包括 勇敢剑士、传奇影子战士、强大地牢守卫者、精英弓箭猎手、强力法师和影子猎手，他们已准备好战斗。赢得战斗，获取奖励，收集资源，让你的影子战士更加强大，迎接更激烈的战斗和更艰难的挑战。<br><br>▶ 终极道具与强大技能<br>在这款令人惊叹的动作角色扮演游戏中，享受升级和定制影子战士的乐趣。释放强大的技能和武器，对抗致命的怪物。采取行动，烧毁黑暗世界！<br><br>▶ 全球 Stickman Legends 排行榜<br>通过聪明和技术性的战斗，带领你的精英影子战士登顶。在竞技场中挑战其他玩家角色，让你的影子战士进入排行榜前100名。<br><br>▶ 惊人的设计、效果和图形<br>体验 Stickman Legends 迷人的图形和音效。成为暗黑骑士，挥舞黑暗之剑，在史诗影子战争中瞬间消灭怪物！<br><br>▶ 随时随地畅玩<br>Stickman Legends 是一款离线游戏，无需网络连接，你可以随时随地畅玩。投入无尽的影子战争，成为下一个影子传奇！<br><br>准备成为 Stickman Legends 世界中最强的火柴人影武士，成为下一个影之传奇！",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "【自动激活】免广告<br><br>【可选菜单】无限冲刺，技能加速、伤害10倍、无CD、无伤、消费0，收益百倍"
+  },
   "downloads": [
     {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/PuURFwt8",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/RoC10pGf",
-      "var": false
-    },
-    {
-      "host": "下载页|翻墙",
-      "url": "https://apkpure.net/cn/hungry-shark-world/com.zitga.ninja.stickman.legends/download",
-      "var": true
+      "host": "夸克网盘：动作 ➡ 街机风格",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：动作 ➡ 街机风格",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
-  ]
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "pkgname": "com.zitga.ninja.stickman.legends.gm64",
+      "targetvc":"*",
+      "vercode": 2
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
