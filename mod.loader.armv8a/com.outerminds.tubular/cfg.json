@@ -1,55 +1,41 @@
 {
-  "faqs": {
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff0000\"\u003e首次游戏为英文时，游戏首页左下按钮即可更改中文\u003c/font\u003e"
-  },
-  "gms": 2,
-  "info": "追随当下最红的网络主播——PewDiePie的脚步，在这款《PewDiePie的主播模拟器》中通过制作属于你自己的视频来成为和他一样的网红！有木有想过有一天你自己成为了史上最潮、最痞、最传奇的主播，然后把那个叫PewDiePie的家伙赶下神坛呢？\u003cbr\u003e\u003cbr\u003e这款2.5D的俯视角复古游戏将让你美梦成真！\u003cbr\u003e\u003cbr\u003e⋆ 通过制作视频来赢取观看数和订阅数，以此添置各种炫酷设备、家具、衣服、甚至宠物！\u003cbr\u003e\u003cbr\u003e⋆ PewDiePie本人倾情的原声出演！\u003cbr\u003e\u003cbr\u003e⋆ 完成各种史诗任务，更快速地朝主播天王的目标迈进！\u003cbr\u003e\u003cbr\u003e⋆ 在网络上发布你独一无二的房间，秀粉丝们一脸！\u003cbr\u003e\u003cbr\u003e⋆ 在每周稀奇古怪的活动中，给你最喜欢的玩家点个赞，并给他们投票吧！\u003cbr\u003e\u003cbr\u003e⋆ 广交好友，互送各种有范儿又搞怪的礼品！\u003cbr\u003e\u003cbr\u003e⋆ 在生还者竞技场中挑战你的好友，然后在Facebook上秀出你的分数吧！\u003cbr\u003e\u003cbr\u003e⋆ 畅玩PUGGLE——史上最Q的迷你小游戏！\u003cbr\u003e\u003cbr\u003e⋆ 由RUSHJET1呈献的带感音乐，完美还原《PewDiePie：兄弟拳传奇》那魔性而又欲罢不能的感觉！",
+  "time": 1790035200008,
   "label": "主播模拟器",
-  "time": 1777939200008,
-  "lastProm": 0,
-  "lastRec": 0,
-  "mod": true,
-  "mods": [
-    {
-      "descs": [
-        "【可选菜单】强化流行趋势、宠物效果，调节绿钞、像素尘埃的收益、折扣"
-      ],
-      "name": "上帝模式",
-      "pkgname": "com.outerminds.tubular.gm64",
-      "sandbox": 155,
-      "targetvc": "*",
-      "vercode": 2
-    }
-  ],
   "pkgname": "com.outerminds.tubular",
-  "vercode": 200483,
-  "vername": "2.77.0",
   "publisher": "Outerminds Inc.",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    4096,
-    8192
-  ],
-  "s3": 4096,
-  "extra": 0,
-  "install": 2,
-  "mod_tvc": 1,
-  "source": 1,
-  "tags": [
-    "中文",
-    "策略",
-    "模拟经营"
-  ],
+  "vername": "2.87.0",
+  "vercode": 200498,
+  "gms":2,
+  "install":2,
+  "source":1,
+  "extra":0,
+  "mod_tvc":1,
+  "mod": true,
+  "tags": ["中文","策略","模拟经营"],
+  "archs": ["arm64-v8a"],
+  "info": "追随当下最红的网络主播——PewDiePie的脚步，在这款《PewDiePie的主播模拟器》中通过制作属于你自己的视频来成为和他一样的网红！有木有想过有一天你自己成为了史上最潮、最痞、最传奇的主播，然后把那个叫PewDiePie的家伙赶下神坛呢？<br><br>这款2.5D的俯视角复古游戏将让你美梦成真！<br><br>⋆ 通过制作视频来赢取观看数和订阅数，以此添置各种炫酷设备、家具、衣服、甚至宠物！<br><br>⋆ PewDiePie本人倾情的原声出演！<br><br>⋆ 完成各种史诗任务，更快速地朝主播天王的目标迈进！<br><br>⋆ 在网络上发布你独一无二的房间，秀粉丝们一脸！<br><br>⋆ 在每周稀奇古怪的活动中，给你最喜欢的玩家点个赞，并给他们投票吧！<br><br>⋆ 广交好友，互送各种有范儿又搞怪的礼品！<br><br>⋆ 在生还者竞技场中挑战你的好友，然后在Facebook上秀出你的分数吧！<br><br>⋆ 畅玩PUGGLE——史上最Q的迷你小游戏！<br><br>⋆ 由RUSHJET1呈献的带感音乐，完美还原《PewDiePie：兄弟拳传奇》那魔性而又欲罢不能的感觉！",
+
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "<font color=\"#ff0000\">启动游戏的首页左下按钮即可更改中文<br>开局结束基础向导教程后再开启MOD功能！</font><br><br>【可选菜单】强化流行趋势、宠物效果，调节绿钞、像素尘埃的收益、折扣"
+  },
   "downloads": [
     {
-      "host": "网盘分享 ➡ 策略分类 ➡ 模拟经营",
-      "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
+      "host": "夸克网盘：策略 ➡ 模拟经营",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：策略 ➡ 模拟经营",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
-  ]
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "pkgname": "com.outerminds.tubular.gm64",
+      "targetvc":"*",
+      "vercode": 3
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
