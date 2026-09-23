@@ -1,53 +1,39 @@
 {
-  "gms": 2,
-  "info": "管理你的飞船，探索星球，狩猎怪物，对抗太空海盗！\u003cbr\u003e\u003cbr\u003e在无尽的宇宙中，作为你自己飞船的指挥官努力生存！\u003cbr\u003e\u003cbr\u003e指挥你的船员，探索未知的星球，寻找食物，并抵御凶残的太空海盗。你的每一个决定都将影响整个小队的命运！\u003cbr\u003e\u003cbr\u003e精彩特色：\u003cbr\u003e\u003cbr\u003e🚀 飞船管理： 扩展你的飞船，优化资源，维持船员士气。\u003cbr\u003e\u003cbr\u003e👾 猎杀外星生物： 收集食物，使用各种武器和战术应对外星威胁。\u003cbr\u003e\u003cbr\u003e🌍 星球探索： 开采资源，发现神秘地点，建设并升级基地。\u003cbr\u003e\u003cbr\u003e⚔️ 太空海盗战斗： 防御海盗袭击，登上敌舰，获取稀有资源和经验。\u003cbr\u003e\u003cbr\u003e🛠️ 建设与发展： 升级科技，制造新模块，提升你的生存技能，应对恶劣宇宙环境。\u003cbr\u003e\u003cbr\u003e带领你的太空小队，证明你能在最严酷的条件下生存下来！",
+  "time": 1788220800008,
   "label": "太空小队：生存",
-  "time": 1776643200008,
-  "lastProm": 0,
-  "lastRec": 0,
+  "pkgname": "com.rebeltwins.spacesquadsurvival",
+  "vername": "1.0.14",
+  "vercode": 29,
+  "publisher": "Rebel Twins",
+  "gms":2,
+  "install":2,
+  "source":1,
+  "extra":0,
+  "mod_tvc":1,
+  "tags": ["中文","射击","生存"],
+  "info": "管理你的飞船，探索星球，狩猎怪物，对抗太空海盗！<br><br>在无尽的宇宙中，作为你自己飞船的指挥官努力生存！<br><br>指挥你的船员，探索未知的星球，寻找食物，并抵御凶残的太空海盗。你的每一个决定都将影响整个小队的命运！<br><br>精彩特色：<br><br>\uD83D\uDE80 飞船管理： 扩展你的飞船，优化资源，维持船员士气。<br><br>\uD83D\uDC7E 猎杀外星生物： 收集食物，使用各种武器和战术应对外星威胁。<br><br>\uD83C\uDF0D 星球探索： 开采资源，发现神秘地点，建设并升级基地。<br><br>⚔️ 太空海盗战斗： 防御海盗袭击，登上敌舰，获取稀有资源和经验。<br><br>\uD83D\uDEE0️ 建设与发展： 升级科技，制造新模块，提升你的生存技能，应对恶劣宇宙环境。<br><br>带领你的太空小队，证明你能在最严酷的条件下生存下来！",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "<font color=\"#ff0000\"></font>【自动激活】无广告<br><br>【可选菜单】金币、宝石的收益率，消耗折扣，采矿战斗时武器强化等"
+  },
+  "downloads": [
+    {
+      "host": "夸克网盘：射击 ➡ 创意融合",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：射击 ➡ 创意融合",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
   "mod": true,
   "mods": [
     {
-      "descs": [
-        "【自动激活】无广告",
-        "【可选菜单】金币、宝石的收益率，消耗折扣，采矿战斗时武器强化等"
-      ],
       "name": "上帝模式",
       "pkgname": "com.rebeltwins.spacesquadsurvival.gm64",
-      "sandbox": 155,
-      "targetvc": "*",
-      "vercode": 2
+      "targetvc":"*",
+      "vercode": 3
     }
   ],
-  "pkgname": "com.rebeltwins.spacesquadsurvival",
-  "vercode": 29,
-  "vername": "1.0.14",
-  "publisher": "Rebel Twins",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    4096,
-    8192
-  ],
-  "s3": 4096,
-  "extra": 0,
-  "install": 2,
-  "mod_tvc": 1,
-  "source": 1,
-  "tags": [
-    "中文",
-    "射击",
-    "生存"
-  ],
-  "downloads": [
-    {
-      "host": "网盘分享-\u003e射击目录-\u003e创意射击",
-      "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
