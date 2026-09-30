@@ -1,15 +1,15 @@
 {
-  "time": 1788825600008,
+  "time": 1790611200008,
   "label": "梦幻花园",
   "pkgname": "com.playrix.gardenscapes",
   "publisher": "Playrix",
-  "vername": "9.9.0",
-  "vercode": 109900,
+  "vername": "9.9.5",
+  "vercode": 109951,
   "gms":1,
   "install":2,
+  "mod_tvc":2,
   "source":1,
   "extra":0,
-  "mod_tvc":2,
   "mod": true,
   "tags": ["中文","休闲","三消"],
   "info": "● 深受数百万玩家喜爱的游戏机制！玩三消游戏，装饰花园，同时体验精彩剧情！<br>● 超过 16000 个令人爱不释手的关卡，另有爆炸加速道具、实用增强道具和酷炫的关卡元素。<br>● 精彩活动！踏上精彩的探险之旅，在各式各样的挑战中与其他玩家比拼，赢取丰厚奖品！<br>● 独一无二的花园区域，布局独特，从喷泉景观到岛屿景观。<br>● 许多个性独特的角色：认识奥斯汀的朋友和邻居！<br>● 可爱的宠物将成为你忠实的伙伴！<br><br>在游戏社区中结交新朋友！",
@@ -29,8 +29,8 @@
     {
       "name": "休闲模式",
       "pkgname": "com.playrix.gardenscapes.gm64",
-      "targetvc":"109900",
-      "vercode": 34
+      "targetvc":"109951",
+      "vercode": 35
     }
   ],
   "s1": [512, 1024, 2048],
