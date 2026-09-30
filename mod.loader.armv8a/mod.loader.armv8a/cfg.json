@@ -1161,7 +1161,6 @@
 		"time": 1723420800000
 	},
 	{
-		"group": 6,
 		"label": "王国保卫战5",
 		"mtime": 1773360000000,
 		"pkg": "com.ironhidegames.android.kingdomrush.alliance",
@@ -1172,6 +1171,13 @@
 		"mtime": 1755820800008,
 		"pkg": "com.ironhidegames.android.kingdomrush4",
 		"time": 1754006400000
+	},
+	{
+		"group": 6,
+		"label": "王国保卫战6：新启程",
+		"mtime": 1791561600000,
+		"pkg": "com.ironhidegames.android.kingdomrush6.genesis",
+		"time": 1790611200007
 	},
 	{
 		"label": "王国保卫战2：前线",
@@ -2399,5 +2405,5 @@
 		"time": 1764028800000
 	}
 	],
-	"time": 1790756210278
+	"time": 1790784737123
 }
