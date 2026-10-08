@@ -1,10 +1,10 @@
 {
-  "time": 1788220800009,
+  "time": 1791388800008,
   "label": "猴子塔防6",
   "pkgname": "com.netflix.NGP.BloonsTDSix",
   "publisher": "Netflix",
-  "vername": "56.3",
-  "vercode": 11937,
+  "vername": "57.0",
+  "vercode": 12153,
   "gms":1,
   "install":2,
   "source":1,
@@ -30,7 +30,7 @@
       "name": "上帝模式",
       "pkgname": "com.netflix.NGP.BloonsTDSix.gm64",
       "targetvc":"*",
-      "vercode": 6
+      "vercode": 7
     }
   ],
   "s1": [512, 1024, 2048],
