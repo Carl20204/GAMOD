@@ -1,53 +1,40 @@
 {
-  "gms": 2,
-  "info": "“不再头疼的策略游戏？我们满足您的需求\u003cbr\u003e\u003cbr\u003eThronefall – 一款广受好评并获奖的PC游戏!\u003cbr\u003e\u003cbr\u003eMetacritic评分：92%。Steam：好评如潮，96%\u003cbr\u003e\u003cbr\u003e在Thronefall中，我们试图剥离经典策略游戏中所有不必要的复杂性，并将其与适量的砍杀结合起来。在白天建立你的基地，在晚上保卫它直到你的最后一口气。\u003cbr\u003e\u003cbr\u003e您能在经济和防御之间找到合适的平衡吗？您需要更多的弓箭手、更厚的城墙还是额外的磨坊？您会用长弓将敌人挡在外面，还是骑马冲向他们？今晚将是艰难的一夜，但没有什么比看到太阳升起在您的小王国上空，迎来新的一天更令人欣喜的了。",
+  "time": 1791388800008,
   "label": "王权陨落",
-  "time": 1776729600008,
-  "lastProm": 0,
-  "lastRec": 0,
-  "mod": true,
-  "mods": [
-    {
-      "descs": [
-        "【可选菜单】可调节金币增减、玩家攻击速度、移动速度等"
-      ],
-      "name": "上帝模式",
-      "pkgname": "com.doghowlgames.thronefall.gm64",
-      "sandbox": 155,
-      "targetvc": "*",
-      "vercode": 4
-    }
-  ],
   "pkgname": "com.doghowlgames.thronefall",
-  "vercode": 46,
-  "vername": "2.12.22",
   "publisher": "Doghowl Games Ltd",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    4096,
-    8192
-  ],
-  "s3": 4096,
-  "extra": 0,
-  "install": 2,
-  "mod_tvc": 1,
-  "source": 2,
-  "tags": [
-    "中文",
-    "策略",
-    "付费版",
-    "支持手柄"
-  ],
+  "vername": "2.13.0",
+  "vercode": 55,
+  "gms":2,
+  "install":2,
+  "source":4,
+  "mod_tvc":1,
+  "extra":0,
+  "signmd5":"6A33E31F7F9DB114C0EEB326624F307E",
+  "mod": true,
+  "tags": ["中文","策略","付费版","支持手柄"],
+  "info": "“不再头疼的策略游戏？我们满足您的需求<br><br>Thronefall – 一款广受好评并获奖的PC游戏!<br><br>Metacritic评分：92%。Steam：好评如潮，96%<br><br>在Thronefall中，我们试图剥离经典策略游戏中所有不必要的复杂性，并将其与适量的砍杀结合起来。在白天建立你的基地，在晚上保卫它直到你的最后一口气。<br><br>您能在经济和防御之间找到合适的平衡吗？您需要更多的弓箭手、更厚的城墙还是额外的磨坊？您会用长弓将敌人挡在外面，还是骑马冲向他们？今晚将是艰难的一夜，但没有什么比看到太阳升起在您的小王国上空，迎来新的一天更令人欣喜的了。",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "<font color=\"#ff0000\">如果游戏启动卡在开屏，断一下网即可</font><br><br>【可选菜单】可调节金币增减、玩家攻击速度、移动速度等"
+  },
   "downloads": [
     {
-      "host": "网盘分享-\u003e策略目录",
-      "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
+      "host": "夸克网盘：策略",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：策略",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
-  ]
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "pkgname": "com.doghowlgames.thronefall.gm64",
+      "targetvc":"*",
+      "vercode": 5
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
