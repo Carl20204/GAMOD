@@ -1,10 +1,10 @@
 {
-  "time": 1790611200008,
+  "time": 1792425600008,
   "label": "梦幻花园",
   "pkgname": "com.playrix.gardenscapes",
   "publisher": "Playrix",
-  "vername": "9.9.5",
-  "vercode": 109951,
+  "vername": "10.0.0",
+  "vercode": 110000,
   "gms":1,
   "install":2,
   "mod_tvc":2,
@@ -29,8 +29,8 @@
     {
       "name": "休闲模式",
       "pkgname": "com.playrix.gardenscapes.gm64",
-      "targetvc":"109951",
-      "vercode": 35
+      "targetvc":"110000",
+      "vercode": 36
     }
   ],
   "s1": [512, 1024, 2048],
