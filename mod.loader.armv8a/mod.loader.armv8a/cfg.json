@@ -1824,6 +1824,12 @@
 		"time": 1786320000007
 	},
 	{
+		"label": "吸血鬼探索者",
+		"mtime": 1793980800000,
+		"pkg": "com.poncle.vampirecrawlers",
+		"time": 1792425600007
+	},
+	{
 		"label": "吸血鬼幸存者",
 		"mtime": 1788566400000,
 		"pkg": "com.poncle.vampiresurvivors",
@@ -2447,5 +2453,5 @@
 		"time": 1764028800000
 	}
 	],
-	"time": 1792507113044
+	"time": 1792564438366
 }
