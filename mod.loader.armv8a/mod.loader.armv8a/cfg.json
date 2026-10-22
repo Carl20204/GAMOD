@@ -2048,6 +2048,13 @@
 		"time": 1710806400003
 	},
 	{
+		"group": 3,
+		"label": "贪婪地牢",
+		"mtime": 1792639490453,
+		"pkg": "com.teamhoray.dungreed",
+		"time": 1791561600007
+	},
+	{
 		"label": "血腥大地",
 		"mtime": 1766016000000,
 		"pkg": "com.the10tons.crimsonland",
@@ -2453,5 +2460,5 @@
 		"time": 1764028800000
 	}
 	],
-	"time": 1792589688366
+	"time": 1792639490453
 }
