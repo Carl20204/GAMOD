@@ -1,56 +1,39 @@
 {
-  "faqs": {
-    "\u003cfont color\u003d\"#ff0000\"\u003eMOD使用说明\u003c/font\u003e": "仅建议刷每日挑战等日常活动，PVP、排行榜活动、及其它战力与等级不符的行为都有封号可能"
-  },
-  "gms": 1,
-  "info": "滑行、啃食、射击！在这款 sssnaker roguelite 游戏中，斩杀怪物！\u003cbr\u003e\u003cbr\u003e前所未见的蛇与弹幕射击游戏！\u003cbr\u003e\u003cbr\u003e变身巨型蛇，将敌人炸飞！这就是 SSSnaker！\u003cbr\u003e\u003cbr\u003e在危险的地下城深处，你的蛇不仅会变长，还会变得更强！\u003cbr\u003e\u003cbr\u003e你将在游戏中体验：\u003cbr\u003e\u003cbr\u003e- 丝滑的蛇形滑行和独特的区域攻击，带来极致的刺激体验\u003cbr\u003e\u003cbr\u003e- 全新 Roguelite 技能和蛇头碰撞功能，激发你的战略灵感\u003cbr\u003e\u003cbr\u003e- 无数怪物和游戏功能，挑战你的技能极限\u003cbr\u003e\u003cbr\u003e- 万花筒般的弹幕，体验 SSSnaker 的极致刺激！",
+  "time": 1792771200008,
   "label": "蛇蛇贪吃",
-  "time": 1776297600008,
-  "lastProm": 0,
-  "lastRec": 0,
-  "mod": true,
-  "mods": [
-    {
-      "descs": [
-        "【自动激活】免广告！",
-        "【可选菜单】减伤、增伤、攻速、技能、全皇冠等"
-      ],
-      "name": "上帝模式",
-      "pkgname": "com.habby.sssnaker.gm64",
-      "sandbox": 155,
-      "targetvc": "*",
-      "vercode": 8
-    }
-  ],
   "pkgname": "com.habby.sssnaker",
-  "vercode": 1776153127,
-  "vername": "1.46.9",
   "publisher": "Habby",
-  "s1": [
-    512,
-    1024,
-    2048
-  ],
-  "s2": [
-    2048,
-    4096,
-    8192
-  ],
-  "s3": 4096,
-  "extra": 0,
-  "install": 2,
-  "mod_tvc": 1,
-  "source": 1,
-  "tags": [
-    "中文",
-    "肉鸽射击",
-    "贪吃蛇"
-  ],
+  "vername": "1.55.9",
+  "vercode": 1792489926,
+  "gms":1,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "mod": true,
+  "tags": ["中文","肉鸽","射击","贪吃蛇"],
+  "info": "滑行、啃食、射击！在这款 sssnaker roguelite 游戏中，斩杀怪物！<br><br>前所未见的蛇与弹幕射击游戏！<br><br>变身巨型蛇，将敌人炸飞！这就是 SSSnaker！<br><br>在危险的地下城深处，你的蛇不仅会变长，还会变得更强！<br><br>你将在游戏中体验：<br><br>- 丝滑的蛇形滑行和独特的区域攻击，带来极致的刺激体验<br><br>- 全新 Roguelite 技能和蛇头碰撞功能，激发你的战略灵感<br><br>- 无数怪物和游戏功能，挑战你的技能极限<br><br>- 万花筒般的弹幕，体验 SSSnaker 的极致刺激！",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "<font color=\"#ff0000\">仅建议刷每日挑战等日常活动，其它风险自负</font><br><br>【自动激活】免广告<br><br>【可选菜单】减伤、增伤、攻速、技能CD、全皇冠、技能多选等"
+  },
   "downloads": [
     {
-      "host": "网盘分享：创意分组",
-      "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
+      "host": "夸克网盘：射击 ➡ 创意融合",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：射击 ➡ 创意融合",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
-  ]
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "pkgname": "com.habby.sssnaker.gm64",
+      "targetvc":"*",
+      "vercode": 9
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
