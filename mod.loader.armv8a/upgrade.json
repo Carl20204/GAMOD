@@ -1,16 +1,16 @@
 {
-  "vername": "2.5.6",
+  "vername": "3.0.0",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 256,
+  "vercode": 300,
   "min_sdk_version": 24,
   "target_sdk_version": 29,
-  "md5": "E54E4FEF8FE187390716093DA7090438",
-  "size": 4170545,
+  "md5": "8CA35FB54E03C4E125E680A8D34F6CF2",
+  "size": 4189121,
   "logs": {
-    "en": "联网相关性能大幅提升\n\n缓存管理大幅优化\n\nUX体验大幅优化",
-    "zh": "联网相关性能大幅提升\n\n缓存管理大幅优化\n\nUX体验大幅优化"
+    "en": "支持lineageOS安卓17\n\nUI优化\n\n网络连接优化，更换Github代理\n\n缓存管理优化\n\n镜像安装模式优化",
+    "zh": "支持lineageOS安卓17\n\nUI优化\n\n网络连接优化，更换Github代理\n\n缓存管理优化\n\n镜像安装模式优化"
   },
   "i": false
 }
