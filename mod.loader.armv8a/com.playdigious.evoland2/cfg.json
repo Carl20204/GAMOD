@@ -1,0 +1,41 @@
+{
+  "time": 1792425600008,
+  "label": "进化之地2",
+  "pkgname": "com.playdigious.evoland2",
+  "publisher": "Playdigious",
+  "vername": "2.4.0",
+  "vercode": 116,
+  "gms":2,
+  "source":4,
+  "install":2,
+  "mod_tvc":1,
+  "extra":0,
+  "signmd5":"6A33E31F7F9DB114C0EEB326624F307E",
+  "tags": ["中文","角色扮演","付费版","6.99$","支持手柄"],
+  "mod": true,
+  "info": "踏上超过 20 小时 的史诗级 RPG 冒险之旅，探索电子游戏历史，并引用大量经典游戏的妙趣横生。<br><br>从 2D RPG到 3D 格斗，再到 射击游戏、集换式卡牌游戏 等等，您将尽情享受从一个游戏类型到另一个游戏类型的切换，永不厌倦。<br>Evoland 2 不仅仅是一款游戏，更是多款游戏，它以精彩的故事为支柱，带您穿越时空，探索不同的艺术风格和电子游戏技术。<br><br>该游戏首次在 PC 上发布，销量达 50 万份，我们很荣幸与您分享这款精心改编至安卓设备的体验。<br><br>附加信息：<br><br>* 一次性付费下载（绝对 无广告 和 无应用内支付）。<br><br>* 支持大多数蓝牙外接控制器",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "【自动激活】锁定中文版本<br><br>【可选菜单】玩家移动速度xN，蓄力速度xN，经验获取xN，无伤"
+  },
+  "downloads": [
+    {
+      "host": "夸克网盘：角色扮演",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：角色扮演",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "pkgname": "com.playdigious.evoland2.gm64",
+      "targetvc":"*",
+      "vercode": 2
+    }
+  ],
+
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
+}

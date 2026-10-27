@@ -1707,7 +1707,7 @@
 		"time": 1791475200019
 	},
 	{
-		"group": 3,
+		"group": 6,
 		"label": "饥荒：联机版",
 		"mtime": 1794153600000,
 		"pkg": "com.playdigious.dst",
@@ -1718,6 +1718,13 @@
 		"mtime": 1765670400000,
 		"pkg": "com.playdigious.dungeonoftheendless",
 		"time": 1760313600010
+	},
+	{
+		"group": 3,
+		"label": "进化之地2",
+		"mtime": 1793095462254,
+		"pkg": "com.playdigious.evoland2",
+		"time": 1792425600007
 	},
 	{
 		"label": "守护者传奇",
@@ -2467,5 +2474,5 @@
 		"time": 1764028800000
 	}
 	],
-	"time": 1793030400000
+	"time": 1793095462254
 }
