@@ -1,16 +1,16 @@
 {
-  "lastUpdate": 1697447940375,
   "vername": "9.9.9",
   "urls": [
-    "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv7a.apk",
-    "https://github.com/Carl20204/GAMOD/blob/master/mod.loader.armv8a.apk"
+    "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 9999999,
-  "min_sdk_version": 21,
-  "target_sdk_version": 26,
-  "size": 2975111,
+  "vercode": 999,
+  "min_sdk_version": 24,
+  "target_sdk_version": 29,
+  "md5": "D4EA9B8B6CEC2D75E5EF28FE255DD6E0",
+  "size": 4189123,
   "logs": {
-    "en": "Test upgrade function online",
-    "zh": "用于测试在线升级功能"
-  }
+    "en": "支持lineageOS安卓17\n\nUI优化\n\n网络连接优化，更换Github代理\n\n缓存管理优化\n\n镜像安装模式优化",
+    "zh": "支持lineageOS安卓17\n\nUI优化\n\n网络连接优化，更换Github代理\n\n缓存管理优化\n\n镜像安装模式优化"
+  },
+  "i": false
 }

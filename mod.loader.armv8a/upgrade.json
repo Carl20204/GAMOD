@@ -1,13 +1,13 @@
 {
-  "vername": "3.0.0",
+  "vername": "3.0.1",
   "urls": [
     "https://github.com/Carl20204/GAMOD/raw/master/mod.loader.armv8a.apk"
   ],
-  "vercode": 300,
+  "vercode": 301,
   "min_sdk_version": 24,
   "target_sdk_version": 29,
-  "md5": "8CA35FB54E03C4E125E680A8D34F6CF2",
-  "size": 4189121,
+  "md5": "D4EA9B8B6CEC2D75E5EF28FE255DD6E0",
+  "size": 4189123,
   "logs": {
     "en": "支持lineageOS安卓17\n\nUI优化\n\n网络连接优化，更换Github代理\n\n缓存管理优化\n\n镜像安装模式优化",
     "zh": "支持lineageOS安卓17\n\nUI优化\n\n网络连接优化，更换Github代理\n\n缓存管理优化\n\n镜像安装模式优化"
