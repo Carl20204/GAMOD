@@ -1,10 +1,10 @@
 {
-  "time": 1791244800019,
+  "time": 1791244800018,
   "label": "猫咪大战争",
   "pkgname": "jp.co.ponos.battlecatstw",
   "publisher": "PONOS",
-  "vername": "15.6.1",
-  "vercode": 1506011,
+  "vername": "15.7.0",
+  "vercode": 1507000,
   "gms":1,
   "install":2,
   "mod_tvc":2,
@@ -28,8 +28,8 @@
     {
       "name": "上帝模式",
       "pkgname": "jp.co.ponos.battlecatstw.gm64",
-      "targetvc":"1506011",
-      "vercode": 33
+      "targetvc":"1507000",
+      "vercode": 34
     }
   ],
   "s1": [512, 1024, 2048],
