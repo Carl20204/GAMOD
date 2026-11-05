@@ -1,10 +1,10 @@
 {
-  "time": 1791388800008,
+  "time": 1793462400009,
   "label": "王权陨落",
   "pkgname": "com.doghowlgames.thronefall",
   "publisher": "Doghowl Games Ltd",
-  "vername": "2.13.0",
-  "vercode": 55,
+  "vername": "2.15.0",
+  "vercode": 56,
   "gms":2,
   "install":2,
   "source":4,
@@ -12,7 +12,7 @@
   "extra":0,
   "signmd5":"6A33E31F7F9DB114C0EEB326624F307E",
   "mod": true,
-  "tags": ["中文","策略","付费版","支持手柄"],
+  "tags": ["中文","策略","付费版","支持手柄","10.99$"],
   "info": "“不再头疼的策略游戏？我们满足您的需求<br><br>Thronefall – 一款广受好评并获奖的PC游戏!<br><br>Metacritic评分：92%。Steam：好评如潮，96%<br><br>在Thronefall中，我们试图剥离经典策略游戏中所有不必要的复杂性，并将其与适量的砍杀结合起来。在白天建立你的基地，在晚上保卫它直到你的最后一口气。<br><br>您能在经济和防御之间找到合适的平衡吗？您需要更多的弓箭手、更厚的城墙还是额外的磨坊？您会用长弓将敌人挡在外面，还是骑马冲向他们？今晚将是艰难的一夜，但没有什么比看到太阳升起在您的小王国上空，迎来新的一天更令人欣喜的了。",
   "faqs": {
     "<font color=\"#ff\">MOD功能介绍</font>":  "<font color=\"#ff0000\">如果游戏启动卡在开屏，断一下网即可</font><br><br>【可选菜单】可调节金币增减、玩家攻击速度、移动速度等"
