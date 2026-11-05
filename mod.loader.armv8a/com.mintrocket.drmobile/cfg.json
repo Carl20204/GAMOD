@@ -1,5 +1,5 @@
 {
-  "time": 1793203200009,
+  "time": 1793203200018,
   "label": "潜水员戴夫",
   "pkgname": "com.mintrocket.drmobile",
   "publisher": "MINTROCKET",
@@ -31,7 +31,7 @@
       "name": "上帝模式",
       "pkgname": "com.mintrocket.drmobile.gm64",
       "targetvc":"*",
-      "vercode": 3
+      "vercode": 4
     }
   ],
   "s1": [512, 1024, 2048],
