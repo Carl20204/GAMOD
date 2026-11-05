@@ -1,43 +1,41 @@
 {
-  "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：动作分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。"
-  },
-  "gms": 2,
-  "info": "终极动作平台游戏！\u003cbr\u003e\u003cbr\u003e在这款刺激的平台游戏中，投入激烈的砍杀行动，与无尽的敌人激战！探索危机四伏的地下城，掠夺强大的装备，解锁海量武器和皮肤。\u003cbr\u003e\u003cbr\u003e为何选择 Apple Knight 2？\u003cbr\u003e\u003cbr\u003eApple Knight 游戏以其严谨的操控和精益求精的制作而闻名，提供无与伦比的游戏体验，让您欲罢不能。最新版本将动作体验提升到新的高度！\u003cbr\u003e\u003cbr\u003e游戏特色：\u003cbr\u003e\u003cbr\u003e● 丰富的武器库和自定义选项\u003cbr\u003e\u003cbr\u003e从种类繁多的武器和皮肤中进行选择，更多内容即将推出！\u003cbr\u003e\u003cbr\u003e● 动态闪避和冲刺\u003cbr\u003e\u003cbr\u003e掌握通过快速冲刺躲避敌人近战和远程攻击的技巧。\u003cbr\u003e\u003cbr\u003e● 隐藏的秘密\u003cbr\u003e\u003cbr\u003e在每个关卡中探索 2 个隐藏区域，那里藏有宝藏。\u003cbr\u003e\u003cbr\u003e● 专家级的战斗机制\u003cbr\u003e\u003cbr\u003e精准招架敌人的近战攻击，并使用你值得信赖的剑来偏转投射物！\u003cbr\u003e\u003cbr\u003e● 特殊能力\u003cbr\u003e\u003cbr\u003e你的剑不仅能作为武器，还能使用独特的辅助特殊能力来击败敌人。\u003cbr\u003e\u003cbr\u003e● 引人入胜的敌人AI\u003cbr\u003e\u003cbr\u003e有趣的敌人AI——聪明到足以察觉你从背后偷袭，但愚蠢到会落入你的陷阱！\u003cbr\u003e\u003cbr\u003e● 用心打造\u003cbr\u003e\u003cbr\u003e游戏的每一个元素都倾注了玩家的热情，以确保你获得最佳体验。",
+  "time": 1763424000018,
   "label": "苹果骑士2",
-  "time": 1763424000008,
-  "lastProm": 0,
-  "lastRec": 0,
+  "pkgname": "online.limitless.appleknight.dungeons",
+  "publisher": "Limitless, LLC",
+  "vername": "2.1.3",
+  "vercode": 21304,
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": ["中文","动作","平台跳跃","支持手柄"],
+  "archs": ["arm64-v8a"],
   "mod": true,
+  "info": "终极动作平台游戏！<br><br>在这款刺激的平台游戏中，投入激烈的砍杀行动，与无尽的敌人激战！探索危机四伏的地下城，掠夺强大的装备，解锁海量武器和皮肤。<br><br>为何选择 Apple Knight 2？<br><br>Apple Knight 游戏以其严谨的操控和精益求精的制作而闻名，提供无与伦比的游戏体验，让您欲罢不能。最新版本将动作体验提升到新的高度！<br><br>游戏特色：<br><br>● 丰富的武器库和自定义选项<br><br>从种类繁多的武器和皮肤中进行选择，更多内容即将推出！<br><br>● 动态闪避和冲刺<br><br>掌握通过快速冲刺躲避敌人近战和远程攻击的技巧。<br><br>● 隐藏的秘密<br><br>在每个关卡中探索 2 个隐藏区域，那里藏有宝藏。<br><br>● 专家级的战斗机制<br><br>精准招架敌人的近战攻击，并使用你值得信赖的剑来偏转投射物！<br><br>● 特殊能力<br><br>你的剑不仅能作为武器，还能使用独特的辅助特殊能力来击败敌人。<br><br>● 引人入胜的敌人AI<br><br>有趣的敌人AI——聪明到足以察觉你从背后偷袭，但愚蠢到会落入你的陷阱！<br><br>● 用心打造<br><br>游戏的每一个元素都倾注了玩家的热情，以确保你获得最佳体验。",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "【自动激活】免广告</font><br><br>【可选菜单】金币、皇冠收益率，消费折扣率、无限跳、无敌、法力不减、苹果不减、全皮肤、会员"
+  },
+  "downloads": [
+    {
+      "host": "夸克网盘：动作 ➡ 街机风格",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：动作 ➡ 街机风格",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+
   "mods": [
     {
-      "descs": [
-        "【自动激活】免广告",
-        "【可选菜单】金币、皇冠收益率，消费折扣率、无限跳、无敌、法力不减、苹果不减、全皮肤、会员"
-      ],
       "name": "上帝模式",
       "pkgname": "online.limitless.appleknight.dungeons.gm64",
-      "sandbox": 155,
-      "targetvc": "*",
+      "targetvc":"*",
       "vercode": 2
     }
   ],
-  "pkgname": "online.limitless.appleknight.dungeons",
-  "vercode": 21304,
-  "vername": "2.1.3",
-  "publisher": "Limitless, LLC",
-  "s3": 0,
-  "tags": [
-    "中文",
-    "动作",
-    "平台跳跃"
-  ],
-  "downloads": [
-    {
-      "host": "网盘分享：动作分类",
-      "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
