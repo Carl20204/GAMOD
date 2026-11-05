@@ -1,43 +1,40 @@
 {
-  "faqs": {
-    "游戏下载更新说明": "1。推荐从谷歌市场下载安装原版\u003cbr\u003e\u003cbr\u003e2。没有谷歌账号的，可以用\u003ca href\u003dhttps://aurorastore.org\u003e极光应用商店\u003c/a\u003e匿名从谷歌市场下载安装\u003cbr\u003e\u003cbr\u003e3。中国区域用户，可以下载\u003cfont color\u003d\"#ff\"\u003e\u003ca href\u003dhttps://share.feijipan.com/s/QMHuh4gc\u003e【网盘分享：射击分类】\u003c/a\u003e\u003c/font\u003e里的安装包，搬运自谷歌市场的原版",
-    "\u003cfont color\u003d\"#ff0000\"\u003e常见问题解答\u003c/font\u003e": "\u003cfont color\u003d\"#ff\"\u003e 本MOD\u003cbr\u003e + 墨魔豆虚拟谷歌服务\u003cbr\u003e + 网盘分享的谷歌原版安装包\u003cbr\u003e\u003c/font\u003e \u003d 从墨魔豆2.4.3版本开始支持的沙盒副本安装模式游玩，无需安装到手机。\u003cbr\u003e\u003cbr\u003e\u003cfont color\u003d\"#ff0000\"\u003e游戏启动有点慢？\u003c/font\u003e\u003cbr\u003e断一下网即可，因为游戏此时在尝试访问谷歌，导致卡20秒左右"
-  },
-  "gms": 2,
-  "info": "如可乐般爽快的的肉鸽动作射击游戏。\u003cbr\u003e\u003cbr\u003e■Roguelike\u003cbr\u003e\u003cbr\u003e忘掉过去的无聊战斗吧！每次都会出现各种不同的地图和怪物，玩家们不会感到无聊！\u003cbr\u003e\u003cbr\u003e■动作射击游戏，就是要打BOSS站啦！\u003cbr\u003e\u003cbr\u003e各种模式的BOSS在等着玩家们来挑战！您是否能获得胜利呢！\u003cbr\u003e\u003cbr\u003e■军事类主题上融合了可爱奇幻感！\u003cbr\u003e\u003cbr\u003e军事类中有奇幻风格？独特的Milicola世界正在等着各位玩家！\u003cbr\u003e\u003cbr\u003e■武器，服装，宠物，龙\u003cbr\u003e\u003cbr\u003e多种军事武器和服装，以及可爱的宠物和助战的龙，都等着你来体验！",
+  "time": 1793808000008,
   "label": "牛奶可乐：苏打之王",
-  "time": 1764892800008,
-  "lastProm": 0,
-  "lastRec": 0,
+  "pkgname": "com.dawinstone.milkacola",
+  "vername": "1.2.4",
+  "vercode": 75,
+  "publisher": "DAWINSTONE GAMES",
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": ["中文","肉鸽","射击"],
+  "info": "如可乐般爽快的的肉鸽动作射击游戏。<br><br>■Roguelike<br><br>忘掉过去的无聊战斗吧！每次都会出现各种不同的地图和怪物，玩家们不会感到无聊！<br><br>■动作射击游戏，就是要打BOSS站啦！<br><br>各种模式的BOSS在等着玩家们来挑战！您是否能获得胜利呢！<br><br>■军事类主题上融合了可爱奇幻感！<br><br>军事类中有奇幻风格？独特的Milicola世界正在等着各位玩家！<br><br>■武器，服装，宠物，龙<br><br>多种军事武器和服装，以及可爱的宠物和助战的龙，都等着你来体验！",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "<font color=\"#ff0000\">1.游戏启动会尝试谷歌账号登录导致卡住，断一下网跳过即可！</font><br><br>2.【自动激活】免广告<br><br>3.【可选菜单】自由调节移速、射速、弹药、技能、全武器道具随意更换等"
+  },
+  "downloads": [
+    {
+      "host": "夸克网盘：射击 ➡ 肉鸽地牢类",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：射击 ➡ 肉鸽地牢类",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+  "archs": ["arm64-v8a"],
   "mod": true,
   "mods": [
     {
-      "descs": [
-        "【自动激活】免广告，所有激励广告可白嫖",
-        "【可选菜单】自由调节移速、射速、弹药、技能、全武器道具随意更换等"
-      ],
       "name": "上帝模式",
       "pkgname": "com.dawinstone.milkacola.gm64",
-      "sandbox": 155,
-      "targetvc": "*",
-      "vercode": 2
+      "targetvc":"*",
+      "vercode": 3
     }
   ],
-  "pkgname": "com.dawinstone.milkacola",
-  "vercode": 74,
-  "vername": "1.2.3",
-  "publisher": "DAWINSTONE GAMES",
-  "s3": 0,
-  "tags": [
-    "中文",
-    "肉鸽",
-    "射击"
-  ],
-  "downloads": [
-    {
-      "host": "网盘分享：射击分类",
-      "url": "https://share.feijipan.com/s/QMHuh4gc",
-      "var": false
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
