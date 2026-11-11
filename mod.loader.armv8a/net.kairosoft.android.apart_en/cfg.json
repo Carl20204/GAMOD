@@ -1,41 +1,39 @@
-{
-  "time": 1729641600009,
-  "label": "幸福公寓物语",
-  "pkgname": "net.kairosoft.android.apart_en",
-  "publisher": "Kairosoft",
-  "vername": "2.4.0",
-  "vercode": 34,
-  "signmd5":"9D60707A73290B53F7CFBAD50554C9EB",
-  "gms":1,
-  "archs": ["arm64-v8a"],
-  "tags": [ "中文", "国际版", "模拟经营"],
-  "info": "经营属于你的爱情公寓吧",
-  "mods": [
-    {
-      "name": "上帝模式",
-      "descs": [
-        "自动免广告。其它功能请谨慎使用，防止破坏游戏乐趣！"
-      ],
-      "pkgname":"net.kairosoft.android.apart_en.gm64",
-      "targetvc":"*",
-      "vercode": 1
-    }
-  ],
-  "downloads": [
-    {
-      "var" : true,
-      "host": "apkpure[翻墙]",
-      "url": "https://apkpure.net/cn/dream-house-days/net.kairosoft.android.apart_en"
-    },{
-      "host": "小飞机网盘 游戏/MOD",
-      "url": "https://share.feijipan.com/s/mXCh5CTw"
-    }
-  ],
-  "promotions": [
-    {"url": "https://ugame.9game.cn/game/share-235275-976614.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-1354168.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-1337176.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-3039902.html"},
-    {"url": "https://ugame.9game.cn/game/share-235275-1222983.html"}
-  ]
-}
+{
+  "time": 1769875200008,
+  "label": "幸福公寓物语",
+  "pkgname": "net.kairosoft.android.apart_en",
+  "vername": "2.4.3",
+  "vercode": 243,
+  "publisher": "Kairosoft",
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": ["中文","策略","模拟经营"],
+  "info": "这是梦想与希望的经营游戏。<br><br>是实现完美住宅梦想的经营游戏！<br><br>游戏间、学习间、和风、西洋风……<br>更有丰富的专门房间，来帮助房间和居民的升级！<br><br>通过道具改变居民的职业、兴趣，帮助它们掌握自己的人生。<br>随着恋情升温，更可以迎来温馨的婚礼时刻。<br>更有“世界第一的指挥家”、“人气偶像”等多种职业称号可以挑战。<br><br>你的一句话或许还会左右居民的人生。<br><br>通过提高租金、舒适度和居民的能力来竞争排名，<br>争取吸引到明星大腕政界精英来居住吧！<br><br>和小伙伴一起游戏，还可能会发生各种好事哦！<br><br>充满梦想的住宅，住宅梦物语。<br><br>※游戏数据保存在设备中，删除游戏再启动或更改设备后，无法移植数据。<br>※要使用全部功能，部分需要氪金。",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "【可选菜单】金钱、科技点、抽奖券的收益率，消费折扣"
+  },
+  "downloads": [
+    {
+      "host": "夸克网盘：策略 ➡ 模拟经营",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：策略 ➡ 模拟经营",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+  "mod": true,
+  "mods": [
+    {
+      "name": "上帝模式",
+      "pkgname": "net.kairosoft.android.apart_en.gm64",
+      "targetvc":"*",
+      "vercode": 3
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
+}
