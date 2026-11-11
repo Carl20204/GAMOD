@@ -1,54 +1,38 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
-  "gms": 2,
-  "info": "开罗出品的模拟经营游戏之一，建设你的商业街道",
+  "time": 1769875200008,
   "label": "梦想商店街物语SP",
-  "time": 1703635200008,
-  "mtime": 0,
-  "mod": false,
-  "mods": [
-    {
-      "descs": [
-        "自动启用完整版。其它功能请谨慎使用，防止破坏游戏乐趣！"
-      ],
-      "name": "上帝模式",
-      "pkgname": "net.kairosoft.android.townshopsp.gm64",
-      "targetvc": "*",
-      "vercode": 2
-    }
-  ],
   "pkgname": "net.kairosoft.android.townshopsp",
-  "vercode": 20,
-  "vername": "1.1.9",
   "publisher": "Kairosoft",
-  "signmd5": "9D60707A73290B53F7CFBAD50554C9EB",
-  "tags": [
-    "中文",
-    "国际版",
-    "模拟经营"
-  ],
+  "vername": "1.2.3",
+  "vercode": 24,
+  "gms":2,
+  "install":2,
+  "source":1,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": [ "中文", "策略", "模拟经营"],
+  "info": "建设一个漂亮的商店街吧！<br>游戏商店和汉堡包店……你想经营哪一类？<br><br>游戏平衡优化、功能系统改善！<br>《梦想商店街物语SP》登场！可以免费体验游戏大部分内容哦。<br>※想体验全部游戏内容，请购买付费版本。<br><br>大把赚钱积攒足够资金后，还能加入到其他行业中！<br>作为街区发展的后盾，你的商店将会流传于世！！<br><br>建设能够吸引客人的商店，同时照看街区发展吧。<br>在精致的经营类策略模拟游戏中建设国内第一的商店街吧！<br><br>※画面黑屏的时候、请尝试关闭设备的电源后重新启动。<br>※游戏存档将被保存在终端上。本游戏不支持删除APP，重新安装，更换设备时进行数据的转移。",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "【可选菜单】金钱、科技点、抽奖券的收益率，消费折扣"
+  },
   "downloads": [
     {
-      "host": "apkpure直链下载[翻墙]",
-      "url": "https://d.apkpure.net/b/APK/net.kairosoft.android.townshopsp?versionCode\u003d20",
-      "var": false
-    },
-    {
-      "host": "apkpure[翻墙]",
-      "url": "https://apkpure.net/cn/biz-builder-delux-sp/net.kairosoft.android.townshopsp/download",
-      "var": true
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/EmURed86",
-      "var": false
-    },
-    {
-      "host": "小飞机网盘",
-      "url": "https://share.feijipan.com/s/fOURoItL",
-      "var": false
+      "host": "夸克网盘：策略 ➡ 模拟经营",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：策略 ➡ 模拟经营",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
-  ]
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "pkgname": "net.kairosoft.android.townshopsp.gm64",
+      "targetvc":"*",
+      "vercode": 3
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
