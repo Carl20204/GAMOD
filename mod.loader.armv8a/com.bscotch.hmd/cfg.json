@@ -1,5 +1,5 @@
 {
-  "time": 1794326400009,
+  "time": 1794326400018,
   "label": "多少兄弟",
   "pkgname": "com.bscotch.hmd",
   "publisher": "Butterscotch Shenanigans",
@@ -31,7 +31,8 @@
       "name": "上帝模式",
       "pkgname": "com.bscotch.hmd.gm64",
       "targetvc":"*",
-      "vercode": 1
+      "sandbox":3003,
+      "vercode": 2
     }
   ],
   "s1": [512, 1024, 2048],
