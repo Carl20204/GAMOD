@@ -1,0 +1,40 @@
+{
+  "time": 1794499200008,
+  "label": "战锤幸存者",
+  "pkgname": "com.AurochDigital.WarhammerSurvivors",
+  "vername": "2.1.4",
+  "vercode": 178089,
+  "publisher": "Auroch Digital",
+  "mod": true,
+  "gms":2,
+  "install":2,
+  "source":4,
+  "mod_tvc":1,
+  "extra":0,
+  "tags": ["中文","肉鸽","射击","幸存者","付费版","7.19$"],
+  "info": "Auroch Digital（《Warhammer 40,000: Boltgun》开发者）与战锤世界和 poncle（《Vampire Survivors - 吸血鬼幸存者》开发者）联手，在第41千年与凡世诸域中注入逆弹幕射击和幸存者类游戏玩法，定会让玩家欲罢不能。<br><br>执起武器，成为战锤世界的勇士，击退敌人，沉浸体验这款精心打造的像素游戏——在手机上也可畅玩！<br><br>特色<br><br>- 暗黑世界中的狂热逆弹幕射击幸存者玩法。<br><br>- 超过40位来自《战锤40,000》和《战锤：西格玛时代》宇宙的标志性角色可供选择，甚至包括《Warhammer 40,000: Boltgun》的马鲁姆·凯多！<br><br>- 在残酷黑暗的第41个千年和凡世诸域中，畅玩多种模式及关卡。<br><br>- 存有75+款武器的军械库，如爆弹枪、阿斯塔特链锯剑和旋风斧，以及其貌不扬的Nuln Oil等彩蛋。<br><br>- 直面最强大的怪物，包括臃肿得令人作呕的大不净者。面对极其强大的首领，就连吸血鬼幸存者类游戏的老玩家也会觉得难以战胜！<br><br>- 大量被动技能和强化道具，助你对抗骇人军团。<br><br>- 待你揭开的秘密和收集的收藏品！<br><br>- 针对移动设备优化的操作方式和玩法。<br><br>- 享受无广、无体力限制的优质游戏体验。<br><br>- ……以及更多精彩内容！",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "【可选菜单】金币、经验、强化、无敌，解锁各种隐藏。"
+  },
+  "downloads": [
+    {
+      "host": "夸克网盘：射击 ➡ 幸存者",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：射击 ➡ 幸存者",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "pkgname": "com.AurochDigital.WarhammerSurvivors.gm64",
+      "targetvc":"*",
+      "sandbox": 3003,
+      "vercode": 1
+    }
+  ],
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
+}
