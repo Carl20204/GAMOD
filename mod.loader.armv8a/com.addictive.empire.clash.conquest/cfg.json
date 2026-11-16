@@ -1,45 +1,39 @@
 {
-  "archs": [
-    "arm64-v8a"
-  ],
-  "gms": 2,
-  "info": "合成+部落冲突，一次次合并，合成出强大的兵种",
+  "time": 1794758400008,
   "label": "岛屿战争",
-  "time": 1709078400008,
+  "pkgname": "com.addictive.empire.clash.conquest",
+  "vername": "6.1.0",
+  "vercode": 6100,
+  "publisher": "Fastone Games HK",
+  "gms":2,
+  "install":2,
+  "source":1,
+  "extra":0,
+  "mod_tvc":1,
+  "tags": ["中文","策略","合成","塔防"],
+  "info": "史诗级海战游戏。 招募军队，加入战斗，统治海洋。<br><br>欢迎来到Island war：<br><br>曾经世界中央的大陆被神秘力量击碎；成为无数的岛屿散落在大海之上<br><br>在这片海域中，你可以是狩猎者；随时派出你的舰队劫掠弱小的猎物<br><br>在这里，你可以把自己的岛屿打造的密不透风<br><br>在这里，你可以在这片聚集了世界玩家的海域中成为“万王之王”<br><br>但是，<br><br>狩猎者沦为猎物也往往只发生在一瞬间。<br><br>最坚固的防御也只会在计谋下化为瓦砾。<br><br>旧王被新王踩在脚下的传闻，也只是这篇海域最过时的消息之一。<br><br>游戏特色：<br><br>- 与数百万名其他玩家共同游戏，突袭劫掠其他玩家的岛屿，记住；最大的战利品永远在下一次的出征。<br><br>- 通过一次次的劫掠，夺取珍贵的资源，升级您的基地，将您的岛打造的固若金汤。<br><br>- 探索未知的群岛，发现隐藏在这片海域中的魔法师，射手，海怪，乃至传说的古龙，并将其收入麾下，为您服务。<br><br>- 与其他玩家一起创建这片大海的新势力，执行合作任务；击溃被海风腐蚀的旧王朝。<br><br>注意！这是一个在线游戏，需要网络连接才能正常玩游戏。",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "<font color=\"#ff0000\">游戏与MOD版本不一致时，功能较大概率会出异常，去群里说下就好</font><br><br>【可选菜单】我方攻击增强，敌人攻击无效。请不要过分刷榜，防止被封。"
+  },
+  "downloads": [
+    {
+      "host": "夸克网盘：策略",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：策略",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
+    }
+  ],
   "mod": true,
   "mods": [
     {
-      "descs": [
-        "可选菜单，增加士兵攻击或减少敌人攻击。请不要过分刷榜，防止被封。"
-      ],
       "name": "上帝模式",
       "pkgname": "com.addictive.empire.clash.conquest.gm64",
-      "targetvc": "*",
-      "vercode": 1
+      "targetvc":"*",
+      "vercode": 3
     }
   ],
-  "pkgname": "com.addictive.empire.clash.conquest",
-  "vercode": 5320,
-  "vername": "5.3.2",
-  "publisher": "Fastone Games HK",
-  "signmd5": "F82573BE72F077E01320A20873CB0559",
-  "tags": [
-    "中文",
-    "挂机",
-    "建设",
-    "合成",
-    "塔防"
-  ],
-  "downloads": [
-    {
-      "host": "翻墙｜直链下载",
-      "url": "https://d.apkpure.net/b/XAPK/com.addictive.empire.clash.conquest?versionCode\u003d5320\u0026nc\u003darm64-v8a\u0026sv\u003d19",
-      "var": false
-    },
-    {
-      "host": "翻墙｜下载页",
-      "url": "https://apkpure.net/cn/island-war/com.addictive.empire.clash.conquest/download",
-      "var": false
-    }
-  ]
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
