@@ -540,6 +540,12 @@
 		"time": 1794326400017
 	},
 	{
+		"label": "速骨与防御：地牢陷阱塔防肉鸽",
+		"mtime": 1794994337632,
+		"pkg": "com.buffstudio.skel.defense.dungeon.roguelike",
+		"time": 1793808000007
+	},
+	{
 		"label": "偶像制作人",
 		"pkg": "com.buildupstudio.idolproducer",
 		"time": 1710115200002
@@ -2510,5 +2516,5 @@
 		"time": 1764028800000
 	}
 	],
-	"time": 1794993936465
+	"time": 1794994337632
 }
