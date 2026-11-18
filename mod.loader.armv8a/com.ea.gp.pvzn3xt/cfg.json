@@ -1,5 +1,5 @@
 {
-  "time": 1793462400018,
+  "time": 1794960000008,
   "label": "植物大战僵尸3：进化",
   "pkgname": "com.ea.gp.pvzn3xt",
   "publisher": "EA（美国艺电）",
@@ -31,7 +31,7 @@
       "name": "上帝模式",
       "pkgname": "com.ea.gp.pvzn3xt.gm64",
       "targetvc":"*",
-      "vercode": 16
+      "vercode": 17
     }
   ],
   "s1": [512, 1024, 2048],
