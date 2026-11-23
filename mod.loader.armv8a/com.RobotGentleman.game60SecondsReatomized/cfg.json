@@ -1,60 +1,41 @@
 {
-  "faqs": {
-    "游戏更新建议": "中国区玩家，会翻墙，但没有谷歌账号，建议使用如下谷歌商店替代品\u003cbr\u003e\u003cbr\u003e1。\u003ca href\u003dhttps://apkpure.net/cn\u003eapkpure.net\u003c/a\u003e 曾是全球最大的腾讯投资的谷歌商店替代品，优点是无需谷歌账号，通过网页直接下载安装包或旧版本安装包、缺点是部分游戏更新不太及时，或只更新32位/64位，出现遗漏。\u003cbr\u003e\u003cbr\u003e2。\u003ca href\u003dhttps://aurorastore.org\u003eAuroraStore\u003c/a\u003e，非常好用的谷歌商店替代品，官网是英文，APP支持中文，无需谷歌账号就能同步下载安装升级谷歌市场所有应用与游戏，优点是与谷歌商店实时同步，快！",
-    "MOD更新说明": "本游戏MOD为通用型，游戏升级无需换MOD，建议直接用AuroraStore或apkpure更新游戏即可。\u003cbr\u003e\u003cbr\u003e如果游戏升级出现MOD失效或异常，可以到墨魔豆的QQ圈子里说一声，有群友会通知到作者更新"
-  },
-  "gms": 1,
-  "info": "60秒！避难所的高清重制版，第一版虽然爆火，但简陋的UI、粗糙的交互，方方面面都在说这是垃圾。\u003cbr\u003e\u003cbr\u003e第一版的MOD也有，但不建议玩，要玩就玩本版本最好\u003cbr\u003e\u003cbr\u003e网盘分享的是大神订制的无广告版本，推荐使用",
+  "time": 1795190400008,
   "label": "60秒！重新裂变",
-  "time": 1724112000008,
-  "mod": true,
-  "mods": [
-    {
-      "descs": [
-        "可选菜单可调节角色状态、物品等"
-      ],
-      "name": "上帝模式",
-      "pkgname": "com.RobotGentleman.game60SecondsReatomized.gm64",
-      "targetvc": "*",
-      "vercode": 1
-    }
-  ],
   "pkgname": "com.RobotGentleman.game60SecondsReatomized",
-  "vercode": 81,
-  "vername": "1.2.4.81",
   "publisher": "Robot Gentleman",
-  "s1": [
-    256,
-    512,
-    1024
-  ],
-  "s2": [
-    1024,
-    2048,
-    4096
-  ],
-  "s3": 1536,
-  "tags": [
-    "中文",
-    "肉鸽",
-    "生存",
-    "付费版"
-  ],
+  "vername": "1.3.0",
+  "vercode": 123,
+  "gms":2,
+  "install":2,
+  "source":4,
+  "mod_tvc":1,
+  "extra":0,
+  "signmd5":"6A33E31F7F9DB114C0EEB326624F307E",
+  "tags": ["中文","肉鸽","生存","付费版","1.99$"],
+  "mod": true,
+  "info": "《60秒！重新裂变》——在这个经典原子冒险的全新高清版中，Dolores、Ted、Mary Jane 和 Timmy 回归并重新面对核灾难。本高清版的特色是高分辨率的艺术支持、焕然一新的 2D 图形和 3D 手绘纹理、全新的互动菜单、改进的用户界面系统、技术上的更新，当然还包括了……全新的内容！<br><br>全新游戏模式<br>“生存挑战”——独特、简短的剧情，考验你的生存技巧！<br><br>新的机遇<br>一个剧情，多种玩法，共同逃离废土！你在逃命的路上还能保持潇洒吗？<br><br>全新关系系统<br>更多的故事，各种让你大跌眼镜的互动，McDoodle一家子永远不会让你省心！<br><br>新制音效、美术和可供解锁的视觉内容<br>让你为自己的避难所增添一点色彩！<br><br>新的成就！<br><br>距离袭击只剩下60秒，在房子里玩命狂奔，寻找家庭成员和有用物资吧。你会发现一切都在跟你对着干——时间，你的家具，每次游戏都有所变化的房子，还有最基本的问题——你要拿上什么东西，又要把谁丢在身后？<br><br>及时抵达避难所，保住你的小命仅仅只是开始。不管你搜集了什么东西，不管你救了谁，都是你末日求生的关键。每次的生存故事都迥然不同，每天都有意料不到的惊喜（或惊吓？）。这些故事会有一个圆满的结局吗？都看你的了。定额分配口粮和水，最大程度地利用物资，直面艰难的抉择，甚至深入废土展开探险。<br><br>祝你好运。",
+  "faqs": {
+    "<font color=\"#ff\">MOD功能介绍</font>":  "【可选菜单】可调节角色状态、物品等"
+  },
   "downloads": [
     {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/mgEMpWd5",
-      "var": false
-    },
-    {
-      "host": "网盘分享",
-      "url": "https://share.feijipan.com/s/z9EMpdYU",
-      "var": false
-    },
-    {
-      "host": "翻墙|游戏下载页",
-      "url": "https://apkpure.net/cn/60-seconds-reatomized/com.RobotGentleman.game60SecondsReatomized",
-      "var": true
+      "host": "夸克网盘：生存",
+      "url": "https://pan.quark.cn/s/13953f88ad16"
+    },{
+      "host": "小飞机网盘：生存",
+      "url": "https://share.feijipan.com/s/QMHuh4gc"
     }
-  ]
+  ],
+  "mods": [
+    {
+      "name": "上帝模式",
+      "pkgname": "com.RobotGentleman.game60SecondsReatomized.gm64",
+      "targetvc":"*",
+      "vercode": 2
+    }
+  ],
+
+  "s1": [512, 1024, 2048],
+  "s2": [2048, 4096, 8192],
+  "s3": 4096
 }
