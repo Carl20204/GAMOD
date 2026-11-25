@@ -1,10 +1,10 @@
 {
-  "time": 1794758400008,
+  "time": 1795536000008,
   "label": "植物大战僵尸：国际版",
   "pkgname": "com.ea.game.pvzfree_row",
   "publisher": "EA（美国艺电）",
-  "vername": "3.18.0",
-  "vercode": 3180,
+  "vername": "3.19.0",
+  "vercode": 3190,
   "gms":1,
   "install":2,
   "mod_tvc":2,
@@ -28,8 +28,8 @@
     {
       "name": "上帝模式",
       "pkgname": "com.ea.game.pvzfree_row.gm64",
-      "targetvc":"3180",
-      "vercode": 21
+      "targetvc":"3190",
+      "vercode": 22
     }
   ],
   "s1": [512, 1024, 2048],
